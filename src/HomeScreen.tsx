@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { StyleSheet, Text, View, Button, SectionList, TouchableHighlight } from 'react-native';
 import surahs from './surahs.js';
 
+import {SurahContext} from '../App'
 
 
 function HomeScreen({ navigation: { navigate } }) {
+  const { surah, setSurah } = useContext(SurahContext)
 
   return (
     <View style={styles.container}>
@@ -19,7 +21,10 @@ function HomeScreen({ navigation: { navigate } }) {
           renderItem={({ item: {name, period, verses, number }, index}) => (
             <TouchableHighlight 
               // onPress={() => navigation.navigate(`Surah`, {"title": index, "name": name, "period": period })}
-              onPress={() => navigate('Surah', {"title": index, "name": name, "period": period })}
+              onPress={() => {
+               setSurah(index)
+                navigate('Surah', {"title": index, "name": name, "period": period })}
+              }
               style={styles.card}
               key={index}
               underlayColor="white">
