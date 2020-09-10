@@ -15,6 +15,7 @@
     "@react-navigation/native": "^5.0.6",
     "@react-navigation/native-stack": "^5.0.5",
     "@react-navigation/stack": "^5.0.8",
+    "constants": "^0.0.2",
     "expo": "^37.0.0",
     "react": "16.9.0",
     "react-dom": "16.9.0",

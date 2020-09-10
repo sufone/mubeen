@@ -3,6 +3,8 @@ import { StyleSheet, Text, View } from 'react-native';
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+
 
 import HomeStack from './src/HomeStack'
 import { enableScreens } from 'react-native-screens';
@@ -39,7 +41,7 @@ export default function App() {
   const value = { surah, setSurah };
 
   return (
-
+    <SafeAreaProvider>
     <NavigationContainer>
       <SurahContext.Provider value={value}>
 
@@ -54,6 +56,7 @@ export default function App() {
         </Tab.Navigator>
       </SurahContext.Provider >
     </NavigationContainer>
+    </SafeAreaProvider>
 
   );
 }
