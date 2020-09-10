@@ -15,14 +15,8 @@ import Settings from './src/Settings'
 
 const Tab = createBottomTabNavigator();
 
-function Test() {
-  return(
-    <View>
-      <Text>hi</Text>
-    </View>
+export const SurahContext = React.createContext({ surah: 0, updateSurah: () => {} });
 
-  )
-}
 
 function hideTabBar(route) {
   const routeName = route.state
@@ -41,19 +35,26 @@ function hideTabBar(route) {
 }
 
 export default function App() {
+  const [surah, setSurah] = React.useState(0);
+  const value = { surah, setSurah };
+
   return (
+
     <NavigationContainer>
+      <SurahContext.Provider value={value}>
 
-      <Tab.Navigator>
-        <Tab.Screen 
-          name="Home" 
-          component={HomeStack}           options={( {route} ) => ({ tabBarVisible: hideTabBar(route) })}
-          />
-        <Tab.Screen name="Favorites" component={Favorites} />
-        <Tab.Screen name="Settings" component={Settings} />
-      </Tab.Navigator>
-
+        <Tab.Navigator>
+          <Tab.Screen 
+            name="Home" 
+            component={HomeStack} options={( {route} ) => ({ tabBarVisible: hideTabBar(route) })}
+            />
+          <Tab.Screen name="Favorites" component={Favorites} />
+          <Tab.Screen name="Settings" component={Settings} />
+          
+        </Tab.Navigator>
+      </SurahContext.Provider >
     </NavigationContainer>
+
   );
 }
 

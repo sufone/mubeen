@@ -3,17 +3,20 @@ import { StyleSheet, Text, View, ScrollView } from 'react-native';
 import surahsOld from './surahsOld.js';
 import MenuComp from './MenuComp'
 
+import { SurahContext } from '../App'
+
+
 
 function SummaryScreen({navigation: {dangerouslyGetParent} }) {
-  const title = dangerouslyGetParent()?.title ?? 1
+  const title = React.useContext(SurahContext).surah
 
   return (
     <ScrollView style={styles.container}>
-          {surahsOld[title].summary.breakdown.map(breakdown => {
+          {surahsOld[title].summary.breakdown.map((breakdown, index) => {
             return (
               <View style={styles.bodyContainer}>
                 <Text style={styles.bodyText}>{breakdown.details}</Text>
-                <MenuComp name={breakdown.name} content={breakdown.details} surahName={surahsOld[title].name}/>
+                <MenuComp name={breakdown.name} content={breakdown.details} surahName={surahsOld[title].name} title={title} index={index}/>
               </View>
             )
         })}

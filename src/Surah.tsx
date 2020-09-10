@@ -6,9 +6,12 @@ import SummaryScreen from './SummaryScreen'
 
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
 
+import Consumer from '../App'
+
 const Tab = createMaterialTopTabNavigator();
 
 function Surah() {
+
   return (
     <Tab.Navigator>
       <Tab.Screen name="About" component={AboutScreen} />

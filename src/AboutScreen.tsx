@@ -1,12 +1,14 @@
 import React from 'react';
+
 import { StyleSheet, Text, View, ScrollView } from 'react-native';
 import surahsOld from './surahsOld.js';
 
-
-function AboutScreen({navigation: {dangerouslyGetParent} }) {
-  const title = dangerouslyGetParent()?.title ?? 1
+import { SurahContext } from '../App'
 
 
+
+function AboutScreen({route}) {
+  const title = React.useContext(SurahContext).surah
 
   return (
 
