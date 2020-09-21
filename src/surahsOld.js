@@ -9,7 +9,7 @@ var surahsOld = [
 			"breakdown": [
 				{
 					"name": "1-7: THE FATIHA",
-					"details": "All praise is to Allah, Lord of all the worlds, Most Gracious, Most Merciful, Master of the Day of Judgment, You Alone do we worship and You Alone do we ask for help, Guide us to the straight path, The Path of those on whom You bestowed Your bounties, Not the path of those who incurred Your wrath or those who went astray."
+					"details": "Summarises our entire purpose of life and asks for Allah’s guidance us to the straight path."
 				}
 			]
 		},
@@ -24,53 +24,112 @@ var surahsOld = [
 			"theme": "The surah opens with a response to the plea for guidance in Surah 1, ‘The Opening’, dividing mankind into three groups in their response to this guidance – the believers, the disbelievers, and the hypocrites – and closes confirming the tenets of faith given in the opening verses. The addressee shifts as the surah progresses: at various times the text addresses mankind in general where they are urged to serve Allah who has been so gracious to them (they are reminded that Allah created Adam (AS) and favoured him over the angels), the Children of Israel, who are reminded of Allah’s special favours to them and urged to believe in scriptures that do indeed confirm their own, and the believers, who are given instruction in many areas –prayer, fasting, pilgrimage, defence, marital law, and financial matters.",
 			"breakdown": [
 				{
-					"name": "1 - 20: THE BOOK OF GUIDANCE",
-					"details": "These introductory verses declare the Quran to be the Book of Guidance: enunciate the articles of the Faith -- belief in Allah, Prophethood and Life-after-death; divide mankind into three main groups with regard to its acceptance or rejection -- Believers, disbelievers and hypocrites."
-				}, 
-				{
-					"name": "21 – 29: WORSHIP ALLAH ALONE",
-					"details": "Allah invites mankind to accept the Guidance voluntarily and to submit and worship Him Alone, the Lord and the Creator of the Universe and to believe in the Quran, His Guidance, and in the Life-after-death."
+					"name": "1 - 29: ALLAH AND QUR'ANIC GUIDANCE",
+					"details": [
+						["No doubt that this is a book from the Lord and an open challenge to disbelievers to bring one chapter like it which they will never be able to do"],
+						["Invitation to mankind to believe in the Quran which is the Book of Guidance which enunciates the articles of the Faith - belief in Allah, Prophethood and Life-after-death"],
+						["Divides mankind into three main groups with regard to its acceptance or rejection - those who believe (believers), those who choose to disbelieve (disbelievers) and those who pretend to believe (hypocrites)."]
+					]
 				}, 
 				{
 					"name": "30 – 39: THE STORY OF ADAM (AS) AND ALLAH’S CONTINUING GUIDANCE",
-					"details": "The story of the appointment of Adam (AS) as Allah's Vicegerent on Earth, of his life in the Garden, his status and Angels being ordered to prostrate to him, of his falling prey to the temptations of Satan, of his repentance and its acceptance, has been related to show to mankind (Adam's (AS) offspring), that the only right thing for them is to accept and follow the Guidance. This story also shows that the Guidance of Islam is the same that was given to Adam and that it is the original religion of mankind and Allah will always send guidance periodically through Prophets."
+					"details": [
+						["The story of origin and the origin of our speech as Allah taught speech/intellect"],
+						["Appointment as Allah's representative on Earth and status as Angels ordered to prostrate to him"],
+						["Iblees and his arrogance"],
+						["Adam (‫السالم‬ ‫)عليه‬ falling prey to the temptations of Shaytan but repenting after Allah forgave Adam (‫السالم‬ ‫)عليه‬ so there is hope that Allah will forgive all and any sin of the children of Adam (‫السالم‬ ‫)عليه‬, but the best is those who repent"],
+						["Guidance of Islam is the same that was given to Adam (‫السالم‬ ‫)عليه‬ and that it is the original religion of mankind and God will always send guidance periodically through prophets"],
+					]
 				}, 
 				{
-					"name": "40 – 120: THE CHILDREN OF ISRAEL AND ALLAH’S GUIDANCE",
-					"details": "In this portion invitation to the Guidance has particularly been extended to the children of Israel and their past and present attitude has been criticized to show that the cause of their degradation was their deviation from the Guidance and breaking their covenant with Allah.\nWhen finally entering Jerusalem the Children of Israel experienced great blessing as: Musa (AS) striked a rock supplying water for the 12 tribes of Israel, prayed for heavenly assistance from Allah via Manna and QuaIls, and gave miracles by resurrecting a dead man to settle a dispute between them regarding a cow that was killed which they were ordered to sacrifice but quarrelled with Musa (AS) on what type of cow.\nYet despite this they still disobeyed highlighted in them: worshipping the Calf in Musa (AS) absence, asking to see Allah, not being satisfied with Allah’s heavenly provision, breaking the Sabbath and disobeying and killing Prophets. Even after all this they were called by Allah to repentance and forgiveness.\nThere is also a warning to people not to follow magic which was taught by the Angels Harut and Marut in Babylon, yet was falsely attributed to Sulayman (AS) by the Shaytans. This was a reminder to the believers to learn from these examples of the folly of the People of the Book and to stick to the Prophet (SAWS) and the Quran."
+					"name": "40 – 120: THE CHILDREN OF ISRAEL AND GOD'S GUIDANCE",
+					"details": [
+						["The Children of Israel are the most discussed story showing their over questioning and arrogance which caused their degradation and breaking their covenant with Allah"],
+						["When finally entering Jerusalem the Children of Israel experienced great blessing as: Moosa (عليه السلام) striked a rock supplying water for the 12 tribes of Israel, prayed for heavenly assistance from God via Manna and QuaIls, and gave miracles by resurrecting a dead man to settle a dispute between them regarding a cow that was killed which they were ordered to sacrifice but quarrelled with Moosa (عليه السلام) on what type of cow"],
+						["Yet despite this they still disobeyed highlighted in them: worshipping the Calf in Moosa’s (عليه السلام) absence, asking to see God, not being satisfied with God’s heavenly provision, breaking the Sabbath and disobeying and killing prophets."],
+						["Allah tells the Children of Israel to remember their blessings and wise is the one who learns from others' mistakes"],
+						["The Arabian prophet (Prophet Muhammad SAWS) citing the incidents without previous exposure to the text of Jews and Christians is proof of real prophethood"],
+						["The issue of accountability as past communities will be held accountable for what they did and we for what we do; and neither will be questioned regarding the other"],
+						["Warning not to follow magic which was taught by the Angels Harut and Marut in Babylon, yet falsely attributed to Sulayman (Solomon) (عليه السلام) by the Jinn Shaytans. This was a reminder to the believers to learn from these examples of the folly of the people of the book as he was slandered even after death but Allah helped and rectified the slander in the Qu’ran."],
+					]
 				},
 				{
-					"name": "121 – 141: IBRAHIM (AS) AND THE BUILDING OF THE KAABAH",
-					"details": "The Jews have been exhorted to follow Prophet Muhammad (SAWS) who had come with the same Guidance and who was a descendant and follower of Prophet Ibrahim (AS) (AS) whom they highly honoured as their ancestor, and professed to follow as a prophet. This is the religion of Ibrahim (AS) who was neither a Jew nor Christian. The story of the building of the Ka`abah by him and his son Isma’il (AS) has been mentioned because it was going to be made the qiblah of the Muslim Community.The Jews were not present whenYa’qub (AS) commanded his sons to worship Allah on his deathbed but later generations turned to polytheism."
+					"name": "121 – 141: IBRAHIM (AS) AND THE BUILDING OF THE KA'BAH",
+					"details": [
+						["Ibrahim (عليه السلام) is honoured as a pious and humble prophet who was neither Jew nor Christian"],
+						["He built the Ka`bah with his son Isma’eel (Ishmael) (عليه السلام) has been mentioned because it was going to be made the qiblah of the Muslim Community."],
+						["The Jews were not present when Ya’qoob (Jacob) (عليه السلام) as a priority on his deathbed commanded his sons to worship Allah and was made happy, but later generations turned to polytheism"],
+					]
 				}, 
 				{
 					"name": "142 – 152: A NEW QIBLAH",
-					"details": "In this portion, the declaration of the change of qiblah from the Bayt ul Maqdis (Jerusalem) to the Ka`bah (Makkah) has been made as a symbol of the change of leadership from the children of Israel to the Muslim Community, which has also been fore-warned to guard against those transgressions against the Guidance that had led to the deposition of the Jews."
+					"details": [
+						["Declaration of the change of qiblah from the Bayt ul Maqdis (Jerusalem) to the Ka`bah (Makkah) which was the foundation laid by our father Ibrahim (عليه السلام)"],
+						["The Prophet (ﷺ) prayed for 13 years facing Jerusalem but now this was a symbol of the change of leadership from the Children of Israel to the Muslim Community"],
+						["So face the Ka’bah wherever you are but any direction you face you will find Allah"],
+						["Allah says Muslims are the best, middle and moderate nation", "143"],
+					]
 				},
 				{
 					"name": "153 – 243: LAWS AND REGULATIONS FOR THE BELIEVERS",
-					"details": "Salat, Sawm, Zakat, Haj and Jihad have been prescribed for the moral training of the Ummat. The Believers have been exhorted to obey authority, to be just, to fulfill pledges, to observe treaties, to spend wealth etc., in the way of Allah. Laws, rules, punishments and regulations have been laid down for their organization, cohesion and conduct of day-to-day life and for the solution of social, economic, political and international problems; on the other hand, drinking, gambling, lending money on interest etc., have been prohibited to keep the Ummat safe from disintegration. In between these, the basic articles of the Faith have been reiterated at suitable places, particularly what true piety and righteousness entails, for these alone can enable and support one to stick to the Guidance. Mankind used to be one nation but divisions came later; Allah promises to always send His Guidance and warns not to follow Satan."
-				}, 
+					"details": [
+						["Salat, Sawm, Zakat, Haj and Jihad have been prescribed for Muslims."],
+						["Only surah which mention details of Ramadan; fasting is for God consciousness; those who can’t fast must feed the poor or the like"],
+						["Ramadan is the month of Quran so fasting is prescribed for you; Quran is linked to Ramadan before fasting."],
+						["Allah wants ease for us, we don’t see the wisdom behind difficulties"],
+						["Majority of time people reject the truth is due to clash with their ideology of ancestors e.g. Quraish, but Allah is knowledgeable above all culture and says your ancestors were wrong."],
+						["On the Day of Judgement, the one who was followed will cut his link of his followers as we all realise we are alone and accountable so use our intellect now"],
+						["The Believers have been told to obey laws, rules, punishments and regulations for the Muslim community"],
+						["Huge scope for forgiveness and mercy in the law and in reality punishments were rarely implemented because of the complexity to implement which is wisdom from Allah"],
+						["Drinking, gambling, lending money on interest prohibited"],
+						["Mankind used to be one nation but divisions came later; God promises to always send His Guidance and warns not to follow Satan."],
+						["Legitimate peace war theory is only found in Islam"],
+						["V.170 when it is said to them follow the truth they say we’ll follow our ancestors.", "170"],
+						["V.178 – Retaliation of life for life", "178"],
+						["V.186 Allah is close and hears dua", "186"],
+						["V.216 verse of war/fighting - Allah know what is right and wrong not us, and should only be for His sake for civil war and anarchy is even worse than legitimate war.", "216"],
+					]}, 
 				{
-					"name": "243 – 254: FIGHTING IN THE CAUSE OF ALLAH",
-					"details": "Fighting in the cause of Allah, the outer jihad, is illustrated when a prophet of the Children of Israel ordered them to follow King Saul and to fight with him, yet they were weary of following him despite the Ark of the Covenant coming down as his proof of leadership. As a test from Allah when the army of Saul reached a river only those who knew that they would meet Allah did not drink from it, but many did. So the small army of believers now reached Goliath outnumbered but the young prophet Dawud (AS) slayed Goliath and took over Saul’s kingdom showing reliance on Allah gives victory. Allah asks who will give him the best loan which means striving for the cause of Allah by which He will multiply as He wills in the hereafter."
+					"name": "243 – 254: DAWUD (عليه السلام) AND JIHAD",
+					"details": [
+						["The Children of Israel were ordered to follow King Saul and to fight with him, yet they were weary of following him despite the Ark of the Covenant coming down as his proof of leadership. As a test from God when the army of Saul reached a river only those who knew that they would meet God did not drink from it, but many did"],
+						["The small army of believers now reached Goliath outnumbered but the young prophet Dawud (عليه السلام) slayed with a slingshot Goliath and took over Saul’s kingdom showing reliance on Allah gives victory"],
+						["Whoever gives in the cause is like giving one grain it comes as 700 grain"],
+						["V.251 were if Allah not to allow some people to fight over the other the equilibrium of this world will not be held and Allah is full of mercy towards his creation.", "251"],
+						["V.254 spend from the wealth we have given… and approximately ten verses later Allah says spend from what you earned", "254"],
+					]
 				},
 				{
 					"name": "255: THE VERSE OF THE THRONE",
-					"details": "The famous verse of the throne (Ayat-ul-Kursi) is illustrated magnificently here showing Allah’s grandeur and power through a number of his attributes"
-				}, 
+					"details": [
+						["The famous verse of the throne (Ayat-ul-Kursi) is illustrated magnificently here showing Allah’s grandeur and power through a number of his attributes – the most powerful ayah containing the grand name of Allah"]
+					]}, 
 				{
 					"name": "256 – 260: ALLAH’S MIRACLES",
-					"details": "This starts with the premise of there being no compulsion in religion. The narration of the story of Ibrahim (AS) interaction with King Nimrod who thought himself Allah but was dumbfounded with his logic, and then the one who Allah made die for 100 years (possibly Prophet Ezra) and then brought him back to life without him knowing how long he had gone for showing Allah’s power, and then Allah showing Ibrahim (AS) the miracle of bringing the four birds back to him after they had scattered. All stories illustrate how Allah brings things back to life"
+					"details": [
+						["This starts with the premise of there being no compulsion in religion."],
+						["The narration of the story of Ibrahim (عليه السلام) interaction with King Nimrod who thought himself Allah but was dumbfounded with his logic"],
+						["And then the one who Allah made die for 100 years (possibly Prophet Ezra) and then brought him back to life without him knowing how long he had gone for showing Allah’s power"],
+						["And then Allah showing Ibrahim (عليه السلام) the miracle of bringing the four birds back to him after they had scattered"],
+					]
 				},
 				{
-					"name": "261 – 283: ALLAH BLESSES CHARITY AND PROHIBITS USURY",
-					"details": "The Believers have been exhorted to spend in the way of Allah in order to please Him alone. In contrast to this, they have been warned against the evils of lending money on interest. Instructions have also been given for the honest conduct of day-to-day business transactions."
-				}, 
+					"name": "261 – 283: CHARITY AND BUSINESS",
+					"details": [
+						["Give charity and be humble"],
+						["Satan leads to poverty and immorality but Allah promise forgiveness and even more"],
+						["Spending in charity pleases Allah but engaging in interest/usury is evil"],
+						["Instructions have also been given for the honest conduct of day-to-day business transactions."],
+						["V.263 A good word is better than charity followed by oppression", "263"],
+					]}, 
 				{
 					"name": "284 – 286: THE PRAYER OF THE BELIEVERS",
-					"details": "The basic articles of the faith have been recapitulated here at the end of the surah, just as they were enunciated at its beginning. Then the surah ends with a prayer which the Muslim Community needed very much at that time when they were encountering untold hardships in the propagation of the guidance."
-				}
+					"details": [
+						["Last two verse of Al Baqrah were gifted to the Prophet (ﷺ) at the night of Isra from the treasure under the Throne"],
+						["This was a prayer which the Muslim Community needed very much at that time when they were encountering untold hardships in the propagation of the Guidance."],
+						["Each time a servent utter those dua allah will reply to him “You are granted”."],
+						["Allah will not test someone beyond his capacity."],
+					]}
 			]
 		},
 		"pageGreen": 2
