@@ -15,7 +15,14 @@ function SummaryScreen({navigation: {dangerouslyGetParent} }) {
           {surahsOld[title].summary.breakdown.map((breakdown, index) => {
             return (
               <View style={styles.bodyContainer}>
-                <Text style={styles.bodyText}>{breakdown.details}</Text>
+                <Text style={styles.bodyText}>
+                  {breakdown.details.map((details, index) => {
+                    console.log(details[0])
+                    return (
+                      details[0] + "\n\n"
+                    )
+                  })}
+                  </Text>
                 <MenuComp name={breakdown.name} content={breakdown.details} surahName={surahsOld[title].name} title={title} index={index}/>
               </View>
             )
