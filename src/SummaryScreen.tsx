@@ -15,14 +15,24 @@ function SummaryScreen({navigation: {dangerouslyGetParent} }) {
           {surahsOld[title].summary.breakdown.map((breakdown, index) => {
             return (
               <View style={styles.bodyContainer}>
-                <Text style={styles.bodyText}>
                   {breakdown.details.map((details, index) => {
-                    console.log(details[0])
-                    return (
-                      details[0] + "\n\n"
-                    )
+                    console.log(details[1])
+                    if (details[1] !== undefined) {
+                      return (
+                        <Text style={styles.yasirText}>
+                          {details[0] + "\n\n"}
+                        </Text>
+                      )
+                    }
+                    else {
+                      return (
+                        <Text style={styles.bodyText}>
+                          {details[0] + "\n\n"}
+                        </Text>
+                      )
+                    }
                   })}
-                  </Text>
+                                  
                 <MenuComp name={breakdown.name} content={breakdown.details} surahName={surahsOld[title].name} title={title} index={index}/>
               </View>
             )
@@ -79,7 +89,14 @@ const styles = StyleSheet.create({
     fontSize: 16,
     backgroundColor: '#FFFFFF',
     padding: 20,
-    borderRadius: 8,
+    textAlign: 'left',
+    zIndex: 1,
+    lineHeight: 22
+  },
+  yasirText: {
+    fontSize: 16,
+    backgroundColor: '#EEE',
+    padding: 20,
     textAlign: 'left',
     zIndex: 1,
     lineHeight: 22
