@@ -27,7 +27,9 @@ function HomeScreen({ navigation: { navigate } }) {
               }
               style={styles.card}
               key={index}
-              underlayColor="white">
+              activeOpacity={0.9}
+              underlayColor="white"
+              >
                 <View style={{flex: 1, flexDirection: 'row'}}>
                   <View style={{justifyContent: "center", paddingRight: 20}}>
                     <Text style={{fontWeight: '400', fontSize: 20}}>
@@ -64,25 +66,30 @@ const styles = StyleSheet.create({
 
   card: {
     width: '100%',
-    backgroundColor: '#fff',
+    backgroundColor: '#F2FDE0',
     flex: 10,
+    paddingLeft: 30,
+    marginLeft: -10,
     padding: 20,
-    borderRadius: 4,
-    borderBottomColor: '#CAC6C6',
-    borderBottomWidth: StyleSheet.hairlineWidth,
+    margin: 10,
+    
+    borderRadius: 8,
+    elevation: 5,
   },
   container: {
     flex: 1,
-    backgroundColor: '#F7F7F7',
+    backgroundColor: '#FFFFFF',
     padding: 0,
   },
   sectionContainer: {
-    backgroundColor: "#F2FDE0",
+    backgroundColor: "#FFFFFF",
     padding: 10,
+    paddingTop: 15,
+    paddingBottom: 5,
   },
   sectionTitle: {
-    fontWeight: "200",
-    color: "#42600C",
+    fontWeight: "bold",
+    color: "#222222",
     fontSize: 11,
     textTransform: 'uppercase'
   },
