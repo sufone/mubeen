@@ -18,7 +18,7 @@ const MenuComp = (props) => {
     menuRef.hide();
     try {
       const result = await Share.share({
-        message: `Surah ${message.surahName}: ${properCase(message.name)} \n\n ${message.content} \n\n Quran Summaries`
+        message: `Summary of Surah ${message.surahName}: Ayah ${message.breakdown.rangeStart} – ${message.breakdown.rangeEnd} \n\n ${properCase(message.breakdown.name)} \n\n ${message.breakdown.details.join("\n\n")} \n\n Quran Summaries`
       });
 
       if (result.action === Share.sharedAction) {
