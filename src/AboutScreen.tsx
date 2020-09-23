@@ -15,25 +15,26 @@ function AboutScreen({route}) {
       <ScrollView style={styles.container}>
 
         <View style={styles.bodyContainer}>
-          <Text style={styles.bodyText}>{surahsOld[title].summary.context}</Text>
           <Text style={styles.bodyTitle}>Context</Text>
+          <Text style={styles.bodyText}>{surahsOld[title].summary.context}</Text>
         </View>
 
         <View style={styles.bodyContainer}>
-          <Text style={styles.bodyText}>{surahsOld[title].summary.theme}</Text>
           <Text style={styles.bodyTitle}>Theme</Text>
+          <Text style={styles.bodyText}>{surahsOld[title].summary.theme}</Text>
         </View>
 
         <View style={styles.bodyContainer}>
-            {surahsOld[title].summary.breakdown.map(breakdown => {
+          <Text style={styles.bodyTitle}>Table of Contents</Text>
+
+            {surahsOld[title].summary.breakdown.map((breakdown, index) => {
               return (
-                <Text style={styles.bodyText}>{breakdown.name.toLowerCase()
+                <Text style={styles.bodyText}>{index+1 +'. ' + breakdown.name.toLowerCase()
                   .split(' ')
                   .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
                   .join(' ')}</Text>
               )
             })}
-          <Text style={styles.bodyTitle}>Table of Contents</Text>
         </View>
       </ScrollView>
   )
@@ -51,44 +52,36 @@ const styles = StyleSheet.create({
       width: 0,
       height: 1,
     },
+    backgroundColor: '#F2FDE0',
+    paddingLeft: 22,
+    paddingRight: 22,
+    paddingBottom: 10,
     shadowOpacity: 0.12,
     shadowRadius: 3,
-    elevation: 2,
+    elevation: 5,
+    overflow: "hidden",
   },
   bodyTitle: {
-    flexDirection: 'row',
+    overflow: "hidden",
     justifyContent: 'space-between',
-    padding: 10,
-    paddingRight: 15,
-    paddingLeft: 15,
-    backgroundColor: '#F7F7F7',
-    borderRadius: 8,
-    paddingTop: 17,
-    marginTop: -10,
-    zIndex: 0,
-  },
-  bodyTitleText: {
+    paddingTop: 20,
+    paddingBottom: 30,
     color: '#2B4005',
-    fontSize: 14,
+    fontSize: 22,    marginBottom: -15,
     fontWeight: 'bold',
-    textAlign: 'right',
-  },
-  bodyTitleButton: {
     textAlign: 'left',
-    fontWeight: 'bold',
+    maxWidth: "85%"
   },
   bodyText: {
-    fontSize: 16,
-    backgroundColor: '#FFFFFF',
-    padding: 20,
-    borderRadius: 8,
+    fontSize: 17,
+    paddingBottom: 20,
     textAlign: 'left',
     zIndex: 1,
     lineHeight: 22
   },
   container: {
     flex: 1,
-    backgroundColor: '#F7F7F7',
+    backgroundColor: '#FFFFFF',
     padding: 0,
   },
 })
