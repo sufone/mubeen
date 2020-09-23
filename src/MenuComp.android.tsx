@@ -48,7 +48,7 @@ const MenuComp = (props) => {
 
       await AsyncStorage.setItem('favoriteSurahs', JSON.stringify(favoriteSurahs));
     } catch (error) {
-      // Error saving data
+      // Error saving data… toast message?
     }
   };
   ;
@@ -62,16 +62,36 @@ const MenuComp = (props) => {
 
   const onPress = () => showMenu();
 
+  function blockTitle(breakdownRef) {
+    if (breakdownRef.rangeEnd) {
+      return "Ayah " + props.breakdown.rangeStart + " – " + props.breakdown.rangeEnd
+    } else {
+      return "Ayah " + props.breakdown.rangeStart
+    }
+  }
+  
+
   return (
     <>
-    <TouchableHighlight
-      onPress={onPress}>
+    <TouchableHighlight 
+      style={styles.mainButton}
+      onPress={onPress}
+      activeOpacity={0.9}
+      underlayColor="#E9F9DF"
+      >
       <View style={styles.bodyTitle}>
-      <><Text style={styles.bodyTextButton} ref={textRef}>⋮</Text></>
-        <><Text style={styles.bodyTitleText} >
-          {properCase(props.name)
-          }
-      </Text></>
+        <View style={styles.mainButton}>
+          <><Text style={styles.bodyTitleText} >
+            {properCase(props.breakdown.name) + '\n' 
+            }
+          </Text></>
+          <><Text style={styles.subtitle}>
+            {blockTitle(props.breakdown)}
+          </Text>
+          </>
+        </View>
+        
+        <><Text style={styles.bodyTitleButton} ref={textRef}>⋮  </Text></>
       </View>
     </TouchableHighlight>
     <Menu
@@ -90,58 +110,42 @@ const MenuComp = (props) => {
 
 
 const styles = StyleSheet.create({
+  mainButton: {
+    
+
+  },
   menu: {
     top: 0,
     right: 0
   },
-  bodyContainer: {
-    margin: 20,
-    borderRadius: 8,
-    shadowColor: "#111",
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.12,
-    shadowRadius: 3,
-    elevation: 2,
-  },
+  
   bodyTitle: {
+    overflow: "hidden",
+
     flexDirection: 'row',
     justifyContent: 'space-between',
-    padding: 10,
-    paddingRight: 15,
-    paddingLeft: 15,
-    backgroundColor: '#F7F7F7',
-    borderRadius: 8,
-    paddingTop: 17,
-    marginTop: -10,
+    paddingTop: 20,
     zIndex: 0,
   },
   bodyTitleText: {
     color: '#2B4005',
-    fontSize: 14,
+    fontSize: 22,    marginBottom: -15,
     fontWeight: 'bold',
-    textAlign: 'right',
+    textAlign: 'left',
+    maxWidth: "85%"
   },
   bodyTitleButton: {
-    textAlign: 'left',
+    textAlign: 'right',
     fontWeight: 'bold',
+    color: '#2B4005',
   },
-  bodyText: {
+  subtitle: {
+    fontWeight: "300",
     fontSize: 16,
-    backgroundColor: '#FFFFFF',
-    padding: 20,
-    borderRadius: 8,
-    textAlign: 'left',
-    zIndex: 1,
-    lineHeight: 22
-  },
-  container: {
-    flex: 1,
-    backgroundColor: '#F7F7F7',
-    padding: 0,
-  },
+    paddingBottom: 20,
+    fontStyle: "italic",
+    color: "#91B47C"
+  }
 })
 
 
