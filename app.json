@@ -23,7 +23,7 @@
       "**/*"
     ],
     "androidStatusBar": {
-      "backgroundColor": "#F2FDE0",
+      "backgroundColor": "#FFFFFF",
       "translucent": false
     },
     "ios": {
