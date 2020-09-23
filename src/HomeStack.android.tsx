@@ -15,8 +15,13 @@ function HomeStack() {
 
 
   return (
-    <Stack.Navigator>
-      <Stack.Screen name="Home" component={HomeScreen} />
+    <Stack.Navigator screenOptions={{
+      headerTintColor: "#E67635",
+      headerTitleStyle: {
+        color: "#222222"
+      }
+    }}>
+      <Stack.Screen name="Home" component={HomeScreen} options={{title: "Quran Summaries",}} />
       <Stack.Screen name="Surah" component={Surah} options={({ route }) => ({ title: `Surah ${route.params.name}` })}  />
     </Stack.Navigator>
   );
