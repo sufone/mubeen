@@ -68,11 +68,10 @@ const styles = StyleSheet.create({
     width: '100%',
     backgroundColor: '#F2FDE0',
     flex: 10,
-    paddingLeft: 30,
-    marginLeft: -10,
+    paddingLeft: 20,
     padding: 20,
+    marginTop: 3,
     margin: 10,
-    
     borderRadius: 8,
     elevation: 5,
   },
