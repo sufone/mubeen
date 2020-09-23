@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.12.0",
     "@react-native-community/masked-view": "0.1.6",
     "@react-navigation/bottom-tabs": "^5.0.6",
     "@react-navigation/drawer": "^5.0.7",
@@ -22,6 +23,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
     "react-native-enhanced-popup-menu": "^0.6.1",
     "react-native-gesture-handler": "~1.6.0",
+    "react-native-modest-storage": "^2.1.0",
     "react-native-reanimated": "~1.7.0",
     "react-native-safe-area-context": "0.7.3",
     "react-native-screens": "~2.2.0",

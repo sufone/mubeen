@@ -1,8 +1,7 @@
 import Menu, { MenuItem, MenuDivider, Position } from "react-native-enhanced-popup-menu";
 import React, { useRef, createRef } from 'react';
 import {View, TouchableHighlight, Text, StyleSheet, Share} from 'react-native'
-import { AsyncStorage } from 'react-native';
-
+import storage from 'react-native-modest-storage'
 
 
 function properCase(input) {
@@ -37,21 +36,39 @@ const MenuComp = (props) => {
 
   let onFavorite = async (message) => {
     menuRef.hide();
-    try {
-      var favoriteSurahs;
-      if (!localStorage['favoriteSurahs']) favoriteSurahs = [];
-      else favoriteSurahs = JSON.parse(localStorage['favoriteSurahs']);
-      if (!(favoriteSurahs instanceof Array)) favoriteSurahs = [];
-      let favObj = {};
-      favObj[message.title] = message.index;
-      favoriteSurahs.push(favObj);
+    let {title, index} = message
 
-      await AsyncStorage.setItem('favoriteSurahs', JSON.stringify(favoriteSurahs));
-    } catch (error) {
-      // Error saving data… toast message?
+    console.log(index, title)
+    let favoriteNew = {
+      surahNum: title,
+      entryIndex: index
     }
+    console.log(JSON.stringify(favoriteNew))
+    
+    let favoritesVar = await storage.get("favorites") || []
+    favoritesVar.push(JSON.stringify(favoriteNew))
+    console.log(favoritesVar)
+    await storage.set("favorites", favoritesVar)
+
+    
+
+    // try {
+    //   var favoriteSurahs;
+
+    //   if (!localStorage['favoriteSurahs']) favoriteSurahs = [];
+    //   else favoriteSurahs = JSON.parse(localStorage['favoriteSurahs']);
+    //   if (!(favoriteSurahs instanceof Array)) favoriteSurahs = [];
+    //   let favObj = {};
+    //   let {title, index} = message
+    //   favObj[JSON.stringify(title)] = JSON.stringify(index);
+    //   favoriteSurahs.push(favObj);
+
+    //   await AsyncStorage.setItem('favoriteSurahs', JSON.stringify(favoriteSurahs));
+    //   console.log(AsyncStorage.getItem('favoriteSurahs'))
+    // } catch (error) {
+    //   // Error saving data… toast message?
+    // }
   };
-  ;
 
   let textRef = React.createRef();
   let menuRef = null;
@@ -68,6 +85,11 @@ const MenuComp = (props) => {
     } else {
       return "Ayah " + props.breakdown.rangeStart
     }
+  }
+
+
+  const getData = async () => {
+    await storage.clear().then(console.log)
   }
   
 
@@ -91,7 +113,7 @@ const MenuComp = (props) => {
           </>
         </View>
         
-        <><Text style={styles.bodyTitleButton} ref={textRef}>⋮  </Text></>
+        <><Text style={styles.bodyTitleButton} ref={textRef}>. . .   </Text></>
       </View>
     </TouchableHighlight>
     <Menu
@@ -99,7 +121,7 @@ const MenuComp = (props) => {
       >
         <MenuItem onPress={() => {onShare(props)}}>Share</MenuItem>
         <MenuItem onPress={() => {onFavorite(props)}}>Favorite</MenuItem>
-        <MenuItem onPress={hideMenu}>Tag</MenuItem>
+        <MenuItem onPress={() => {getData()}}>Tag</MenuItem>
         {/* <MenuDivider />
         <MenuItem onPress={hideMenu} disabled>Item 3</MenuItem> */}
       </Menu>
