@@ -9,8 +9,10 @@ var surahsOld = [
 			"breakdown": [
 				{
 					"name": "1-7: THE FATIHA",
-					"details": "Summarises our entire purpose of life and asks for Allah’s guidance us to the straight path."
-				}
+					"details": [
+						["Summarises our entire purpose of life and asks for Allah’s guidance us to the straight path."]
+					]
+					}
 			]
 		},
 		"pageGreen": 1
