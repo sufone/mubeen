@@ -8,11 +8,13 @@ var surahsOld = [
 			"theme": "This surah is seen to be a precise table of contents of the Quranic message. It is very important in Islamic worship, being an obligatory part of the daily prayer, repeated several times during the day. It is a prayer and its answer. Al-Fatihah is the prayer from the servant and the Quran is the answer from the Master to his prayer. The servant prays to Allah to show him guidance and the Master places the whole of the Quran before him in answer to his prayer.",
 			"breakdown": [
 				{
-					"name": "1-7: THE FATIHA",
+					"name": "THE FATIHA",
+					"rangeStart": "1",
+					"rangeEnd": "7",
 					"details": [
 						["Summarises our entire purpose of life and asks for Allah’s guidance us to the straight path."]
 					]
-					}
+				}
 			]
 		},
 		"pageGreen": 1
@@ -26,7 +28,9 @@ var surahsOld = [
 			"theme": "The surah opens with a response to the plea for guidance in Surah 1, ‘The Opening’, dividing mankind into three groups in their response to this guidance – the believers, the disbelievers, and the hypocrites – and closes confirming the tenets of faith given in the opening verses. The addressee shifts as the surah progresses: at various times the text addresses mankind in general where they are urged to serve Allah who has been so gracious to them (they are reminded that Allah created Adam (AS) and favoured him over the angels), the Children of Israel, who are reminded of Allah’s special favours to them and urged to believe in scriptures that do indeed confirm their own, and the believers, who are given instruction in many areas –prayer, fasting, pilgrimage, defence, marital law, and financial matters.",
 			"breakdown": [
 				{
-					"name": "1 - 29: ALLAH AND QUR'ANIC GUIDANCE",
+					"name": "ALLAH AND QUR'ANIC GUIDANCE",
+					"rangeStart": "1",
+					"rangeEnd": "29",
 					"details": [
 						["No doubt that this is a book from the Lord and an open challenge to disbelievers to bring one chapter like it which they will never be able to do"],
 						["Invitation to mankind to believe in the Quran which is the Book of Guidance which enunciates the articles of the Faith - belief in Allah, Prophethood and Life-after-death"],
@@ -34,7 +38,9 @@ var surahsOld = [
 					]
 				}, 
 				{
-					"name": "30 – 39: THE STORY OF ADAM (AS) AND ALLAH’S CONTINUING GUIDANCE",
+					"name": "THE STORY OF ADAM (AS) AND ALLAH’S CONTINUING GUIDANCE",
+					"rangeStart": "30",
+					"rangeEnd": "39",
 					"details": [
 						["The story of origin and the origin of our speech as Allah taught speech/intellect"],
 						["Appointment as Allah's representative on Earth and status as Angels ordered to prostrate to him"],
@@ -44,7 +50,9 @@ var surahsOld = [
 					]
 				}, 
 				{
-					"name": "40 – 120: THE CHILDREN OF ISRAEL AND GOD'S GUIDANCE",
+					"name": "THE CHILDREN OF ISRAEL AND GOD'S GUIDANCE",
+					"rangeStart": "40",
+					"rangeEnd": "120",
 					"details": [
 						["The Children of Israel are the most discussed story showing their over questioning and arrogance which caused their degradation and breaking their covenant with Allah"],
 						["When finally entering Jerusalem the Children of Israel experienced great blessing as: Moosa (عليه السلام) striked a rock supplying water for the 12 tribes of Israel, prayed for heavenly assistance from God via Manna and QuaIls, and gave miracles by resurrecting a dead man to settle a dispute between them regarding a cow that was killed which they were ordered to sacrifice but quarrelled with Moosa (عليه السلام) on what type of cow"],
@@ -56,7 +64,9 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "121 – 141: IBRAHIM (AS) AND THE BUILDING OF THE KA'BAH",
+					"name": "IBRAHIM (AS) AND THE BUILDING OF THE KA'BAH",
+					"rangeStart": "121",
+					"rangeEnd": "141",
 					"details": [
 						["Ibrahim (عليه السلام) is honoured as a pious and humble prophet who was neither Jew nor Christian"],
 						["He built the Ka`bah with his son Isma’eel (Ishmael) (عليه السلام) has been mentioned because it was going to be made the qiblah of the Muslim Community."],
@@ -64,7 +74,9 @@ var surahsOld = [
 					]
 				}, 
 				{
-					"name": "142 – 152: A NEW QIBLAH",
+					"name": "A NEW QIBLAH",
+					"rangeStart": "142",
+					"rangeEnd": "152",
 					"details": [
 						["Declaration of the change of qiblah from the Bayt ul Maqdis (Jerusalem) to the Ka`bah (Makkah) which was the foundation laid by our father Ibrahim (عليه السلام)"],
 						["The Prophet (ﷺ) prayed for 13 years facing Jerusalem but now this was a symbol of the change of leadership from the Children of Israel to the Muslim Community"],
@@ -73,7 +85,9 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "153 – 243: LAWS AND REGULATIONS FOR THE BELIEVERS",
+					"name": "LAWS AND REGULATIONS FOR THE BELIEVERS",
+					"rangeStart": "153",
+					"rangeEnd": "243",
 					"details": [
 						["Salat, Sawm, Zakat, Haj and Jihad have been prescribed for Muslims."],
 						["Only surah which mention details of Ramadan; fasting is for God consciousness; those who can’t fast must feed the poor or the like"],
@@ -86,28 +100,33 @@ var surahsOld = [
 						["Drinking, gambling, lending money on interest prohibited"],
 						["Mankind used to be one nation but divisions came later; God promises to always send His Guidance and warns not to follow Satan."],
 						["Legitimate peace war theory is only found in Islam"],
-						["V.170 when it is said to them follow the truth they say we’ll follow our ancestors.", "170"],
-						["V.178 – Retaliation of life for life", "178"],
-						["V.186 Allah is close and hears dua", "186"],
-						["V.216 verse of war/fighting - Allah know what is right and wrong not us, and should only be for His sake for civil war and anarchy is even worse than legitimate war.", "216"],
+						["When it is said to them follow the truth they say we’ll follow our ancestors.", "170"],
+						["Retaliation of life for life", "178"],
+						["Allah is close and hears dua", "186"],
+						["Verse of war/fighting - Allah know what is right and wrong not us, and should only be for His sake for civil war and anarchy is even worse than legitimate war.", "216"],
 					]}, 
 				{
-					"name": "243 – 254: DAWUD (عليه السلام) AND JIHAD",
+					"name": "DAWUD (عليه السلام) AND JIHAD",
+					"rangeStart": "243",
+					"rangeEnd": "254",
 					"details": [
 						["The Children of Israel were ordered to follow King Saul and to fight with him, yet they were weary of following him despite the Ark of the Covenant coming down as his proof of leadership. As a test from God when the army of Saul reached a river only those who knew that they would meet God did not drink from it, but many did"],
 						["The small army of believers now reached Goliath outnumbered but the young prophet Dawud (عليه السلام) slayed with a slingshot Goliath and took over Saul’s kingdom showing reliance on Allah gives victory"],
 						["Whoever gives in the cause is like giving one grain it comes as 700 grain"],
-						["V.251 were if Allah not to allow some people to fight over the other the equilibrium of this world will not be held and Allah is full of mercy towards his creation.", "251"],
-						["V.254 spend from the wealth we have given… and approximately ten verses later Allah says spend from what you earned", "254"],
+						["Were if Allah not to allow some people to fight over the other the equilibrium of this world will not be held and Allah is full of mercy towards his creation.", "251"],
+						["Spend from the wealth we have given… and approximately ten verses later Allah says spend from what you earned", "254"],
 					]
 				},
 				{
-					"name": "255: THE VERSE OF THE THRONE",
+					"name": "THE VERSE OF THE THRONE",
+					"rangeStart": "255",
 					"details": [
 						["The famous verse of the throne (Ayat-ul-Kursi) is illustrated magnificently here showing Allah’s grandeur and power through a number of his attributes – the most powerful ayah containing the grand name of Allah"]
 					]}, 
 				{
-					"name": "256 – 260: ALLAH’S MIRACLES",
+					"name": "ALLAH’S MIRACLES",
+					"rangeStart": "256",
+					"rangeEnd": "260",
 					"details": [
 						["This starts with the premise of there being no compulsion in religion."],
 						["The narration of the story of Ibrahim (عليه السلام) interaction with King Nimrod who thought himself Allah but was dumbfounded with his logic"],
@@ -116,16 +135,20 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "261 – 283: CHARITY AND BUSINESS",
+					"name": "CHARITY AND BUSINESS",
+					"rangeStart": "261",
+					"rangeEnd": "283",
 					"details": [
 						["Give charity and be humble"],
 						["Satan leads to poverty and immorality but Allah promise forgiveness and even more"],
 						["Spending in charity pleases Allah but engaging in interest/usury is evil"],
 						["Instructions have also been given for the honest conduct of day-to-day business transactions."],
-						["V.263 A good word is better than charity followed by oppression", "263"],
+						["A good word is better than charity followed by oppression", "263"],
 					]}, 
 				{
-					"name": "284 – 286: THE PRAYER OF THE BELIEVERS",
+					"name": "THE PRAYER OF THE BELIEVERS",
+					"rangeStart": "284",
+					"rangeEnd": "286",
 					"details": [
 						["Last two verse of Al Baqrah were gifted to the Prophet (ﷺ) at the night of Isra from the treasure under the Throne"],
 						["This was a prayer which the Muslim Community needed very much at that time when they were encountering untold hardships in the propagation of the Guidance."],
