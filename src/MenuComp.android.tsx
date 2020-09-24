@@ -1,7 +1,6 @@
 import Menu, { MenuItem, MenuDivider, Position } from "react-native-enhanced-popup-menu";
 import React, { useRef, createRef } from 'react';
 import {View, TouchableHighlight, Text, StyleSheet, Share} from 'react-native'
-import storage from 'react-native-modest-storage'
 
 import LocalStorage from 'react-native-storage-simply';
 
@@ -37,6 +36,7 @@ const MenuComp = (props) => {
     }
   };
 
+  
   let onFavorite = async (message) => {
     menuRef.hide();
     let {title, index} = message
