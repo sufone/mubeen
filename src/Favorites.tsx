@@ -10,22 +10,22 @@ function Favorites({navigation}) {
 
   const clearFavorites = function() {
     console.log('deleting…')
-    
 
-      // LocalStorage.keys().then((keys) => {
-      //   console.log('keys: '+keys)
 
-      //   LocalStorage.delete(keys).then(results => {
-      //     console.log('results: '+results)
+      LocalStorage.keys().then((keys) => {
+        console.log('keys: '+keys)
 
-      //     setFavorites(results)
-      //     setIsLoading(false)
-      //   }).catch(error => {
-      //       console.error(error);
-      //   });
-      // }).catch(error => {
-      //     console.error(error);
-      // });    
+        LocalStorage.delete(keys).then(() => {
+          console.log('deleting')
+
+          setFavorites([''])
+          setIsLoading(false)
+        }).catch(error => {
+            console.error(error);
+        });
+      }).catch(error => {
+          console.error(error);
+      });    
   }
  
 
