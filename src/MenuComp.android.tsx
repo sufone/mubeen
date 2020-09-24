@@ -3,6 +3,9 @@ import React, { useRef, createRef } from 'react';
 import {View, TouchableHighlight, Text, StyleSheet, Share} from 'react-native'
 import storage from 'react-native-modest-storage'
 
+import LocalStorage from 'react-native-storage-simply';
+
+
 
 function properCase(input) {
   return input.toLowerCase()
@@ -37,37 +40,22 @@ const MenuComp = (props) => {
   let onFavorite = async (message) => {
     menuRef.hide();
     let {title, index} = message
+    let id = title +"."+index
+    console.log(index, title, id)
 
-    console.log(index, title)
     let favoriteNew = {
-      surahNum: title,
-      entryIndex: index
+      surah: title,
+      block: index,
+      id: id,
+      time: new Date()
     }
-    console.log(JSON.stringify(favoriteNew))
-    
-    let favoritesVar = await storage.get("favorites") || []
-    favoritesVar.push(JSON.stringify(favoriteNew))
-    console.log(favoritesVar)
-    await storage.set("favorites", favoritesVar)
+    console.log(favoriteNew)
 
-    
-
-    // try {
-    //   var favoriteSurahs;
-
-    //   if (!localStorage['favoriteSurahs']) favoriteSurahs = [];
-    //   else favoriteSurahs = JSON.parse(localStorage['favoriteSurahs']);
-    //   if (!(favoriteSurahs instanceof Array)) favoriteSurahs = [];
-    //   let favObj = {};
-    //   let {title, index} = message
-    //   favObj[JSON.stringify(title)] = JSON.stringify(index);
-    //   favoriteSurahs.push(favObj);
-
-    //   await AsyncStorage.setItem('favoriteSurahs', JSON.stringify(favoriteSurahs));
-    //   console.log(AsyncStorage.getItem('favoriteSurahs'))
-    // } catch (error) {
-    //   // Error saving data… toast message?
-    // }
+    LocalStorage.save(id, favoriteNew).then(() => {
+      console.log('saved')
+    }).catch(error => {
+      console.error(error);
+    });
   };
 
   let textRef = React.createRef();
