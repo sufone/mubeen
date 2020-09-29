@@ -14,21 +14,21 @@ function SummaryScreen({navigation: {dangerouslyGetParent} }) {
     <ScrollView style={styles.container}>
           {surahsOld[title].summary.breakdown.map((breakdown, index) => {
             return (
-              <View style={styles.bodyContainer}>
+              <View key={index} style={styles.bodyContainer}>
                 <MenuComp breakdown={breakdown} content={breakdown.details} surahName={surahsOld[title].name} title={title} index={index}/>
 
                 {breakdown.details.map((details, index) => {
                   console.log(details[1])
                   if (details[1] !== undefined) {
                     return (
-                      <Text style={styles.yasirText}>
+                      <Text key={index} style={styles.yasirText}>
                         {details[0] + ' (YQ. ' + details[1] + ')'}
                       </Text>
                     )
                   }
                   else {
                     return (
-                      <Text style={styles.bodyText}>
+                      <Text key={index} style={styles.bodyText}>
                         {details[0]}
                       </Text>
                     )

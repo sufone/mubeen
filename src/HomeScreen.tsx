@@ -13,6 +13,7 @@ function HomeScreen({ navigation: { navigate } }) {
         <SectionList
           stickySectionHeadersEnabled={true}
           sections={surahs}
+          keyExtractor={(item, index) => item.number}
           renderSectionHeader={({ section: { title } }) => (
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>{title}</Text>
@@ -26,7 +27,6 @@ function HomeScreen({ navigation: { navigate } }) {
                 navigate('Surah', {"title": index, "name": name, "period": period })}
               }
               style={styles.card}
-              key={index}
               activeOpacity={0.9}
               underlayColor="white"
               >

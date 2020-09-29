@@ -29,7 +29,7 @@ function AboutScreen({route}) {
 
             {surahsOld[title].summary.breakdown.map((breakdown, index) => {
               return (
-                <Text style={styles.bodyText}>{index+1 +'. ' + breakdown.name.toLowerCase()
+                <Text key={index} style={styles.bodyText}>{index+1 +'. ' + breakdown.name.toLowerCase()
                   .split(' ')
                   .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
                   .join(' ')}</Text>
