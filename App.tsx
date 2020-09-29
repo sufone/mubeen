@@ -45,7 +45,11 @@ export default function App() {
     <NavigationContainer>
       <SurahContext.Provider value={value}>
 
-        <Tab.Navigator>
+        <Tab.Navigator
+          tabBarOptions={{
+            activeTintColor: "#E67635",
+            inactiveTintColor: "#3B3B3B",
+          }}>
           <Tab.Screen 
             name="Home" 
             component={HomeStack} options={( {route} ) => ({ tabBarVisible: hideTabBar(route) })}
