@@ -1,10 +1,25 @@
 import React, {useState} from 'react';
 import { StyleSheet, Text, View, SafeAreaView, FlatList, Button } from 'react-native';
 import LocalStorage from 'react-native-storage-simply';
-import Constants from 'expo-constants';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 
 import surahsOld from './surahsOld.js';
+
+const Stack = createNativeStackNavigator();
+
+function FavoritesStack() {
+  return (
+    <Stack.Navigator screenOptions={{
+      headerTintColor: "#E67635",
+      headerTitleStyle: {
+        color: "#222222"
+      }
+    }}>
+      <Stack.Screen name="Home" component={Favorites} options={{title: "Favorites",}} />
+    </Stack.Navigator>
+  );
+}
 
 
 function Favorites({navigation}) {
@@ -63,9 +78,6 @@ function Favorites({navigation}) {
     return unsubscribe;
   }, [navigation]);
 
-
-  
-
     if (isLoading) {
       return <View><Text>Loading...</Text></View>;
     }
@@ -89,8 +101,6 @@ function FavoriteBlock(props) {
   let summaryData=surahsOld[props.surah].summary.breakdown[props.block]
 
   return (
-    <>
-      <Text style={styles.header}>Favorites</Text>
 
     <View style={styles.bodyContainer}>
       <Text>{surahsOld[props.surah].name}</Text>
@@ -118,14 +128,12 @@ function FavoriteBlock(props) {
       </Text>
       
     </View>
-    </>
   )
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    marginTop: Constants.statusBarHeight,
     backgroundColor: "#fff",
   },
   item: {
@@ -176,4 +184,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default Favorites
+export default FavoritesStack
