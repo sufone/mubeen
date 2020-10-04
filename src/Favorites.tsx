@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import { StyleSheet, Text, View, SafeAreaView, FlatList, Button } from 'react-native';
 import LocalStorage from 'react-native-storage-simply';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import SummaryBlock from './SummaryBlock'
 
 
 import surahsOld from './surahsOld.js';
@@ -16,7 +17,11 @@ function FavoritesStack() {
         color: "#222222"
       }
     }}>
-      <Stack.Screen name="Home" component={Favorites} options={{title: "Favorites",}} />
+      <Stack.Screen name="Home" component={Favorites} 
+        options={{
+          title: "Favorites",
+          
+        }} />
     </Stack.Navigator>
   );
 }
@@ -78,16 +83,16 @@ function Favorites({navigation}) {
     return unsubscribe;
   }, [navigation]);
 
-    if (isLoading) {
-      return <View><Text>Loading...</Text></View>;
-    }
+  if (isLoading) {
+    return <View><Text>Loading...</Text></View>;
+  }
   console.log(favorites)
   return (
     <>
       <SafeAreaView style={styles.container}>
         <FlatList
           data={favorites}
-          renderItem={({ item }) => <FavoriteBlock surah={item.surah} block={item.block}/> }
+          renderItem={({ item }) => <SummaryBlock surah={item.surah} block={item.block}/> }
           keyExtractor={item => item.id}
         />
       </SafeAreaView>
@@ -97,39 +102,7 @@ function Favorites({navigation}) {
 
 }
 
-function FavoriteBlock(props) {
-  let summaryData=surahsOld[props.surah].summary.breakdown[props.block]
 
-  return (
-
-    <View style={styles.bodyContainer}>
-      <Text>{surahsOld[props.surah].name}</Text>
-      <Text style={styles.bodyText}>
-        {summaryData.name}
-      </Text>
-      <Text style={styles.bodyText}>
-      {summaryData.details.map((details, index) => {
-                  console.log(details[1])
-                  if (details[1] !== undefined) {
-                    return (
-                      <Text style={styles.yasirText}>
-                        {details[0] + ' (YQ. ' + details[1] + ')'}
-                      </Text>
-                    )
-                  }
-                  else {
-                    return (
-                      <Text style={styles.bodyText}>
-                        {details[0]}
-                      </Text>
-                    )
-                  }
-                })}  
-      </Text>
-      
-    </View>
-  )
-}
 
 const styles = StyleSheet.create({
   container: {
