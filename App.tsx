@@ -52,10 +52,11 @@ export default function App() {
           }}>
           <Tab.Screen 
             name="Home" 
-            component={HomeStack} options={( {route} ) => ({ tabBarVisible: hideTabBar(route) })}
+            component={HomeStack} 
+            options={( {route} ) => ({ tabBarVisible: hideTabBar(route), })}
             />
           <Tab.Screen name="Favorites" component={Favorites} />
-          <Tab.Screen name="Settings" component={Settings} />
+          {/* <Tab.Screen name="Settings" component={Settings} /> */}
           
         </Tab.Navigator>
       </SurahContext.Provider >
