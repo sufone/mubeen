@@ -49,12 +49,6 @@ export default SummaryBlock
       flex: 1,
       backgroundColor: "#fff",
     },
-    item: {
-      backgroundColor: '#f9c2ff',
-      padding: 20,
-      marginVertical: 8,
-      marginHorizontal: 16,
-    },
     title: {
       fontSize: 32,
     },
@@ -74,7 +68,7 @@ export default SummaryBlock
         width: 0,
         height: 1,
       },
-      backgroundColor: '#F2FDE0',
+      backgroundColor: '#fbf5ff',
       paddingLeft: 22,
       paddingRight: 22,
       paddingBottom: 10,
@@ -94,12 +88,5 @@ export default SummaryBlock
       fontSize: 28,
       fontWeight: "bold",
       textAlign: 'left',
-    },
-    subtitle: {
-        fontWeight: "300",
-        fontSize: 16,
-        paddingTop: 20,
-        fontStyle: "italic",
-        color: "#91B47C"
-      }
+    }
   });

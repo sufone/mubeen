@@ -167,7 +167,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     paddingBottom: 20,
     fontStyle: "italic",
-    color: "#91B47C"
+    color: "#a688ba"
   }
 })
 

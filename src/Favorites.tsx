@@ -77,9 +77,7 @@ function Favorites({navigation}) {
 
   React.useEffect(() => {
     const unsubscribe = navigation.addListener('focus', () => {
-      // The screen is focused
-      // Call any action
-      
+      // The screen is focused 
       console.log('focused')
 
       LocalStorage.keys().then((keys) => {
@@ -89,6 +87,7 @@ function Favorites({navigation}) {
           console.log('results: '+results)
 
           setFavorites(results)
+          console.log('favorites: '+JSON.stringify(favorites))
           setIsLoading(false)
         }).catch(error => {
             console.error(error);
@@ -105,7 +104,10 @@ function Favorites({navigation}) {
   }, [navigation]);
 
   if (isLoading) {
-    return <View><Text>Loading...</Text></View>;
+    return <SafeAreaView style={styles.emptyContainer}><Text>Loading...</Text></SafeAreaView>;
+  }
+  if (Object.keys(favorites).length == 0) {
+    return <SafeAreaView style={styles.emptyContainer}><Text>Why not add some?</Text></SafeAreaView>;
   }
   console.log(favorites)
   return (
@@ -129,6 +131,12 @@ function Favorites({navigation}) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: "#fff",
+  },
+  emptyContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
     backgroundColor: "#fff",
   },
   item: {
