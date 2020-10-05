@@ -17,16 +17,19 @@ const MenuComp = (props) => {
 
   let onDelete = async (message) => {
     menuRef.hide();
+    //set loading true
+    
     let {title, index} = message
     let id = title +"."+index
     console.log('deleting: '+index, title, id)
 
     LocalStorage.delete(id).then(() => {
       console.log('deleted')
-
-      
+      message.update()
+      //set loading false
     }).catch(error => {
       console.error(error);
+      //show error
     });
   }
 

@@ -32,6 +32,27 @@ function Favorites({navigation}) {
   const [isLoading, setIsLoading] = useState(true);
   const [favorites, setFavorites] = useState([]);
 
+  function setLoading(bool){
+    setIsLoading(bool)
+  }
+  function updateFavoritesState() {
+    console.log('deleting: updating state')
+
+    LocalStorage.keys().then((keys) => {
+      console.log('keys: '+keys)
+
+      LocalStorage.get(keys).then(results => {
+        console.log('results: '+results)
+
+        setFavorites(results)
+        setIsLoading(false)
+      }).catch(error => {
+          console.error(error);
+      });
+    }).catch(error => {
+        console.error(error);
+    });     
+  }
 
   const clearFavorites = function() {
     console.log('deleting…')
@@ -92,7 +113,8 @@ function Favorites({navigation}) {
       <SafeAreaView style={styles.container}>
         <FlatList
           data={favorites}
-          renderItem={({ item }) => <SummaryBlock surah={item.surah} block={item.block}/> }
+          renderItem={({ item }) => <SummaryBlock surah={item.surah} 
+            block={item.block} update={updateFavoritesState}  /> }
           keyExtractor={item => item.id}
         />
       </SafeAreaView>

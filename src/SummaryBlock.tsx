@@ -12,7 +12,9 @@ function SummaryBlock(props) {
     return (
   
       <View style={styles.bodyContainer}>
-        <MenuComp breakdown={summaryData} content={summaryData.details} surahName={surahsOld[props.surah].name} title={props.surah} index={props.block}/>
+        <MenuComp breakdown={summaryData} content={summaryData.details} 
+        surahName={surahsOld[props.surah].name} title={props.surah} 
+        index={props.block} update={props.update}/>
 
         <Text style={styles.bodyText}>
         {summaryData.details.map((details, index) => {
