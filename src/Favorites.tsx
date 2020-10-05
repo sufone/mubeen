@@ -54,27 +54,6 @@ function Favorites({navigation}) {
     });     
   }
 
-  const clearFavorites = function() {
-    console.log('deleting…')
-
-
-      LocalStorage.keys().then((keys) => {
-        console.log('keys: '+keys)
-
-        LocalStorage.delete(keys).then(() => {
-          console.log('deleting')
-
-          setFavorites([''])
-          setIsLoading(false)
-        }).catch(error => {
-            console.error(error);
-        });
-      }).catch(error => {
-          console.error(error);
-      });    
-  }
- 
-
   React.useEffect(() => {
     const unsubscribe = navigation.addListener('focus', () => {
       // The screen is focused 
@@ -120,7 +99,6 @@ function Favorites({navigation}) {
           keyExtractor={item => item.id}
         />
       </SafeAreaView>
-      <Button onPress={() => {clearFavorites()}} title={"clear"}></Button>
     </>
   )
 
