@@ -14,6 +14,7 @@ enableScreens();
 import Favorites from './src/Favorites'
 import Settings from './src/Settings'
 
+import { AntDesign } from '@expo/vector-icons';
 
 const Tab = createBottomTabNavigator();
 
@@ -46,6 +47,19 @@ export default function App() {
       <SurahContext.Provider value={value}>
 
         <Tab.Navigator
+          screenOptions={({ route }) => ({
+            tabBarIcon: ({ focused, color, size }) => {
+              let iconName;
+  
+              if (route.name === 'Home') {
+                iconName = 'book'
+                size = focused ? 24 : 23
+              } else if (route.name === 'Favorites') {
+                iconName = focused ? 'star' : 'staro';
+              }
+              return <AntDesign name={iconName} size={size} color={color} />
+            },
+          })}
           tabBarOptions={{
             activeTintColor: "#E67635",
             inactiveTintColor: "#3B3B3B",
