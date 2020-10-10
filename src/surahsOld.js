@@ -4,7 +4,7 @@ var surahsOld = [
 		"summary": {
 			"name": "The Fatiha is that which opens a subject or a book or any other thing",
 			"period": "Makkan",
-			"context": "The first complete surah revealed which was revealed to the Prophet (SAWS)",
+			"context": "The first complete surah revealed which was revealed to the Prophet (ﷺ)",
 			"theme": "This surah is seen to be a precise table of contents of the Quranic message. It is very important in Islamic worship, being an obligatory part of the daily prayer, repeated several times during the day. It is a prayer and its answer. Al-Fatihah is the prayer from the servant and the Quran is the answer from the Master to his prayer. The servant prays to Allah to show him guidance and the Master places the whole of the Quran before him in answer to his prayer.",
 			"breakdown": [
 				{
@@ -24,7 +24,7 @@ var surahsOld = [
 		"summary": {
 			"name": "This is the longest in the Quran, containing material revealed over several years, and named after the story of the cow which the Israelites were ordered to slaughter (verses 67 onwards)",
 			"period": "Medinan",
-			"context": "The greater part of Al-Baqarah was revealed during the first two years of the Prophet's (SAWS) life at Medina. The smaller part which was revealed at a later period has been included in this surah because its contents are closely related to those dealt with in this surah. Whereas in Makkah the Prophet (SAWS) was dealing with open hostility and clear disbelief, in Medina he was dealing with the Jews and Hypocrites now in Medina.",
+			"context": "The greater part of Al-Baqarah was revealed during the first two years of the Prophet's (ﷺ) life at Medina. The smaller part which was revealed at a later period has been included in this surah because its contents are closely related to those dealt with in this surah. Whereas in Makkah the Prophet (ﷺ) was dealing with open hostility and clear disbelief, in Medina he was dealing with the Jews and Hypocrites now in Medina.",
 			"theme": "The surah opens with a response to the plea for guidance in Surah 1, ‘The Opening’, dividing mankind into three groups in their response to this guidance – the believers, the disbelievers, and the hypocrites – and closes confirming the tenets of faith given in the opening verses. The addressee shifts as the surah progresses: at various times the text addresses mankind in general where they are urged to serve Allah who has been so gracious to them (they are reminded that Allah created Adam (AS) and favoured him over the angels), the Children of Israel, who are reminded of Allah’s special favours to them and urged to believe in scriptures that do indeed confirm their own, and the believers, who are given instruction in many areas –prayer, fasting, pilgrimage, defence, marital law, and financial matters.",
 			"breakdown": [
 				{
@@ -45,8 +45,8 @@ var surahsOld = [
 						["The story of origin and the origin of our speech as Allah taught speech/intellect"],
 						["Appointment as Allah's representative on Earth and status as Angels ordered to prostrate to him"],
 						["Iblees and his arrogance"],
-						["Adam (‫السالم‬ ‫)عليه‬ falling prey to the temptations of Shaytan but repenting after Allah forgave Adam (‫السالم‬ ‫)عليه‬ so there is hope that Allah will forgive all and any sin of the children of Adam (‫السالم‬ ‫)عليه‬, but the best is those who repent"],
-						["Guidance of Islam is the same that was given to Adam (‫السالم‬ ‫)عليه‬ and that it is the original religion of mankind and God will always send guidance periodically through prophets"],
+						["Adam (عليه السلام) falling prey to the temptations of Shaytan but repenting after Allah forgave Adam (عليه السلام) so there is hope that Allah will forgive all and any sin of the children of Adam, but the best is those who repent"],
+						["Guidance of Islam is the same that was given to Adam (عليه السلام) and that it is the original religion of mankind and God will always send guidance periodically through prophets"],
 					]
 				}, 
 				{
@@ -58,7 +58,7 @@ var surahsOld = [
 						["When finally entering Jerusalem the Children of Israel experienced great blessing as: Moosa (عليه السلام) striked a rock supplying water for the 12 tribes of Israel, prayed for heavenly assistance from God via Manna and QuaIls, and gave miracles by resurrecting a dead man to settle a dispute between them regarding a cow that was killed which they were ordered to sacrifice but quarrelled with Moosa (عليه السلام) on what type of cow"],
 						["Yet despite this they still disobeyed highlighted in them: worshipping the Calf in Moosa’s (عليه السلام) absence, asking to see God, not being satisfied with God’s heavenly provision, breaking the Sabbath and disobeying and killing prophets."],
 						["Allah tells the Children of Israel to remember their blessings and wise is the one who learns from others' mistakes"],
-						["The Arabian prophet (Prophet Muhammad SAWS) citing the incidents without previous exposure to the text of Jews and Christians is proof of real prophethood"],
+						["The Arabian prophet (Prophet Muhammad ﷺ) citing the incidents without previous exposure to the text of Jews and Christians is proof of real prophethood"],
 						["The issue of accountability as past communities will be held accountable for what they did and we for what we do; and neither will be questioned regarding the other"],
 						["Warning not to follow magic which was taught by the Angels Harut and Marut in Babylon, yet falsely attributed to Sulayman (Solomon) (عليه السلام) by the Jinn Shaytans. This was a reminder to the believers to learn from these examples of the folly of the people of the book as he was slandered even after death but Allah helped and rectified the slander in the Qu’ran."],
 					]
@@ -106,7 +106,7 @@ var surahsOld = [
 						["Verse of war/fighting - Allah know what is right and wrong not us, and should only be for His sake for civil war and anarchy is even worse than legitimate war.", "216"],
 					]}, 
 				{
-					"name": "DAWUD (عليه السلام) AND JIHAD",
+					"name": "DAWUD (AS) AND JIHAD",
 					"rangeStart": "243",
 					"rangeEnd": "254",
 					"details": [
