@@ -54,14 +54,16 @@ export default function App() {
               if (route.name === 'Home') {
                 iconName = 'book'
                 size = focused ? 24 : 23
+                color = focused ? "#E67635" : "#3B3B3B"
               } else if (route.name === 'Favorites') {
                 iconName = focused ? 'star' : 'staro';
+                color = focused ? "#a688ba" : "#3B3B3B"
               }
               return <AntDesign name={iconName} size={size} color={color} />
             },
           })}
           tabBarOptions={{
-            activeTintColor: "#E67635",
+            activeTintColor: "#3B3B3B",
             inactiveTintColor: "#3B3B3B",
           }}>
           <Tab.Screen 
