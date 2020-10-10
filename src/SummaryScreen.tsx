@@ -17,19 +17,19 @@ function SummaryScreen({navigation: {dangerouslyGetParent} }) {
               <View key={index} style={styles.bodyContainer}>
                 <MenuComp breakdown={breakdown} content={breakdown.details} surahName={surahsOld[title].name} title={title} index={index}/>
 
-                {breakdown.details.map((details, index) => {
-                  console.log(details[1])
-                  if (details[1] !== undefined) {
+                {breakdown.details.map((detail, index) => {
+                  console.log(detail[1])
+                  if (detail[1] !== undefined) {
                     return (
                       <Text key={index} style={styles.yasirText}>
-                        {details[0] + ' (YQ. ' + details[1] + ')'}
+                        {detail[0] + ' (YQ. ' + detail[1] + ')'}
                       </Text>
                     )
                   }
                   else {
                     return (
                       <Text key={index} style={styles.bodyText}>
-                        {details[0]}
+                        {detail[0]+'\n'}
                       </Text>
                     )
                   }
