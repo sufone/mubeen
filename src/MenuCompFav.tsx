@@ -101,7 +101,7 @@ const MenuComp = (props) => {
       style={styles.mainButton}
       onPress={onPress}
       activeOpacity={0.9}
-      underlayColor="#E9F9DF"
+      underlayColor="#f8edff"
       >
       <View style={styles.bodyTitle}>
         <View style={styles.mainButton}>
