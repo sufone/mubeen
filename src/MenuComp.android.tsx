@@ -1,4 +1,4 @@
-import Menu, { MenuItem, MenuDivider, Position } from "react-native-enhanced-popup-menu";
+import { Menu, MenuItem, MenuDivider, Position } from "react-native-enhanced-popup-menu";
 import React, { useRef, createRef } from 'react';
 import {View, TouchableHighlight, Text, StyleSheet, Share} from 'react-native'
 
