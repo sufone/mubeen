@@ -1,31 +1,8 @@
 import React, {useState} from 'react';
-import { StyleSheet, Text, View, SafeAreaView, FlatList, Button } from 'react-native';
+import { StyleSheet, Text, View, FlatList } from 'react-native';
 import LocalStorage from 'react-native-storage-simply';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
 import SummaryBlock from './SummaryBlock'
-
-
-import surahsOld from './surahsOld.js';
-
-const Stack = createNativeStackNavigator();
-
-function FavoritesStack() {
-  return (
-    <Stack.Navigator screenOptions={{
-      headerTintColor: "#E67635",
-      headerTitleStyle: {
-        color: "#222222"
-      }
-    }}>
-      <Stack.Screen name="Home" component={Favorites} 
-        options={{
-          title: "Favorites",
-          
-        }} />
-    </Stack.Navigator>
-  );
-}
-
 
 function Favorites({navigation}) {
 
@@ -83,28 +60,28 @@ function Favorites({navigation}) {
   }, [navigation]);
 
   if (isLoading) {
-    return <SafeAreaView style={styles.emptyContainer}><Text>Loading...</Text></SafeAreaView>;
+    return <View style={styles.emptyContainer}><Text>Loading...</Text></View>;
   }
   if (Object.keys(favorites).length == 0) {
-    return <SafeAreaView style={styles.emptyContainer}><Text>Why not add some?</Text></SafeAreaView>;
+    return <View style={styles.emptyContainer}><Text>Why not add some?</Text></View>;
   }
   console.log(favorites)
   return (
     <>
-      <SafeAreaView style={styles.container}>
+      <View style={styles.container}>
         <FlatList
           data={favorites}
           renderItem={({ item }) => <SummaryBlock surah={item.surah} 
             block={item.block} update={updateFavoritesState}  /> }
           keyExtractor={item => item.id}
         />
-      </SafeAreaView>
+      </View>
     </>
   )
 
 }
 
-
+export default Favorites
 
 const styles = StyleSheet.create({
   container: {
@@ -134,23 +111,7 @@ const styles = StyleSheet.create({
     zIndex: 1,
     lineHeight: 22
   },
-  bodyContainer: {
-    margin: 20,
-    borderRadius: 8,
-    shadowColor: "#111",
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    backgroundColor: '#F2FDE0',
-    paddingLeft: 22,
-    paddingRight: 22,
-    paddingBottom: 10,
-    shadowOpacity: 0.12,
-    shadowRadius: 3,
-    elevation: 5,
-    overflow: "hidden",
-  },
+  
   bodyText: {
     fontSize: 17,
     paddingBottom: 20,
@@ -164,5 +125,3 @@ const styles = StyleSheet.create({
     textAlign: 'left',
   }
 });
-
-export default FavoritesStack
