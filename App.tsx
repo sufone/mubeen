@@ -32,7 +32,7 @@ function hideTabBar(route) {
     switch (routeName) {
       case 'Surah':
         return false;
-      case 'Home':
+      case 'Summaries':
         return true;
 }
 }
@@ -51,7 +51,7 @@ export default function App() {
             tabBarIcon: ({ focused, color, size }) => {
               let iconName;
   
-              if (route.name === 'Home') {
+              if (route.name === 'Summaries') {
                 iconName = 'book'
                 size = focused ? 24 : 23
                 color = focused ? "#E67635" : "#3B3B3B"
@@ -67,7 +67,7 @@ export default function App() {
             inactiveTintColor: "#3B3B3B",
           }}>
           <Tab.Screen 
-            name="Home" 
+            name="Summaries" 
             component={HomeStack} 
             options={( {route} ) => ({ tabBarVisible: hideTabBar(route), })}
             />
