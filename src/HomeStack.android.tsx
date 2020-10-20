@@ -9,7 +9,6 @@ const Stack = createStackNavigator();
 
 function HomeStack() {
 
-
   return (
     <Stack.Navigator screenOptions={{
       headerTintColor: "#E67635",
