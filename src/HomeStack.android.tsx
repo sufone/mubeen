@@ -1,14 +1,10 @@
 import React from 'react';
-
-
-
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
-
+import { createStackNavigator } from '@react-navigation/stack';
 
 import HomeScreen from './HomeScreen'
 import Surah from './Surah'
 
-const Stack = createNativeStackNavigator();
+const Stack = createStackNavigator();
 
 
 function HomeStack() {
@@ -19,10 +15,11 @@ function HomeStack() {
       headerTintColor: "#E67635",
       headerTitleStyle: {
         color: "#222222"
-      }
-    }}>
-      <Stack.Screen name="Home" component={HomeScreen} options={{title: "Quran Summaries",}} />
-      <Stack.Screen name="Surah" component={Surah} options={({ route }) => ({ title: `Surah ${route.params.name}` })}  />
+      },
+    }} 
+    >
+      <Stack.Screen name="Home" component={HomeScreen} options={{title: "Quran Summaries", headerShown: false}} />
+      <Stack.Screen name="Surah" component={Surah} options={({ route }) => ({ title: `Surah ${route.params.name}`,  })}  />
     </Stack.Navigator>
   );
 }
@@ -35,6 +32,7 @@ HomeStack.navigationOptions = ({ navigation }) => {
 
   return {
     tabBarVisible,
+    safeAreaInsets: { top: 0 }
   };
 };
 
