@@ -73,13 +73,7 @@ const MenuComp = (props) => {
     } else {
       return "Ayah " + props.breakdown.rangeStart
     }
-  }
-
-
-  const getData = async () => {
-    await storage.clear().then(console.log)
-  }
-  
+  }  
 
   return (
     <>
@@ -109,7 +103,6 @@ const MenuComp = (props) => {
       >
         <MenuItem onPress={() => {onShare(props)}}>Share</MenuItem>
         <MenuItem onPress={() => {onFavorite(props)}}>Favorite</MenuItem>
-        <MenuItem onPress={() => {getData()}}>Tag</MenuItem>
         {/* <MenuDivider />
         <MenuItem onPress={hideMenu} disabled>Item 3</MenuItem> */}
       </Menu>
