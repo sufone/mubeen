@@ -805,7 +805,7 @@ var surahs = [
 			},
 			{
 				name: 'al-Fajr',
-				nameEnglish: "Daybreak",
+				nameEnglish: "Dawn",
 				number: 89,
 				pageGreen: 593,
 				period: 'Makkan',

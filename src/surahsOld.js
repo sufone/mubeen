@@ -2,10 +2,11 @@ var surahsOld = [
 	{
 		"name": "al-Fātiḥah",
 		"summary": {
-			"name": "The Fatiha is that which opens a subject or a book or any other thing",
+			"name": "The Fatiha is that which opens a subject or a book or any other thing. In other words, a preface or essence of the whole book. The Fatiha is the gateway of the Qur’an.",
+			"englishName": "The Opener",
 			"period": "Makkan",
-			"context": "The first complete surah revealed which was revealed to the Prophet (ﷺ)",
-			"theme": "This surah is seen to be a precise table of contents of the Quranic message. It is very important in Islamic worship, being an obligatory part of the daily prayer, repeated several times during the day. It is a prayer and its answer. Al-Fatihah is the prayer from the servant and the Quran is the answer from the Master to his prayer. The servant prays to Allah to show him guidance and the Master places the whole of the Quran before him in answer to his prayer.",
+			"context": "The first complete surah revealed to the Prophet (ﷺ).",
+			"theme": "This surah is a precise table of contents of the Qur’anic message and is both a prayer from the servant and its answer from the Master, Allah (God). The servant prays to Allah to show him guidance and the Master places the whole of the Qur’an before him in answer to his prayer.",
 			"breakdown": [
 				{
 					"name": "THE FATIHA",
@@ -22,10 +23,11 @@ var surahsOld = [
 	{
 		"name": "al-Baqarah",
 		"summary": {
-			"name": "This is the longest in the Quran, containing material revealed over several years, and named after the story of the cow which the Israelites were ordered to slaughter (verses 67 onwards)",
+			"name": "Named after the message that Moosa (Moses) (عليه السلام) gave to his people that Allah wants them to sacrifice a cow.",
+			"englishName": "The Cow",
 			"period": "Medinan",
-			"context": "The greater part of Al-Baqarah was revealed during the first two years of the Prophet's (ﷺ) life at Medina. The smaller part which was revealed at a later period has been included in this surah because its contents are closely related to those dealt with in this surah. Whereas in Makkah the Prophet (ﷺ) was dealing with open hostility and clear disbelief, in Medina he was dealing with the Jews and Hypocrites now in Medina.",
-			"theme": "The surah opens with a response to the plea for guidance in Surah 1, ‘The Opening’, dividing mankind into three groups in their response to this guidance – the believers, the disbelievers, and the hypocrites – and closes confirming the tenets of faith given in the opening verses. The addressee shifts as the surah progresses: at various times the text addresses mankind in general where they are urged to serve Allah who has been so gracious to them (they are reminded that Allah created Adam (AS) and favoured him over the angels), the Children of Israel, who are reminded of Allah’s special favours to them and urged to believe in scriptures that do indeed confirm their own, and the believers, who are given instruction in many areas –prayer, fasting, pilgrimage, defence, marital law, and financial matters.",
+			"context": "The greater part of Al-Baqarah was the first surah revealed in Medina. The smaller part which was revealed at a later period has been included in this surah because its contents are closely related to those dealt with in this surah. Whereas in Makkah the Prophet (ﷺ) was dealing with open hostility and clear disbelief, in Medina he was now dealing with the Jews and Hypocrites.",
+			"theme": "The surah opens with a response to the plea for guidance from the previous surah Fatiha, dividing mankind into three groups in their response to this guidance – the Believers, the Disbelievers, and the Hypocrites – and closes confirming the tenets of faith given in the opening verses. Most aspects of theology are discussed including Allah’s Power, signs, Angels, stories of previous nations and the Day of Judgement. The rituals of Islam including the five pillars are then outlined in detail along with Islamic law which includes guidelines on a moral civic society, economic guidelines and the issue of war.",
 			"breakdown": [
 				{
 					"name": "ALLAH AND QUR'ANIC GUIDANCE",
@@ -36,7 +38,7 @@ var surahsOld = [
 						["Invitation to mankind to believe in the Quran which is the Book of Guidance which enunciates the articles of the Faith - belief in Allah, Prophethood and Life-after-death"],
 						["Divides mankind into three main groups with regard to its acceptance or rejection - those who believe (believers), those who choose to disbelieve (disbelievers) and those who pretend to believe (hypocrites)."]
 					]
-				}, 
+				},
 				{
 					"name": "THE STORY OF ADAM (AS) AND ALLAH’S CONTINUING GUIDANCE",
 					"rangeStart": "30",
@@ -48,7 +50,7 @@ var surahsOld = [
 						["Adam (عليه السلام) falling prey to the temptations of Shaytan but repenting after Allah forgave Adam (عليه السلام) so there is hope that Allah will forgive all and any sin of the children of Adam, but the best is those who repent"],
 						["Guidance of Islam is the same that was given to Adam (عليه السلام) and that it is the original religion of mankind and God will always send guidance periodically through prophets"],
 					]
-				}, 
+				},
 				{
 					"name": "THE CHILDREN OF ISRAEL AND GOD'S GUIDANCE",
 					"rangeStart": "40",
@@ -72,7 +74,7 @@ var surahsOld = [
 						["He built the Ka`bah with his son Isma’eel (Ishmael) (عليه السلام) has been mentioned because it was going to be made the qiblah of the Muslim Community."],
 						["The Jews were not present when Ya’qoob (Jacob) (عليه السلام) as a priority on his deathbed commanded his sons to worship Allah and was made happy, but later generations turned to polytheism"],
 					]
-				}, 
+				},
 				{
 					"name": "A NEW QIBLAH",
 					"rangeStart": "142",
@@ -104,7 +106,7 @@ var surahsOld = [
 						["Retaliation of life for life", "178"],
 						["Allah is close and hears dua", "186"],
 						["Verse of war/fighting - Allah know what is right and wrong not us, and should only be for His sake for civil war and anarchy is even worse than legitimate war.", "216"],
-					]}, 
+					]},
 				{
 					"name": "DAWUD (AS) AND JIHAD",
 					"rangeStart": "243",
@@ -122,7 +124,7 @@ var surahsOld = [
 					"rangeStart": "255",
 					"details": [
 						["The famous verse of the throne (Ayat-ul-Kursi) is illustrated magnificently here showing Allah’s grandeur and power through a number of his attributes – the most powerful ayah containing the grand name of Allah"]
-					]}, 
+					]},
 				{
 					"name": "ALLAH’S MIRACLES",
 					"rangeStart": "256",
@@ -144,7 +146,7 @@ var surahsOld = [
 						["Spending in charity pleases Allah but engaging in interest/usury is evil"],
 						["Instructions have also been given for the honest conduct of day-to-day business transactions."],
 						["A good word is better than charity followed by oppression", "263"],
-					]}, 
+					]},
 				{
 					"name": "THE PRAYER OF THE BELIEVERS",
 					"rangeStart": "284",
