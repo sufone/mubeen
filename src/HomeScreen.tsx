@@ -19,8 +19,8 @@ function HomeScreen({ navigation: { navigate } }) {
               <Text style={styles.sectionTitle}>{title}</Text>
             </View>
           )}
-          renderItem={({ item: {name, nameEnglish, period, verses, number }, index}) => (
-            <TouchableHighlight
+          renderItem={({ item: {name, period, verses, number }, index}) => (
+            <TouchableHighlight 
               // onPress={() => navigation.navigate(`Surah`, {"title": index, "name": name, "period": period })}
               onPress={() => {
                setSurah(index)
@@ -42,18 +42,18 @@ function HomeScreen({ navigation: { navigate } }) {
                     </Text>
                   <View>
                     <Text style={{fontWeight: '300', fontSize: 14}}>
-                      {period} • {verses} Verses {nameEnglish}
+                      {period} • {verses} Verses
                     </Text>
                   </View>
                 </View>
-
+                  
                 </View>
-
+                
             </TouchableHighlight>
           )}
         />
       </View>
-
+      
   )
 }
 
