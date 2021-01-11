@@ -19,7 +19,7 @@ const MenuComp = (props) => {
     menuRef.hide();
     try {
       const result = await Share.share({
-        message: `Summary of Surah ${message.surahName}: Ayah ${message.breakdown.rangeStart} – ${message.breakdown.rangeEnd} \n\n ${properCase(message.breakdown.name)} \n\n ${message.breakdown.details.join("\n\n")} \n\n Quran Summaries`
+        message: `Summary of Surah ${message.surahName}: Ayah ${message.breakdown.rangeStart} – ${message.breakdown.rangeEnd} \n\n ${properCase(message.breakdown.name)} \n\n ${message.breakdown.details.join("\n\n")} \n\n Get the app - Mubeen: Quran Summaries from https://mubeen.app`
       });
 
       if (result.action === Share.sharedAction) {
@@ -36,7 +36,7 @@ const MenuComp = (props) => {
     }
   };
 
-  
+
   let onFavorite = async (message) => {
     menuRef.hide();
     let {title, index} = message
@@ -73,11 +73,11 @@ const MenuComp = (props) => {
     } else {
       return "Ayah " + props.breakdown.rangeStart
     }
-  }  
+  }
 
   return (
     <>
-    <TouchableHighlight 
+    <TouchableHighlight
       style={styles.mainButton}
       onPress={onPress}
       activeOpacity={0.9}
@@ -86,7 +86,7 @@ const MenuComp = (props) => {
       <View style={styles.bodyTitle}>
         <View style={styles.mainButton}>
           <><Text style={styles.bodyTitleText} >
-            {properCase(props.breakdown.name) + '\n' 
+            {properCase(props.breakdown.name) + '\n'
             }
           </Text></>
           <><Text style={styles.subtitle}>
@@ -94,7 +94,7 @@ const MenuComp = (props) => {
           </Text>
           </>
         </View>
-        
+
         <><Text style={styles.bodyTitleButton} ref={textRef}>. . .   </Text></>
       </View>
     </TouchableHighlight>
@@ -114,14 +114,14 @@ const MenuComp = (props) => {
 
 const styles = StyleSheet.create({
   mainButton: {
-    
+
 
   },
   menu: {
     top: 0,
     right: 0
   },
-  
+
   bodyTitle: {
     overflow: "hidden",
 
