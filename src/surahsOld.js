@@ -17,7 +17,6 @@ var surahsOld = [
 				}
 			]
 		},
-		"pageGreen": 1
 	},
 	{
 		"name": "al-Baqarah",
@@ -152,7 +151,6 @@ var surahsOld = [
 					]}
 			]
 		},
-		"pageGreen": 2
 	},
 	{
 		"name": "Āl-ʿImrān",
