@@ -23,7 +23,7 @@ function HomeScreen({ navigation: { navigate } }) {
             <TouchableHighlight 
               // onPress={() => navigation.navigate(`Surah`, {"title": index, "name": name, "period": period })}
               onPress={() => {
-               setSurah(index)
+               setSurah(number-1)
                 navigate('Surah', {"title": index, "name": name, "period": period })}
               }
               style={styles.card}
