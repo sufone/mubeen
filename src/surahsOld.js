@@ -154,7 +154,79 @@ var surahsOld = [
 	},
 	{
 		"name": "Āl-ʿImrān",
-		"pageGreen": 50
+		"summary": {
+			"name": "This surah takes its title from the family of Imran, who was the Grandfather of Isa (Jesus) (عليه السلام) whose mother is Maryam (رضی اللہ عنھا), her father is Imran - thus family of Imran.",
+			"period": "Medinan",
+			"context": "Much of the surah was revealed soon after the success of the Battle of Badr and some revealed after the Battle of Uhud to make reflections. They were in danger from tribes across Arabia after the Battle of Badr and needed to know how to react to the Jews in the Medinan suburbs who were conspiring against them as well. Part of the surah was also revealed on the occasion of a visit from the Christians of Najran where a rare interfaith dialogue took place as Medina was occupied with many Jews.",
+			"theme": "The Qur’an confirms the earlier scriptures and goes on to say later that the central tenet of faith is devotion to Allah. The story of Zakarriya (عليه السلام), Maryam (رضی اللہ عنھا), and Isa (عليه السلام) is given and the fact that Isa (عليه السلام) was unfathered, just as Adam (عليه السلام) was created without a father, is accentuated. Half of the surah is thus dedicated to discussing Christianity, particularly the main theological differences between Christianity but also the People of the Book. It is the only surah which mentions the mother of Maryam (رضی اللہ عنھا). Aspects of the Battles of Bad and particulary the Battle of Uhud are described which was difficult and so the surah provides optimism for the Believers in adversity. There is also a drive to obtain a common understanding between Muslims and the People of the Book.",
+			"breakdown": [
+				{
+					"name": "KNOWLEDGE AND GUIDANCE",
+					"rangeStart": "1",
+					"rangeEnd": "32",
+					"details": [
+						["The truth of the Qur’an is emphasised."],
+						["Those who have a disease in their heart follow verses with multiple meanings to cause chaos (e.g. some among the People of the Book); but only those with knowledge know these verses and they have utmost sincerity."],
+						["We read the misinterpreted verses in light of the clear-cut verses to eliminate ambiguity, i.e. read with context and understanding."],
+						
+					]
+				},
+				{
+					"name": "THE FAMILY OF IMRAN",
+					"rangeStart": "33",
+					"rangeEnd": "65",
+					"details": [
+						["Allah chose Adam, Nuh (Noah), Ibrahim (عليهم السلام), and the family of Imran above all else."],
+						["The mother of Maryam (رضی اللہ عنھا) is discussed; she made dua for a knowledgable child to grow up as a Rabbi which shows the importance of parents; righteous parents derive righteous children."],
+						["Inspired by Maryam’s (رضی اللہ عنھا) piety, Zakariyya (Zachariah) (عليه السلام) (Maryam’s (رضي الله عنه‎) guardian uncle) asks Allah for a son despite his barren wife and is told to not speak for 3 days and is then given Yahya (John the Baptist) (عليه السلام) - Isa (عليه السلام) is now his first cousin."],
+						["Allah thus provided for Maryam (رضی اللہ عنھا) when she went into seclusion and informed her about the coming of Isa (عليه السلام) and the Angels informed her that he will lead the children of Israel, preach Tawheed (Oneness of God) and perform miracles such as speaking in the cradle."],
+						["The Qur’an clears Isa (عليه السلام) and his mother not only from the stigma maliciously set upon them by the Jews, but also refutes the erroneous Christian creed of the Divinity of Isa (عليه السلام) which had been formulated because of his miraculous birth, yet Allah explains he is like Adam (عليه السلام) with no father."],
+						["The doctrine of trinity is challenged."],
+						["The truthfulness and miracle of the Qur’an mentions stories not even found in the Injeel (Gospel) or Tawrat (Tawrat) further showing proof of prophecy of the Prophet (ﷺ)."],
+						["So, a final plea is made to the Believers to come to common terms between themselves and the People of the Book – that God is One and Ibrahim (عليه السلام) was neither a Jew nor Christian."],
+						["Maryam (رضی اللہ عنھا) dedicated her life to Allah and when her uncle Zakariyya (عليه السلام) visited her he found heavenly food to which she replied that it was from Allah."],
+					]
+				},
+				{
+					"name": "THE PEOPLE OF THE BOOK",
+					"rangeStart": "66",
+					"rangeEnd": "121",
+					"details": [
+						["Whether they accept or not, our duty is only to remind."],
+						["The Muslims are reminded to be on guard and learn from the history of the People of the Book for some have malicious intentions."],
+						["Inspired by Maryam’s (رضی اللہ عنھا) piety, Zakariyya (Zachariah) (عليه السلام) (Maryam’s (رضي الله عنه‎) guardian uncle) asks Allah for a son despite his barren wife and is told to not speak for 3 days and is then given Yahya (John the Baptist) (عليه السلام) - Isa (عليه السلام) is now his first cousin."],
+						["This book is also a reminder to the People of the Book of Allah’s covenant and to believe in the final Prophet (ﷺ) with the same message revealed to past prophets."],
+						["But only Islam will be accepted by Allah."],
+					]
+				},
+				{
+					"name": "THE BATTLE OF UHUD",
+					"rangeStart": "121",
+					"rangeEnd": "179",
+					"details": [
+						["The Battle of Uhud has been made to teach and reassure the Muslims, as at Badr, that the plots of their enemies nor Shaytan could do them no harm, if they would practice restraint, fortitude and have Fear of Allah."],
+						["The set-back they suffered was due to the lack of some moral qualities and the existence of some evils, but Allah is Most Forgiving and He advises the Believers to ask forgiveness from Him."],
+						["This battle was a means of sorting out those who trust in Allah and the Hypocrites who fled, as those who trust Allah never lose as they win whether they live or die, even if the Prophet (ﷺ) was to not be among them they should not abandon their faith in Allah."],
+					]
+				},
+				{
+					"name": "LIFE BEING AN ILLUSION",
+					"rangeStart": "180",
+					"rangeEnd": "195",
+					"details": [
+						["Continuation of informing the Muslims against the dangerous plots of their enemies and how the life of this world is an illusion and religion should not be sold for a paltry price."],
+					]
+				},
+				{
+					"name": "RELIANCE ON ALLAH IS SUCCESS",
+					"rangeStart": "196",
+					"rangeEnd": "200",
+					"details": [
+						["This is the conclusion of the surah and is not directly connected with the verses immediately preceding it but with the theme of the surah as a whole which is to have reliance on Allah which will bring ultimate success."],
+					]
+				}
+			]
+		},
 	},
 	{
 		"name": "an-Nisāʾ",
