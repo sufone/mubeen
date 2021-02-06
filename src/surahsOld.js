@@ -230,7 +230,124 @@ var surahsOld = [
 	},
 	{
 		"name": "an-Nisāʾ",
-		"pageGreen": 77
+		"summary": {
+			"name": "It takes its title from the many references to women throughout the surah.			",
+			"period": "Medinan",
+			"context": "Most likely revealed after many Muslims were killed at the Battle of Uhud, leaving numerous dependents in the new Muslim community which had to be addressed.",
+			"theme": "A major theme of this surah is family and therefore gives a number of instructions, urging justice to children and orphans, and mentioning inheritance and marriage laws. There are also rulings on society at large and the need to strengthen the bonds between individuals as well as family. The surah also talks of the tensions between the Muslim community in Medina and some of the People of the Book, moving into a general discussion of war: it warns the Muslims to be cautious and to defend the weak and helpless as well as be on alert to the mischief of the Hypocrites.",
+			"breakdown": [
+				{
+					"name": "LAWS AND REGULATIONS",
+					"rangeStart": "1",
+					"rangeEnd": "35",
+					"details": [
+						["Just, fair and equitable laws and regulations for the smooth running of family life have been laid down for the husband and wife, with a particular focus on women."],
+						["Detailed instructions have been given for the division of inheritance and due regard has been paid to the rights of orphans."],
+						["Marriage protocols and concept of offering ‘mahr’."],
+						["Teaching children the value of money and dealing justly with orphans."],
+						["Laws of inheritance outlined in detail, Allah will provide for your descendants, there is no need to be greedy, and inheritance to females of half their wealth given."],
+						["The man should never take back the 'mahr' when he divorces."],
+						["Limited polygyny accepted."],
+						["Women were inherited as a property if someone died and Allah forbade this."],
+						["Who are our “mahrams” who are we not allowed to marry."],
+						["Allah forbade extra marital affairs, mistresses etc."],
+						["You can never do justice to your wife but try your best, Allah knows better than you."],
+						
+					]
+				},
+				{
+					"name": "SERVING ALLAH",
+					"rangeStart": "36",
+					"rangeEnd": "42",
+					"details": [
+						["Worship Allah, be good to parents, relatives, orphans, needy, near and far neighbor, travel companion etc."],
+						["In order to inculcate the right spirit for the observance of rules and regulations, the Muslims have been enjoined to show generosity to all around them and to be free from meanness, selfishness, stinginess of mind, because this is essential for the consolidation of the communities and helpful for the propagation of Islam."],
+					]
+				},
+				{
+					"name": "PURIFICATION OF PRAYER AND THOSE WHOM ALLAH HAS CURSED",
+					"rangeStart": "43",
+					"rangeEnd": "57",
+					"details": [
+						["The ways of the purification of mind and body for the offering of salat have been taught because it plays the most important part in every scheme of moral and social reform."],
+						["After moral preparation, instructions for defense have been given."],
+						["First of all, the Muslims have been warned to be on their guard against the evil practices of the local Jews at the time who were hostile to Muslims."],
+						["This caution was necessary for removing some possible misunderstanding that might have arisen on account of the pre-Islamic alliance between the people of Medina and the Jews."],
+						["Allah explains how the People of the Book have been cursed for turning to idol worship."],
+					]
+				},
+				{
+					"name": "OBEYING ALLAH AND HIS MESSENGER",
+					"rangeStart": "58",
+					"rangeEnd": "72",
+					"details": [
+						["Then they have been enjoined to place their trusts and offices of trust in the custody of honest and qualified persons, and to do what is just and right, and to obey Allah and His Messenger and those among themselves entrusted with the conduct of their affairs and to turn to Allah and His Messenger for the settlement of their disputes."],
+						["As such an attitude and behaviour alone can ensure consolidation, they have been strongly warned that any deviation from this path will lead to their disintegration and show them to be Hypocrites."],
+					]
+				},
+				{
+					"name": "FIGHTING FOR THE CAUSE OF ALLAH",
+					"rangeStart": "73",
+					"rangeEnd": "100",
+					"details": [
+						["Drive to make preparation for defense and to fight bravely as a brotherhood for the cause of Islam, without showing any kind of cowardice or weakness."],
+						["They have also been warned to be on their guard against Hypocrites."],
+						["A line of demarcation has been drawn to distinguish the intentional shirkers from the helpless devotees."],
+						["Rules and regulation in fighting have also been laid down."],
+					]
+				},
+				{
+					"name": "THE PRAYER OF FEAR",
+					"rangeStart": "101",
+					"rangeEnd": "104",
+					"details": [
+						["Instructions have been given for the offering of salat during military campaigns and actual fighting."],
+						["This is to impress the importance of salat even at the time of fear and danger."],
+					]
+				},
+				{
+					"name": "UPHOLDING JUSTICE AGAINST MISCHIEF",
+					"rangeStart": "105",
+					"rangeEnd": "126",
+					"details": [
+						["In order to make the Islamic Community firm and strong for defense, the Muslims have been enjoined to observe the highest standard of justice."],
+						["The Muslims are required to deal out strict justice even in case of the enemy, with whom they might be involved in war."],
+						["They should also settle disputes between husband and wife with justice."],
+						["In order to ensure this, they should keep their beliefs and deeds absolutely free from every kind of impurity and should become the standard bearers of justice."],
+						["The wrongdoers only harm themselves in plotting against this justice."],
+					]
+				},
+				{
+					"name": "WOMEN AND ORPHANS",
+					"rangeStart": "127",
+					"rangeEnd": "135",
+					"details": [
+						["The rights of women and orphans are further elaborated here as well as the need to be fearful of Allah."],
+					]
+				},
+				{
+					"name": "DEFENCE",
+					"rangeStart": "136",
+					"rangeEnd": "175",
+					"details": [
+						["Resuming the theme of defense, the Muslims have been warned to be on their guard against their enemies."],
+						["They have been admonished to take necessary precautions against the machinations of the Hypocrites and the Disbelievers and the People of the Book."],
+						["The characteristics of the Hypocrites and Jews are further elaborated on, particularly the incident of the Jews asking the Prophet (ﷺ) to send a book down from Paradiseto them and how they slander Maryam (رضی اللہ عنھا) and supposedly killed Isa (عليه السلام), but Allah brought up Isa (عليه السلام) to Him and he was not crucified."],
+						["The doctrine of the Trinity is strongly broken down as false here and Isa (عليه السلام) will testify against those who worship him."],
+						["As belief in Allah, Revelation and the Hereafter is the only safeguard against every kind of enemy, they should sincerely repent and believe in and follow His Messenger, Muhammad (ﷺ) as this was the same message sent to Moosa (عليه السلام) who spoke to Allah, Dawud (عليه السلام) who received the Psalms, Isa (عليه السلام) who worshipped Allah alone and other messengers we know little about."],
+					]
+				},
+				{
+					"name": "ADDITION",
+					"rangeStart": "176",
+					"rangeEnd": "176",
+					"details": [
+						["Though this verse also deals with the family laws contained in verses 1 - 35, it has been added as a supplement at the end of this surah because it was revealed long after An-Nisa was being recited as a complete surah."],
+					]
+				},
+			]
+		},
+
 	},
 	{
 		"name": "al-Māʾidah",
