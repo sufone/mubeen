@@ -454,7 +454,93 @@ var surahsOld = [
 	},
 	{
 		"name": "al-Anʿām",
-		
+		"summary": {
+			"name": "This surah takes its title from verses 136–9 in which some superstitious beliefs of the idolatrous Arabs concerning the lawfulness of some cattle (an`am) and the unlawfulness of some others have been refuted.",
+			"period": "Makkan",
+			"context": "Twelve years had passed since the Prophet (ﷺ) had been inviting the people to Islam. The antagonism and persecution by the Quraysh had become most savage and brutal, and the majority of the Muslims had to leave their homes and migrate to Habashaa (Abyssinia).",
+			"theme": "The main theme of this surah challenges the pagans about their stubbornness in not accepting the faith and refutes their false claims, for example about livestock. The issues of Allah and His Oneness, prophethood and the Day of Judgement are then discussed in length.",
+			"breakdown": [
+				{
+					"name": "LIGHT OF REVELATION",
+					"rangeStart": "1",
+					"rangeEnd": "12",
+					"details": [
+						["The Disbelievers have been warned that if they do not accept the Islamic Creed and follow the 'Light' shown by the Revelation from the All-Knowing and All-Powerful Allah, they would go to the same doom as the former Disbelievers did."],
+						["Their arguments for rejecting the Prophet (ﷺ) and the Revelation sent down to him have been refuted and a warning has been given to them that they should not be deluded by the respite that is being granted to them."],
+					]
+				},
+				{
+					"name": "TAWHEED",
+					"rangeStart": "13",
+					"rangeEnd": "24",
+					"details": [
+						["These verses inculcate Tawheed and refute shirk (disbelief) which is the greatest obstacle in the way of its acceptance."],
+					]
+				},
+				{
+					"name": "THE WARNING",
+					"rangeStart": "25",
+					"rangeEnd": "32",
+					"details": [
+						["A graphic scene of the life in the Hereafter has been depicted in order to warn the Disbelievers of the consequences of the rejection of the Articles of Faith."],
+					]
+				},
+				{
+					"name": "ADVICE TO THE PROPHET (ﷺ)",
+					"rangeStart": "33",
+					"rangeEnd": "73",
+					"details": [
+						["Prophethood is the main theme which has been discussed from the point of view of the Prophet (ﷺ), his mission, the limitations of his powers, the attitude towards his followers and also from the point of view of the Disbelievers."],
+						["For example, it is pointed out that a Believer should not be ignored in favour of a rich person."],
+						["Even after all the signs and warnings you can give some people they won’t always believe and that is Allah’s job and he will establish the truth of the matter in the Hereafter with full justice as he is the All-Knowing."],
+					]
+				},
+				{
+					"name": "THE EXAMPLE OF PROPHET IBRAHIM (عليه السلام)",
+					"rangeStart": "74",
+					"rangeEnd": "90",
+					"details": [
+						["The story of Prophet Ibrahim (عليه السلام) has been related to bring home to the pagan Arabs that the Mission of Prophet Muhammad (ﷺ) were both the same."],
+						["Ibrahim (عليه السلام) pondered and thought that the sun or stars could be God but discounted them due to them disappearing (perhaps a metaphorical meaning and Ibrahim (عليه السلام) didn’t really consider them God in reality but more just a narrative illustrating logic behind some worship)."],
+						["This bought him the wrath of his people as well as his disbelieving father."],
+						["However, Allah explains how Ibrahim (عليه السلام) was the ancestor of many great prophets and that his path was the straight path."],
+					]
+				},
+				{
+					"name": "THE QUR’AN AND SIGNS",
+					"rangeStart": "91",
+					"rangeEnd": "108",
+					"details": [
+						["Another proof of his Prophethood is the Qur’an, which has been sent down to him by Allah, for its teachings show the right guidance in regard to creed and practice and is of the greatest of Allah’s signs sent down to mankind."],
+					]
+				},
+				{
+					"name": "SUPERSTITION VS TRUTH",
+					"rangeStart": "109",
+					"rangeEnd": "150",
+					"details": [
+						["Divine restrictions have been contrasted with the superstitious restrictions of the pagan Arabs in order to show the striking differences between the two and thus prove the Qur’an to be a Revealed Book."],
+						["For example, Believers are not to eat meat which is not killed in Allah’s name nor should there be insults to the religion of the Disbelievers."],
+					]
+				},
+				{
+					"name": "GUIDING THE JEWS",
+					"rangeStart": "155",
+					"rangeEnd": "160",
+					"details": [
+						["The Jews, who were criticised along with the pagan Arabs, have been urged to compare the teachings of the Qur’an with those of the Tawrat so that they might recognize their similarity and give up their lame excuses against it, and adopt its Guidance to escape the retribution on the Day of Resurrection."],
+					]
+				},
+				{
+					"name": "REITERATION OF THE FUNDAMENTAL PRINCIPLES OF ISLAM",
+					"rangeStart": "161",
+					"rangeEnd": "165",
+					"details": [
+						["This is the conclusion of the discourse: the Prophet (ﷺ) has been instructed in a beautiful and forceful manner to proclaim fearlessly the articles of the Islamic Creed and their implications and how this is the path of previous prophets like Moosa and Ibrahim (عليهم السلام) and how everything must only be for Allah – prayer, sacrifice, life and death."],
+					]
+				},
+			]
+		},	
 	},
 	{
 		"name": "al-Aʿrāf",
