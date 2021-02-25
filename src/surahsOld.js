@@ -351,6 +351,106 @@ var surahsOld = [
 	},
 	{
 		"name": "al-Māʾidah",
+		"summary": {
+			"name": "This surah takes its' name from verse 112 in which the word mai'dah occurs and relates to food due to reference of the meal Isa (عليه السلام) asked Allah to send down to his disciples.",
+			"period": "Medinan",
+			"context": "Revealed after the Treaty of Hudaybiyyah and deals with those problems that arose from the treaty. For example, the Quraysh prevented the Prophet (ﷺ) from doing Umrah, but after the treaty there was an emphasis on Hajj on this surah. The Jewish menace which was always threatening Medina had been totally removed and the Jews in the other parts of Hijaz had-become tributaries of the State of Medina. The last effort of the Quraysh to suppress Islam had been thwarted in the Battle of the Ditch.",
+			"theme": "Overall theme is Muslims should be faithful to their contracts and live up to their commitments and part of this is the regulation of lawful and unlawful food, obedience to which is part of the pledge between Allah and the Believers. Paganism have been eliminated during this time, so, this surah is mainly focusing on Judaic and Christian fundamentals. Part of the surah concerns hunting for food during the pilgrimage and respect for the rites of pilgrimage. Allah also discusses the covenants taken with the People of the Book and their relationships with the Muslims. Isa (عليه السلام), in particular, is given prominence here: mention is made of the feast for which his disciples asked him to pray to Allah, which gives the surah its title, and of his renunciation of any claim to divinity.",
+			"breakdown": [
+				{
+					"name": "ALLAH PERFECTS HIS RELIGION",
+					"rangeStart": "1",
+					"rangeEnd": "10",
+					"details": [
+						["Surah An Nisaa started with “Oh Mankind” while Maa’idah starts with “Oh you who Believe”."],
+						["The Believers have been exhorted to fulfill scrupulously all of their obligations and follow the regulations prescribed by the Divine Law about Hajj, food, salat, justice, etc."],
+						["V.3 ‘Today I have completed my religion and I have perfected my favors upon you and have approved for you Islam as your religion..wish to have no burden upon us but to purify us’ - the Prophet (ﷺ) was on a camel and it kneeled due to heaviness of the revelation."],						
+					]
+				},
+				{
+					"name": "ALLAH’S COVENANT",
+					"rangeStart": "11",
+					"rangeEnd": "26",
+					"details": [
+						["The Muslims have been warned to guard against the errors of their predecessors; they should follow the right path and avoid the bad example of the Jews and the Christians, who broke their covenants."],
+						["A pledge was taken from the Children of Israel by their prophet that they would lead a godly life, and twelve chiefs from their twelve tribes were appointed to keep a watch over them, but they ended up breaking Allah’s covenant."],
+						["Muslims must keep Allah’s covenant namely that they should know and be aware of Allah and He will in return be their Guardian."],
+						["The People of the Book, in their turn, have been admonished to give up their wrong ways and accept Islam as Paradise is not reserved for any particular racial group."],
+						["Main motive of this surah is the advice to Jews and Christians."],
+						["Allah tells the People of the Book that they are not even faithful towards their own commandments."],
+					]
+				},
+				{
+					"name": "QABIL AND HABIL (CAIN AND ABEL)",
+					"rangeStart": "27",
+					"rangeEnd": "32",
+					"details": [
+						["The story of the two sons of Adam (عليه السلام) has been related whereby both were commanded to make a sincere sacrifice to Allah but it was accepted from Habil and not Cabil, upon which Cabil killed him with Habil agreeing not to even harm him."],
+						["Allah then sent a raven to show Cabil how to bury his dead brother but then realised he was a wrongdoer and repented – the first murder on earth due to jealousy."],
+						["V.32 Thus Allah says that ‘if one kills one person it is as if he has killed all mankind and if he has saved one person it is as if he has saved all mankind’."],
+					]
+				},
+				{
+					"name": "PUNISHMENTS AND REPENTANCE",
+					"rangeStart": "33",
+					"rangeEnd": "40",
+					"details": [
+						["To achieve this object, punishments and deterrents have been prescribed for those who create chaos, but that repentance is to be accepted, and the Believers have been urged to exert their utmost to establish the right way."],
+					]
+				},
+				{
+					"name": "DISTORTING THE RELIGION",
+					"rangeStart": "41",
+					"rangeEnd": "50",
+					"details": [
+						["There were ancient religious scholars who used to give false decrees and opinions after taking bribes and mock the religion."],
+						["However, a worse form of corruption is distorting the provisions of the religion by opportunists to suit popular tastes so that they may have honour and glory conferred upon them by the admiring public and receive contributions and offerings from all."],
+						["These are the lawbreakers who take neither the Tawrat not the Injeel as their law."],
+					]
+				},
+				{
+					"name": "TAKING ENEMIES AS FRIENDS",
+					"rangeStart": "51",
+					"rangeEnd": "69",
+					"details": [
+						["In view of the poor moral condition of the Jews and the Christians, the Believers have been warned not to make them their friends and confidants."],
+						["Likewise, they should be on their guard against the evil designs of the Hypocrites, the Disbelievers and the like and should rely on the true Believers alone."],
+						["The People of the Book have, in their turn been exhorted to give up their enmity and adopt the right attitude, for they cannot get salvation without this."],
+						["Ethics and morality is from Allah and it could be only established by following the laws of Allah."],
+						["Taking the challenge of Christianity for Isa (عليه السلام) didn’t even preach the current Christian doctrine."],
+					]
+				},
+				{
+					"name": "CHRISTIAN ERROR",
+					"rangeStart": "70",
+					"rangeEnd": "86",
+					"details": [
+						["Now the Christians especially have been reproved for their errors in regard to the doctrine of Tawheed."],
+						["At the same time, they have been preferred to the hard-hearted Jews, for there are among them some who are more inclined towards the Truth."],
+					]
+				},
+				{
+					"name": "THE MIDDLE WAY",
+					"rangeStart": "87",
+					"rangeEnd": "108",
+					"details": [
+						["Moderation and the middle way is the path of Islam."],
+						["Prohibitions against intoxicants, alcohol, gambling and shirk are made as they are the ways of Shaytan."],
+						["Regulations against hunting in Makkah are made and respect for the Ka’bah."],
+					]
+				},
+				{
+					"name": "THE MESSENGERS TESTIMONY",
+					"rangeStart": "109",
+					"rangeEnd": "119",
+					"details": [
+						["The conversation that will take place between Allah and His Prophets on the Day of Judgement, has been made for the benefit of the erring people to serve as a corrective to their corrupt creeds, particularly Isa (عليه السلام) who will say that they he did not instruct his followers to worship him but rather Allah."],
+						["Allah shows Isa (عليه السلام) how he performed miracles only by His permission such as bringing a clay bird to life, healing the blind and leper, raising the dead, and bringing a table spread from Paradiseat the request of his disciples."],
+						["The conversation with Prophet Isa (عليه السلام) has been cited as a specimen to warn particularly the Christians, who profess to believe in him, and generally all those people who put false hopes in their prophets."],
+					]
+				},
+			]
+		},	
 	},
 	{
 		"name": "al-Anʿām",
