@@ -544,10 +544,126 @@ var surahsOld = [
 	},
 	{
 		"name": "al-Aʿrāf",
-	},
+		"summary": {
+			"name": "This surah is named after the heights of the barrier which will divide the righteous from the damned on the Day of Judgement (verse 46).",
+			"period": "Makkan",
+			"context": "The period of its revelation is about the same as that of Al-An'am, i.e., the last year of the Prophet's (ﷺ) life at Makkah",
+			"theme": "The basic theme of this surah is Allah's message as it was sent through many messengers. Several prophets and parts of their stories are mentioned to emphasize their mission and their struggle with their people. The surah begins by addressing the Prophet (ﷺ), reassuring him about his revelations, and closes by emphasizing the fact that he merely repeats what is revealed to him. It warns the Disbelievers of their fate via numerous stories of disobedient communities of the past, highlighting truth and falsehood in the hope that they may take heed and repent before it is too late. Both subjects also serve to give encouragement to the Prophet (ﷺ) and the Believers. Some commentators have the opinion that this surah came just after surah Al-An’aam.",
+			"breakdown": [
+				{
+					"name": "TAKE HEED OF THE MESSAGE",
+					"rangeStart": "1",
+					"rangeEnd": "10",
+					"details": [
+						["The people have been invited to follow the Message sent down to them through Prophet Muhammad (ﷺ) and warned of the consequences of its rejection as the previous peoples before them did."],
+					]
+				},
+				{
+					"name": "ADAM (عليه السلام) AND SHAYTAN",
+					"rangeStart": "11",
+					"rangeEnd": "25",
+					"details": [
+						["Allah asked all Angels to prostrate to Adam (عليه السلام), although Iblees refused to on account of him being made from clay and himself being made from Fire, and as a result of this pride and arrogance Shaytan and his followers will be cast out as mankinds biggest enemy ready to misguide all until the Day of Judgement."],
+						["Shaytan misleading Adam (عليه السلام) and Hawa (Eve) serve as a warning to all mankind as to his craftiness and whispering, but that repentance to Allah is the way to come back."],
+						["The reasoning behind Shaytan’s downfall and Adam’s (عليه السلام) raised status serves as a lesson to all mankind and Jinn as to the kinds of virtues to adopt and vices to avoid."],
+						["Allah chose us over all creatures and even answered Iblees’ dua (in His Wisdom) for long life to try to misguide people."],
+
+					]
+				},
+				{
+					"name": "WARNING THE CHILDREN OF ADAM (عليه السلام)",
+					"rangeStart": "26",
+					"rangeEnd": "58",
+					"details": [
+						["This passage contains some divine instructions, and contrasts these with Shaytan's instructions, and depicts a graphic picture of the results and the consequences of the two."],
+						["Taqwa (God consciousness) is illustrated as the best shield to counteract the ways of Shaytan and those who do not follow this path who call out to those other than Allah are the biggest losers and will be in Hell eternally."],
+						["In contrast the Gardens of Paradise have been promised to the righteous and the divide between those destined for Paradise and Hell will be made on the Day of Judgement."],
+						["The conversation of the People of A’raaf and the people of Paradise and Hell."],
+						["The people of A’araf are the sinful of the Muslims, struggling Muslims with sins; the name A’araf is about people in the highest section, a position between Paradise and Hell, they can see both people of Paradise and Hell."],
+					]
+				},
+				{
+					"name": "THE PROPHETS",
+					"rangeStart": "59",
+					"rangeEnd": "95",
+					"details": [
+						["Events from the lives of some well-known Prophets where their people displayed various types of vices – Nuh’s (عليه السلام) people drowned for disbelieving, Hud’s (Heber) (عليه السلام) people asked for the punishment and were destroyed, Salih’s (Methusaleh) (عليه السلام) people killed the she-camel and were destroyed by earthquake, Lut’s (Lot) (عليه السلام) people were lewd and so were destroyed with rains of stones, Shu`aib (Jethro) (عليه السلام) who was sent to the people of Midian who had dishonest and corrupt practices and so were destroyed by earthquake."],
+					]
+				},
+				{
+					"name": "PROPHETS AND THEIR PEOPLE",
+					"rangeStart": "96",
+					"rangeEnd": "100",
+					"details": [
+						["Whenever Allah sent a prophet to a town (or nation) he afflicted the people with adversity and misfortune in order that they might humble themselves before Him."],
+						["Then Allah changed their hardship to prosperity but the people did not recognise Allah’s grace. "],
+						["Had they believed they would have been showered with riches but they did not so they were seized for their misdeeds."],
+						["Do people not understand, from the stories of those before them, that Allah can afflict them for their sins and seal their hearts?"],
+					]
+				},
+				{
+					"name": "MOOSA (عليه السلام) AND PHARAOH",
+					"rangeStart": "101",
+					"rangeEnd": "138",
+					"details": [
+						["Moosa (عليه السلام) was sent to Pharaoh with signs of his staff turning into a snake and glowing white hand."],
+						["Pharaoh’s sorcerers prostrated to Allah in repentance and understood, although Pharaoh did not."],
+						["Pharaoh then started killing sons and sparing daughters and as a result Allah punished the town with drought, famine, locusts, flood, lice, frogs and blood; Pharaoh’s people pleaded with Moosa (عليه السلام) to ask Allah to stop the plagues which it did but then resumed their wicked ways and so drowned."],
+					]
+				},
+				{
+					"name": "MOOSA (عليه السلام) AND THE CHILDREN OF ISRAEL",
+					"rangeStart": "139",
+					"rangeEnd": "157",
+					"details": [
+						["The Children of Israel were now free with Moosa and Haroon (Aaron) (عليهم السلام) when Moosa (عليه السلام) was asked to spend forty nights with Allah."],
+						["Moosa (عليه السلام) asked to see Allah at the mountain but it collapsed and he fainted, upon which he repented."],
+						["When returning with the tablet of laws the Children of Israel had turned to idol worshipping which enraged Moosa (عليه السلام) and made him drop the tablet and turn on Haroon (عليه السلام)."],
+						["He then took a number of men to the mountain to ask for forgiveness but these instead asked to see Allah and so were killed, but brought back with Moosa (عليه السلام) begging for forgiveness."],
+					]
+				},
+				{
+					"name": "THE COVENANT WITH THE CHILDREN OF ISRAEL",
+					"rangeStart": "158",
+					"rangeEnd": "171",
+					"details": [
+						["The Children of Israel are told to follow Prophet Muhammad (ﷺ) who is found in the Tawrat and the Injeel."],
+						["The Children of Israel were divided into 12 tribes by Allah each with their own provision, however many kept breaking the Covenant between themselves and Allah, for example this is symbolised by breaking the Sabbath which a town of fishing people did by ‘trickery’ and then became ‘detested apes’ by Allah."],
+						["They will be inflicted with those who want to harm them till the Day of Judgement and Allah broke their unity to leave them scattered across the earth."],
+					]
+				},
+				{
+					"name": "THE COVENANT WITH THE CHILDREN OF ADAM (عليه السلام)",
+					"rangeStart": "172",
+					"rangeEnd": "174",
+					"details": [
+						["As the Covenant with the Israelites was mentioned at the end of the preceding passage, the whole of mankind has been reminded very appropriately of the Covenant that was made at the time of the appointment of Adam (عليه السلام) as the Vicegerent of Allah so that all of his descendants should remember it and accept and follow the Message that was delivered by the Prophet (ﷺ)."],
+						["This was exemplified before mankind came into the dunya and Allah asked them ‘Am i not your Lord’ to which all responded in the affirmative."],
+					]
+				},
+				{
+					"name": "KNOWING AND DISCARDING THE TRUTH",
+					"rangeStart": "175",
+					"rangeEnd": "179",
+					"details": [
+						["The example of the one in the time of Moosa (عليه السلام) who had the knowledge of the Message but discarded it, he was like a dog; if you chase him he pants, if you leave him he still pants."],
+						["It has been cited as a warning to those who were treating the Message as false; they have been exhorted to use their faculties to recognize the Message; otherwise Hell would be their abode."],
+					]
+				},
+				{
+					"name": "REITERATING THE MESSAGE",
+					"rangeStart": "180",
+					"rangeEnd": "206",
+					"details": [
+						["Some deviations of those who do not use their faculties properly to understand the Message have been dealt with and they have been admonished, reproved and warned of the serious consequences of their antagonistic attitude towards the Message of the Prophet (ﷺ)."],
+						["In conclusion, instructions have been given to the Prophet (ﷺ), and through him to his followers, about the attitude they should adopt towards those who reject the Message and deviate from it."],
+					]
+				},
+			]
+		},	
+},
 	{
 		"name": "al-Anfāl",
-	},
 	{
 		"name": "at-Taubah",
 	},
