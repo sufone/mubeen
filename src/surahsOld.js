@@ -730,7 +730,85 @@ var surahsOld = [
 },
 	{
 		"name": "at-Taubah",
-	},
+		"summary": {
+			"name": "This surah is known by two names -- At-Taubah and Al-Bara'at. It is called At-Taubah because it enunciates the nature of taubah (repentance) and mentions the conditions of its acceptance (vv. 102. 118). The second name Bara'at (Release) is taken from the first word of the surah.This is the only surah of the Qur’an to which Bismillah is not prefixed as the Prophet (ﷺ) himself did not dictate it at the beginning of the surah.",
+			"period": "Medinan",
+			"context": "• Revealed around one year before the death of the Prophet (ﷺ) after the battle of Tabuk in 9 AH.• The first discourse (vv. 1-37), was revealed in Zil-Qa'adah A.H. 9 or thereabout. As the importance of the subject of the discourse required its declaration on the occasion of Hajj the Prophet (ﷺ) dispatched Ali (رضي الله عنه‎) to follow Abu Bakr (رضي الله عنه‎), who had already left for Makkah as leader of the Pilgrims to the Ka'bah. He instructed Ali (رضي الله عنه‎) to deliver the discourse before the representatives of the different clans of Arabia so as to inform them of the new policy towards the Disbelievers.• The second discourse (vv., 38-72) was sent down in Rajab A.H. 9 or a little before this, when the Prophet (ﷺ) was engaged in making preparations for the Campaign of Tabuk. In this discourse, the Believers were urged to take active part in Jihad, and the shirkers were severely rebuked for holding back their wealth and for hesitation to sacrifice their lives in the way of Allah because of their hypocrisy, weak faith or negligence.• The third discourse (vv. 73-129) was revealed on his return from the Campaign of Tabuk. This discourse warns the Hypocrites of their evil deeds and rebukes those Believers who had stayed behind in the Campaign of Tabuk. Then after taking them to task, Allah pardons those true Believers who had not taken part in the Jihad in the way of Allah for one reason or the other.",
+			"theme": "The surah opens by giving notice of the severance of the treaty with the idolaters because they had broken it, but the bulk of the surah deals with preparations and recruitment for the Campgain to Tabuk, which took place in the heat of the summer of AH 9 (631 CE) when the Prophet (ﷺ) gathered 30,000 fighters against the Byzantine Empire who did not show up. The Hypocrites and those who stayed behind and failed to support the Prophet (ﷺ) are all censured. ",
+			"breakdown": [
+				{
+					"name": "OBSERVING TREATIES",
+					"rangeStart": "1",
+					"rangeEnd": "12",
+					"details": [
+						["This portion deals with the sanctity of treaties and lays down principles, rules and regulations which must be kept in view before breaking them, in case the other party does not observe them sincerely. "],
+						["Begins by announcing that after 4 months, the pagans should leave Makkah - either accept Islam or leave the holy sanctity."],
+					]
+				},
+				{
+					"name": "FIGHTING IN THE WAY OF ALLAH",
+					"rangeStart": "13",
+					"rangeEnd": "37",
+					"details": [
+						["In this portion the Muslims have been urged to fight in the Way of Allah with the pagan Arabs, the Jews and the Christians, who were duly warned of the consequences of their mischievous and inimical behavior. "],
+					]
+				},
+				{
+					"name": "REWARDS OF JIHAD",
+					"rangeStart": "38",
+					"rangeEnd": "72",
+					"details": [
+						["In this discourse, the Muslims have been told clearly and explicitly that they will inherit the rewards promised by Allah only if they take active part in the conflict with kufr, for that is the criterion which distinguishes true Muslims from Hypocrites."],
+						["Therefore, true Muslims should take active part in Jihad, without minding dangers, obstacles, difficulties, temptations and the like. "],
+						["V.60 mentionds the 8 categories of zakat."],
+					]
+				},
+				{
+					"name": "HYPOCRITES",
+					"rangeStart": "73",
+					"rangeEnd": "90",
+					"details": [
+						["This portion deals with the problems of Hypocrites and lays down rules and regulations governing the treatment that should be meted out to them and points out their distinctive marks from true Muslims. "],
+					]
+				},
+				{
+					"name": "THOSE WHO REMAINED BEHIND",
+					"rangeStart": "91",
+					"rangeEnd": "110",
+					"details": [
+						["This portion deals with the case of those who remained behind and did not accompany the Prophet (ﷺ) for Jihad to Tabuk."],
+						["For this purpose, they have been separated in different categories, that is, the disabled, the sick, the indigent, the Hypocrites, the Believers who realized their guilt and punished themselves before the return of the Prophet (ﷺ) from Tabuk and those who confessed their error."],
+						["Their cases have been dealt with in accordance with the nature and extent of their offense. "],
+					]
+				},
+				{
+					"name": "FORGIVING THE THREE BELIEVERS",
+					"rangeStart": "111",
+					"rangeEnd": "118",
+					"details": [
+						["In order to make their noble qualities look all the more conspicuous and dignified by contrast, the characteristics of the Believers have been mentioned, and they have been reassured that Allah, the Sovereign of the Universe, is their Helper and Guardian."],
+						["Accordingly, because of their sincerity, He has forgiven the Three Believers who did not take part in the expedition. "],
+					]
+				},
+				{
+					"name": "GUIDANCE FOR THE BELIEVERS",
+					"rangeStart": "119",
+					"rangeEnd": "127",
+					"details": [
+						["In the concluding portion, general instructions have been given to the Believers for their guidance. "],
+					]
+				},
+				{
+					"name": "TAWAKKUL",
+					"rangeStart": "128",
+					"rangeEnd": "129",
+					"details": [
+						["This is the conclusion: 'Follow the Messenger who is gentle and compassionate and your greatest well-wisher, and trust in Allah, the Lord of the Universe'."],
+					]
+				},
+			]
+		},	
+},
 	{
 		"name": "Yūnus",
 	},
