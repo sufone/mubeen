@@ -664,6 +664,70 @@ var surahsOld = [
 },
 	{
 		"name": "al-Anfāl",
+		"summary": {
+			"name": "The surah takes its name Al-Anfal (The Bounties) from the first verse.",
+			"period": "Medinan",
+			"context": "Revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr. As it contains a detailed and comprehensive review of the battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this battle might have been revealed later and incorporated at the proper places to make it a continuous whole.",
+			"theme": "The surah has given rules of war and peace between Muslims and their enemies. In this surah, Allah has addressed Muslims with 'O you who Believe' six times. This surah is a commentary on the Battle of Badr (near Medina), the first fought between the Muslims and their Makkan opponents in the second year after the Migration. The Muslims, some of whom were at first reluctant to fight, won, in spite of being vastly outnumbered, and began to question the distribution of the gains. The surah reminds them that it was Allah who brought about the victory. It advises Muslims and comments on the role of the Hypocrites and on those who always break their treaties (verse 56), ending with a statement about loyalties and alliances.",
+			"breakdown": [
+				{
+					"name": "ALLAH ADVISES THE BELIEVERS IN WAR AND ITS SPOILS",
+					"rangeStart": "1",
+					"rangeEnd": "41",
+					"details": [
+						["Allah is preparing the Believers to fight the Disbelievers at Battle of Badr and give them comfort with His assistance."],
+						["The surah begins with the problems of the 'Spoils of War' and how these are not the spoils of war but the 'Bounties of Allah' and proves this by showing that the victory at Badr (and in all other battles, too) was won by His doing and not by the efforts of the Muslims."],
+						["It also declares that the war aim of the Muslims should be to eliminate all unfavourable conditions for the establishment of Islam and not to gain spoils."],
+						["Moreover, the spoils, being the bounties of Allah, belong to Allah and His Messenger and they alone are entitled to allocate them."],
+						["Then after conditioning the Muslims to accept these things, the different shares have been allocated."],
+					]
+				},
+				{
+					"name": "THE HELP OF ALLAH VS THE DECEPTION OF SHAYTAN IN WAR",
+					"rangeStart": "42",
+					"rangeEnd": "54",
+					"details": [
+						["The Battle of Badr was ordained by Allah so that Islam should triumph over 'ignorance'."],
+						["The lesson from this is that the Muslims should trust in Allah and prepare themselves for war and should not be beguiled by Shaytan as the Disbelievers were."],
+						["Indeed, Allah sent a divine dream to his Messenger showing the Disbelievers as small in number as a form of mercy and comfort."],
+					]
+				},
+				{
+					"name": "TREATIES",
+					"rangeStart": "55",
+					"rangeEnd": "59",
+					"details": [
+						["Sanctity of treaties has been enjoined and the Muslims commanded to observe them as long as the other party does not break them."],
+					]
+				},
+				{
+					"name": "WAR AND PEACE",
+					"rangeStart": "60",
+					"rangeEnd": "66",
+					"details": [
+						["The Muslims should always be prepared for war on every front but should be ready to make peace if the other party is inclined towards it."],
+						["Allah illustrates how the faith of the Believers is more important than relative strength."],
+					]
+				},
+				{
+					"name": "PRISONERS OF WAR",
+					"rangeStart": "67",
+					"rangeEnd": "71",
+					"details": [
+						["In these verses, instructions about prisoners of war have been given."],
+					]
+				},
+				{
+					"name": "MAINTAINING PEACEFUL RELATIONS",
+					"rangeStart": "72",
+					"rangeEnd": "75",
+					"details": [
+						["In order to keep the Muslims joined together against their enemies, they have been taught to have cordial relations with one another, given by the illustration of those who emigrated for the sake of Allah."],
+					]
+				},
+			]
+		},	
+},
 	{
 		"name": "at-Taubah",
 	},
