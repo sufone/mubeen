@@ -811,7 +811,145 @@ var surahsOld = [
 },
 	{
 		"name": "Yūnus",
-	},
+		"summary": {
+			"name": "The surah takes its name from V. 98, in which there is a reference to Prophet Yunus (عليه السلام). The name, as usual, is symbolical and does not indicate that the surah deals with the story of Prophet Yunus (عليه السلام). ",
+			"period": "Makkan",
+			"context": "We learn from traditions, and this is supported by the contents of the surah itself, that the whole of this surah was revealed at Makkah. Surah Yunus, Hud and Yusuf (Joseph) was revealed one after another.",
+			"theme": "A surah which takes its title from the reference to Yunus (عليه السلام) in verse 98. The main theme is to prove Tawheed, faith in Allah, the Hereafter and particularly prophethood. It stresses Allah’s Power, the authenticity of the Qur’an, and the fate of evildoers. Allah’s anger at those who consistently deny the truth of His revelations and signs is made clear, as is the fact that, were it not for His decision to await the Day of Resurrection, His judgement would already have fallen upon them. The Prophet (ﷺ) is encouraged to be patient and reminded of the fact that he cannot force people to believe.",
+			"breakdown": [
+				{
+					"name": "A BOOK OF WISDOM",
+					"rangeStart": "1",
+					"rangeEnd": "10",
+					"details": [
+						["This Book of Wisdom is one of the biggest signs from Allah."],
+					]
+				},
+				{
+					"name": "THE MOST WICKED PERSON",
+					"rangeStart": "11",
+					"rangeEnd": "20",
+					"details": [
+						["When a person is in need he calls out to Allah but when Allah removes the affliction he (the person) returns to disobedience as if he had never called upon Allah at all showing mans deep ingratitude to his creator."],
+						["Mankind was indeed one community but they differed and became groups."],
+					]
+				},
+				{
+					"name": "ALLAH’S INVITATION TO PARADISE",
+					"rangeStart": "21",
+					"rangeEnd": "30",
+					"details": [
+						["Allah invites everyone to the Home of Peace (Paradise) and guides whomever He wills to the straight path."],
+					]
+				},
+				{
+					"name": " PROOF OF THE QUR’AN",
+					"rangeStart": "31",
+					"rangeEnd": "40",
+					"details": [
+						["Allah is All-Knowing and it is not possible for this Qur’an to have been produced by anyone but Allah."],
+						["It is a confirmation of what came before it."],
+						["If people say that Prophet Muhammad (ﷺ) invented the Qur’an then ask them to bring forth a chapter like it."],
+						["They are not able to do so even when they ask for assistance."],
+					]
+				},
+				{
+					"name": "LOSERS IN THE HEREAFTER",
+					"rangeStart": "41",
+					"rangeEnd": "56",
+					"details": [
+						["On the Day of Judgement people will feel as if they have been in this world for an hour or less and they will recognise one another."],
+						["Those who denied this meeting will be the losers."],
+						["All will return to Allah and this will happen whether Prophet Muhammad (ﷺ) sees the punishment fall or not."],
+						["For every nation there is a messenger."],
+						["When the messenger comes they will be judged and there will be no injustice."],
+						["There is an appointed time for every community and when it is reached it cannot be delayed or hastened."],
+					]
+				},
+				{
+					"name": "GUIDANCE HAS COME",
+					"rangeStart": "57",
+					"rangeEnd": "60",
+					"details": [
+						["Instruction from Allah has been given to mankind; it is a mercy, a cure, and guidance. "],
+						["Tell them, Prophet Muhammad (ﷺ) that these things are a blessing and better for mankind than all the riches of this world that they try to accumulate."],
+					]
+				},
+				{
+					"name": "ALLAH WITNESSES EVERYTHING",
+					"rangeStart": "61",
+					"rangeEnd": "67",
+					"details": [
+						["Whatever matters people are engaged in, from reading the Qur’an to the mundane, Allah is a witness to it and it is all, the large and the small of it, recorded in a book. "],
+						["Not even a speck, the weight of dust escapes Allah’s knowledge, and it is kept in a clear record. "],
+						[""],
+						[""],
+						[""],
+					]
+				},
+				{
+					"name": "THE CONSEQUENCE OF LYING ABOUT ALLAH",
+					"rangeStart": "68",
+					"rangeEnd": "70",
+					"details": [
+						["Some people say that Allah has a son."],
+						["He is free of all needs, the master of the heavens and the earth."],
+						["They have no authority to make such a claim, why do they invent lies about Allah?"],
+						["Those who lie about Allah will not succeed, they may have some brief enjoyment in this world but in the Hereafter they will face severe punishment."],
+					]
+				},
+				{
+					"name": "STORIES FROM THE PAST",
+					"rangeStart": "71",
+					"rangeEnd": "86",
+					"details": [
+						["The story of Nuh (عليه السلام) has been related where his people rejected him and were drowned as a result."],
+						["Then Allah sent others, each to their own people. "],
+						["They came with clear evidences but the succeeding generations were persistent in their disbelief. "],
+						["Moosa and Haroon (عليهم السلام) were sent to Pharaoh and his people but they behaved arrogantly towards them and their message. "],
+						["Moosa (عليه السلام) said, 'Do you think I bring you magic; because magicians will never succeed.'"],
+						["Nobody believed Moosa (عليه السلام) except some of the youth amongst his own people; most of the people were too scared of Pharaoh’s regime."],
+						["Moosa (عليه السلام) asked the believers to put their trust in Allah and they prayed to Him to release them from the hands of the unjust people."],
+					]
+				},
+				{
+					"name": "DELIVERANCE",
+					"rangeStart": "87",
+					"rangeEnd": "95",
+					"details": [
+						["Allah revealed to Moosa and Haroon (عليهم السلام) that they should take their people to Egypt where they would build their houses and establish the prayer. "],
+						["Moosa (عليه السلام) then prayed that the wealth and splendour of Pharaoh’s people be taken away from them. "],
+						["Obliterate their wealth and harden their hearts he asked. "],
+						["So Moosa (عليه السلام) led his people across the sea; Pharaoh and his soldiers pursued them until they were drowned."],
+						["At the very last minute Pharaoh said that he believed in the God of Moosa (عليه السلام) but it was already too late and Allah saved his body so that he may be a sign for those that come after him.  "],
+					]
+				},
+				{
+					"name": "BELIEF AND THE PEOPLE OF YUNUS (عليه السلام)",
+					"rangeStart": "96",
+					"rangeEnd": "103",
+					"details": [
+						["No town ever saw the scourge then believed and it profited them except for the people of Yunus (عليه السلام)."],
+						["When they believed the punishment was removed, and they had enjoyment, for a time. "],
+						["If Allah had so willed all the people on the earth would have believed. "],
+						["Prophet Muhammad (ﷺ) is asked if he would compel the people, against their will to believe. "],
+						["Belief comes only by the will of Allah and He disgraces those who will not use their common sense. "],
+						[""],
+					]
+				},
+				{
+					"name": "GUIDANCE HAS ARRIVED, SO CHOOSE",
+					"rangeStart": "104",
+					"rangeEnd": "109",
+					"details": [
+						["If Allah afflicts you with a calamity, none can remove it but He; and if He intends to bestow a favour, none can withhold His Bounty."],
+						["He bestows it on whoever He pleases; He is the Forgiving, the Merciful."],
+						["Whoever chooses to follow the right path does so for his own benefit and whoever strays does so at his own risk."],
+					]
+				},
+			]
+		},	
+},
 	{
 		"name": "Hūd",
 	},
