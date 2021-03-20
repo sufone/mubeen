@@ -952,9 +952,154 @@ var surahsOld = [
 },
 	{
 		"name": "Hūd",
-	},
+		"summary": {
+			"name": "This surah has been named after Prophet Hud (عليه السلام) whose story has been related in V. 50-60. ",
+			"period": "Makkan",
+			"context": "This surah was most likely revealed during the same period as Surah Yunus and most probably followed it immediately. It is related that after its revelation, once Abu Bakr (رضي الله عنه‎) said to the Prophet (ﷺ), 'Of late I have been noticing that you are growing older and older. What is the cause of it?' The Prophet (ﷺ) replied, 'Surah Hud and the like surahs have made me old.' This shows that it was a very hard time for the Prophet (ﷺ) and these stern warnings added greatly to his anxieties that were caused by the persecution from the Quraysh, who were doing their worst to crush down the Message of Islam. ",
+			"theme": "A surah named after the prophet Hud (عليه السلام) whose story is given in verses 50–60. It begins by announcing that the Prophet (ﷺ) is sent both to warn and to give good news, and the body of the surah focuses on the warning aspect: Allah watches over everything and is aware of all that people do. In this surah we have the stories of prophets. Theere are many stories of past prophets Nuh, Salih, Hud, Lut, Shu’ayb and Moosa (عليهم السلام). The basic point is that Allah sent His prophets and messengers to mankind out of His Grace and Mercy, but when people did not listen to the prophets and rejected their message then Allah's punishment came and came relentlessly. ",
+			"breakdown": [
+				{
+					"name": "MESSAGE OF ALLAH",
+					"rangeStart": "1",
+					"rangeEnd": "7",
+					"details": [
+						["The message of the Qur’an is to worship Allah and seek forgiveness from Him to receive His Bounties."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],						
+					]
+				},
+				{
+					"name": "PATIENCE AND GOOD DEEDS",
+					"rangeStart": "8",
+					"rangeEnd": "16",
+					"details": [
+						["Whether one receives or does not receive Allah’s bounties, their forgiveness and reward depends on them having patience and good deeds."],
+						["The Disbelievers will always be doubtful of the authenticity of the Qur’an and so will find out the consequences in the Hereafter."],
+						[""],
+						[""],
+					]
+				},
+				{
+					"name": "THE TWO PARTIES",
+					"rangeStart": "17",
+					"rangeEnd": "24",
+					"details": [
+						["Angel Jibreel (عليه السلام), Allah’s witness, confirms the Qur’an."],
+						["A person who follows the Qur’an and Moosa’s (عليه السلام) book believes in it."],
+						["The Fire is for those who reject it."],
+						["Cursed are those losers who attribute lies to Allah, prevent others from Allah’s path – Islam – and reject life after death."],
+						["Those who have faith and do good deeds will reside in Paradise."],
+					]
+				},
+				{
+					"name": "STORY OF NUH (عليه السلام)",
+					"rangeStart": "25",
+					"rangeEnd": "49",
+					"details": [
+						["Nuh’s (عليه السلام) message to his people which was around present day southern Iraq was to worship Allah and fear the Day of Judgement but the leaders of his nation considered him to be a mere human followed by people of low status."],
+						["They rejected his answers and invited him to bring on the destruction he promised. "],
+						["Allah instructed Nuh (عليه السلام) to patiently bear their mockery and build the ark."],
+						["Tenderness of a father could not save his disbelieving son from drowning with the rest. "],
+						["The ark, carrying Nuh (عليه السلام), fellow believers, and animals landed safely."],
+					]
+				},
+				{
+					"name": "STORY OF HUD (عليه السلام)",
+					"rangeStart": "50",
+					"rangeEnd": "60",
+					"details": [
+						["The people of ‘Ad, to whom Hud (عليه السلام) was sent, lived in an area of curved sand hills in the southern part of the Arabian Peninsula."],
+						["Hud (عليه السلام) warned the people of Ad but they rejected his message so Allah’s punishment which lasted for 8 days and 7 nights destroyed them."],
+						["Hud (عليه السلام) and fellow believers were saved by Allah’s mercy."],
+					]
+				},
+				{
+					"name": "STORY OF SALIH (عليه السلام)",
+					"rangeStart": "61",
+					"rangeEnd": "68",
+					"details": [
+						["The dwelling places of Salih’s (عليه السلام) people, Thamud, are situated somewhere between Hijaz and Syria in the southeastern part of Midian which is situated east of the Gulf of Aqaba."],
+						["Chiseled out of stone, their dwellings are still preserved."],
+						["Salih’s (عليه السلام) message was similar to that of Nuh and Hud (عليهم السلام). "],
+						["In addition, he produced a female camel from the neighboring hills to prove that he was Allah’s true prophet but warned people not to harm it. "],
+						["Nevertheless, they killed it, thereby inviting Allah’s wrath in the form of a heavenly scream that left them dead, face down in their homes. "],
+					]
+				},
+				{
+					"name": "STORY OF IBRAHIM (عليه السلام)",
+					"rangeStart": "69",
+					"rangeEnd": "76",
+					"details": [
+						["Born in Iraq, Ibrahim (عليه السلام) settled in the city of Ur. "],
+						["He travelled to Harran in the north of the Arabian Peninsula and then to Palestine with his wife, Sarah, and his nephew, Lut (عليه السلام)."],
+						["Due to a drought, he then moved to Egypt."],
+						["Lut (عليه السلام) returned with Ibrahim (عليه السلام) from Egypt, but parted ways because the land was not enough for both their herds. "],
+						["Lut (عليه السلام) settled towards the Dead Sea near Sodom and Gomorrah."],
+						["Ibrahim (عليه السلام) had three beautiful character traits: forbearance, repentanance, and soft-heartedness. "],
+						["He was quick to serve unannounced guests - Angels of Allah - who brought two bits of news. "],
+						["One, destruction was forthcoming to the people of Lut (عليه السلام). "],
+						["As for the second, the birth of Ibrahim’s son, Is’haq (Isaac) (عليه السلام), from Sarah, his aged wife, and his grandson, Ya’qoob (عليه السلام). "],
+						["Ibrahim (عليه السلام) makes a futile attempt to turn away the Angels from Lut (عليه السلام). "],
+					]
+				},
+				{
+					"name": "STORY OF LUT (عليه السلام)",
+					"rangeStart": "77",
+					"rangeEnd": "83",
+					"details": [
+						["As hospitable as his uncle, Lut (عليه السلام) is distressed to see young, attractive guests who people immediately wanted to act lewd towards with."],
+						["Lut (عليه السلام) tries to reason with the people by pointing to available women for marriage and not to disgrace him."],
+						["Feeling powerless to protect his guests, the Angels comfort Lut (عليه السلام) that he will be unharmed."],
+						["He was to leave town at nightfall with his family except his wife who would stay behind as she had informed people of the Angelic guests and so helped the evildoers. "],
+						["Allah destroys them by lifting up the city, throwing it upside down, and raining them with stones due to their wickedness."],
+					]
+				},
+				{
+					"name": "STORY OF SHU’AIB (عليه السلام)",
+					"rangeStart": "84",
+					"rangeEnd": "95",
+					"details": [
+						["Shu’aib (عليه السلام) was sent to the people of Midian who lived in the land of Hijaz, next to Syria and east of the Gulf of Aqaba. "],
+						["According to some historians, that land is the site of the modern city of Tabuk."],
+						["The Disbelievers made fun of Prophet Shu’aib’s (عليه السلام) prayer, saying does it instruct him that they should leave ancestral gods or change how they dispose of their money."],
+						["He reminds them that he only wishes reformation and Allah is his strength on whom he relies. "],
+						["His compassionate pleading to look at the ruins of Nuh, Hud, Salih, and Lut (عليهم السلام) does not convince them. "],
+						["Shu’aib (عليه السلام) and fellow believers are rescued when a scream destroys them as if they never existed."],
+					]
+				},
+				{
+					"name": "STORY OF MOOSA (عليه السلام)",
+					"rangeStart": "96",
+					"rangeEnd": "102",
+					"details": [
+						["Moosa (عليه السلام) left Egypt, and traveling through Sinai, he headed towards Midian."],
+						["On his way he met his wife, the daughter of Shu’aib (عليه السلام)."],
+						["On their return journey, Allah spoke to Moosa (عليه السلام) at Mt. Tur (Mt. Horeb in Sinai) and thereafter, Moosa (عليه السلام) returns to Egypt."],
+						["Allah sent Moosa (عليه السلام) with clear proofs to Pharaoh and his ministers, but the latter followed the misguided orders of their ruler instead."],
+						["Cursed in both worlds, just as they followed him in the cold water that drowned them, they will follow him into the Fire."],
+					]
+				},
+				{
+					"name": "ALLAH’S REASON FOR DESTROYING NATIONS",
+					"rangeStart": "103",
+					"rangeEnd": "123",
+					"details": [
+						["Prophets were denied before, the Prophet (ﷺ) is advised to continue presenting the message with patience."],
+						["Had Allah willed He could have forced His will upon the people and made them all one people who believed."],
+						["The above narratives of the prophets are ‘signs’ related to Prophet Muhammad (ﷺ) for the benefit of those who fear the Day of reckoning and the punishment of the Hereafter."],
+						["These stories are meant for: consoling Prophet Muhammad (ﷺ), sending truth to Prophet Muhammad (ﷺ) and an advice and a reminder to the Believers."],
+					]
+				},
+			]
+		},	
+},
 	{
 		"name": "Yūsuf",
+
 	},
 	{
 		"name": "ar-Raʿd",
