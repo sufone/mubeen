@@ -1099,7 +1099,220 @@ var surahsOld = [
 },
 	{
 		"name": "Yūsuf",
-
+		"summary": {
+			"name": "Named after Prophet Yusuf (عليه السلام) as this surah is almost wholly dedicated to his story.",
+			"period": "Makkan",
+			"context": "The story of Yusuf (عليه السلام) was revealed after an Israelite asked Prophet Muhammad (ﷺ) what he knew about Prophet Yusuf (عليه السلام). The story of Yusuf (عليه السلام) was not known to the Arabs at the time and it was part of a test the Jews concocted to test Prophet Muhammad’s claim to prophethood, but he narrated it to them in their astonishment. The story of Yusuf (عليه السلام) is framed by a three-verse introduction and a 10 verse epilogue. It was revealed in a year that is known as the Year of Sorrow when the Prophet (ﷺ) lost two of his closest supporters, his uncle Abu Talib and his beloved wife Khadijah. During the time of Yusuf (عليه السلام) the ruling dynasty were a foreign Arab peoples from Syria known as the Amalekites and had the ruling Hyksos kings (with no pharaoh as they had their own religion), hence Yusuf’s (عليه السلام) relative ease of integration. The Hyksos ruled over Egypt up to the end of the fifteenth century B. C. and practically all the powers remained in the hands of the Israelites. Then there arose a great nationalist movement which overthrew the power of this dynasty and exiled 250,000 or so of the Amalekites. As a result of this, a very bigoted dynasty of Copts came into power and uprooted everything connected with the Amalekites. Then started that persecution of the Israelites which has been mentioned in connection with the story of Prophet Moosa (عليه السلام). ",
+			"theme": "A surah dealing primarily with the story of Yusuf (عليه السلام) but framed by a three-verse introduction about the Qur’an and a ten-verse epilogue about the Makkans response, the punishment met by earlier Disbelievers, and encouragement for the Prophet (ﷺ). The story confirms unconditionally that Allah has total control over all affairs and is a story of patience in the face of adversity and trust in the face of sorrow. The basic theme of the surah is to emphasize that all prophets were human beings and they were also highly moral beings.",
+			"breakdown": [
+				{
+					"name": "THE BEST STORY",
+					"rangeStart": "1",
+					"rangeEnd": "3",
+					"details": [
+						["The Qur’an is a book revealed to make things clear, it is revealed in the Arabic language and contains information that Muhammad (ﷺ) did not know. "],
+						["This story is called the best of stories meaning that it contains information relevant to events happening at the time of revelation and it contains lessons for all mankind."],
+						["The best story is the story in the Qur’an."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "YUSUF’S (عليه السلام) DREAM",
+					"rangeStart": "4",
+					"rangeEnd": "18",
+					"details": [
+						["Yusuf (عليه السلام) has a dream in which he sees the sun, moon and eleven stars prostrating before him."],
+						["This is interpreted as men bowing down to him."],
+						["He confides in his father who advises him to keep it secret from his brothers."],
+						["Yusuf (عليه السلام) and Binyamin (Benjamin) were the sons of Ya’qoob’s (عليه السلام) second wife. "],
+						["The older boys considered themselves men and blinded by jealousy they plan to kill Yusuf (عليه السلام). "],
+						["One of the brothers convinces the other brothers to throw him in a well instead."],
+						["They carry out their devious plan and using their father’s worst fear (a wolf attack) and a blood-stained shirt, they try to convince him of Yusuf’s (عليه السلام) death. "],
+						["Meanwhile, Allah eases Yusuf’s (عليه السلام) fear."],
+						["Allah inspires him that one day he will inform his brothers of their deed while they do not realize who he is. "],
+						["Yusuf’s (عليه السلام) father Ya’qoob (عليه السلام) sensed treachery but turned to Allah and accepted the news with trust and patience."],
+					]
+				},
+				{
+					"name": "YUSUF (عليه السلام) IS ESTABLISHED IN EGYPT",
+					"rangeStart": "19",
+					"rangeEnd": "22",
+					"details": [
+						["Yusuf (عليه السلام) is rescued from the well and sold into slavery."],
+						["He is sold for a small price to an influential man from Egypt, who comments to his wife that Yusuf (عليه السلام) may be of some service to them. "],
+						["Allah remarks that He established Yusuf (عليه السلام) in the land and provided him with sustenance in order to teach him the interpretation of dreams. "],
+						["Yusuf (عليه السلام) grows up in comfortable conditions and Allah bestows upon him good judgment and knowledge. "],
+						["He is in the house of a politician learning how to negotiate and make wise decisions."],
+						["Some dreams are from Allah as shown by the dream of Yusuf (عليه السلام), the dream of prisoners, and dream of the king, however some dreams are from Shaytan (nightmare)."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE FAILED SEDUCTION",
+					"rangeStart": "23",
+					"rangeEnd": "30",
+					"details": [
+						["The wife of the Egyptian politician watches Yusuf (عليه السلام) grow to manhood and is attracted to him. "],
+						["She tries to seduce him but he seeks refuge in Allah."],
+						["The wife chases him to the front door just as her husband is entering the house and then tries to blame him but a member of the household points out that his shirt was torn from the back."],
+						["The women of the city then began to gossip about Yusuf (عليه السلام) and the politician’s wife."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "YUSUF (عليه السلام) PREFERS PRISON",
+					"rangeStart": "31",
+					"rangeEnd": "35",
+					"details": [
+						["After she hears the gossip, she invites the women to her house in order to show them how beautiful and attractive Yusuf (عليه السلام) is."],
+						["She hands each of them a knife and calls for Yusuf (عليه السلام) to show himself. "],
+						["The women are astounded and cut their hands."],
+						["She explains that she tried to seduce him but he resisted. "],
+						["She threatens that if he does not obey now he will go to prison."],
+						["Yusuf (عليه السلام) is afraid that he will let himself be seduced so he asks Allah to protect him, saying he would prefer prison to what the women are planning. "],
+						[""]
+					]
+				},
+				{
+					"name": "MORE DREAMS",
+					"rangeStart": "36",
+					"rangeEnd": "40",
+					"details": [
+						["He is imprisoned along with two other men. "],
+						["The two other prisoners discuss their dreams with Yusuf (عليه السلام) and ask him to interpret them. "],
+						["One of them said, ‘I dreamed that I was pressing grapes’; the other said, ‘I dreamed that I was carrying bread on my head and that the birds were eating it.’ "],
+						["Yusuf (عليه السلام) mentioned their next meal reminding them that Allah provides their sustenance then replies that he is able to interpret dreams because Allah has taught him to do so."],
+						["He spells out his belief in Allah and in the Day of Judgement. "],
+						["Yusuf (عليه السلام) asserts that his family, the family of Ibrahim, Is’haq and Ya’qoob (عليهم السلام) hold the knowledge of the Oneness of Allah, and that his religion and family do not attribute partners to Allah."],
+						["Most people however do not realise this."]
+					]
+				},
+				{
+					"name": "YUSUF (عليه السلام) LANGUISHES IN PRISON",
+					"rangeStart": "41",
+					"rangeEnd": "42",
+					"details": [
+						["Yusuf (عليه السلام) interprets the dream."],
+						["One will serve wine to his master; the other will be crucified and the birds will peck at his head."],
+						["He asks the one to be saved to mention him (Yusuf (عليه السلام)) to his master. "],
+						["But Shaytan makes the man forget and Yusuf (عليه السلام) languishes in prison for more time."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "YUSUF’S (عليه السلام) INNOCENCE IS ESTABLISHED",
+					"rangeStart": "43",
+					"rangeEnd": "57",
+					"details": [
+						["The King (of Egypt) asks his counsellors to interpret his dream."],
+						["‘I dreamed about seven fat cows being eaten by seven lean ones; seven green ears of corn and [seven] others withered.’"],
+						["They were unable to do so and the ex-prisoner remembered Yusuf (عليه السلام). "],
+						["He ran to him and interprets the dream and the King asks for Yusuf (عليه السلام) to be brought into his presence. "],
+						["The ex-prisoner goes back to Yusuf (عليه السلام) but Yusuf (عليه السلام) asks him to ask his master (the King) about the women who cut their hands."],
+						["The King establishes Yusuf’s (عليه السلام) innocence."],
+						["Yusuf (عليه السلام) says he wanted his master, the politician to know that he did not betray him or abuse his trust."],
+						["Yusuf (عليه السلام) appears before the King who offers him a position of high rank but he asks to be put in charge of the storehouses."],
+						["In this way Allah settles Yusuf (عليه السلام) in the land."],
+						[""],
+						[""],
+					]
+				},
+				{
+					"name": "A DREAM PREDICTION FULFILLED",
+					"rangeStart": "58",
+					"rangeEnd": "66",
+					"details": [
+						["Yusuf’s (عليه السلام) brothers present themselves asking for their measure of grain."],
+						["He recognizes them but they do not recognize him. He asks them to come again, this time with their younger brother. Without him they will not be permitted to have the grain."],
+						["They reply that they will try to persuade their father and get his permission. "],
+						["Yusuf (عليه السلام) tells his servants to put the goods his brothers traded for grain back in their saddle bags in order to make them eager to return."],
+						["The brothers ask their father Ya’qoob (عليه السلام) to let them take their younger brother Binyamin but he is wary asking 'Am I to entrust him to you as I did his brother before?'"],
+						["The brothers open the saddle bags and find their good returned to them"],
+						["Ya’qoob (عليه السلام) says he will not send the boy unless the brothers swear they will do everything humanly possible to keep him safe. They gave their pledge and Ya’qoob (عليه السلام) said, ‘Our words are entrusted to Allah.’"],
+					]
+				},
+				{
+					"name": "THE BROTHERS RETURN",
+					"rangeStart": "67",
+					"rangeEnd": "82",
+					"details": [
+						["Ya’qoob (عليه السلام) advises his sons to not all enter the city by the same gate as a precaution but at the same time tells them that this will not help them against the will of Allah.  All power is in Allah’s hands, says Ya’qoob (عليه السلام)."],
+						["The sons of Ya’qoob (عليه السلام) present themselves to Yusuf (عليه السلام) and he draws his youngest brother Binyamin aside and reveals his identity to him."],
+						["Yusuf (عليه السلام) gives his brothers their portion of grain but places his drinking cup in his youngest brother’s pack. Someone calls out and accuses the caravan of thievery. ‘What is lost?’ the brothers ask. ‘The King’s drinking cup’, is the reply, and ‘whoever returns it will be given a camel’s load of grain’."],
+						["The brothers respond that they did not come to make mischief. Yusuf’s (عليه السلام) men ask the brothers what penalty should apply if they are found to be lying. They answered, ‘the penalty will be the enslavement of the person in whose bag the cup is found: this is how we punish wrongdoers.’"],
+						["Yusuf (عليه السلام) did not want his brother punished under the laws of Egypt but wanted the opportunity to keep his brother with him while the others returned to their father Ya’qoob (عليه السلام). The bags are searched and the cup is found in the youngest brother’s belongings."],
+						["Allah explains that He devised a plan for Yusuf (عليه السلام) and that He will raise the status of whomsoever He wills."],
+						["The brothers allude to Binyamin’s brother (Yusuf (عليه السلام)) being a thief, but Yusuf (عليه السلام) controls himself and does not disclose his identity. The brothers beg that one of them be allowed to stay in his brother’s stead; this is refused."],
+						["Finally, the eldest brother, remembering the pledge he gave to his father, vows to stay in Egypt until Ya’qoob (عليه السلام) gives him permission to leave or Allah decides on another course of action."],
+						["The remaining brothers return to their father Ya’qoob (عليه السلام) saying, we tried to keep our pledge but we could not have foreseen that your son would steal. Ask the people we travelled with if you need proof."],
+						[""],
+						[""],
+					]
+				},
+				{
+					"name": "YA’QOOB’S (عليه السلام) SORROW",
+					"rangeStart": "83",
+					"rangeEnd": "86",
+					"details": [
+						["Their father said, ‘No! Your souls have prompted you to do wrong!’ He turned away from them saying ‘Alas, my grief for Yusuf (عليه السلام)!’"],
+						["Ya’qoob’s (عليه السلام) eyes went white with grief (he was blind) and the brothers said, ‘If you don’t stop thinking about Yusuf (عليه السلام) you will ruin your health or even die.’ He said, 'I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know’."],
+						["When this new sorrow overwhelmed Ya’qoob (عليه السلام), his first reaction was to be patient."],
+						["He knew, without a shred of doubt, that the affairs of his beloved youngest sons were controlled by Allah."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "YUSUF’S (عليه السلام) REVEAL",
+					"rangeStart": "87",
+					"rangeEnd": "98",
+					"details": [
+						["Ya’qoob (عليه السلام) said, ‘My sons, go and seek news of Yusuf (عليه السلام) and his brother and do not despair of Allah’s Mercy– only Disbelievers despair of Allah’s mercy.’ So, they presented themselves before Yusuf (عليه السلام) without knowing his real identity."],
+						["They explained that misfortune had afflicted their family and asked Yusuf (عليه السلام) to be charitable towards. Allah, they said, rewards the charitable. Yusuf (عليه السلام) replied by ‘Do you now realize what you did to Yusuf (عليه السلام) and his brother when you were ignorant?’"],
+						["The brothers were astounded and asked if he was Yusuf (عليه السلام) and he said, ‘I am Yusuf (عليه السلام)’. They said Allah really did favour you over all of us; we were in the wrong. Yusuf (عليه السلام) replied that no reproach would be on them and may Allah forgive them."],
+						["Yusuf (عليه السلام) then handed them his own shirt telling them to lay it over their father’s face and all would be well, then he asked them to come back altogether."],
+						["Back at home Ya’qoob (عليه السلام) was saying that he could smell Yusuf (عليه السلام), and those around him looked upon him with derision thinking him lost in an old illusion."],
+						["When the shirt was placed on Ya’qoob’s (عليه السلام) face his eyesight returned and he said, ‘Did I not tell you that I have knowledge from Allah that you do not have?’"],
+						["The brothers asked their father to ask Allah to forgive them and he replied that his Lord is the Most Forgiving and the Most Merciful."]
+					]
+				},
+				{
+					"name": "DREAM FULFILLED",
+					"rangeStart": "99",
+					"rangeEnd": "101",
+					"details": [
+						["Later when the whole family was presented before Yusuf (عليه السلام) he drew his parents close to him and welcomed them telling them that, Allah willing they will be safe."],
+						["They all bowed down to Yusuf (عليه السلام) and he commented to his father that this was the fulfilment of the dream he had so long ago. "],
+						["Yusuf (عليه السلام) said that Allah had been gracious towards him after Shaytan had sowed discord between he and his brothers."],
+						["Yusuf (عليه السلام) prays to Allah acknowledging his blessings and asking to live and die as a Muslim and be joined with the righteous."],
+						["The story of Yusuf (عليه السلام) is a lesson for all of mankind. True patience and the ability to forgive are lofty characteristics worthy of inculcating."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "A LESSON TO THE PROPHET (ﷺ)",
+					"rangeStart": "102",
+					"rangeEnd": "111",
+					"details": [
+						["That concludes the story of Yusuf (عليه السلام) and in this final 10-verse epilogue Allah tells Prophet Muhammad (ﷺ) that this was the story of which he had no previous knowledge and that he was not present when the brothers made their evil plans."],
+						["his story was Allah advising Prophet Muhammad (ﷺ) that the road may be long and difficult but the ultimate victory belongs to those with God-consciousness and patience."]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "ar-Raʿd",
