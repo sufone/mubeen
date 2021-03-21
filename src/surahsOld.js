@@ -1619,6 +1619,183 @@ var surahsOld = [
 	},
 	{
 		"name": "an-Naḥl",
+		"summary": {
+			"name": "The name, An-Nahl, of this surah has been taken from V.68 inspired in its remarkable way by Allah.",
+			"period": "Makkan",
+			"context": "This surah was revealed during the last Makkan stage of prophethood when persecution had forced some Muslims to emigrate to Habasha.",
+			"theme": "The bee is just one of the numerous examples given in this surah of Allah’s Grace and the many things man should be grateful for. This is a surah mentioning many blessings of Allah. Blessing of Qur'an. Creation of man. Cattle animals that we use as vehicles. The surah condemns the idolaters who attribute Allah’s bounty to other powers and worship false gods. Ibrahim (عليه السلام) is given at the end as an example for the Muslim community to follow. Until verse 88, the surah is directed at the polytheists; from verse 90 onwards it teaches the Muslims in various ways. Verse 89 connects the two parts by naming the Prophet (ﷺ) as witness to the Believers and Disbelievers of his community.",
+			"breakdown": [
+				{
+					"name": "MONOTHEISM AND ALLAH’S BLESSING FOR MANKIND",
+					"rangeStart": "1",
+					"rangeEnd": "21",
+					"details": [
+						["The Day of Judgement is coming so do not be impatient to experience it. "],
+						["Allah sends down Angels to inspire some people to warn others that there is no true deity but Allah."],
+						["Fear Him for He is far above anything they associate with Him."],
+						["People are created from a tiny drop of sperm but soon they become strong and openly challenge Allah."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "PUNISHMENT FOR ARROGANCE",
+					"rangeStart": "22",
+					"rangeEnd": "29",
+					"details": [
+						["Allah is One, those who do not believe in the Hereafter are arrogant and their hearts contain no faith."],
+						["Allah does not like the arrogant because He knows what they keep hidden and what they say or do openly."],
+						["When they are asked about what Allah has revealed they say that it is nothing but fairy tales from the old days."],
+						["On the Day of Resurrection, they will bear their own burdens plus some of the burdens of those they led astray."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH’S REWARD",
+					"rangeStart": "30",
+					"rangeEnd": "40",
+					"details": [
+						["Those who feared Allah and were righteous will be asked about what Allah sent down and they will describe it as good."],
+						["There are rewards in this world for the righteous but their home in the Hereafter is even better."],
+						["Whereas those who face the punishment say they would have worshipped Allah alone if that is what He had willed; their forefathers said that too."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "REFLECTION",
+					"rangeStart": "41",
+					"rangeEnd": "50",
+					"details": [
+						["Those who had to leave their homes in order to worship Allah will find a home in a good place but the home they have in the Hereafter will be even better."],
+						["All the messengers Allah sent were human beings, the people of the scripture (Jews and Christians) know this, so ask them if you need to."],
+						["Now this Qur’an has come so that Prophet Muhammad (ﷺ) can explain things clearly and the people can think and reflect."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "FALSE WORSHIP",
+					"rangeStart": "51",
+					"rangeEnd": "60",
+					"details": [
+						["Prohibition against worshipping two deities, Allah is the Sustainer."],
+						["All blessings are from Allah and it is to Allah that the distressed person turns, yet as soon as the relief comes some people turn to something other than Allah."],
+						["The Arab polytheists wrongly say that Allah has daughters but they themselves want to have only sons."],
+						["When the birth of a female child is announced the father is consumed with grief and has to decide whether to bear their perceived humiliation or bury the girl alive."],
+						["They attribute to Allah the daughters that they themselves dislike."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "A WARNING",
+					"rangeStart": "61",
+					"rangeEnd": "69",
+					"details": [
+						["If Allah punished mankind for the evil that they do there would not be one person left on the earth. "],
+						["Instead He gives them respite, until an appointed time."],
+						["The Qur’an was revealed in order to make the things they argue about clear and it is a guidance and a mercy for those who believe."],
+						["Allah created the bee, which feeds on all kinds of fruit and produces honey for the benefit of mankind."],
+						["It comes in many colours and has healing properties."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH’S EXAMPLES AND BLESSINGS",
+					"rangeStart": "70",
+					"rangeEnd": "81",
+					"details": [
+						["Some people will live well into old age and will lose their faculties, some will have more wealth."],
+						["Are slaves and those who have been provided with everything equal?"],
+						["Is a person unable to care for himself equal to one who is righteous and dispenses justice?"],
+						["Babies emerge from their mother’s wombs knowing nothing but Allah provides them with hearing, sight and minds so that they can be thankful to Him. "],
+						["Allah has made the birds able to fly without falling, provides mankind with shelter and garments for warmth and battle."],
+						["He bestows the favours so that you will submit to Him."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE DISBELIEVERS PUNISHMENT",
+					"rangeStart": "82",
+					"rangeEnd": "89",
+					"details": [
+						["On the Day of Judgment there will be a witness (their Messenger) from every nation."],
+						["Then it will be too late for excuses."],
+						["Allah will bring a witness from every nation and Prophet Muhammad (ﷺ) will be the witness over the Muslims. "],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH COMMANDS RIGHTEOUSNESS",
+					"rangeStart": "90",
+					"rangeEnd": "100",
+					"details": [
+						["Allah commands mankind to be just and behave with righteousness whilst being supportive of their relatives."],
+						["Whenever you recite from the Qur’an seek refuge in Allah from the accursed Shaytan. "],
+						["Shaytan has no power over those who are submitted to Allah; his power only affects those who align themselves with him (Shaytan) and worship something other than Allah."],
+						["Famous verse quoted in all Jumu’ah prayer.v.90."],
+						["‘Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression."],
+						["He admonishes you that perhaps you will be reminded.’"],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH DOES NOT GUIDE THE DISBELIEVERS",
+					"rangeStart": "101",
+					"rangeEnd": "111",
+					"details": [
+						["When Allah substitutes one verse for another they say that Prophet Muhammad (ﷺ) has invented lies but they do not understand that Angel Jibreel (عليه السلام) has brought the verses down piecemeal in order to gradually strengthen the believers. "],
+						["They say that a human being has taught Prophet Muhammad (ﷺ) the revelations but this Qur’an is in clear Arabic."],
+						["Allah has sealed the hearts, ears and eyes of the heedless, but those who must flee persecution or are compelled to say words of disbelief will feel Allah’s Mercy and Forgiveness. "],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH’S BLESSING OF FOOD",
+					"rangeStart": "112",
+					"rangeEnd": "117",
+					"details": [
+						["Allah presents an example of a town that was secure with provisions in abundance. "],
+						["The people became ungrateful so they were afflicted with famine and fear. "],
+						["They denied their messenger and the punishment overtook them. "],
+						["So eat from the good things Allah has provided and be grateful."],
+						["Allah has forbidden only carrion, blood, pig meat and that which has been dedicated to something other than Allah. "],
+						["But if a person must eat these things out of necessity Allah will be Forgiving."],
+						[""]
+					]
+				},
+				{
+					"name": "THE EXAMPLE OF THE RIGHTEOUS",
+					"rangeStart": "118",
+					"rangeEnd": "128",
+					"details": [
+						["The Jews were prohibited certain things but it was not a hardship upon them, they turned it into a hardship."],
+						["The Sabbath day was made obligatory because they argued and differed about it and on the Day of Judgment Allah will judge between them."],
+						["Prophet Ibrahim (عليه السلام) is a good example, he was devout, obedient, righteous and grateful."],
+						["If you must retaliate make your response proportionate to how you were harmed, however it is better to be patient."],
+						["Prophet Muhammad (ﷺ) is told to be patient and not to grieve or be distressed by the conspiracies of the Disbelievers."],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Isrāʾ",
