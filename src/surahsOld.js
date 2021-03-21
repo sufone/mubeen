@@ -1316,6 +1316,99 @@ var surahsOld = [
 	},
 	{
 		"name": "ar-Raʿd",
+		"summary": {
+			"name": "This surah takes its name from the word Ar-Ra'd that occurs in v.13. It is merely the symbolic name of the surah and does not in any way mean that the surah deals with the scientific problems connected with thunder. ",
+			"period": "Medinan",
+			"context": "This surah was revealed in the last stage of the mission of the Prophet (ﷺ) at Makkah and during the same period in which Surahs Yunus, Hud and Al-A’raaf were sent down. The manner of speech indicates that a long time had passed since the Prophet (ﷺ) had been conveying the Message.",
+			"theme": "The surah is distinguished by its moving description of Allah’s Power and Knowledge. Muhammad’s (ﷺ) place in a long tradition of prophets, none of whom could produce miracles on request, is stressed, and his role emphasized: it is only to deliver the message. Allah is the One who will call people to account for their deeds, and He is the witness for the truth of the message.",
+			"breakdown": [
+				{
+					"name": "ALLAH’S MAJESTY",
+					"rangeStart": "1",
+					"rangeEnd": "4",
+					"details": [
+						["Allah created the heavens; they are above us without any visible means of support. Then He established Himself above the heavens on His Throne."],
+						["He created the universe for the benefit of mankind and describes the marvels of the universe, the seen and unseen."],
+						["The thunder and lightning are one of these signs causing fear and hope."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH’S SIGNS AND ALL KNOWINGNESS",
+					"rangeStart": "5",
+					"rangeEnd": "15",
+					"details": [
+						["Some people ask and challenge the Prophet (ﷺ) about whether or not they will be resurrected; they are destined for the Fire."],
+						["Allah knows everything about the obvious and the hidden and each person has two guardian Angels."],
+						["Allah will not change the condition of a people unless they change themselves."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE BELIEVERS AND DISBELIEVERS",
+					"rangeStart": "16",
+					"rangeEnd": "27",
+					"details": [
+						["Stark realities of falsehood and Disbelievers are contrasted with the truth which Believers follow and both their ends."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH’S PROMISE",
+					"rangeStart": "28",
+					"rangeEnd": "30",
+					"details": [
+						["Remembering Allah and His excellent promises makes a believer’s heart tranquil."],
+						["Allah provides a beautiful resting place for those who believe and do good deeds."],
+						[" Prophet Muhammad (ﷺ) was sent to his own community to recite what Allah had revealed. Yet they still disbelieve."],
+						["Prophet Muhammad (ﷺ) is told by Allah to respond to the Disbelievers. Tell them that Allah is your Lord, there is none but Him and that you have put your trust in Him knowing that you will return to Him."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH IS THE ONE WHO GUIDES",
+					"rangeStart": "31",
+					"rangeEnd": "34",
+					"details": [
+						["If there was ever to be a recitation that could move mountains, shatter the earth, or make the dead speak it would be this one. "],
+						["Allah commands everything and He could have guided all of mankind if that had been His will. "],
+						["The Disbelievers will never be far from disaster, until the end when Allah’s promise will be fulfilled. "],
+						["You, Muhammad are not the first messenger to be mocked. "],
+						["Even though the Disbelievers were granted a respite, they were taken to task with a terrible punishment."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "AN INVITATION",
+					"rangeStart": "35",
+					"rangeEnd": "43",
+					"details": [
+						["The Believers will have Paradise, the Disbelievers will have Fire and there are those who accepted Islam from among the People of the Book (Jews and Christians) who rejoice at the new revelations (Qur’an) but some from among the People of the Book who deny parts of it. "],
+						["This is only an invitation from the Prophet (ﷺ) to follow the Mother of the Book written in Arabic."],
+						["All previous messengers had a book and Allah confirms that He is a witness to the truth of the message of the Prophet (ﷺ) even though Disbelievers do not believe it."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "Ibrāhīm",
