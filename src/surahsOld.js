@@ -1523,6 +1523,99 @@ var surahsOld = [
 	},
 	{
 		"name": "al-Ḥijr",
+		"summary": {
+			"name": "This surah takes its title from the reference to the people of al-Hijr (verses 80–4).",
+			"period": "Makkan",
+			"context": "The period of its revelation is about the same as that of Surah Ibrahim.",
+			"theme": "This surah is an example of the many who disbelieved and rejected their prophets. A key theme is the fate of the people who disbelieve. Each has its own time for punishment so the Prophet (ﷺ) should bear patiently, not grieve over what the Disbelievers say and continue with his worship. The surah uses the example of nature and Iblees’ insistence on corrupting people to show, in turn, Allah’s grace and the danger Shaytan personifies.",
+			"breakdown": [
+				{
+					"name": "LESSONS FROM THE EARLIER NATIONS",
+					"rangeStart": "1",
+					"rangeEnd": "15",
+					"details": [
+						["The Disbelievers will one day come to wish that they had submitted themselves to Allah."],
+						["Allah has never destroyed a people except at the time that was previously decreed."],
+						["They call Prophet Muhammad (ﷺ) insane and ask him for Angels but the Angels will only appear to strike them down. "],
+						["Messengers were sent to earlier nations and they were all mocked and ridiculed by their own people."],
+						["Some people will not believe even though they know the stories of the people who came before them."],
+						["Even if Allah had opened a gate in Paradise they would believe themselves to be dazzled and bewitched by magic."],
+						[""]
+					]
+				},
+				{
+					"name": "THE SUSTAINER",
+					"rangeStart": "16",
+					"rangeEnd": "25",
+					"details": [
+						["Allah created the heavens and made it beautiful by filling it with constellations."],
+						["He protects it from the devils and those who try to eavesdrop on the inhabitants of the heavens are followed by a fiery comet."],
+						["Allah is the Sustainer to all created things."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "SHAYTAN",
+					"rangeStart": "26",
+					"rangeEnd": "44",
+					"details": [
+						["Mankind was created from humble clay (altered black mud) and the Jinn were created before mankind from smokeless Fire."],
+						["When Allah created Adam (عليه السلام) he told the Angels to bow down before him (Adam عليه السلام) and they did, except Iblees who was cast out and cursed until the Day of Judgment. "],
+						["He asked for a reprieve until that Day and Allah granted it to him."],
+						["Iblees vowed to mislead mankind and make disobedience attractive to all of them except the ones sincerely devoted to Allah."],
+						["Allah said that the misguided ones would go to Hell, an allotted number through each of the seven gates of Hell."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "GARDENS FOR THE RIGHTEOUS",
+					"rangeStart": "45",
+					"rangeEnd": "51",
+					"details": [
+						["The righteous however will enter into gardens and springs. They will be told to enter in peace and security."],
+						["All resentments and bitterness will be removed from their hearts. They will treat each other like close family members."],
+						["It is a place from which they will never be turned out and they will never be tired."],
+						["Allah is All Merciful but His punishment is severe."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "PREVIOUS NATIONS",
+					"rangeStart": "52",
+					"rangeEnd": "84",
+					"details": [
+						["Prophet Ibrahim (عليه السلام) was afraid when the Angels visited him even though they greeted him with peace. They allayed his fears and told him that he would have a son."],
+						["The Angels informed of the destruction of the people of Lut (عليه السلام) and his wife, but that he and his followers will be saved."],
+						["The town was turned upside down and stones of baked clay rained down upon them as a result of their lewd sins."],
+						["The Forest Dwellers, believed to be the people of Prophet Shu’aib (عليه السلام), were also wrongdoers and Allah took retribution on them. Both places are still on the open road, plain for all to see."],
+						["The people of the Rocky Tract, Al-Hijr, also denied their messenger (Salih عليه السلام) and ignored Allah’s signs. A mighty blast seized the them and even their homes built into the rocks could not save them."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "REMINDER AND COMFORT TO THE PROPHET (ﷺ)",
+					"rangeStart": "85",
+					"rangeEnd": "99",
+					"details": [
+						["Allah reminds the Prophet (ﷺ) that He gave him great blessings like the seven oft-repeated verses and the Qur’an."],
+						["Prophet Muhammad (ﷺ) is further told to be kind to the Believers and to tell the people that he is nothing except a warner."],
+						["All will be questioned about their behaviour including those who invented lies about the Qur’an just as others invented lies about their own scriptures. "],
+						["Allah tells Muhammad (ﷺ) He knows how distressed he is by what the Disbelievers are saying but that he should cure his distress by praising Allah, bowing before Him and worshipping Him until the certainty of death arrives."],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "an-Naḥl",
