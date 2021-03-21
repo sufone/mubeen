@@ -1412,6 +1412,114 @@ var surahsOld = [
 	},
 	{
 		"name": "Ibrāhīm",
+		"summary": {
+			"name": "The surah takes its name from V.35 in which mention has been made of Prophet Ibrahim (عليه السلام).",
+			"period": "Makkan",
+			"context": "This surah belongs to a group of surahs which were revealed during the last stage of the Makkan period.",
+			"theme": "A surah named after Ibrahim (عليه السلام) (verses 35–41), who prays to Allah that Makkah may be made prosperous so that its people may be thankful and continue to worship Allah. The ungrateful are condemned, and the grateful commended, throughout the surah. Ibrahim (عليه السلام) also asks that he and his descendants may be protected from idol-worship. This serves to remind the Makkans that they should shun the worship of idols.",
+			"breakdown": [
+				{
+					"name": "THE MESSAGE",
+					"rangeStart": "1",
+					"rangeEnd": "12",
+					"details": [
+						["This Qur’an was sent to Prophet Muhammad (ﷺ) so that he could use it to lead the people out of darkness and ignorance and into the light of Allah."],
+						["Prophet Moosa (عليه السلام) was also told to bring his people into the light and to remind them of their divine history, particularly the troubled times when they were living under the yoke of Pharaoh. "],
+						["The message was also denied and rejected by the people of Nuh (عليه السلام), and Ad and Thamud, as well as the people who came after them."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE SUFFERING OF THE DISBELIEVERS",
+					"rangeStart": "13",
+					"rangeEnd": "17",
+					"details": [
+						["The Disbelievers wanted the messengers to return to their old religion but Allah made them understand that He would destroy the Disbelievers and then the messengers and their followers would live in the land after the Disbelievers were gone. "],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE KHUTBAH OF SHAYTAN",
+					"rangeStart": "18",
+					"rangeEnd": "22",
+					"details": [
+						["The good deeds of those who disbelieve are like ashes blowing in the wind."],
+						["When the weak appear before Allah they will call out for help to those who considered themselves mighty. "],
+						["They will answer by saying if Allah had guided us we would have guided you, but there is no escape now whether we panic or bear it in silence."],
+						["Shaytan will tell them that Allah’s promise was true however he (Shaytan) deceived them."],
+						["They followed him (Shaytan) of their own free will. Shaytan rejects those who followed him and they will face a severe punishment."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "REFLECT AND PONDER",
+					"rangeStart": "23",
+					"rangeEnd": "27",
+					"details": [
+						["Those who believe and do good deeds will be admitted to Paradise, where gardens bloom and rivers flow. "],
+						["Their greeting will be the word ‘Peace’. "],
+						["In order that we may ponder and reflect, Allah compares a ‘good word’ with a good tree whose branches reach high into the sky, roots are firmly planted in the ground and it yields fruit every season."],
+						["Likewise, a ‘bad word’ is like a bad tree. It is easily uprooted and has no endurance."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH’S BOUNTY",
+					"rangeStart": "28",
+					"rangeEnd": "34",
+					"details": [
+						["There are some people who have responded to the favors of Allah with ingratitude."],
+						["They cause others to end up burning in the Fires of Hell by encouraging the worship of false gods. "],
+						["Their pleasure will be in this life only for they have no hope of Paradise."],
+						["Everything has been provided yet most of mankind is ungrateful."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "DUA OF PROPHET IBRAHIM (عليه السلام)",
+					"rangeStart": "35",
+					"rangeEnd": "41",
+					"details": [
+						["Prophet Ibrahim (عليه السلام) implored Allah to keep the city of Makkah secure and to keep himself and his descendants free from the sin of worshipping idols."],
+						["He settled his family in the barren valley (Makkah) and prayed that they would establish the prayer and build a thankful community there."],
+						["Ibrahim (عليه السلام) praises Allah for the birth of his sons, Isma’eel and Is’haq (عليهم السلام), in his old age and asks for forgiveness for the Believers on the Day of Judgment."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "A WARNING AND A MESSAGE",
+					"rangeStart": "42",
+					"rangeEnd": "52",
+					"details": [
+						["Allah knows exactly what the Disbelievers do; He gives them respite until the Day when they will be staring around in horror."],
+						["The people should be warned that a Day will come when the earth and the heavens will change into another earth and heavens and everyone who ever lived will stand before Allah. "],
+						["Everyone will be judged and every soul will get exactly what it deserves."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Ḥijr",
