@@ -1944,6 +1944,175 @@ var surahsOld = [
 	},
 	{
 		"name": "al-Kahf",
+		"summary": {
+			"name": "This surah takes its name from v. 9 in which the word (al-kahf) occurs.",
+			"period": "This was revealed during the first of those surahs which were sent down from the fifth to the tenth year of prophethood when opponents employed the weapons of persecution, man handling and economic pressure on the Muslims but migration to Habasha had not yet taken place. That is why the story of the Sleepers of the Cave has been related to comfort and encourage the persecuted Muslims and to show them how the righteous people have been saving their faith in the past.",
+			"context": "Makkan",
+			"theme": "A surah which gets its name from the Sleepers of the Cave, whose story takes a prominent place in the surah as they were tested in their faith. This surah also deals with two other stories: Moosa’s (عليه السلام) meeting with an unidentified figure said to be Khidr (رضي الله عنه‎) and his test in knoweldge, and the story of Dhu’l-Qarnayn and his test in power. A parable is put forward for the people of Makkah: the parable of the luscious gardens belonging to an arrogant and ungrateful man, which Allah reduces to dust highlighting the test of wealth. The surah opens and closes with references to the Qur’an itself and revolves around the idea of persecution.",
+			"breakdown": [
+				{
+					"name": "QUR’AN IS A STRAIGHTFORWARD BOOK",
+					"rangeStart": "1",
+					"rangeEnd": "8",
+					"details": [
+						["Praise be to Allah who has revealed an uncomplicated book; a book that does not deviate from the straight path, warns and gives good news."],
+						["The Prophet (ﷺ) is told that he is in danger of worrying himself to death over the people who do not believe in his message."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE SLEEPERS IN THE CAVE",
+					"rangeStart": "9",
+					"rangeEnd": "26",
+					"details": [
+						["Allah narrates the story of the young pious men who Allah guided and gave them refuge in the cave (after a king that was after them who threatened their religion), praying that Allah would guide them to a way out of their predicament."],
+						["Allah put them into a deep sleep and awakened them after a long period of time. "],
+						["How long they had been sleeping is argued about by believers and nonbelievers alike but now Allah reveals the truth of the matter."],
+						["(Before taking refuge in the cave) They declared that Allah was the Lord of the heavens and the earth and they would never call upon any deity other than Him."],
+						["They discussed it amongst each other and withdrew to the cave knowing that Allah would cover them with His Mercy and guide them out of the ordeal they found themselves in."],
+						["And if you had been there with the sleepers you would have seen that the sun rose on their right and set on their left. "],
+						["All the while they lay in an open space within the cave."],
+						["If you looked at the sleepers you might have thought that they were awake, they turned from one side to the other and their dog lay stretched out at the entrance to the cave. "],
+						["If you had seen them you would have ran away filled with terror."],
+						["In the same way that He put them to sleep Allah woke them up."],
+						["The youths began to question one another, asking, how long have we been sleeping."],
+						["It felt like only a day or part of a day and they agreed that only Allah knew for sure how much time had passed. "],
+						["One of them went to the town with a silver coin to look for food. "],
+						["The others warned him to be cautious and not disclose their whereabouts."],
+						["If he was caught he would be stoned to death or worse he would be forced to change to their religion."],
+						["So Allah brought them to people’s attention so that everyone may know that His promises of Resurrection and the Last Hour were true. "],
+						["The people who found them argued and disputed amongst themselves and those who prevailed decided to build a house of worship over them. "],
+						["The people who heard the story argued about how many sleepers there were, but they guess at the unseen because only a few people have any real knowledge."],
+						["Therefore adhere to what is clear and never say that you will do something without saying if Allah wills."],
+						["If you do forget then remember Allah and hope that He will guide you to even better conduct."],
+						["Some say they stayed in the cave for 300 years, others say 309, but the Prophet (ﷺ) is told to say that only Allah knows exactly how long they were there, because He is the one who knows all the secrets of the heavens and the earth."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "REMEMBERANCE OF ALLAH",
+					"rangeStart": "27",
+					"rangeEnd": "31",
+					"details": [
+						["The Prophet (ﷺ) is told to recite what has been revealed to him and there is no authorisation to change anything in any way. "],
+						["Be busy in the rememberance of Allah for the wrongdoers will end up surrounded by Fire and the righteous believers in Gardens of Eternity."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "A PARABLE OF THE TWO GARDENS",
+					"rangeStart": "32",
+					"rangeEnd": "44",
+					"details": [
+						["Allah then narrates the parable of two men both with beautiful gardens with a river between."],
+						["One man told the other that he was wealthier and had more followers and believed it will last forever and the Last Hour will never come and even if it did Allah would reward him with something even better."],
+						["The other man asked if he disbelieved in the One who created him, for he does not, and he should have said that all is as Allah willed and no one has power except Him. "],
+						["Although I have less, Allah might give me something better and destroy what you have."],
+						["As such the first man’s garden was destroyed and he wished he had not attributed his prosperity to himself rather than Allah and realised real protection comes from Allah."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE QUR’AN IS FULL OF PARABLES",
+					"rangeStart": "45",
+					"rangeEnd": "59",
+					"details": [
+						["The life of this world is like vegetation that flourishes but then dries up and withers away, blown in the wind."],
+						["Here one day gone the next."],
+						["The world is distraction and the Day of Judgement is coming."],
+						["Remind the people about when the Angels prostrated to Adam (عليه السلام)."],
+						["Iblees was amongst them and he refused. "],
+						["Taking Shaytan and his offspring as masters would be a grave mistake and one will realise on the Day of Judgement."],
+						["The Qur’an is full of examples to make people understand, but mankind is quarrelsome."],
+						["Allah sends guidance and messengers to remind but those who turn away and mock it have veils cast over their hearts and their ears are deaf."],
+						[""],
+						[""],
+						[""],
+					]
+				},
+				{
+					"name": "MOOSA (عليه السلام) AND KHIDR (رضي الله عنه‎)",
+					"rangeStart": "60",
+					"rangeEnd": "82",
+					"details": [
+						["Moosa (عليه السلام) said that he would never give up travelling until he reached the appointed place but he and his servant boy forgot about the fish and missed the junction."],
+						["The place where the fish was forgotten was the appointed place, so they turned back and there was the man they were looking for, Khidr (رضي الله عنه‎)."],
+						["He was very knowledgeable and Moosa (عليه السلام) hoped to learn from him but Khidr (رضي الله عنه‎) expressed doubts that Moosa (عليه السلام) would have the patience he needed."],
+						["They set off in a boat but Khidr (رضي الله عنه‎) made a hole in the boat."],
+						["Moosa (عليه السلام) forgot his promise not to question Khidr (رضي الله عنه‎) about his actions. "],
+						["They travelled on until they met a boy and Khidr (رضي الله عنه‎) killed him."],
+						["Again Moosa (عليه السلام) questioned him as to why he killed an innocent child."],
+						["Khidr (رضي الله عنه‎) reminded him of his promise not to question anything. "],
+						["They travelled on until they came to a town where they asked for food but the townspeople refused to help or feed them. "],
+						["Nevertheless Khidr (رضي الله عنه‎) and Moosa (عليه السلام) repaired a wall that was falling down. "],
+						["Moosa (عليه السلام) told Khidr (رضي الله عنه‎) that he could have asked for payment for the work, to which Khidr (رضي الله عنه‎) replied that this was the end of their time together."],
+						["Before Moosa (عليه السلام) left, Khidr (رضي الله عنه‎) explained to him the reasons behind his actions."],
+						["The boat belonged to poor people."],
+						["There was a King who was seizing every boat; if their boat was defective they would be able to keep it and repair it."],
+						["The boy’s parents were true believers and he would have grown up to incite them to wickedness and disbelief."],
+						["Allah planned to replace him with a better and purer child."],
+						["The wall belonged to two orphans and there was buried treasure underneath it. "],
+						["Their father had been a righteous man, so Allah intended that the treasure remain buried, safe from the orphan’s caregivers until they reached maturity."],
+						["Khidr (رضي الله عنه‎) said he did not do these things of his own accord, he was following Allah’s plan."],
+						[""],
+						[""],
+						[""],
+					]
+				},
+				{
+					"name": "DHUL-QARNAYN",
+					"rangeStart": "83",
+					"rangeEnd": "102",
+					"details": [
+						["Allah then narrates the story of Dhul-Qarnayn who was a powerful leader."],
+						["Once on an expedition he came across a group of people."],
+						["Allah told him to either punish them or show kindness to them."],
+						["Dhul-Qarnayn chose to punish the ones who had done evil and noted that they would also be punished a second time by Allah. "],
+						["He spoke gently to the ones who were not doing evil. "],
+						["On his next expedition he came upon another group of people for whom Allah had not provided any shelter."],
+						["And so it was; he travelled on until he came to a point between two mountains. "],
+						["Dhul-Qarnayn could barely communicate with the people there."],
+						["The people managed to ask him if they could pay him to build a wall. "],
+						["The wall was to keep out Ya’jooj and Ma’jooj (Gog and Magog) who were destroying their land."],
+						["Dhul-Qarnayn said that what Allah provided him with was better than any tribute they could pay him but if they provided him with men to help he could put up a fortification."],
+						["They filled the gap between the mountains with iron and poured molten copper over it. "],
+						["Ya’jooj and Ma’jooj could not scale it or tunnel through it."],
+						["This is a mercy from Allah, Dhul-Qarnayn said, but one day Allah will flatten it to the ground, this is a promise from Allah."],
+						["Know that on that day the two parties, (Ya’jooj and Ma’jooj) will surge against each other like waves."],
+						["This is one of the signs that the Day of Resurrection is near."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "WORSHIP IS FOR ALLAH ALONE",
+					"rangeStart": "103",
+					"rangeEnd": "110",
+					"details": [
+						["The person who loses the most, by his or her actions, is the one whose efforts are lost even though they think they are doing well because they disbelieve, whereas the believers will be in Paradise."],
+						["And if all the oceans were ink for writing, the ink would run dry before the words of Allah’s attributes, grandeur, and knowledge were exhausted. "],
+						["Even if another amount of ink just like it were to be added it would not be enough."],
+						["The Prophet (ﷺ) is told to say that he is just a human being, the same as everyone else, and it has been revealed to him that the Lord Allah is One. "],
+						["Everyone amongst the people who fears their meeting with Allah should do good deeds and never let anyone else or anything share in the worship that is due to Allah alone."],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "Maryam",
