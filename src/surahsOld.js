@@ -1799,6 +1799,148 @@ var surahsOld = [
 	},
 	{
 		"name": "al-Isrāʾ",
+		"summary": {
+			"name": "The Night Journey, which gives the surah its title, is mentioned in verse 1 and again in verse 60. The surah is also called Bani Israel due to the references of them.",
+			"period": "Makkan",
+			"context": "The very first verse indicates that this surah was revealed on the occasion of Mi`raj (Ascension). According to the traditions and books on the life of the Prophet (ﷺ), this event happened one year before Hijrah. Thus, this surah is one of those which were revealed in the last stage of prophethood at Makkah. Surah Isra, Kahf along with Surahs Taha and Maryam are one of the earliest revelations.",
+			"theme": "This surah is framed by references to the Children of Israel at the beginning, and to Pharaoh at the end. The bulk of the surah deals with the Qur’an as guidance and warning, Prophet Muhammad (ﷺ) and the nature of prophecy, especially the fact that he is a human being and incapable himself of producing miracles. It also warns of Iblees’s promise to tempt mankind and of the fate of the Disbelievers, and it gives a series of commandments. Towards the end of the Makkan period, Allah caused Muhammad (ﷺ), in the space of a single night, to journey from Makkah to Jerusalem and from there to Paradise and back again.",
+			"breakdown": [
+				{
+					"name": "A JOURNEY BY NIGHT",
+					"rangeStart": "1",
+					"rangeEnd": "8",
+					"details": [
+						["Glory be to Allah who took Prophet Muhammad (ﷺ) on a journey, over one night, from the sacred House in Makkah to the blessed area in Jerusalem surrounding the mosque to show him some signs."],
+						["Allah also gave Moosa (عليه السلام), who was a thankful servant, a book as a guide for the Children of Israel, who were the descendants of Nuh (عليه السلام) and were warned not to take any Protector other than Him."],
+						["Allah warned the Children of Israel that twice they would become arrogant transgressors and that twice they would be punished."],
+						["After the promised punishment for the first transgression, Allah allowed them to prosper. "],
+						["When the second transgression came, Allah allowed their enemies to destroy the temple as punishment."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "GUIDANCE OF THE QUR’AN",
+					"rangeStart": "9",
+					"rangeEnd": "21",
+					"details": [
+						["The Qur’an is a guide for mankind guiding to the Hereafter. Allah illustrates his signs and bounty to mankind."],
+						["Every person is responsible for their own destiny and no person bears the burden of another person and no one will be punished until a messenger has come to show the true path."],
+						["Every persons’ fate has been fastened on their neck and they will have to answer for themselves on the Day of Judgement."],
+						["Many past generations have been destroyed because Allah sees everything."],
+						["The ones who took this worldly life for just enjoyment will have Hell whereas those who strived for the Hereafter will have Allah’s Bounties."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH’S COMMANDMENTS",
+					"rangeStart": "22",
+					"rangeEnd": "40",
+					"details": [
+						["Do not associate anything with Allah and be kind to your parents such that when they grow older, do not be impatient or harsh rather be humble towards them."],
+						["Be good to relatives, spend on the needy and travellers sensibly, do no not kill your children for fear of poverty as Allah is the Sustainer, don’t go near adultery, don’t take life, don’t go near an orphans property, give full measure when dealing, don’t gossip and do not be prideful as this is hated by Allah."],
+						["And do not say Allah has taken Angels as daughters."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "QUR’ANIC EXPLANATION",
+					"rangeStart": "41",
+					"rangeEnd": "52",
+					"details": [
+						["The Qur’an explains things in many different ways but that makes some people turn even further away."],
+						["If there really was some other god, why does it not dethrone the Master of the Throne?!"],
+						["Everything in the heavens and earth glorifies Him, but we do not understand how they glorify."],
+						["When you recite the Qur’an there is a barrier between you and those who do not believe in the Hereafter. "],
+						["They do not understand it as Allah covers their heart when it’s recited and when Allah’s Oneness is mentioned they turn away. "],
+						["When they are raised up they will think they had been dead for only a very short time."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "SHAYTAN’S DECEPTION",
+					"rangeStart": "53",
+					"rangeEnd": "60",
+					"details": [
+						["Shaytan is their sworn enemy."],
+						["Some prophets were given more than others."],
+						["There is no community of evildoers that will not be destroyed or severely punished before the Day of Resurrection."],
+						["Allah does not send signs for those who demand them because previously His signs were denied. "],
+						["Allah made the Night Journey and the accursed Tree of Zaqqum mentioned in the Qur’an as tests. "],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ADAM (عليه السلام) AND IBLEES",
+					"rangeStart": "61",
+					"rangeEnd": "65",
+					"details": [
+						["When Allah told the Angels to prostrate before Adam (عليه السلام) they all obeyed except Iblees. "],
+						["He was arrogant and asked why he should worship someone made from clay. "],
+						["Iblees said that if Allah delayed his death until the Day of Resurrection he would lead most of the descendants of Adam (عليه السلام) astray. "],
+						["Allah told him to go away because Hell would be the reward for him and any that follow him. "],
+						["Iblees was told to do whatever he could to tempt and destroy mankind but to be aware that he would never have power over the true Believers."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE TRUTH",
+					"rangeStart": "66",
+					"rangeEnd": "84",
+					"details": [
+						["Allah has honoured the son of Adam (عليه السلام) above all other creation."],
+						["On the Day of Resurrection, when every community is gathered with their leader, those who receive their book in their right hand will read it with pleasure whereas those who pretended to be blind to the Hereafter will be worse than blind in the Hereafter. "],
+						["Allah orders the establishment of regular prayers. "],
+						["Truth has come and falsehood has departed. "],
+						["The Qur’an was sent in stages and is a healing and a mercy for the believers but the Disbelievers gain nothing from it except loss. "],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "A MAN WITH A MESSAGE",
+					"rangeStart": "85",
+					"rangeEnd": "99",
+					"details": [
+						["If people ask about the spirit is then know that only Allah knows and man has been given very little knowledge about it."],
+						["If Allah wanted He could take away that which has been revealed and then mankind would never be able to get it back. "],
+						["Even if all of mankind and the Jinn came together they could not produce anything like the Qur’an no matter how much they helped each other. "],
+						["The Qur’an is full of different examples to help people understand the message but still most people persist in their disbelief. "],
+						["Many say to the Prophet (ﷺ) that they will not believe until he performs miracles to their demands such as making water rush from the ground or causing rivers to appear in gardens or making pieces of the sky fall down or bringing Allah and the Angels down in front of them. "],
+						["Even then, they say, we will not believe in your ascension unless you bring down for us a book that we can read. "],
+						["Allah says to tell them that you (Prophet Muhammad (ﷺ)) have never claimed to be anything other than a human being with a message."],
+						["They didn’t believe because they queried why Allah would send a human being. "],
+						["Thus they should be told that if there had been Angels walking about on earth then an Angel would have been sent. "],
+						["On the Day of Resurrection the Disbelievers will be gathered together lying on their faces blind, dumb and deaf and will be sent to Hell."],
+						["If mankind was in charge of Allah’s Mercy he would withhold it because human beings have always been stingy."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "TRUTH IN THE FORM OF THE QUR’AN",
+					"rangeStart": "100",
+					"rangeEnd": "111",
+					"details": [
+						["Prophet Moosa (عليه السلام) was sent nine clear signs but Pharaoh believed it was magic and was drowned. "],
+						["The Children of Israel were told to settle down and when the appointment of the Hereafter comes they will all be resurrected in one gathering."],
+						["The truth has been sent down in the form of the Qur’an which has been sent down little by little and the righteous people who were given knowledge before the Qur’an recognise the truth of it and weep falling down in prostration. "],
+						["Tell them to call on Allah by his best names. "],
+						["Praise Allah, the One with no son or partner."],
+						["He has no need of protection, so glorify Him greatly."],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Kahf",
