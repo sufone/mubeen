@@ -117,7 +117,7 @@ var surahsOld = [
 					"name": "THE VERSE OF THE THRONE",
 					"rangeStart": "255",
 					"details": [
-						["The famous Verse of the Throne  is illustrated magnificently here showing Allah’s Grandeur and Power through a number of his attributes – the most powerful ayah containing the grand name of Allah."]
+						["The famous Verse of the Throne is illustrated magnificently here showing Allah’s Grandeur and Power through a number of his attributes – the most powerful ayah containing the grand name of Allah."]
 					]},
 				{
 					"name": "ALLAH’S MIRACLES",
@@ -882,9 +882,9 @@ var surahsOld = [
 					"details": [
 						["Whatever matters people are engaged in, from reading the Qur’an to the mundane, Allah is a witness to it and it is all, the large and the small of it, recorded in a book. "],
 						["Not even a speck, the weight of dust escapes Allah’s knowledge, and it is kept in a clear record. "],
-						[""],
-						[""],
-						[""],
+						
+						
+						
 					]
 				},
 				{
@@ -934,7 +934,7 @@ var surahsOld = [
 						["If Allah had so willed all the people on the earth would have believed. "],
 						["Prophet Muhammad (ﷺ) is asked if he would compel the people, against their will to believe. "],
 						["Belief comes only by the will of Allah and He disgraces those who will not use their common sense. "],
-						[""],
+						
 					]
 				},
 				{
@@ -963,13 +963,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "7",
 					"details": [
-						["The message of the Qur’an is to worship Allah and seek forgiveness from Him to receive His Bounties."],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],						
+						["The message of the Qur’an is to worship Allah and seek forgiveness from Him to receive His Bounties."],					
 					]
 				},
 				{
@@ -979,8 +973,8 @@ var surahsOld = [
 					"details": [
 						["Whether one receives or does not receive Allah’s bounties, their forgiveness and reward depends on them having patience and good deeds."],
 						["The Disbelievers will always be doubtful of the authenticity of the Qur’an and so will find out the consequences in the Hereafter."],
-						[""],
-						[""],
+						
+						
 					]
 				},
 				{
@@ -1113,10 +1107,10 @@ var surahsOld = [
 						["The Qur’an is a book revealed to make things clear, it is revealed in the Arabic language and contains information that Muhammad (ﷺ) did not know. "],
 						["This story is called the best of stories meaning that it contains information relevant to events happening at the time of revelation and it contains lessons for all mankind."],
 						["The best story is the story in the Qur’an."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1147,8 +1141,8 @@ var surahsOld = [
 						["Yusuf (عليه السلام) grows up in comfortable conditions and Allah bestows upon him good judgment and knowledge. "],
 						["He is in the house of a politician learning how to negotiate and make wise decisions."],
 						["Some dreams are from Allah as shown by the dream of Yusuf (عليه السلام), the dream of prisoners, and dream of the king, however some dreams are from Shaytan (nightmare)."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1160,9 +1154,9 @@ var surahsOld = [
 						["She tries to seduce him but he seeks refuge in Allah."],
 						["The wife chases him to the front door just as her husband is entering the house and then tries to blame him but a member of the household points out that his shirt was torn from the back."],
 						["The women of the city then began to gossip about Yusuf (عليه السلام) and the politician’s wife."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1176,7 +1170,7 @@ var surahsOld = [
 						["She explains that she tried to seduce him but he resisted. "],
 						["She threatens that if he does not obey now he will go to prison."],
 						["Yusuf (عليه السلام) is afraid that he will let himself be seduced so he asks Allah to protect him, saying he would prefer prison to what the women are planning. "],
-						[""]
+						
 					]
 				},
 				{
@@ -1202,10 +1196,10 @@ var surahsOld = [
 						["One will serve wine to his master; the other will be crucified and the birds will peck at his head."],
 						["He asks the one to be saved to mention him (Yusuf (عليه السلام)) to his master. "],
 						["But Shaytan makes the man forget and Yusuf (عليه السلام) languishes in prison for more time."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1222,8 +1216,8 @@ var surahsOld = [
 						["Yusuf (عليه السلام) says he wanted his master, the politician to know that he did not betray him or abuse his trust."],
 						["Yusuf (عليه السلام) appears before the King who offers him a position of high rank but he asks to be put in charge of the storehouses."],
 						["In this way Allah settles Yusuf (عليه السلام) in the land."],
-						[""],
-						[""],
+						
+						
 					]
 				},
 				{
@@ -1254,8 +1248,8 @@ var surahsOld = [
 						["The brothers allude to Binyamin’s brother (Yusuf (عليه السلام)) being a thief, but Yusuf (عليه السلام) controls himself and does not disclose his identity. The brothers beg that one of them be allowed to stay in his brother’s stead; this is refused."],
 						["Finally, the eldest brother, remembering the pledge he gave to his father, vows to stay in Egypt until Ya’qoob (عليه السلام) gives him permission to leave or Allah decides on another course of action."],
 						["The remaining brothers return to their father Ya’qoob (عليه السلام) saying, we tried to keep our pledge but we could not have foreseen that your son would steal. Ask the people we travelled with if you need proof."],
-						[""],
-						[""],
+						
+						
 					]
 				},
 				{
@@ -1267,10 +1261,10 @@ var surahsOld = [
 						["Ya’qoob’s (عليه السلام) eyes went white with grief (he was blind) and the brothers said, ‘If you don’t stop thinking about Yusuf (عليه السلام) you will ruin your health or even die.’ He said, 'I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know’."],
 						["When this new sorrow overwhelmed Ya’qoob (عليه السلام), his first reaction was to be patient."],
 						["He knew, without a shred of doubt, that the affairs of his beloved youngest sons were controlled by Allah."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1297,9 +1291,9 @@ var surahsOld = [
 						["Yusuf (عليه السلام) said that Allah had been gracious towards him after Shaytan had sowed discord between he and his brothers."],
 						["Yusuf (عليه السلام) prays to Allah acknowledging his blessings and asking to live and die as a Muslim and be joined with the righteous."],
 						["The story of Yusuf (عليه السلام) is a lesson for all of mankind. True patience and the ability to forgive are lofty characteristics worthy of inculcating."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1330,10 +1324,10 @@ var surahsOld = [
 						["Allah created the heavens; they are above us without any visible means of support. Then He established Himself above the heavens on His Throne."],
 						["He created the universe for the benefit of mankind and describes the marvels of the universe, the seen and unseen."],
 						["The thunder and lightning are one of these signs causing fear and hope."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1344,10 +1338,10 @@ var surahsOld = [
 						["Some people ask and challenge the Prophet (ﷺ) about whether or not they will be resurrected; they are destined for the Fire."],
 						["Allah knows everything about the obvious and the hidden and each person has two guardian Angels."],
 						["Allah will not change the condition of a people unless they change themselves."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1356,13 +1350,13 @@ var surahsOld = [
 					"rangeEnd": "27",
 					"details": [
 						["Stark realities of falsehood and Disbelievers are contrasted with the truth which Believers follow and both their ends."],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1374,9 +1368,9 @@ var surahsOld = [
 						["Allah provides a beautiful resting place for those who believe and do good deeds."],
 						[" Prophet Muhammad (ﷺ) was sent to his own community to recite what Allah had revealed. Yet they still disbelieve."],
 						["Prophet Muhammad (ﷺ) is told by Allah to respond to the Disbelievers. Tell them that Allah is your Lord, there is none but Him and that you have put your trust in Him knowing that you will return to Him."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1389,8 +1383,8 @@ var surahsOld = [
 						["The Disbelievers will never be far from disaster, until the end when Allah’s promise will be fulfilled. "],
 						["You, Muhammad are not the first messenger to be mocked. "],
 						["Even though the Disbelievers were granted a respite, they were taken to task with a terrible punishment."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1401,10 +1395,10 @@ var surahsOld = [
 						["The Believers will have Paradise, the Disbelievers will have Fire and there are those who accepted Islam from among the People of the Book (Jews and Christians) who rejoice at the new revelations (Qur’an) but some from among the People of the Book who deny parts of it. "],
 						["This is only an invitation from the Prophet (ﷺ) to follow the Mother of the Book written in Arabic."],
 						["All previous messengers had a book and Allah confirms that He is a witness to the truth of the message of the Prophet (ﷺ) even though Disbelievers do not believe it."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				}
 			]
@@ -1426,10 +1420,10 @@ var surahsOld = [
 						["This Qur’an was sent to Prophet Muhammad (ﷺ) so that he could use it to lead the people out of darkness and ignorance and into the light of Allah."],
 						["Prophet Moosa (عليه السلام) was also told to bring his people into the light and to remind them of their divine history, particularly the troubled times when they were living under the yoke of Pharaoh. "],
 						["The message was also denied and rejected by the people of Nuh (عليه السلام), and Ad and Thamud, as well as the people who came after them."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1438,12 +1432,12 @@ var surahsOld = [
 					"rangeEnd": "17",
 					"details": [
 						["The Disbelievers wanted the messengers to return to their old religion but Allah made them understand that He would destroy the Disbelievers and then the messengers and their followers would live in the land after the Disbelievers were gone. "],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1456,9 +1450,9 @@ var surahsOld = [
 						["They will answer by saying if Allah had guided us we would have guided you, but there is no escape now whether we panic or bear it in silence."],
 						["Shaytan will tell them that Allah’s promise was true however he (Shaytan) deceived them."],
 						["They followed him (Shaytan) of their own free will. Shaytan rejects those who followed him and they will face a severe punishment."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1470,9 +1464,9 @@ var surahsOld = [
 						["Their greeting will be the word ‘Peace’. "],
 						["In order that we may ponder and reflect, Allah compares a ‘good word’ with a good tree whose branches reach high into the sky, roots are firmly planted in the ground and it yields fruit every season."],
 						["Likewise, a ‘bad word’ is like a bad tree. It is easily uprooted and has no endurance."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1484,9 +1478,9 @@ var surahsOld = [
 						["They cause others to end up burning in the Fires of Hell by encouraging the worship of false gods. "],
 						["Their pleasure will be in this life only for they have no hope of Paradise."],
 						["Everything has been provided yet most of mankind is ungrateful."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1497,10 +1491,10 @@ var surahsOld = [
 						["Prophet Ibrahim (عليه السلام) implored Allah to keep the city of Makkah secure and to keep himself and his descendants free from the sin of worshipping idols."],
 						["He settled his family in the barren valley (Makkah) and prayed that they would establish the prayer and build a thankful community there."],
 						["Ibrahim (عليه السلام) praises Allah for the birth of his sons, Isma’eel and Is’haq (عليهم السلام), in his old age and asks for forgiveness for the Believers on the Day of Judgment."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1511,11 +1505,11 @@ var surahsOld = [
 						["Allah knows exactly what the Disbelievers do; He gives them respite until the Day when they will be staring around in horror."],
 						["The people should be warned that a Day will come when the earth and the heavens will change into another earth and heavens and everyone who ever lived will stand before Allah. "],
 						["Everyone will be judged and every soul will get exactly what it deserves."],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
+						
 					]
 				}
 			]
@@ -1540,7 +1534,7 @@ var surahsOld = [
 						["Messengers were sent to earlier nations and they were all mocked and ridiculed by their own people."],
 						["Some people will not believe even though they know the stories of the people who came before them."],
 						["Even if Allah had opened a gate in Paradise they would believe themselves to be dazzled and bewitched by magic."],
-						[""]
+						
 					]
 				},
 				{
@@ -1551,10 +1545,10 @@ var surahsOld = [
 						["Allah created the heavens and made it beautiful by filling it with constellations."],
 						["He protects it from the devils and those who try to eavesdrop on the inhabitants of the heavens are followed by a fiery comet."],
 						["Allah is the Sustainer to all created things."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1567,8 +1561,8 @@ var surahsOld = [
 						["He asked for a reprieve until that Day and Allah granted it to him."],
 						["Iblees vowed to mislead mankind and make disobedience attractive to all of them except the ones sincerely devoted to Allah."],
 						["Allah said that the misguided ones would go to Hell, an allotted number through each of the seven gates of Hell."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1580,9 +1574,9 @@ var surahsOld = [
 						["All resentments and bitterness will be removed from their hearts. They will treat each other like close family members."],
 						["It is a place from which they will never be turned out and they will never be tired."],
 						["Allah is All Merciful but His punishment is severe."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1595,9 +1589,9 @@ var surahsOld = [
 						["The town was turned upside down and stones of baked clay rained down upon them as a result of their lewd sins."],
 						["The Forest Dwellers, believed to be the people of Prophet Shu’aib (عليه السلام), were also wrongdoers and Allah took retribution on them. Both places are still on the open road, plain for all to see."],
 						["The people of the Rocky Tract, Al-Hijr, also denied their messenger (Salih عليه السلام) and ignored Allah’s signs. A mighty blast seized the them and even their homes built into the rocks could not save them."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1609,9 +1603,9 @@ var surahsOld = [
 						["Prophet Muhammad (ﷺ) is further told to be kind to the Believers and to tell the people that he is nothing except a warner."],
 						["All will be questioned about their behaviour including those who invented lies about the Qur’an just as others invented lies about their own scriptures. "],
 						["Allah tells Muhammad (ﷺ) He knows how distressed he is by what the Disbelievers are saying but that he should cure his distress by praising Allah, bowing before Him and worshipping Him until the certainty of death arrives."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				}
 			]
@@ -1634,9 +1628,9 @@ var surahsOld = [
 						["Allah sends down Angels to inspire some people to warn others that there is no true deity but Allah."],
 						["Fear Him for He is far above anything they associate with Him."],
 						["People are created from a tiny drop of sperm but soon they become strong and openly challenge Allah."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1648,9 +1642,9 @@ var surahsOld = [
 						["Allah does not like the arrogant because He knows what they keep hidden and what they say or do openly."],
 						["When they are asked about what Allah has revealed they say that it is nothing but fairy tales from the old days."],
 						["On the Day of Resurrection, they will bear their own burdens plus some of the burdens of those they led astray."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1661,11 +1655,11 @@ var surahsOld = [
 						["Those who feared Allah and were righteous will be asked about what Allah sent down and they will describe it as good."],
 						["There are rewards in this world for the righteous but their home in the Hereafter is even better."],
 						["Whereas those who face the punishment say they would have worshipped Allah alone if that is what He had willed; their forefathers said that too."],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1676,10 +1670,10 @@ var surahsOld = [
 						["Those who had to leave their homes in order to worship Allah will find a home in a good place but the home they have in the Hereafter will be even better."],
 						["All the messengers Allah sent were human beings, the people of the scripture (Jews and Christians) know this, so ask them if you need to."],
 						["Now this Qur’an has come so that Prophet Muhammad (ﷺ) can explain things clearly and the people can think and reflect."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1692,8 +1686,8 @@ var surahsOld = [
 						["The Arab polytheists wrongly say that Allah has daughters but they themselves want to have only sons."],
 						["When the birth of a female child is announced the father is consumed with grief and has to decide whether to bear their perceived humiliation or bury the girl alive."],
 						["They attribute to Allah the daughters that they themselves dislike."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1706,8 +1700,8 @@ var surahsOld = [
 						["The Qur’an was revealed in order to make the things they argue about clear and it is a guidance and a mercy for those who believe."],
 						["Allah created the bee, which feeds on all kinds of fruit and produces honey for the benefit of mankind."],
 						["It comes in many colours and has healing properties."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1721,8 +1715,8 @@ var surahsOld = [
 						["Babies emerge from their mother’s wombs knowing nothing but Allah provides them with hearing, sight and minds so that they can be thankful to Him. "],
 						["Allah has made the birds able to fly without falling, provides mankind with shelter and garments for warmth and battle."],
 						["He bestows the favours so that you will submit to Him."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1733,10 +1727,10 @@ var surahsOld = [
 						["On the Day of Judgment there will be a witness (their Messenger) from every nation."],
 						["Then it will be too late for excuses."],
 						["Allah will bring a witness from every nation and Prophet Muhammad (ﷺ) will be the witness over the Muslims. "],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1750,8 +1744,8 @@ var surahsOld = [
 						["Famous verse quoted in all Jumu’ah prayer.v.90."],
 						["‘Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression."],
 						["He admonishes you that perhaps you will be reminded.’"],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1762,8 +1756,8 @@ var surahsOld = [
 						["When Allah substitutes one verse for another they say that Prophet Muhammad (ﷺ) has invented lies but they do not understand that Angel Jibreel (عليه السلام) has brought the verses down piecemeal in order to gradually strengthen the believers. "],
 						["They say that a human being has taught Prophet Muhammad (ﷺ) the revelations but this Qur’an is in clear Arabic."],
 						["Allah has sealed the hearts, ears and eyes of the heedless, but those who must flee persecution or are compelled to say words of disbelief will feel Allah’s Mercy and Forgiveness. "],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1777,7 +1771,7 @@ var surahsOld = [
 						["So eat from the good things Allah has provided and be grateful."],
 						["Allah has forbidden only carrion, blood, pig meat and that which has been dedicated to something other than Allah. "],
 						["But if a person must eat these things out of necessity Allah will be Forgiving."],
-						[""]
+						
 					]
 				},
 				{
@@ -1790,8 +1784,8 @@ var surahsOld = [
 						["Prophet Ibrahim (عليه السلام) is a good example, he was devout, obedient, righteous and grateful."],
 						["If you must retaliate make your response proportionate to how you were harmed, however it is better to be patient."],
 						["Prophet Muhammad (ﷺ) is told to be patient and not to grieve or be distressed by the conspiracies of the Disbelievers."],
-						[""],
-						[""]
+						
+						
 					]
 				}
 			]
@@ -1815,8 +1809,8 @@ var surahsOld = [
 						["Allah warned the Children of Israel that twice they would become arrogant transgressors and that twice they would be punished."],
 						["After the promised punishment for the first transgression, Allah allowed them to prosper. "],
 						["When the second transgression came, Allah allowed their enemies to destroy the temple as punishment."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1829,8 +1823,8 @@ var surahsOld = [
 						["Every persons’ fate has been fastened on their neck and they will have to answer for themselves on the Day of Judgement."],
 						["Many past generations have been destroyed because Allah sees everything."],
 						["The ones who took this worldly life for just enjoyment will have Hell whereas those who strived for the Hereafter will have Allah’s Bounties."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1841,10 +1835,10 @@ var surahsOld = [
 						["Do not associate anything with Allah and be kind to your parents such that when they grow older, do not be impatient or harsh rather be humble towards them."],
 						["Be good to relatives, spend on the needy and travellers sensibly, do no not kill your children for fear of poverty as Allah is the Sustainer, don’t go near adultery, don’t take life, don’t go near an orphans property, give full measure when dealing, don’t gossip and do not be prideful as this is hated by Allah."],
 						["And do not say Allah has taken Angels as daughters."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -1858,8 +1852,8 @@ var surahsOld = [
 						["When you recite the Qur’an there is a barrier between you and those who do not believe in the Hereafter. "],
 						["They do not understand it as Allah covers their heart when it’s recited and when Allah’s Oneness is mentioned they turn away. "],
 						["When they are raised up they will think they had been dead for only a very short time."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1872,8 +1866,8 @@ var surahsOld = [
 						["There is no community of evildoers that will not be destroyed or severely punished before the Day of Resurrection."],
 						["Allah does not send signs for those who demand them because previously His signs were denied. "],
 						["Allah made the Night Journey and the accursed Tree of Zaqqum mentioned in the Qur’an as tests. "],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1886,8 +1880,8 @@ var surahsOld = [
 						["Iblees said that if Allah delayed his death until the Day of Resurrection he would lead most of the descendants of Adam (عليه السلام) astray. "],
 						["Allah told him to go away because Hell would be the reward for him and any that follow him. "],
 						["Iblees was told to do whatever he could to tempt and destroy mankind but to be aware that he would never have power over the true Believers."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1900,8 +1894,8 @@ var surahsOld = [
 						["Allah orders the establishment of regular prayers. "],
 						["Truth has come and falsehood has departed. "],
 						["The Qur’an was sent in stages and is a healing and a mercy for the believers but the Disbelievers gain nothing from it except loss. "],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -1920,9 +1914,9 @@ var surahsOld = [
 						["Thus they should be told that if there had been Angels walking about on earth then an Angel would have been sent. "],
 						["On the Day of Resurrection the Disbelievers will be gathered together lying on their faces blind, dumb and deaf and will be sent to Hell."],
 						["If mankind was in charge of Allah’s Mercy he would withhold it because human beings have always been stingy."],
-						[""],
-						[""],
-						[""]
+						
+						
+						
 					]
 				},
 				{
@@ -1936,7 +1930,7 @@ var surahsOld = [
 						["Tell them to call on Allah by his best names. "],
 						["Praise Allah, the One with no son or partner."],
 						["He has no need of protection, so glorify Him greatly."],
-						[""]
+						
 					]
 				}
 			]
@@ -1946,8 +1940,8 @@ var surahsOld = [
 		"name": "al-Kahf",
 		"summary": {
 			"name": "This surah takes its name from v. 9 in which the word (al-kahf) occurs.",
-			"period": "This was revealed during the first of those surahs which were sent down from the fifth to the tenth year of prophethood when opponents employed the weapons of persecution, man handling and economic pressure on the Muslims but migration to Habasha had not yet taken place. That is why the story of the Sleepers of the Cave has been related to comfort and encourage the persecuted Muslims and to show them how the righteous people have been saving their faith in the past.",
-			"context": "Makkan",
+			"period": "Makkan",
+			"context": "This was revealed during the first of those surahs which were sent down from the fifth to the tenth year of prophethood when opponents employed the weapons of persecution, man handling and economic pressure on the Muslims but migration to Habasha had not yet taken place. That is why the story of the Sleepers of the Cave has been related to comfort and encourage the persecuted Muslims and to show them how the righteous people have been saving their faith in the past.",
 			"theme": "A surah which gets its name from the Sleepers of the Cave, whose story takes a prominent place in the surah as they were tested in their faith. This surah also deals with two other stories: Moosa’s (عليه السلام) meeting with an unidentified figure said to be Khidr (رضي الله عنه‎) and his test in knoweldge, and the story of Dhu’l-Qarnayn and his test in power. A parable is put forward for the people of Makkah: the parable of the luscious gardens belonging to an arrogant and ungrateful man, which Allah reduces to dust highlighting the test of wealth. The surah opens and closes with references to the Qur’an itself and revolves around the idea of persecution.",
 			"breakdown": [
 				{
@@ -1956,12 +1950,7 @@ var surahsOld = [
 					"rangeEnd": "8",
 					"details": [
 						["Praise be to Allah who has revealed an uncomplicated book; a book that does not deviate from the straight path, warns and gives good news."],
-						["The Prophet (ﷺ) is told that he is in danger of worrying himself to death over the people who do not believe in his message."],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						["The Prophet (ﷺ) is told that he is in danger of worrying himself to death over the people who do not believe in his message."]
 					]
 				},
 				{
@@ -1990,10 +1979,10 @@ var surahsOld = [
 						["Therefore adhere to what is clear and never say that you will do something without saying if Allah wills."],
 						["If you do forget then remember Allah and hope that He will guide you to even better conduct."],
 						["Some say they stayed in the cave for 300 years, others say 309, but the Prophet (ﷺ) is told to say that only Allah knows exactly how long they were there, because He is the one who knows all the secrets of the heavens and the earth."],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
 					]
 				},
 				{
@@ -2003,12 +1992,12 @@ var surahsOld = [
 					"details": [
 						["The Prophet (ﷺ) is told to recite what has been revealed to him and there is no authorisation to change anything in any way. "],
 						["Be busy in the rememberance of Allah for the wrongdoers will end up surrounded by Fire and the righteous believers in Gardens of Eternity."],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						
+						
+						
+						
+						
+						
 					]
 				},
 				{
@@ -2021,8 +2010,8 @@ var surahsOld = [
 						["The other man asked if he disbelieved in the One who created him, for he does not, and he should have said that all is as Allah willed and no one has power except Him. "],
 						["Although I have less, Allah might give me something better and destroy what you have."],
 						["As such the first man’s garden was destroyed and he wished he had not attributed his prosperity to himself rather than Allah and realised real protection comes from Allah."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -2038,9 +2027,9 @@ var surahsOld = [
 						["Taking Shaytan and his offspring as masters would be a grave mistake and one will realise on the Day of Judgement."],
 						["The Qur’an is full of examples to make people understand, but mankind is quarrelsome."],
 						["Allah sends guidance and messengers to remind but those who turn away and mock it have veils cast over their hearts and their ears are deaf."],
-						[""],
-						[""],
-						[""],
+						
+						
+						
 					]
 				},
 				{
@@ -2067,9 +2056,9 @@ var surahsOld = [
 						["The wall belonged to two orphans and there was buried treasure underneath it. "],
 						["Their father had been a righteous man, so Allah intended that the treasure remain buried, safe from the orphan’s caregivers until they reached maturity."],
 						["Khidr (رضي الله عنه‎) said he did not do these things of his own accord, he was following Allah’s plan."],
-						[""],
-						[""],
-						[""],
+						
+						
+						
 					]
 				},
 				{
@@ -2093,8 +2082,8 @@ var surahsOld = [
 						["This is a mercy from Allah, Dhul-Qarnayn said, but one day Allah will flatten it to the ground, this is a promise from Allah."],
 						["Know that on that day the two parties, (Ya’jooj and Ma’jooj) will surge against each other like waves."],
 						["This is one of the signs that the Day of Resurrection is near."],
-						[""],
-						[""]
+						
+						
 					]
 				},
 				{
@@ -2107,6 +2096,160 @@ var surahsOld = [
 						["Even if another amount of ink just like it were to be added it would not be enough."],
 						["The Prophet (ﷺ) is told to say that he is just a human being, the same as everyone else, and it has been revealed to him that the Lord Allah is One. "],
 						["Everyone amongst the people who fears their meeting with Allah should do good deeds and never let anyone else or anything share in the worship that is due to Allah alone."],
+						
+						
+					]
+				}
+			]
+		}
+	},
+	{
+		"name": "Maryam",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
 						[""],
 						[""]
 					]
@@ -2115,46 +2258,2006 @@ var surahsOld = [
 		}
 	},
 	{
-		"name": "Maryam",
-	},
-	{
 		"name": "Ṭā-Hā",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Anbiyāʾ",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Ḥajj",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Muʾminūn",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "an-Nūr",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Furqān",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "ash-Shuʿarā",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "an-Naml",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Qaṣaṣ",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-ʿAnkabūt",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "ar-Rūm",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "Luqmān",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "as-Sajdah",
+		"summary": {
+			"name": "",
+			"period": "",
+			"context": "",
+			"theme": "",
+			"breakdown": [
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "",
+					"rangeEnd": "",
+					"details": [
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				}
+			]
+		}
 	},
 	{
 		"name": "al-Aḥzāb",
