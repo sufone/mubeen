@@ -2106,16 +2106,102 @@ var surahsOld = [
 	{
 		"name": "Maryam",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The name of this chapter is taken from the story of Maryam (رضی اللہ عنھا), mother of Isa (عليه السلام) (verses 16–35). It begins with an account of the birth of Yahya and of Isa (عليهم السلام), the last representatives of prophecy in the House of Israel.  ",
+			"period": "Makkan",
+			"context": "It was revealed before the migration to Habasha during intense persecution of the Muslims. This surah was recited in the court of Negus when he called the migrants to his court asking about Isa (عليه السلام) upon which he came to tears. ",
+			"theme": "Allah calls himself Al-Rahman frequently in this surah. The main theme of this surah is negating the idea of Allah having children as the Christians claim that Isa (عليه السلام) is the son of Allah and the pagans of Makkah claimed that the Angels are the daughters of Allah. The stories of the prophets are recounted, particularly of Isa (عليه السلام) and Maryam (رضی اللہ عنھا) highlighting Allah’s grace and refuting the arrogant assertions of the pagan Arabs. The surah ends with vivid descriptions of the Hereafter.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "PROPHET ZAKARIYAA (عليه السلام)",
+					"rangeStart": "1",
+					"rangeEnd": "12",
 					"details": [
+						["In the Bible, Zakariyya (عليه السلام) is husband of Elisabeth who is the cousin of Maryam (رضی اللہ عنھا)."],
+						["The Qur’an tells us that Zakariyya (عليه السلام) was also the guardian of Maryam (رضی اللہ عنھا), the mother of Isa (عليه السلام)."],
+						["Zakariyya (عليه السلام) was a prophet of Allah whose office was in the temple in Jerusalem. He was in charge of services at the temple. "],
+						["Zakariyya’s (عليه السلام) wife was barren and both were very old."],
+						["Zakariyya (عليه السلام) began to worry over who would carry on the daily services of the temple and preach the message of Allah after his death. "],
+						["In response to Zakariyya’s (عليه السلام) earnest prayer to Allah for a son, an Angel announced that Allah will provide him a son whose name will be Yahya (عليه السلام)."],
+						[""]
+					]
+				},
+				{
+					"name": "PROPHET YAHYA (عليه السلام)",
+					"rangeStart": "12",
+					"rangeEnd": "15",
+					"details": [
+						["Allah made Yahya (عليه السلام) compassionate, wise, pure, and kind to his parents who diligently practiced the commandments of the Tawrat."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "MARYAM (رضی اللہ عنھا) AND THE MIRACLE OF ISA (عليه السلام)",
+					"rangeStart": "16",
+					"rangeEnd": "40",
+					"details": [
+						["An Angel appears to Virgin Maryam (رضی اللہ عنھا) in the form of a man to convey the birth of a son – a mercy and a miracle from Allah. "],
+						["Fearing reaction from people toward an unmarried pregnancy, she goes to Bethlehem."],
+						["Supported by an Angel at the time of childbirth, Allah provides her fresh water and ripe dates at the time of delivery."],
+						["The baby Isa (عليه السلام) miraculously speaks from the cradle in defense of his mother when Maryam (رضی اللہ عنھا) is probed about the child, announcing that he is Allah’s blessed servant and prophet, and has been commanded to pray, give charity, and be kind to his mother."],
+						["Allah does not take a son and has no need for one."],
+						["Remind all the sects who still differ about Isa (عليه السلام) of the dreadful "Day of Remorse" when all will return to Allah."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "IBRAHIM (عليه السلام) AND HIS FATHER AND PEOPLE",
+					"rangeStart": "41",
+					"rangeEnd": "50",
+					"details": [
+						["The truthful prophet, Ibrahim (عليه السلام), gently reminds his father not to worship idols that cannot hear, see, or benefit themselves."],
+						["Threatened by physical violence and expelled from home, Ibrahim (عليه السلام), vows to pray for his father."],
+						["Leaving home with continued prayers for his father and others, Ibrahim (عليه السلام) is later gifted with two prophets by Allah - Is’haq and Ya’qoob (عليهم السلام)."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "CHARACTERISTICS OF THE PROPHETS AND THOSE WHO FOLLOW THEM",
+					"rangeStart": "51",
+					"rangeEnd": "65",
+					"details": [
+						["Moosa (عليه السلام) was a chosen prophet called into close communion by Allah next to Mount Tur (the burning bush). "],
+						["Isma’eel (عليه السلام) was also a sincere prophet and messenger of Allah who was true to his word and cared for his family’s spiritual well-being; he reminded them to pray and be charitable."],
+						["Idris (Enoch) (عليه السلام) was a sincere, prophet of Allah, elevated in status."],
+						["A distinctive attribute of those whose character is molded by the teachings of the prophets, is that they are no longer slaves of their base desires, but rise above them, however many after the prophets continued to follow their desires and become misguided.  "],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "DENIERS AMONG THE ARABS",
+					"rangeStart": "66",
+					"rangeEnd": "76",
+					"details": [
+						["The Arabs, who were first addressed by the Qur’an, accepted life after death, but their acceptance was purely formal and as such had no impact on their lives. "],
+						["This indifference persists because people do not give serious consideration to this matter. "],
+						["If they did, they would realize that the initial, first birth is in itself an argument in support of re-birth. "],
+						["They further have an arrogance and laxity in worship and his taking for granted all that he has in this world and not treating the Hereafter with seriousness."],
+						["A further accusation of Allah having a son is marveled at for its absurdness."],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ASSUMPTIONS AND REALITY OF THE DISBELIEVERS",
+					"rangeStart": "77",
+					"rangeEnd": "95",
+					"details": [
+						["The Disbelievers believe that they will have more than they have in the Hereafter than they do now but they will really be driven to Hell."],
 						[""],
 						[""],
 						[""],
@@ -2126,97 +2212,11 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "CONCLUSION",
+					"rangeStart": "96",
+					"rangeEnd": "98",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
+						["A declaration of good news via the Qur’an to the righteous and a warning to those who are hostile, and the latter have previously been destroyed and aren’t even heard about anymore."],
 						[""],
 						[""],
 						[""],
