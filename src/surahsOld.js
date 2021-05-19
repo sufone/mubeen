@@ -2260,17 +2260,17 @@ var surahsOld = [
 	{
 		"name": "Ṭā-Hā",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "This surah takes its name from its first word 'Ṭā Hā.' This name, like the names of many other surahs, is merely symbolic.",
+			"period": "Makkan",
+			"context": "The period of its revelation is the same as of Surah Maryam. It is possible that it was sent down during the Migration to Habasha or just after it. Umar (رضي الله عنه‎) read this surah and he became Muslim. ",
+			"theme": "A surah that both begins and ends with mention of the Qur’an: it was not sent to the Prophet (ﷺ) to cause him grief but is a clear proof from his Lord. The surah enumerates the blessing of Allah to his prophets and their followers. The example of Moosa (عليه السلام) is given as a lengthy account in order to encourage the Prophet (ﷺ) and show the end of the Disbelievers. The destruction of earlier generations is cited as a lesson from which the Disbelievers should learn. The Prophet (ﷺ) is ordered to be patient and to persevere with his worship.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "THE MISSION OF THE QUR’AN",
+					"rangeStart": "1",
+					"rangeEnd": "8",
 					"details": [
-						[""],
+						["Allah informs Prophet Muhammad (ﷺ) that He did not send down the Qur’an to cause distress to him, but as a reminder for those who hold Allah in awe."],
 						[""],
 						[""],
 						[""],
@@ -2280,11 +2280,25 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "STORY OF PROPHET MOOSA (عليه السلام)",
+					"rangeStart": "9",
+					"rangeEnd": "99",
 					"details": [
-						[""],
+						["What follows next is the most vividly described story of Moosa (عليه السلام). "],
+						["Reference is made of the journey of Moosa (عليه السلام) and his family from Midian to Egypt."],
+						["When he goes towards the light he hears the voice of Allah calling him."],
+						["Moosa (عليه السلام) holds a conversation with his Lord at the holy valley. "],
+						["Allah tells him to establish prayer for His remembrance, then gives him two miracles. "],
+						["One, that his staff will turn into a serpent when he throws it on the ground; and second, that when he presses his right hand to his left side, it will come forth white and shining. "],
+						["After this Allah tells him about the mission he has been chosen for: call Pharaoh to the path of Allah. "],
+						["Moosa (عليه السلام) prays to Allah for support and for his brother Haroon (عليه السلام) to assist him. "],
+						["Allah accepts his prayers and grants him his wish and reminds him of the blessings that were bestowed on him since his birth, when the Pharaoh of that time was killing the sons of all the Israelites."],
+						["Allah further reminds Moosa (عليه السلام) how He had made him go through the various twists and turns of his life before coming finally to this awesome moment when he was being chosen as a prophet. "],
+						["When Pharaoh saw the signs of Allah, he felt threatened and summoned his sorcerers for a duel. "],
+						["Pharaoh’s sorcerers challenge and lose to Moosa (عليه السلام), and finally recognize the truth of their Lord. "],
+						["Then Allah commanded Moosa (عليه السلام) to take the people of Bani Israel out of the slavery of Pharaoh."],
+						["But when Moosa (عليه السلام) went to Mount Toor to receive the Tawrat, his people started worshipping the statue of a calf, being led astray by a man called Samiri."],
+						["Moosa (عليه السلام) banished him and burnt the idol."],
 						[""],
 						[""],
 						[""],
@@ -2294,12 +2308,12 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "THE DAY OF RESURRECTION",
+					"rangeStart": "100",
+					"rangeEnd": "114",
 					"details": [
-						[""],
-						[""],
+						["Whoever turns away from the Qur’an will bear a terrible heavy burden on the Day of Resurrection."],
+						["When the trumpet is sounded and Allah gathers the sinful, they will murmur to one another that they stayed only ten days on earth, but the more perceptive of them will say that their stay on earth was only a single day."],
 						[""],
 						[""],
 						[""],
@@ -2309,25 +2323,25 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "ADAM (عليه السلام) AND SHAYTAN",
+					"rangeStart": "115",
+					"rangeEnd": "127",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["The story of the Angels bowing down to the ground before Adam (عليه السلام) and Allah warning him against Shaytan and his whispering and false promises."],
+						["But he ate from the tree that was forbidden to him by Allah and so covered himself with leaves but was expelled from Paradise."],
+						["But he repented and Allah forgave him."],
+						["So, any who follows Allah’s Guidance will never go astray."],
+						["Allah promises to raise the one who turns away as a blind person on the Day of Resurrection."],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "DIRECTIONS TO THE PROPHET (ﷺ)",
+					"rangeStart": "128",
+					"rangeEnd": "135",
 					"details": [
-						[""],
+						["Instructions to the Prophet (ﷺ) to continue his worship and not have concern over those who wait for their own destruction as it will ultimately come to pass as it did for previous nations."],
 						[""],
 						[""],
 						[""],
