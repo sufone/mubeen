@@ -2725,17 +2725,17 @@ var surahsOld = [
 	{
 		"name": "al-Muʾminūn",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah takes its name‘Al-Mu'minoon’ from the first verse.",
+			"period": "Makkan",
+			"context": "This was revealed during the middle stage of prophethood at Makkah when a bitter conflict had begun between the Prophet (ﷺ) and the Disbelievers of Makkah, though the persecution by them had not yet become tyrannical. It appears that the surah was sent down during the climax of the 'famine' in Makkah, which according to authentic traditions occurred during the middle stage of prophethood. ",
+			"theme": "A surah which stresses the character of the Believer and how they will succeed, whereas the Disbelievers will be punished for their arrogance and derision. Several proofs are given of Allah’s Oneness and His power, and the inevitability of the Resurrection is emphasized.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "CHARACTER OF THE BELIEVERS",
+					"rangeStart": "1",
+					"rangeEnd": "11",
 					"details": [
-						[""],
+						["The fact that the people who have accepted the Message of Prophet (ﷺ) have started acquiring such and such noble qualities of character is a practical proof of the truth of the Message. "],
 						[""],
 						[""],
 						[""],
@@ -2745,11 +2745,11 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "MAN’S DEVELOPMENT",
+					"rangeStart": "12",
+					"rangeEnd": "22",
 					"details": [
-						[""],
+						["In this passage, attention has been drawn to the creation of man and the universe to impress that the whole universe including man's own self, is a clear proof of the truth of the Prophet's (ﷺ) Message, which invites the people to accept Tawheed and life in the Hereafter."],
 						[""],
 						[""],
 						[""],
@@ -2759,13 +2759,13 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "PROPHETS CALL TO ALLAH’S PATH",
+					"rangeStart": "23",
+					"rangeEnd": "54",
 					"details": [
-						[""],
-						[""],
-						[""],
+						["Then the stories of the former prophets and their communities have been cited as historical evidences of the truth of the Message."],
+						["For example, Prophet Nuh’s (عليه السلام) community did not respond to his message and so were drowned, but the believers in Nuh (عليه السلام) were saved."],
+						["However, after they flourished for believing and being righteous later generations stagnated into evil again, but Allah continued to send messengers including Moosa, Haroon and Isa (عليهم السلام)."],
 						[""],
 						[""],
 						[""],
@@ -2774,29 +2774,29 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "POLYTHEISTS",
+					"rangeStart": "55",
+					"rangeEnd": "95",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Those completely devoted to the life of this world are not interested in any discourse about Allah or the Hereafter. "],
+						["They ignore all such talk and are lost in worldly pursuits."],
+						["With the onset of Allah’s retribution, such people forget their recklessness and arrogance and start pleading humbly but did not bother trying to obtain truth in this world."],
+						["Those who think they have wealth believe they are righteous but the righteous are only those who do good deeds."],
+						["In the Makkan period of Islam when the Quraysh rejected Prophet Muhammad (ﷺ) Allah sent famine on them for several years. "],
+						["In accordance with Allah’s scheme, when a community adopts an arrogant attitude and does not accept good advice, He gives a warning punishment in order to soften their hearts and make them pay attention to the Truth."],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "ALLAH’S PROMISE",
+					"rangeStart": "96",
+					"rangeEnd": "119",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["The prayer shows that a Believer is always a God-fearing person. "],
+						["Even when Allah’s punishment is directed towards others, he starts trembling with fear. "],
+						["He starts addressing Allah in all humility, because he knows that, if he is to be saved, it will not be solely by his deeds, rather with Allah’s mercy."],
+						["The Prophet’s (ﷺ) job is to only present the message."],
+						["The enemies of the truth have been warned that they shall have to render an account in the Hereafter and bear the consequences of their persecution of the Believers; therefore, they should mend their ways."],
 						[""],
 						[""]
 					]
