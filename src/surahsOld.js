@@ -2428,19 +2428,19 @@ var surahsOld = [
 	{
 		"name": "al-Anbiyāʾ",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The name of this surah has not been taken from any verse but it has been called Al-Anbiyaa because it contains a continuous account of many Anbiyaa (Prophets).",
+			"period": "Makkan",
+			"context": "This surah was sent down in the third stage of the life of the Prophet (ﷺ) at Makkah.",
+			"theme": "A surah which takes its name from the list of prophets (16 in total by name) mentioned from verse 48 to verse 91. It stresses that fact that Prophet Muhammad (ﷺ) is a man like earlier prophets and has been given the same message to declare the unity of Allah. It warns the Disbelievers of the approaching Judgement from which there is no escape. The main motives are the power of Allah and the heedlessness of humans.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "ACCUSATIONS AND LIES",
+					"rangeStart": "1",
+					"rangeEnd": "9",
 					"details": [
-						[""],
-						[""],
-						[""],
+						["In private conversations, the Disbelievers say that Muhammad is a just human being like themselves, and that he is trying to trick them with witchcraft or being a poet, but Allah hears everything they think is said in secrecy."],
+						["All previous prophets were mortal men."],
+						["The Disbelievers ask for a sign, but Allah mentions that all the cities and towns destroyed previously asked for and received signs yet they did not believe. "],
 						[""],
 						[""],
 						[""],
@@ -2448,101 +2448,90 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "FALSEHOOD BLOWN AWAY",
+					"rangeStart": "10",
+					"rangeEnd": "24",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
+						["Prior nations were destroyed because of their iniquities and other communities were raised up in their place. "],
+						["Paradise and earth and all that lies between them were not created to be a playground."],
+						["Falsehood is blown away by the truth, so woe to those who have created false gods. "],
+						["Those who are with Allah worship and praise him tirelessly. "],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "EVERY SOUL WILL TASTE DEATH",
+					"rangeStart": "25",
+					"rangeEnd": "47",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["All the prophets were sent with the same message; there is no deity but Allah, so worship Him alone. "],
+						["The heavens and the earth were once one a mass split asunder by Allah; all living creatures have their origin in water; the earth is covered with firm mountains and broad pathways and the sky is a canopy; Allah created the night and the day; the celestial bodies move in their orbits."],
+						["Every soul is tested and will taste death to return to Allah."],
+						["The Day of Judgement will arrive suddenly and the Disbelievers will be powerless to turn it away. "],
+						["The previous messengers were ridiculed but in the end those who ridiculed were overcome by what they mocked. "],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "BRIEF STORIES OF THE PROPHETS",
+					"rangeStart": "48",
+					"rangeEnd": "70",
 					"details": [
+						["Allah gave Moosa and his brother Haroon (عليهم السلام) the scripture that distinguishes between right and wrong and the Qur’an is also a blessed message."],
+						["And Ibrahim (عليه السلام) was given right judgement when he questioned his father and his people about their clear idolatry but they answered that they only followed the ways of their ancestors instead of Allah the Creator. "],
+						["Ibrahim (عليه السلام) threatened to destroy all the idols they worshipped except the largest one, which he did and then blamed it on that one and asked them to question it rather than him, pointing out the absurdity of their beliefs."],
+						["At first Ibrahim’s (عليه السلام) people admitted their errors but then they were seized with pride and obstinacy. "],
+						["They threw Ibrahim (عليه السلام) into the midst of a Fire but Allah kept the Fire cool."],
 						[""],
-						[""],
-						[""],
-						[""],
+						[""]
+					]
+				},
+				{
+					"name": "ALLAH SAVES THOSE WHO BELIEVE",
+					"rangeStart": "71",
+					"rangeEnd": "77",
+					"details": [
+						["Prophet Ibrahim and his nephew Lut (عليهم السلام) were delivered from harm and sent to a land that Allah had blessed for the entire world. "],
+						["Here Ibrahim (عليه السلام) was blessed even more with his righteous son Is’haq and his grandson Ya’qoob (عليهم السلام) where they all worshipped Allah and acted righteously. "],
+						["Lut (عليه السلام) was given sound judgment and knowledge and Allah saved him from the city of wicked deeds. "],
+						["Even further back in the past Nuh (عليه السلام) called out to Allah and He accepted his prayer against the Disbelievers who were drowned and Nuh (عليه السلام) and the Believers saved."],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "AND THOSE WHO CRY TO HIM IN DISTRESS",
+					"rangeStart": "78",
+					"rangeEnd": "88",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Allah blessed Prophet Dawud and Sulayman (عليهم السلام) with wisdom."],
+						["Allah was watching them when they were trying to judge a case about sheep straying a night and He made Sulayman (عليه السلام) understand the case in a better way."],
+						["However, both were given wisdom in abundance."],
+						["It was Allah who made the mountains and the birds sing His praises with Dawud (عليه السلام) and it was also Allah who taught Dawud (عليه السلام) to make coats of armour for protection in battle."],
+						["Allah harnessed the wind for Sulayman (عليه السلام) and made some of the Jinn subservient to him. "],
+						["Allah asks us to remember Ayyub (Job) (عليه السلام), who cried to his Lord when he was afflicted. Allah heard his cry and removed his suffering."],
+						["And remember Isma’eel, Idris, and Dhul Kifl (Ezekiel) (عليهم السلام). They were all steadfast and were admitted into Allah’s mercy."],
+						["And remember the man in the whale (Prophet Yunus عليه السلام) who was angry but admitted his wrong and Allah saved him from his distress."],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "GREAT NEWS FOR THE BELIEVERS",
+					"rangeStart": "89",
+					"rangeEnd": "112",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Allah blessed Zakariyya (عليه السلام) and accepted his prayer for a child. He was given Yahya (عليه السلام). "],
+						["Remember the one who guarded her chastity (Maryam (رضی اللہ عنھا)). Allah made her and her son a sign for all people."],
+						["Allah calls all the prophets a single community and says worship Me alone. "],
+						["Towards the end of time the people of Ya’jooj and Ma’jooj will be let loose to swarm across the land which is a sign of the Day of Judgement when the Disbelievers will be in horror and the Believers greeted by Angels."],
+						["Surely this is great news for the Believers."],
+						["Prophet Muhammad (ﷺ) has been sent as a blessing for all the worlds and was told to warn them (mankind) asking them to affirm their belief that Allah is one.   "],
 						[""],
 						[""]
 					]
