@@ -2571,18 +2571,18 @@ var surahsOld = [
 	{
 		"name": "al-Ḥajj",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "This surah takes its name from V.27 and get its title from the reference to the rite of pilgrimage initiated by Ibrahim (عليه السلام). ",
+			"period": "Medinan",
+			"context": "It appears that the month of Zul-Hijjah must have brought to the immigrants nostalgic memories of their homes in Makkah and naturally they must have thought of their Sacred City and of their Hajj congregation there, and grieved to think that the disbelieving Quraysh had debarred them from visiting the Sacred Mosque. Therefore, they might even have been praying for and expecting divine permission to wage war against those tyrants who had expelled them from their homes and deprived them of visiting the House of Allah and made it difficult for them to follow the way of Islam. It was at this psychological occasion that these verses were sent down in Medina. That is why the purpose for which Masjid-al-Haram was built has been specifically mentioned. It has been made plain that Hajj had been enjoined for the worship of Allah alone. But it is an irony that afterwards it had been dedicated to the rituals of shirk and the worshipers of Allah alone had been debarred from visiting it. Therefore, permission for waging war against those tyrants has been given to oust them from there and to establish the righteous way of life for establishing virtue and eradicating evil. ",
+			"theme": "This surah is introduced by the condemnation of those who bar the believers from access to the Sacred Mosque and is followed by permission to fight when attacked. It begins with the Day of Judgement and castigates those who worship useless idols, describing them later as powerless to create even a fly. Method of Hajj discussed. The surah then ends by urging the Muslims to persevere in following the faith of Ibrahim (عليه السلام).",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "DAY OF RESURRECTION",
+					"rangeStart": "1",
+					"rangeEnd": "24",
 					"details": [
-						[""],
-						[""],
+						["The chapter begins with an awesome opening that makes hearts tremble. "],
+						["It addresses all mankind, calling on them to fear their Lord and warning them against what may happen on the eventful and terrible Day of Judgement."],
 						[""],
 						[""],
 						[""],
@@ -2591,12 +2591,27 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "HAJJ AND THE SACRED MOSQUE",
+					"rangeStart": "25",
+					"rangeEnd": "37",
 					"details": [
+						["The idolaters in Makkah confronted the Prophet (ﷺ) and his Muslim companions seeking to debar their entry into the Sacred Mosque at the Ka’bah. "],
+						["It then speaks about the basis on which this mosque was founded when Allah assigned its building to Ibrahim (عليه السلام) and ordered him to call on all people to visit it for pilgrimage."],
+						["It must be for the worship of Allah alone and kept open to all people, whether they reside nearby or come from afar."],
+						["None is to be denied entry, and none is to claim its ownership."],
+						["The chapter then outlines some of the rituals of pilgrimage and how they enhance people’s consciousness and constant remembrance of Allah. "],
 						[""],
-						[""],
+						[""]
+					]
+				},
+				{
+					"name": "FIGHTING IN ALLAH’S CAUSE",
+					"rangeStart": "38",
+					"rangeEnd": "70",
+					"details": [
+						["Allah defends the Believers and legitimacy of fighting, taking lessons from the destruction of the old people."],
+						["Allah will always intervene to support his Messenger."],
+						["There is an outline of the reward of the emigrants, proofs of divine power and how nations have different rituals and acts of worship."],
 						[""],
 						[""],
 						[""],
@@ -2605,30 +2620,15 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "POLYTHEISTS WORSHIP OF IDOLS",
+					"rangeStart": "71",
+					"rangeEnd": "78",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Our father Ibrahim (عليه السلام), Allah named you Muslims before."],
+						["The section refers to their worship of deities that have no sanction from Allah, as well as their worship of beings they do not know. "],
+						["Those they worship instead of Allah are devoid of power and their weakness is as they are incapable of contending with flies, or of retrieving what a fly takes from them."],
+						["The passage and the chapter end with an address to the community of Believers requiring them to fulfil their duties as leaders of humanity. "],
+						["They should prepare themselves for their task with prayer, worship and good action, seeking Allah’s help and protection."],
 						[""],
 						[""]
 					]
