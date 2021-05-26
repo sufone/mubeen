@@ -3187,17 +3187,17 @@ var surahsOld = [
 	{
 		"name": "ash-Shuʿarā",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "A surah which takes its name from the reference to poets in verse 224.",
+			"period": "Makkan",
+			"context": "This was revealed during the middle Makkan period. According to Ibn Abbas, surah Ta Ha was revealed first, then Surah Al Waqiah, and then Surah Ash-Shu'araa.",
+			"theme": "The surah talks about the Disbelievers who belittle the Qur’an and gives examples of Allah’s Power and Grace in nature. It recounts several stories of earlier prophets, the reactions of their people, and punishments that afflicted them, ending by confirming the divine origin of the Qur’an. It is not something brought down by the Jinn, nor is it poetry. It is the longest surah in terms of verse number. ",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "CLEAR REVELATIONS",
+					"rangeStart": "1",
+					"rangeEnd": "9",
 					"details": [
-						[""],
+						["These verses make things clear, yet the Prophet (ﷺ) is told he is worrying himself to death over people who refuse to believe in the clear revelation of the Qur’an."],
 						[""],
 						[""],
 						[""],
@@ -3207,13 +3207,28 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "MOOSA (عليه السلام) AND PHARAOH",
+					"rangeStart": "10",
+					"rangeEnd": "68",
 					"details": [
+						["Moosa (عليه السلام) was sent to the people of Pharaoh but feared he would be rejected because of his speech so Allah reassured him by making Haroon (عليه السلام) his helper."],
+						["Moosa (عليه السلام) ordered the freedom of the Children of Israel but Pharaoh mocked him calling him ungrateful as he grew up in his household."],
+						["Moosa (عليه السلام) then demonstrated the miracles of Allah to Pharaoh’s sorcerers who promptly prostrated and announced their faith in Allah and then subsequently put to death by Pharaoh."],
+						["Moosa (عليه السلام) was inspired to escape at night with the Children of Israel in pursuit by Pharaoh’s army."],
+						["By sunrise Pharaoh’s people had the Israelites trapped at the edge of the Red Sea but Moosa (عليه السلام) struck the sea with his staff and the waves parted allowing them to escape and the pursuers were drowned."],
 						[""],
-						[""],
-						[""],
+						[""]
+					]
+				},
+				{
+					"name": "PROPHET IBRAHIM (عليه السلام)",
+					"rangeStart": "69",
+					"rangeEnd": "104",
+					"details": [
+						["Ibrahim (عليه السلام) questioned his father and people about idol worship pointing out they could not benefit or harm them."],
+						["Ibrahim (عليه السلام) pledged allegiance to Allah alone who guides, sustains, cures him and will resurrect him."],
+						["Ibrahim (عليه السلام) supplicated that Allah join him with the righteous, give him honor amongst later generations and grant him repose in the Gardens of Paradise."],
+						["Whereas those who worship idols will be thrown into Hell with their idols and with the armies of Shaytan. "],
 						[""],
 						[""],
 						[""],
@@ -3221,56 +3236,41 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "NUH AND HUD (عليهم السلام)",
+					"rangeStart": "105",
+					"rangeEnd": "140",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Prophet Nuh (عليه السلام) was gentle and mild, and asked for no payment, but they considered him and those who followed him to be poor and worthless and threatened to stone him."],
+						["Nuh (عليه السلام) then supplicated to Allah who saved him and the believers in a ship while the disbelievers drowned. "],
+						["Prophet Hud (عليه السلام) asked the people of Ad to fear Allah and requested no payment."],
+						["They built large structures thinking they were immortal and said they had no fear of torment believing it all to be lies until they were utterly destroyed by Allah."],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "SALIH, LUT AND SHU’AIB (عليهم السلام)",
+					"rangeStart": "141",
+					"rangeEnd": "191",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Prophet Salih (عليه السلام) asked the people of Thamud to fear Allah asking for no reward but they thought he was affected by magic."],
+						["He told them Allah is the Sustainer but they wanted a sign, but when the sign came in the form of a she-camel who was to share their water; each drinking on alternate days, they hamstrung her and so were destroyed. "],
+						["Prophet Lut (عليه السلام) told the people not to engage in lewd acts and to fear Allah but they responded by threatening him with expulsion. "],
+						["He then supplicated to Allah to save him and his family and He did; all except his wife who was destroyed with the rest.  A rain of destruction poured down on those who had been forewarned."],
+						["Prophet Shu’aib (عليه السلام) warned his people to weigh with correct scales, to give full measure, and not spread corruption, but they accused him of being bewitched and a liar."],
+						["They asked him to cause fragments of the sky to fall upon them if he was truthful and so Allah destroyed them in the form of dark clouds. "],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "DIVINE REVELATIONS",
+					"rangeStart": "191",
+					"rangeEnd": "227",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
+						["The Qur’an has come to the Prophet (ﷺ) through the Angel Jibreel (عليه السلام) in a plain Arabic language to warn people and was foretold in previous scriptures."],
+						["Allah puts unbelief in the hearts of the guilty such that they will only believe once they see the torment in front of them but it will be too late which happened to many previous nations, but Allah always sends a warner before punishment."],
+						["The Qur’an has not come from the Jinn, rather the devils descend upon the liars and only the lost follow the poets; except the poets who believe and are righteous. "],
 						[""],
 						[""],
 						[""],
