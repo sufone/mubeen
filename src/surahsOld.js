@@ -2879,94 +2879,94 @@ var surahsOld = [
 	{
 		"name": "an-Nūr",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The title of the chapter is taken from verses 35 in where Allah is described as the light of the heavens and the earth.",
+			"period": "Medinan",
+			"context": "• This was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by v.11-20 that deal with the incident of the 'Slander', which occurred during that Campaign. • This surah and v. 28-73 of Surah Al-Ahzab (of which this is the sequel) were sent down to strengthen the moral front, which at that time was the main target of the attack. The verses of surah Al-Ahzab were sent down concerning the Prophet's (ﷺ) marriage with Zainab (رضی اللہ عنھا) (who was the divorced wife of his adopted son, Zaid bin Harithah) and on the occasion of the second attack (the "Slander" about A’ishah (رضی اللہ عنھا), Surah An-Noor was sent down to repair the cracks that had appeared in the unity of the Muslim Community.  • This second slander was made on the honor of A’isha (رضی اللہ عنھا) in connection with an incident which occurred while he was returning from the Campaign against Bani al-Mustaliq. She was left behind unwittingly by her travelling companions after wandering away in search of a dropped necklace. She was escorted back to Medina by a Muslim man coming later who found her there. The instigator of the slander was Abdullah bin Ubayy, chief of the Hypocrites who played the part of a villain in this attack where the slander implied: an attack on the honor of the Prophet (ﷺ) and Abu Bakr Siddiq (رضي الله عنه‎), a means to undermine the high moral superiority which was the greatest asset of the Islamic Movement and intended to ignite civil war between the Muhajirs and the Ansar, and between Aus and Khazraj, the two clans of the Ansar. ",
+			"theme": "This surah clarifies several regulations for the Muslim community, mainly to do with marriage, modesty, obedience to the Prophet (ﷺ), and appropriate behaviour in the household. Preservation of family and its etiquette. The surah is named after the Verse of Light (verses 35–6) where Allah’s light is contrasted to the darkness in which the Disbelievers find themselves engulfed.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "SEXUAL CRIMES AND PUNISHMENTS",
+					"rangeStart": "1",
+					"rangeEnd": "9",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Allah has sent this chapter down from on high and contains commandments that are obligatory."],
+						["The punishment for fornication is then outlined which is flogging as it is a crime, and witnesses must be present for the crime to be valid."],
+						["Witnesses must also be present for the punishment."],
+						["Believers should not marry fornicators and those who makes false accusations make themselves liable for punishment. "],
+						["If couples accuse each other of adultery they can be exempted from punishment by taking prescribed oaths attesting to their good behaviour."],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
+					"name": "A LESSON ON SLANDERING AND GOSSIP",
+					"rangeStart": "10",
+					"rangeEnd": "26",
+					"details": [
+						["And Allah says that if it was not for His favour and Mercy…, and then leaves the end of the sentence up to the reader. It is most commonly believed that it means if not for the Mercy of Allah and the fact that He bestows favours upon mankind our lives would be much more difficult. We would perhaps be punished or even destroyed."],
+						["Having outlined the rules about accusing women of illegal sexual intercourse, Allah mentions the evil incident regarding the slander against A’isha (رضی اللہ عنھا), the wife of Prophet Muhammad (ﷺ)."],
+						["It contains a lesson for mankind; and all who took part in it will be punished accordingly, some will receive a severe punishment."],
+						["Nobody gave A’isha (رضی اللہ عنھا) the benefit of the doubt and nobody produced witnesses. Still many people passed on the gossip."],
+						["Allah asks why they did not hesitate to repeat a monstrous slander and warns the Believers never to do this again. This unthinking behaviour causes pain, doubt and worry."],
+						["And once again Allah leaves us to finish the sentence, if it were not for His Mercy and His favour, mankind might be severely punished."],
+						["Those who accuse chaste women are cursed in this life and will face a severe punishment. "]
+					]
+				},
+				{
+					"name": "MANNERS",
+					"rangeStart": "27",
+					"rangeEnd": "34",
+					"details": [
+						["Allah tells the Believers not to enter homes other than their own unless they have been granted permission. "],
+						["However, there is no harm in entering uninhabited places if there is a good reason to do so. "],
+						["Men are told to lower their gazes and guard their modesty and then women are exhorted to do the same including not revealing their charms, beauty or adornments to any men except those who are not strangers to them such as, husband, father, sons, brothers, father-in-law, stepsons and nephews. "],
+						["Women should also not draw attention to themselves in such a way that will tempt another person to sin."],
+						["Men and women are encouraged to marry. "],
+						["However, they should abstain from sexual relations until Allah provides them with the means to marry. "],
+						["A slave wishing to buy his or her freedom should be encouraged and aided with some of the wealth Allah has provided. Do not force slave girls into prostitution. "],
+						["The fate of earlier communities demonstrates what happens to those who deviate from Allah’s laws."]
+					]
+				},
+				{
+					"name": "THE VERSE OF LIGHT",
+					"rangeStart": "35",
 					"rangeEnd": "",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["In this verse, Allah describes the heart of the Believer by using the analogy of light."],
+						["Allah is the light of the heavens and the earth. It is His light that illuminates the universe, without it there is nothing but darkness."],
+						["Try to imagine a lamp in a niche in a wall. It burns brightly but the light becomes even brighter when it enclosed in a crystal; so bright that it shines light like a radiant star in the sky."],
+						["The light is fuelled from the oil of an olive tree, often called a blessed tree. It is an olive tree that grows in a central position able to get the light of the sun throughout the day."],
+						["For this reason, the oil is pure and burns as if it has no need for the Fire that keeps it alight. It is light upon light, the light of the pure oil and the light of the Fire."],
+						["It is Allah who guides us to His light."],
+						["The bright light that fills the heart of the Believer glows like nothing else in this vast universe. It is light upon light, upon light."]
+					]
+				},
+				{
+					"name": "ALLAH’S RADIANT LIGHT",
+					"rangeStart": "36",
+					"rangeEnd": "45",
+					"details": [
+						["The light Allah mentions can be found in the houses and mosques that have been built for Allah’s remembrance by the Believers."],
+						["The deeds of the Disbelievers will disappear like a mirage in the desert."],
+						["The state of a Disbeliever is like darkness in a bottomless ocean. "],
+						["If Allah does not give light then there is no light at all."],
+						["Everything in the heavens and the earth glorify Allah in its own way."],
+						["Each knowing how to pray and exalt Him, and Allah is well aware of all that they do."],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "OBEY THE PROPHET (ﷺ) AND PERMISSIONS GRANTED",
+					"rangeStart": "46",
+					"rangeEnd": "64",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						["If you obey Prophet Muhammad (ﷺ) you will be rightly guided for it is his duty to convey the message clearly. "],
+						["Ask permission before entering at three times: before the dawn prayer, at the midday rest and after the evening prayer. "],
+						["If elderly women want to lay aside their outer garments there is no blame on them."],
+						["There is no blame laid on the blind, the lame or the sick who wish to eat and mingle with people, and there is no prohibition on eating at the houses of members of your extended family or close friends."],
+						["Remember to give greetings of peace."],
+						["Ask permission to leave when you are meeting with the Prophet (ﷺ), and do not leave unless the needs are pressing. "],
+						["Treat and address the Prophet (ﷺ) with all the respect due to a man of his lofty station. Allah knows all thoughts and actions and on the Day of Judgement they will be clear to see. Allah knows everything."]
 					]
 				},
 				{
