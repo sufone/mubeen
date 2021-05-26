@@ -3341,17 +3341,17 @@ var surahsOld = [
 	{
 		"name": "an-Naml",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah takes its name from the ants (An-Naml) mentioned in the story of Sulayman (عليه السلام) (verses 18–19).",
+			"period": "Makkan",
+			"context": "This was revealed during the middle Makkan period, according to Ibn Abbas and Jabir bin Zaid, 'First the Surah Ash-Shu`araa was sent down, then Surah Al-Naml and then Al-Qasas.'",
+			"theme": "The story of the ants and Prophet Sulayman (عليه السلام) is mentioned. The surah both opens and ends by describing the Qur’an as joyful news for the Believers and a warning for others. The main theme is to prove Qur’anic revelation and the Day of Judgement and gives stories of past prophets and the destruction of the communities that disbelieved in them. Illustrations are given of the nature of Allah’s Power, contrasted with the total lack of power of the ‘partners’ they worship beside Him, and descriptions are given of the Day of Judgement for those who deny it.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "JOY OR RETRIBUTION",
+					"rangeStart": "1",
+					"rangeEnd": "6",
 					"details": [
-						[""],
+						["Allah says that this scripture is a guide for the Believers and joyful news for those who pray, give charity, and believe in the Hereafter, whereas it is a warning for those whodo not believe and wander blindly believing that their lives will have no lasting consequences and will face punishment. "],
 						[""],
 						[""],
 						[""],
@@ -3361,13 +3361,13 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "MOOSA (عليه السلام) AND PHARAOH",
+					"rangeStart": "7",
+					"rangeEnd": "14",
 					"details": [
-						[""],
-						[""],
-						[""],
+						["While travelling with his family Moosa (عليه السلام) sees a Fire which He approaches to find Allah calling out to him and showing him miracles of his staff turning into a snake."],
+						["Allah calms his fear saying that the messengers should not be afraid when in Allah’s presence and then tells Moosa (عليه السلام) to put his hand inside his cloak and when he withdraws it, it will be shinning white. "],
+						["These are two of the the nine signs that will be given to Pharaoh to convince him to submit to Allah but he refuses and comes to a bad end."],
 						[""],
 						[""],
 						[""],
@@ -3375,45 +3375,45 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "SULAYMAN (عليه السلام) AND THE QUEEN OF SHEBA",
+					"rangeStart": "15",
+					"rangeEnd": "44",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						["When Allah gave knowledge to Dawud (عليه السلام) and Sulayman (عليه السلام) they praised Him. Dawud (عليه السلام) understood the language of the birds and Sulayman (عليه السلام) inherited the Kingdom of Dawud (عليه السلام). "],
+						["Sulayman’s (عليه السلام) soldiers marched in rows, Jinn, humans and birds. When the armies marched through the valley of the ants, one ant directed the others so that they would not be crushed."],
+						["Sulayman (عليه السلام) understood and smiled widely beseeching Allah to give him strength, be grateful, perform good deeds and to be with the righteous. Sulayman (عليه السلام) inspected the birds but could not find the hoopoe. "],
+						["The hoopoe returned saying that he had been in Sheba where he found a woman with a magnificent throne leading the people but they all worship the sun instead of Allah. Sulayman (عليه السلام) thus sent the hoopoe with a letter for the Queen of Sheba inviting to submit to Allah which she read to her counsellors. "],
+						["Sulayman (عليه السلام) and his army had not invaded the city so she decided to send a delegation with gifts but Sulayman (عليه السلام) said that they could not give him anything that Allah had not already provided for him. Sulayman (عليه السلام) thus sent them away with a threat to invade their city."],
+						["Sheba thus decided to come in person, and whilst waiting Sulayman (عليه السلام) asked who could bring Sheba’s magnificent throne upon which one of the Jinn was able to produce the throne within the blink of an eye. When Sheba arrived, she was asked if what she saw was her throne and although it was disguised she said it looked as if it was."],
+						["When Sheba was asked to enter the palace, she thought she was about to wade through water and lifted her skirt, however the floor was made of shinning smooth glass."],
+						["When she saw for herself what Allah had given Sulayman (عليه السلام) and how majestic his position was, she submitted to the command of Allah and acknowledged that he was a noble prophet. "]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "SALIH AND LUT (عليهم السلام)",
+					"rangeStart": "45",
+					"rangeEnd": "58",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
+						["Salih (عليه السلام) called the people of Thamud to worship Allah alone, but they split into rival factions."],
+						["One group said that Salih (عليه السلام) and his followers were an evil omen and the leaders of some families planned to kill him and his family. They planned a deceitful plan, but Allah also planned a plan."],
+						["The outcome was that their plan came to nothing and they were destroyed, and their desolate houses are a sign for those who think."],
+						["Lut (عليه السلام) was sent to his people to ask them why they openly committed lewd acts even though they knew it to be wrong. "],
+						["They had no answer except to try to expel Lut (عليه السلام) and his followers from the town. "],
+						["So, Allah saved Lut (عليه السلام) and all his family; except his wife who was destined to be one of those who stayed behind."],
+						["An evil rain of stones pelted down on those who chose to ignore the warning."]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "REALITY AND FATE OF DISBELIEVERS",
+					"rangeStart": "59",
+					"rangeEnd": "93",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["The Prophet (ﷺ) is asked to praise Allah and send peace upon the messengers. "],
+						["He is also instructed to ask who is better, Allah, who created the heavens and the earth and all that is in them, or another deity?"],
+						["It is He who knows when the dead will be raised which the Disbelievers refute as they say think it is only ancient tales."],
+						["The Disbelievers are warned of the day when they will come in groups before Allah unable to speak when they are given their verdict. "],
+						["When the trumpet sounds many will be terrified; the firm mountains will pass away like clouds and when a good deed will keep a person safe, but an evil deed will see them flung into the Fire. "],
+						["The Prophet (ﷺ) has been commanded to submit to Allah, to worship Him and recite the Qur’an."],
 						[""]
 					]
 				},
