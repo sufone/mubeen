@@ -3033,105 +3033,105 @@ var surahsOld = [
 	{
 		"name": "al-Furqān",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah takes its name 'Al-Furqaan' from the first verse.",
+			"period": "Makkan",
+			"context": "This surah, like surah Al-Mu'minun, was also revealed during the third stage of prophethood at Makkah.",
+			"theme": "The main theme of this surah is to glorify Allah. It starts with a denunciation of polytheism, then deals with the Disbelievers’ arguments against the Prophet (ﷺ), the Qur’an which is the criterion (furqaan) that separates truth from falsehood, and the Day of Judgement. It warns them of their fate, citing examples of earlier peoples. The surah answers some of the objections of the non-believers against the Qur'an and the teachings of Islam. It also presents the character of the Believers as criteria to prove the truth of Islam. The surah describes the Power and Grace of Allah and ends with the qualities of true Believers.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "DISTINGUISHING RIGHT FROM WRONG",
+					"rangeStart": "1",
+					"rangeEnd": "9",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
+						["Blessed is Allah who has sent down the criterion of what is right and what is wrong (the Qur’an) to his Prophet in order that he may warn the world. "],
+						["Yet the Disbelievers ask what sort of messenger eats food and walks about in the markets; why is he not accompanied by an Angel or has treasure or even a garden of his own?"],
+						["The wrongdoers then declare that Muhammad (ﷺ) is affected by magic."],
+						["They use their own imagination to discredit Muhammad (ﷺ); they are clearly lost."],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "A FIRE PREPARED",
+					"rangeStart": "10",
+					"rangeEnd": "16",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
+						["Blessed be Allah who could if He willed give Muhammad (ﷺ) any number of special things, even more special then the things the Disbelievers ask about such as gardens under which rivers flow and palaces too."],
+						["They (the Disbelievers) deny the Hour but Allah has prepared a blazing Fire for those who deny the Hour."],
+						["When they see it in the distance they will hear its fury and roaring and will then be flung into it pleading for death. "],
+						["Which is better they are asked, this, or the garden promised to the righteous?  "],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": " DEITIES DENY DIVINITY",
+					"rangeStart": "17",
+					"rangeEnd": "24",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["On the Day of Judgement, Allah will gather all of mankind with the deities. "],
+						["The deities will be asked if they tried to mislead the people and they will answer that they most certainly did not."],
+						["The deities will deny the Disbelievers and the punishment will not be averted. "],
+						["All prophets ate food and walked in the markets and streets and that some people have been created to be a trial for others. "],
+						["Those who ask why they do not see Allah or Angels, do not really believe in a day when they will stand before Allah and will thus have a terrible Hereafter."],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "REGRETS",
+					"rangeStart": "25",
+					"rangeEnd": "34",
 					"details": [
+						["The Day the clouds are torn apart will be a hard day for the Disbelievers. "],
+						["They will bite their hands in regret and wish they had chosen better companions, finally acknowledging Shaytan as a treacherous enemy."],
+						["Prophet Muhammad (ﷺ) will decry the people who took the Qur’an as nonsense and Allah replies that every messenger had a wicked enemy. "],
+						["The Disbelievers of Makkah ask why the Qur’an was not sent down all at one time and Allah answers that it was sent gradually to strengthen the Prophet’s (ﷺ) heart."],
+						["He (Prophet Muhammad (ﷺ)) is told that Allah will help Him answer any arguments put to him. "],
 						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THOSE WHO REJECTED THE REVELATIONS",
+					"rangeStart": "35",
+					"rangeEnd": "44",
+					"details": [
+						["There were many who were given warnings but rejected reveations including people during the time of Moosa and Haroon (عليهم السلام), Nuh (عليه السلام) and those among the people of ‘Aad, Thamud and the Companions of the Rass who were destroyed as a result."],
+						["Now they deny Prophet Muhammad (ﷺ) but soon they will see a punishment for doing so."],
+						["And there is also those who have taken their own desires as his god. "],
+						["The Prophet (ﷺ) cannot guide a person who chooses not to hear or understand the warning. "],
+						["Some people are like cattle lead away from the right track. "],
 						[""],
-						[""],
-						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE POWER OF ALLAH",
+					"rangeStart": "45",
+					"rangeEnd": "62",
+					"details": [
+						["Allah is the one who: lengthens the shade, makes the night as a rest and the day a type of resurrection, controls and sustains the earth and its inhabitants."],
+						["He created two seas, one salty and bitter the other sweet and fresh; he created mankind from water. "],
+						["Allah created the heavens and the earth and what is between them in six days (each ‘day’ length of which only Allah knows) and established Himself above them upon His Throne."],
+						["Yet still some people do not bow down or believe, instead they turn further away."],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "MANNERISMS OF THE BELIEVERS",
+					"rangeStart": "63",
+					"rangeEnd": "77",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
+						["The Believers: walk with humility, address ignorant people with words of peace, spend the night worshipping Allah seeking refuge from Hell, are not extravagant nor stingy, invoke none but Allah, never kill except for a just reason, commit adultery or fornication, do not bear false witness, pass by frivolity with dignity and take heed of Allah’s signs and revelations."],
+						["These are the ones whose patience will be rewarded with Paradise, where they will be welcomed with greetings and salutations and shall live forever."],
+						["And Allah is able to change the bad deeds into good for those who repent and become righteous."],
+						["The Prophet (ﷺ) is told to say that Allah does not care if you invoke Him or not but if you reject His revelations you will face the punishment."],
 						[""],
 						[""],
 						[""],
