@@ -3495,17 +3495,63 @@ var surahsOld = [
 	{
 		"name": "al-Qaṣaṣ",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah takes its name from verse 25 in which the word Al-Qasas occurs. Qasas means to narrate events in their proper sequence. ",
+			"period": "Makkan",
+			"context": "This was revealed during the middle Makkan period, according to Ibn Abbas and Jabir bin Zaid, 'First the Surah Ash-Shu`araa was sent down, then Surah An-Naml and then Al-Qasas.'",
+			"theme": "A surah which centres on the story of Moosa (عليه السلام) and takes its title from the reference to the story told by Moosa (عليه السلام) in verse 25. Its main theme is the bad end that comes to those who are arrogant and spread corruption, like Pharaoh and Qarun––polytheism is denounced at various points throughout the surah––and a link is made between these and the Disbelievers of Makkah. The Prophet (ﷺ) is reminded that he cannot make everyone believe and should remain steadfast.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "PROPHET MOOSA (عليه السلام) AND PHARAOH",
+					"rangeStart": "1",
+					"rangeEnd": "21",
 					"details": [
+						["Allah wanted to favour and make the Israelites leaders in the land who were being persecuted by Pharaoh and Haman. Allah wanted them to face their greatest fears. "],
+						["Moosa’s (عليه السلام) mother was inspired by Allah and made to understand that she should suckle her baby but when the time comes when she is afraid for him she should put him in the river."],
+						["She must not grieve or be afraid because Allah will return the baby to her and he will grow up to be one of His messengers."],
+						["A member of Pharaoh’s family found baby Moosa (عليه السلام) little realizing that later he would become a source of grief for the evildoers."],
+						["Pharaoh’s wife was able to convince her husband to adopt the baby and they took him into the family. The following day Moosa’s (عليه السلام) mother was bereft but Allah strengthened her."],
+						["She sent Moosa’s (عليه السلام) sister to find out what happened. Allah had ordained that Moosa (عليه السلام) would refuse to feed from any of the palace wet nurses so Moosa’s (عليه السلام) sister was able to tell them about her mother that could feed the baby. "],
+						["In this way Moosa (عليه السلام) was restored to his mother so she would feel comforted and know that Allah’s promise was true."],
+						["Moosa (عليه السلام) had reached adulthood when one day when walking in the city he came upon two people fighting. "],
+						["One was from his own people and appealed to him for help. Moosa (عليه السلام) did help and killed the person with one blow."],
+						["He realised that Shaytan must have had a hand in this and appealed to Allah for forgiveness. When forgiven, he promised never to support evildoers."],
+						["The next day he came upon the same man fighting and realised he was a troublemaker. Moosa (عليه السلام) was reluctant to be drawn into another fight but was going to attack the troublemaker who was accusing him of being a tyrant."],
+						["At that moment a man rushed up to Moosa (عليه السلام) and told him that the authorities were looking for him, possibly intending to kill him and so he left the city."],
 						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "RETURN TO EGYPT",
+					"rangeStart": "22",
+					"rangeEnd": "43",
+					"details": [
+						["Moosa (عليه السلام) made his way to Midian. When he arrived at the waterhole there he found a group of men watering their livestock while two women were standing back fearful of watering their sheep whilst the men were there."],
+						["Moosa (عليه السلام) watered the sheep for them and then sat in the shade and prayed to Allah for assistance."],
+						["He asked Allah for any good thing at all and just then one of the two women returned saying that their father wanted to speak to him and reward him.  Moosa (عليه السلام) went with the woman and met her father, Prophet Shu’aib (عليه السلام)."],
+						["The old man listened to his story and reassured him."],
+						["One of the daughters encouraged her father to hire Moosa (عليه السلام), and so Prophet Shu’aib (عليه السلام) offered one of his daughters in marriage if he worked for him for eight years adding that ten would be better though. "],
+						["Moosa (عليه السلام) agreed to fulfil one of the terms. And when the agreed upon term had been completed Moosa (عليه السلام) set out to travel with his family. "],
+						["One night he noticed a Fire on the side of a mountain. He told his family to wait while he went to find the source of the Fire and perhaps learn some news or in the very least bring back a flaming branch so that they could light their own Fire."],
+						["When Moosa (عليه السلام) reached the Fire a voice called out to him. The voice seemed to come from the right side of the valley, from a tree. The voice said, \"I am Allah, Lord of the worlds\". "],
+						["Allah then showed him vividly the signs of the snake and staff and his shining hand that he was to present to Pharaoh. Moosa (عليه السلام) then told Allah about the man he had killed and that he feared he would be killed himself if he returned to Egypt. "],
+						["He also asked that his eloquent brother Haroon (عليه السلام) be able to accompany him on his mission. Allah replied that he would strengthen Moosa (عليه السلام) with his brother, and that they would not be harmed and would triumph."],
+						["When Moosa and Haroon (عليهم السلام) presented themselves before Pharaoh they were accused of trickery and sorcery because they had never seen such a thing before."],
+						["Arrogantly Pharaoh told his advisor Haman to build a high tower so that he could climb up and see this God of Moosa (عليه السلام) and accused him of lying. "],
+						["Allah seized them and flung them into the sea and that was an end to them. "],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "PROPHET MUHAMMAD (ﷺ) DOES NOT NARRATE FROM HIMSELF",
+					"rangeStart": "44",
+					"rangeEnd": "50",
+					"details": [
+						["Allah tells the Prophet (ﷺ) that he was not present there on the mountain when He (Allah) gave Moosa (عليه السلام) the law, nor was he among the people of Midian, nor when He spoke to Moosa (عليه السلام) on the side of Mount Sinai. "],
+						["You (Prophet Muhammad) had no direct means of obtaining the information of earlier nations; all this is being revealed to you. "],
 						[""],
 						[""],
 						[""],
@@ -3515,12 +3561,12 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "GUIDANCE",
+					"rangeStart": "51",
+					"rangeEnd": "61",
 					"details": [
-						[""],
-						[""],
+						["The Prophet (ﷺ) is told he does not decide who will be guided but Allah guides whoever He pleases and knows which people will accept guidance."],
+						["And no town is ever destroyed without ever being offered guidance from a messenger and warner."],
 						[""],
 						[""],
 						[""],
@@ -3529,13 +3575,12 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "POLYTHEISTS ON JUDGEMENT DAY",
+					"rangeStart": "62",
+					"rangeEnd": "75",
 					"details": [
-						[""],
-						[""],
-						[""],
+						["The polytheists will be asked what guidance came to them, but they will know they chose to reject it and so will face doom."],
+						["Allah further illustrates our dependency on Him alone using the reality of night and day."],
 						[""],
 						[""],
 						[""],
@@ -3544,53 +3589,25 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "THE STORY OF QARUN",
+					"rangeStart": "76",
+					"rangeEnd": "82",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Qarun was from one of Moosa’s (عليه السلام) people but he rebelled against them. "],
+						["Allah gave him so many treasures and his people urged him not to gloat but be thankful. But Qarun replied all that he has is only because of his own knowledge and ability."],
+						["One day he came out of his house in all his worldly adornment."],
+						["Allah caused the earth to swallow him and his house."],
+						["Then the same people who had envied Qarun changed their minds realising it is Allah who enlarges provision and it is Allah that can take it away."],
+						["If it was not for Allah’s Grace He could have caused the earth to swallow us all. "],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "ALLAH’S PROMISE TO THE BELIEVERS",
+					"rangeStart": "83",
+					"rangeEnd": "88",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
+						["The home of the Hereafter is for those who seek neither glory nor spread corruption and who believe in Allah alone."],
 						[""],
 						[""],
 						[""],
