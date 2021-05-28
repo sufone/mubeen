@@ -3666,19 +3666,19 @@ var surahsOld = [
 	{
 		"name": "al-ʿAnkabūt",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah takes its name from verse 41 Ankabut (Spider) which gives a description of the spider’s house building skills.",
+			"period": "Makkan",
+			"context": "The surah as a whole points to the conditions prevailing in the time of the migration to Habasha and not to the last stage at Makkah.Verses 56 to 60 clearly show that this surah was sent down a little before the migration to Habasha.",
+			"theme": "The surah stresses that Believers will be tested and that they should remain steadfast and further highlights the battle between faith and disbelief. The misconceptions of Disbelievers regarding the nature of revelation and the Prophet (ﷺ) are addressed. References are made to earlier prophets and details given of the punishments brought on those who denied them.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "TEST OF FAITH",
+					"rangeStart": "1",
+					"rangeEnd": "13",
 					"details": [
-						[""],
-						[""],
-						[""],
+						["The surah immediately informs the Believers that their faith will be tested."],
+						["The people who came before them were tested and it is how Allah separates the liars from those who are truthful. "],
+						["It is not enough to claim belief; belief imposes certain duties. "],
 						[""],
 						[""],
 						[""],
@@ -3686,70 +3686,70 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "NUH AND IBRAHIM (عليهم السلام)",
+					"rangeStart": "14",
+					"rangeEnd": "27",
 					"details": [
+						["Nuh (عليه السلام) was spreading his message amongst his people for nearly one thousand years but they were still doing evil when the flood overtook them. "],
+						["Those saved in the ark are a sign for all those who came after them. "],
+						["Ibrahim (عليه السلام) tried to warn his people against idol worship and told them to seek their provision from Allah."],
+						["He warned them with stories from their own past and with logical arguments about the power and Mercy of Allah. "],
+						["Their response was to throw him into the Fire of which he walked out of."],
+						["Lut (عليه السلام) witnessed this event and then reaffirmed his faith."],
+						["Ibrahim (عليه السلام) was father to a long line of prophets beginning with his son Is’haq and grandson Ya’qoob (عليهم السلام)."]
+					]
+				},
+				{
+					"name": "THE STORY OF LUT (عليه السلام)",
+					"rangeStart": "28",
+					"rangeEnd": "35",
+					"details": [
+						["Lut (عليه السلام) tried to counsel his people asking them to stop their immoral practices, their acts of highway robbery, and corruption. "],
+						["They instead asked to bring on the punishment so the when the Angels brought the news of a son to Ibrahim (عليه السلام) they also told him they were charged with destroying the town Lut (عليه السلام) was living in but save Lut (عليه السلام)."],
+						["When the Angels in the form of guests visited Lut (عليه السلام), he was anxious because he could do nothing to protect them from the unruly and evil townspeople. "],
+						["The Angels were aware of Lut’s (عليه السلام) grief. "],
+						["They revealed their identity and told him why they had come and that he and his household, except his wife, would be safe from Allah’s torment."],
+						["The ruins of the town were left so that people who think would understand."],
 						[""],
-						[""],
-						[""],
-						[""],
+						[""]
+					]
+				},
+				{
+					"name": "SHU’AIB AND MOOSA (عليهم السلام)",
+					"rangeStart": "36",
+					"rangeEnd": "40",
+					"details": [
+						["Shu’aib (عليه السلام) was denied by his people; the people of Midian. "],
+						["Allah therefore sent an earthquake that overtook them in the night. "],
+						["The people of Ad and Thamud were also destroyed."],
+						["Moosa (عليه السلام) went to Pharaoh, Qarun and Haman with clear undeniable signs but they too were arrogant and refused to believe. "],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "ALLAH IS ALL-KNOWING",
+					"rangeStart": "41",
+					"rangeEnd": "59",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
+						["Those who seek protection from something other than Allah are like spiders who think they are safe in their flimsy cobweb homes. "],
+						["Allah knows what they call on besides Him and even when given examples they fail to understand."],
+						["Only argue with the People of the Book in a good way, explain that their God and your God is One and the same."],
+						["Many of those given the scriptures believe in the Qur’an; only the defiant refuse."],
 						[""],
 						[""],
 						[""]
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "THE SIGNS THAT MAKE THINGS CLEAR",
+					"rangeStart": "60",
+					"rangeEnd": "69",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
+						["If you ask the Disbelievers who created the heavens and the earth, or who sends down the rain, they would answer, Allah. "],
+						["Why then do they continue to deny the signs? Why do they not use their common sense?"],
+						["This life is just a temporary amusement."],
 						[""],
 						[""],
 						[""],
@@ -3820,16 +3820,45 @@ var surahsOld = [
 	{
 		"name": "ar-Rūm",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah takes its name Ar-Room from the second verse in which the words ghulibat-ir-Room have occurred.",
+			"period": "Makkan",
+			"context": "The period of the revelation of this surah is determined by the historical event wherein \"The Romans have been vanquished in the neighboring land.\" The Persians under Chosroes had taken over much Byzantine territory especially at the Levant in 615 A. D – the date of revelation and the same time of the first migration to Abbysinia which was an ally of the Byzantium Empire at the time. Pagan Arabs were mocking the situation claiming idolatry was defeating revealed religion, particularly after Chosroes captured Jerusalem massacaring Christians and the Church of the Holy Sepulchre. Even seven to eight years after this prediction of the Qur’an, the conditions were such that no one could even imagine that the Byzantine Empire would ever gain an upper hand over Persia. Not to speak of gaining domination, no one could hope that the Empire, under the circumstances, would even survive. However Byzantine emperor Heraclius in 624 had attacked Persia and destroyed the birthplace of Zoroaster and ravaged the principal Fire temple of Persia. This was the very year when the Muslims achieved a decisive victory at Badr for the first time against the Disbelievers. Thus, both the predictions made in Surah Room were fulfilled simultaneously within the stipulated period of ten years. At the battle at Nineveh in 627 A.D. they dealt them the hardest blow to Persia which signalled the fulfilment of the prediction of the Qur’an. This was the year when the peace Treaty of Hudaybiyyah was concluded, which the Qur’an has termed as \"the supreme victory\". In 628 A. D., the Emperor himself went to Jerusalem to install the \"Holy Cross\" in its place, and in the same year the Prophet (ﷺ) entered Makkah for the first time after the Hijrah to perform the `Umra-tul-Qada'. ",
+			"theme": "A surah which opens with a reference to the defeat of the Byzantines at the hands of the Persians in Syria, and the subsequent victory of the Byzantines. The surah urges people to reflect on the creation of themselves, the heavens and earth, and all Allah’s wonders. Allah’s Power to give life to a barren land is repeated as an indication both of His ability to raise the dead and of His Mercy to mankind. The Disbelievers are warned to believe before it is too late; the Prophet (ﷺ) is urged to persevere and to ignore the taunts of the Disbelievers.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "PROMISE FOR THE BELIEVERS TO GAIN VICTORY",
+					"rangeStart": "1",
+					"rangeEnd": "7",
 					"details": [
+						["Persia had conquered many parts of the Byzantine Empire which was viewed by the pagan Arabs as the victory of polytheism over revealed scripture."],
+						["Therefore, the opening of this chapter heralds a victory for the people of the Scriptures, the Byzantines, within a few years."],
+						["It says that this victory will bring much joy to the Muslims because they love the Believers of any divine religion to gain the upper hand."],
+						["It’s also a strength to the believers and illustrates Allah’s Power."],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "THE HEREAFTER",
+					"rangeStart": "7",
+					"rangeEnd": "16",
+					"details": [
+						["The Qur’an uses the event to show the believers and their opponent’s wider horizons and establishes a link between them and the universe."],
+						["It then moves on to the life to come and the world beyond this earth and the inevitability of the day of accounting."],
+						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "",
+					"rangeStart": "17",
+					"rangeEnd": "28",
+					"details": [
+						["The signs of Allah are clearly stated and his overarching power and control over all his creation and yet the Disbelievers continue to ascribe partners to Him."],
 						[""],
 						[""],
 						[""],
@@ -3840,12 +3869,12 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "THE TRUE RELIGION",
+					"rangeStart": "29",
+					"rangeEnd": "40",
 					"details": [
-						[""],
-						[""],
+						["Allah makes it clear that this is the true natural religion of Allah akin to the human disposition but that many just do not know."],
+						["The characteristics of Hypocrites are then clearly shown as they are joyful with good coming their way but are angry and turn their backs on Allah when anything negative befalls them."],
 						[""],
 						[""],
 						[""],
@@ -3854,43 +3883,14 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "THE DISEASE OF MAN",
+					"rangeStart": "41",
+					"rangeEnd": "60",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
+						["Man is responsible for spreading corruption through the earth and Allah only sends down punishment in order to bring back people to Him."],
+						["He sends messengers and informs man of the signs surrounding him and how this is all due to Allah’s power but the Disbelievers are just wandering blindly."],
+						["Even if a miracle was to come in front of them they wouldn’t believe, hence they have a disease of the heart, one that is sealed by Allah as a result of his own actions."],
+						["The Prophet (ﷺ) is encouraged to simply be patient as the Day of Judgement will inevitably come."],
 						[""],
 						[""],
 						[""]
@@ -3974,17 +3974,46 @@ var surahsOld = [
 	{
 		"name": "Luqmān",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah has been named after Luqman the Wise, a man whose counsel to his son have been related in verses. 12-19 of this surah.",
+			"period": "Makkan",
+			"context": "This surah was sent down in the period when persecution was high and was revealed slightly earlier than Surah Al-Ankabut.",
+			"theme": "The surah opens with a description of the Believers, and it condemns those who attempt to lead others away from guidance and outlines Luqman’s virtuous wisdom to his son. It extols Allah’s Power and warns the Disbelievers of the consequences of their actions. The Prophet (ﷺ) is told not to be saddened by their disbelief.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "TRAITS AND DISTRACTIONS",
+					"rangeStart": "1",
+					"rangeEnd": "7",
 					"details": [
+						["The Qur’an is guidance and a mercy for those who lead a God-conscious life and with the Hereafter as their main focus."],
+						["However, there are some people who are without knowledge and pay for distracting tales to lead others away from Allah and these will face torment, whereas the Believers will be in Paradise."],
 						[""],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "LUQMAN ADVISES HIS SON",
+					"rangeStart": "12",
+					"rangeEnd": "19",
+					"details": [
+						["Allah gave wisdom to the wise man Luqman so that he would be grateful and acknowledge Allah’s favours."],
+						["Allah then commands that people be good to their parents and further associates gratitude towards Him with gratitude towards parents, but not to obey them only when they ask you to commit the greatest sin of associating others with Allah. "],
+						["Luqman teaches his son to: not associate anything in worship with Allah, that nothing can escape Allah’s knowledge, to lead a moral and upstanding life, establish prayer, enjoin the good, forbid the evil and bear the trials and afflictions of life with patience, don’t be arrogant and prideful, walk moderately and speak modestly."],
+						[""],
+						[""],
+						[""],
+						[""]
+					]
+				},
+				{
+					"name": "AN ADMONITION",
+					"rangeStart": "20",
+					"rangeEnd": "30",
+					"details": [
+						["Allah points to everything in the heavens and earth as a sign yet still people do not follow His guidance but prefer to look elsewhere despite even knowing the truth."],
+						["Allah’s power and knowledge is expressed as if all the trees on earth were pens, and the oceans were ink, replenished by seven more oceans, the writing of Allah’s Words (signs and creations) would not be exhausted."],
 						[""],
 						[""],
 						[""],
@@ -3994,42 +4023,13 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "DELUSION OF DUNYA AND DECEPTION OF SHAYTAN",
+					"rangeStart": "30",
+					"rangeEnd": "34",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""],
-						[""]
-					]
-				},
-				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
-					"details": [
-						[""],
-						[""],
-						[""],
+						["In crisis people turn to Allah alone sincerely but when it passes some go back to faltering between belief and disbelief."],
+						["Allah advises mankind to fear Him and not let the life of this world delude us or Shaytan to deceive us."],
+						["Prophet Muhammad (ﷺ) is told ultimately not to be saddened by the actions of the Disbelievers."],
 						[""],
 						[""],
 						[""],
@@ -4128,18 +4128,18 @@ var surahsOld = [
 	{
 		"name": "as-Sajdah",
 		"summary": {
-			"name": "",
-			"period": "",
-			"context": "",
-			"theme": "",
+			"name": "The surah has been entitled As-Sajdah after the theme of sajdah as expressed in verse 15.",
+			"period": "Makkan",
+			"context": "This surah was sent down during the middle Makkan period, more particularly in its initial stage",
+			"theme": "A surah which takes its title from the bowing down of true Believers in worship in verse 15. The main theme is the journey of our life. The truth of the Qur’an is emphasized at the beginning of the surah, and the Prophet (ﷺ) is urged at the end of the surah to pay no attention to the Disbelievers who cannot see the significance of Allah’s signs.",
 			"breakdown": [
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "SIGNS OF ALLAH",
+					"rangeStart": "1",
+					"rangeEnd": "11",
 					"details": [
-						[""],
-						[""],
+						["There is no doubt that this Book, the Qur’an, is from Allah, the Lord of all the worlds."],
+						["Allah illustrates all His signs through His creation of the world, of mankind, His knowledge of everything, yet man still is ungrateful and questions resurrection."],
 						[""],
 						[""],
 						[""],
@@ -4148,13 +4148,13 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "THE DAY OF RESURRECTION",
+					"rangeStart": "12",
+					"rangeEnd": "22",
 					"details": [
-						[""],
-						[""],
-						[""],
+						["When the day finally arrives, the criminals will hang their heads in shame asking their Lord to return them to the world. "],
+						["They ignored the meeting planned for Judgment Day and now they will be ignored by Allah and taste punishment."],
+						["Whereas the people who believe in Allah’s revelations prostrate themselves whenever they are reminded of them; this is the difference between Believers and Disbelievers. "],
 						[""],
 						[""],
 						[""],
@@ -4162,14 +4162,14 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
-					"rangeStart": "",
-					"rangeEnd": "",
+					"name": "SIMILARITIES BETWEEN REVELATIONS",
+					"rangeStart": "23",
+					"rangeEnd": "30",
 					"details": [
-						[""],
-						[""],
-						[""],
-						[""],
+						["The Qur’an meets the same criteria as the Book given to Prophet Moosa (عليه السلام) as a guide for the Children of Israel."],
+						["When they were patient and believed in Allah’s signs they raised leaders from among them who guided according to their Book."],
+						["And on the Day of Judgment Allah will decide the matters over which they differed."],
+						["They do not understand how many previous generations were destroyed by Allah and how they walk and dwell in the same places but still do not see the signs, nor do they hear."],
 						[""],
 						[""],
 						[""],
