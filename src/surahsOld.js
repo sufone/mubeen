@@ -4281,249 +4281,7875 @@ var surahsOld = [
 	},
 	{
 		"name": "al-Aḥzāb",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Sabaʾ",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Fāṭir",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Yā-Sīn",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "as-Ṣāffāt",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Ṣād",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "az-Zumar",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Ghāfir",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Fuṣṣilat",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "ash-Shūrā",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "az-Zukhruf",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "ad-Dukhān",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Jāthiyah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Aḥqāf",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Muḥammad",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Fatḥ",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Ḥujurāt",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Qāf",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "adh-Dhāriyāt",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Ṭūr",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "an-Najm",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Qamar",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "ar-Raḥmān",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Wāqiʿah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Ḥadīd",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Mujādilah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Ḥashr",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Mumtaḥanah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "as-Ṣaff",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Jumuʿah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Munāfiqūn",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Taghābun",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Ṭalāq",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Taḥrīm",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Mulk",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Qalam",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Ḥāqqah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Maʿārij",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Nūḥ",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Jinn",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Muzzammil",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Muddaththir",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Qiyāmah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Insān",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Mursalāt",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "an-Nabaʾ",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "an-Nāziʿāt",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "ʿAbasa",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Takwīr",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Infiṭār",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Muṭaffifīn",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Inshiqāq",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Burūj",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Ṭāriq",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Aʿlā",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Ghāshiyah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Fajr",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Balad",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "ash-Shams",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Layl",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "ad-Ḍuḥā",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "ash-Sharḥ",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Tīn",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-ʿAlaq",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Qadr",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Bayyinah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "az-Zalzalah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-ʿĀdiyāt",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Qāriʿah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "at-Takāthur",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-ʿAsr",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Humazah",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Fīl",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "Quraysh",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Māʿūn",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Kawthar",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Kāfirūn",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "an-Naṣr",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Masad",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Ikhlāṣ",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "al-Falaq",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	},
 	{
 		"name": "an-Nās",
+		"summary": {
+		    "name": "",
+		    "period": "",
+		    "context": "",
+		    "theme": "",
+		    "breakdown": [
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "",
+		            "rangeStart": "",
+		            "rangeEnd": "",
+		            "details": [
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        }
+		    ]
+		}
 	}
 ]
 export default surahsOld
