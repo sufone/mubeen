@@ -4282,17 +4282,46 @@ var surahsOld = [
 	{
 		"name": "al-Aḥzāb",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derives its name Al-Ahzab from verse 20.",
+		    "period": "Medinan",
+		    "context": "The surah discusses three important events which are: The Battle of the Trench (or Al-Ahzab), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Prophet's (ﷺ) marriage with Zainab (رضی اللہ عنھا), which also was contracted in Dhil-Qa'dah, A. H. 5.",
+		    "theme": "A surah which gets its title from the incident of the Battle of the Trench in AH 5/627 CE (verses 9–27), when the joint forces of various tribes of Disbelievers besieged Medina. The Believers dug a ditch, which the Disbelievers were unable to cross, and eventually the enemy retreated in disarray. This is mentioned in order to remind the Believers of Allah’s goodness to them, so that they may obey the numerous instructions given in the surah, starting with the regulation of adoption and including proper conduct towards the Prophet (ﷺ) and his wives. The Hypocrites are warned to stop their bad behaviour.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PROPHET (ﷺ), ZAYD (رضي الله عنه‎) AND ZAINAB (رضی اللہ عنھا)",
+		            "rangeStart": "1",
+		            "rangeEnd": "8",
 		            "details": [
+		                ["At the time of their revelation Zaid (رضي الله عنه‎) had already divorced Zainab (رضی اللہ عنھا)."],
+		                ["The Prophet (ﷺ) was feeling the necessity that the concepts and customs and superstitions of ignorance concerning the adoption of the son (that adopted sons are treated the same as biological sons) should be eradicated, and he was also feeling that the delicate and deep sentiments the people cherished about the adopted relations merely on emotional grounds would not be rooted out until he himself took the initiative to eradicate the custom practically."],
+		                ["But at the same time he was hesitant and considering seriously that if he married the divorced wife of Zaid (رضي الله عنه‎) then, the Hypocrites and the Jews and the Disbelievers who were already bent on mischief would get a fresh excuse to start a propaganda campaign against Islam."],
+		                ["The Prophet (ﷺ) is more protective over the Believers than they are themselves and the prophet’s wives are the Mother of the Believers."],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE BATTLE OF AHZAB",
+		            "rangeStart": "9",
+		            "rangeEnd": "27",
+		            "details": [
+		                ["An appraisal has been made of the Battle of the Trench and the raid against the Bani Quraizah who broke their treaty with the Muslims."],
+		                ["Allah sent violent wind and unseen forces against the confederate armies as a sign and comfort to the Believers, while the Hypocrites wanted to give up and retreat."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "WIVES OF THE PROPHET (ﷺ)",
+		            "rangeStart": "28",
+		            "rangeEnd": "35",
+		            "details": [
+		                ["Allah has given a notice to the wives of the Prophet (ﷺ), who were being impatient of the straitened circumstances, to choose between the world and its adornments, and Allah, His Prophet and the Hereafter."],
+		                ["Allah commands them to act upright, for example by speaking in a moderate tone and by staying in the home to avoid the lusts of men as He wishes to purify the household of the Prophet (ﷺ)."],
 		                [""],
 		                [""],
 		                [""],
@@ -4302,11 +4331,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "MARRIAGE TO ZAINAB (رضی اللہ عنھا)",
+		            "rangeStart": "36",
+		            "rangeEnd": "48",
 		            "details": [
-		                [""],
+		                ["The Prophet's (ﷺ) marriage with Zainab (رضی اللہ عنھا) is addressed in that it was ordained by Allah himself and the Prophet (ﷺ) himself has been counseled to not fear anyone but Allah and exercise patience on the false propaganda of the Disbelievers and the Hypocrites."],
 		                [""],
 		                [""],
 		                [""],
@@ -4316,12 +4345,25 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "SOCIAL REFORM",
+		            "rangeStart": "49",
+		            "rangeEnd": "55",
 		            "details": [
+		                ["Clause of the law regarding divorce has been laid down that women do not need a waiting period if they have not been touched in a marriage."],
+		                ["A special regulation of marriage has been laid down for the Prophet (ﷺ) specifically."],
+		                ["Social reform including restriction on the other men to visit the houses of the Prophet's (ﷺ) wives; Islamic etiquette concerning visits and invitations; the law that only the near relatives could visit the holy wives in their houses; as for the other men, they could speak to or ask them a thing from behind a curtain; the injunction that the Prophet's (ﷺ) wives were forbidden for the Muslims like their mothers; and none could marry any of them after him."],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "BLESSINGS ON THE PROPHET (ﷺ)",
+		            "rangeStart": "56",
+		            "rangeEnd": "57",
+		            "details": [
+		                ["The Believers are told to invoke the blessings of Allah for their Prophet; as the Angels and Allah Himself does."],
 		                [""],
 		                [""],
 		                [""],
@@ -4331,11 +4373,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "COMMAND TO THE BELIEVING WOMEN",
+		            "rangeStart": "58",
+		            "rangeEnd": "59",
 		            "details": [
-		                [""],
+		                ["The commandment to all the Muslim women that they should come out well covered with the outer garments and covering their faces whenever they came out of their houses for a genuine need."],
 		                [""],
 		                [""],
 		                [""],
@@ -4345,12 +4387,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "PUNISHMENT",
+		            "rangeStart": "60",
+		            "rangeEnd": "71",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The Hypocrites are cursed in this life and the Disbelievers will enter the Fire in regret asking Allah to punish double those who led them down the wrong path."],
+		                ["The Believers are told not to be like those who vexed Moosa (عليه السلام)."],
 		                [""],
 		                [""],
 		                [""],
@@ -4359,13 +4401,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE TRUST",
+		            "rangeStart": "72",
+		            "rangeEnd": "73",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The trust (Deen) was offered to the heavens and the earth and the mountains but they declined but man chose to take it."],
+		                ["Verily he was unjust (to himself) and ignorant (of its results)."],
+		                ["He will punish the Hypocrites and Disbelievers but reward the Believers."],
 		                [""],
 		                [""],
 		                [""],
