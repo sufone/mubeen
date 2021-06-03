@@ -4420,17 +4420,17 @@ var surahsOld = [
 	{
 		"name": "Sabaʾ",
 		"summary": {
-		    "name": "",
+		    "name": "The surah takes its name from verse 15 in which the word Saba has occurred (i. e. the Sabaeans/people of Sheba) who were blessed, and then punished for their ingratitude.",
 		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "context": "• This was revealed in either the middle or the early Makkan period when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds. • There was a massive river and this community built a massive dam but later it collapsed and Allah mentions this in the Qur'an.",
+		    "theme": "The Prophet (ﷺ) is first encouraged through references to Dawud and Sulayman (عليهم السلام) and how Allah favoured them. The Disbelievers of Makkah are warned through a description of the punishment that awaits them on the Day of Resurrection. Two references are made to their accusing the Prophet (ﷺ) of madness and this charge is thoroughly refuted.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH IS ALL KNOWING",
+		            "rangeStart": "1",
+		            "rangeEnd": "9",
 		            "details": [
-		                [""],
+		                ["Disbelievers and their punishment for not seeing Allah's plain signs."],
 		                [""],
 		                [""],
 		                [""],
@@ -4440,11 +4440,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "DAWUD AND SULAYMAN (عليهم السلام) WERE GRATEFUL",
+		            "rangeStart": "10",
+		            "rangeEnd": "14",
 		            "details": [
+		                ["Dawud (عليه السلام) had the gift of speech to birds, able to manipulate iron, and had the Psalms of praise, while Sulayman (عليه السلام) had the gift of controlling winds and Jinn and provided miraculous molten copper to flow to use for construction."],
+		                ["Then Sulayman (عليه السلام) died and the Jinn didn’t know had it not been for a creature eating at his stick, if they had known what was hidden they would not have continued their demeaning labour."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "Shaytan misled most of them except for a few.",
+		            "rangeStart": "15",
+		            "rangeEnd": "20",
+		            "details": [
+		                ["The people of Sheba were blessed with 2 opposite gardens but were not thankful so their dam released a flood causing their gardens to be replaced with bitter fruit, they also complained of their distance between other towns despite being in sight view, so as a result they were scattered in fragments."],
+		                ["Shaytan misled most of them except for a few."],
 		                [""],
 		                [""],
 		                [""],
@@ -4454,12 +4469,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "DISBELIEVERS REJECT THE WARNERS",
+		            "rangeStart": "21",
+		            "rangeEnd": "40",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The Disbelievers continue to reject the message and are corrupted by wealth and children and the good things in life and so will find out on the Day of Resurrection."],
 		                [""],
 		                [""],
 		                [""],
@@ -4469,12 +4483,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH QUESTIONS THE ANGELS",
+		            "rangeStart": "41",
+		            "rangeEnd": "46",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The Angels will be questioned whether it was them that humans worshipped, but they will reply that most of them worshipped the Jinns!"],
+		                ["The Angels will be questioned whether it was them that humans worshipped, but they will reply that most of them worshipped the Jinns!"],
 		                [""],
 		                [""],
 		                [""],
@@ -4483,25 +4497,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PROPHETS SINCERELY COMES WITH TRUTH",
+		            "rangeStart": "47",
+		            "rangeEnd": "54",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["The Prophet (ﷺ) is ordered to outline that he is not a mad man but is simply here to warn of severe punishment and asks for no reward at all."],
 		                [""],
 		                [""],
 		                [""],
@@ -4516,16 +4516,45 @@ var surahsOld = [
 	{
 		"name": "Fāṭir",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The word Faatir of the first very verse is the title given to this surah. The other name is Al Malaika, which also occurs in the first verse.  ",
+		    "period": "Makkan",
+		    "context": "This was revealed in the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Prophet (ﷺ).",
+		    "theme": "A surah that affirms Allah’s Power and Creation and contrasts this with the powerlessness and uselessness of the ‘partners’ set up by the idolaters. The surah warns the idolaters of their punishment and comforts the Prophet (ﷺ) through mention of previous messengers who were also rejected as liars. The great rewards that await believers are described.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ANGELS",
+		            "rangeStart": "1",
+		            "rangeEnd": "1",
 		            "details": [
+		                ["Angels are described as having wings."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S POWER AND SIGNS",
+		            "rangeStart": "2",
+		            "rangeEnd": "15",
+		            "details": [
+		                ["Allah explaining his Mercy, signs and the end of the Disbelievers who follow the Devil and His signs including the parting of two types of seas."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "REPLACING A PEOPLE",
+		            "rangeStart": "16",
+		            "rangeEnd": "17",
+		            "details": [
+		                ["Allah explains how He can easily replace a people with another people who will obey Him."],
 		                [""],
 		                [""],
 		                [""],
@@ -4536,11 +4565,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ACCOUNTABILITY",
+		            "rangeStart": "18",
+		            "rangeEnd": "18",
 		            "details": [
-		                [""],
+		                ["No person can carry another person’s burden, full accountability for one’s own self."],
 		                [""],
 		                [""],
 		                [""],
@@ -4550,12 +4579,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "CONTRASTS",
+		            "rangeStart": "19",
+		            "rangeEnd": "22",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Allah illustrates the dichotomies between good and evil showing they are not equal."],
 		                [""],
 		                [""],
 		                [""],
@@ -4565,39 +4593,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S SIGNS AND PAST MESSENGERS",
+		            "rangeStart": "23",
+		            "rangeEnd": "45",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["Further explanation of Allah’s signs, his sending of previous messengers to nations, sending scripture and the end of those who choose to ignore all of these things will ultimately be held accountable."],
 		                [""],
 		                [""],
 		                [""],
