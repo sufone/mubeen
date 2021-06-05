@@ -4764,17 +4764,61 @@ var surahsOld = [
 	{
 		"name": "as-Ṣāffāt",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The name is derived from the word ‘Was-saaffat’ with which the surah begins.",
+		    "period": "Makkan",
+		    "context": "This surah was probably sent down in the middle of the Makkan period, or perhaps in the last stage of the middle Makkan period when antagonism was raging strong in the background and the Prophet (ﷺ) and his Companions were passing through very difficult and discouraging circumstances.",
+		    "theme": "The central point of this surah is the Oneness of Allah and the refutation of the pagan belief that the Angels were daughters of Allah and worthy of worship. The Angels themselves are quoted to refute this. It gives warnings to the non-believers that their plots against the message of Islam will not work. The prophethood of Muhammad (ﷺ), is affirmed, as is the Hereafter. There are two supporting sections: first the scenes in the Hereafter and then the stories of earlier prophets.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE ANGELS",
+		            "rangeStart": "1",
+		            "rangeEnd": "11",
 		            "details": [
+		                ["Allah swears by the Angels and those who recite His words that He is the one and only God."],
+		                ["He adorned the lowest Paradise and protected them from every rebellious devil so they do not listen to the assembly of Angels without being pelted from every side, except the thief who is chased by a burning light."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S PUNISHMENT",
+		            "rangeStart": "10",
+		            "rangeEnd": "74",
+		            "details": [
+		                ["The Day of Judgement will catch the arrogant Disbelievers off guard and they will have no choice but to admit they were wrong and taste Allah’s punishment for ignoring his signs and messengers, whereas the righteous Believers will taste Paradise and see what could have been their fate in the fire had they been misled."],
+		                ["The Tree of Zaqqum is mentioned as a particularly severe punishment for the people of Hell which resembles the heads of devils and doesn’t quench thirst."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH SAVES AND GRANT PEACE TO HIS CHOSEN SERVANTS",
+		            "rangeStart": "75",
+		            "rangeEnd": "148",
+		            "details": [
+		                ["Nuh (عليه السلام) was saved from among the Disbelievers and his descendants remained on the earth only and Allah grants peace upon Nuh (عليه السلام) from among all the worlds."],
+		                ["Ibrahim (عليه السلام) came to Allah with a devoted heart and rebuked his people from worshipping idols and destroyed them showing their powerlessness upon which they threw him into a Fire but Allah saved him."],
+		                ["Ibrahim (عليه السلام) then prayed for a righteous which he was granted, his son Isma’eel (عليه السلام) was then indeed righteous when he agreed to be sacrificed for the sake of Allah but then replaced with a ram when the test was completed. Allah then grants peace to Ibrahim (عليه السلام)."],
+		                ["He was then given Is’haq (عليه السلام) whose offspring were good and some not."],
+		                ["Moosa and Haroon (عليهم السلام) were also saved by Allah and given scripture, Allah also grants peace to Moosa and Haroon (عليهم السلام)."],
+		                ["Ilyas (Elijah) (عليه السلام) was also granted Peace from Allah and told his people to fear Allah and not invoke Ba’l. Allah also saved Lut (عليه السلام) from his people."],
+		                ["And Yunus (عليه السلام) when he ran away to the ship and lost in the casting of lots so he was swallowed by a fish but then saved for his repentance and glorifying Allah, whereupon he was thrown on shore where a gourd tree grew over him so he recovered."],
+		              	["He then went back to successfully warn his people which numbered over the hundreds of thousands so they lived well without punishment."],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ACCUSATIONS OF THE DISBELIEVERS ",
+		            "rangeStart": "149",
+		            "rangeEnd": "163",
+		            "details": [
+		                ["The Makkan Disbelievers believe Allah has Angels as daughters and the Prophet (ﷺ) has kinship with the Jinn."],
 		                [""],
 		                [""],
 		                [""],
@@ -4784,11 +4828,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ANGELS PRAYING IN RANKS ",
+		            "rangeStart": "164",
+		            "rangeEnd": "166",
 		            "details": [
-		                [""],
+		                ["The Angels say there is not a single Angel that doesn’t know its position and all line up to pray in ranks. "],
 		                [""],
 		                [""],
 		                [""],
@@ -4798,12 +4842,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "IT FOR THE FATE OF DISBELIEVERS",
+		            "rangeStart": "167",
+		            "rangeEnd": "179",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The Prophet (ﷺ) is told to wait, as the Disbelievers will soon face their punishment."],
 		                [""],
 		                [""],
 		                [""],
@@ -4813,39 +4856,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "Summary",
+		            "rangeStart": "180",
+		            "rangeEnd": "182",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["A summation of the surah glorifying Allah alone and Himself sending peace on the messengers."],
 		                [""],
 		                [""],
 		                [""],
