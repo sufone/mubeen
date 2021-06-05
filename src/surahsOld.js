@@ -4612,18 +4612,47 @@ var surahsOld = [
 	{
 		"name": "Yā-Sīn",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the two letters of the alphabet with which it begins.",
+		    "period": "Makkan",
+		    "context": "This was sent during the last stage of the middle Makkan period, or it is one of those surahs, which were sent down during the last stage of the Prophet's (ﷺ) stay at Makkah.",
+		    "theme": "A surah that emphasizes the divine source of the Qur’an and defends it from the charge of being poetry made by man. It warns of the fate of men who are stubborn and always mock Allah’s revelations. They are reminded of the punishment that befell earlier generations, and of Allah’s power as shown in His Creation. The end of the surah gives strong arguments for the reality of the Resurrection.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE REVELATION OF THE QUR’AN IS A WARNING TO MANKIND",
+		            "rangeStart": "1",
+		            "rangeEnd": "12",
 		            "details": [
+		                ["Allah swears by the wise Qur’an that Prophet Muhammad (ﷺ) is indeed a messenger on the straight path sent to warn those who are unaware."],
+		                ["The Qur’an is full of wisdom, and those who do not follow its guidance are indeed unfortunate."],
+		                ["However only those who believe in Allah and fear His punishment will take heed of the warning. "],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE EXAMPLE OF THE THREE MESSENGERS",
+		            "rangeStart": "13",
+		            "rangeEnd": "29",
+		            "details": [
+		                ["Allah narrates the story of the three messengers, two of whom who were sent to the people and then a third to strengthen their number yet still the people refused to believe and instead called them liars and threatened with stoning."],
+		                ["A man ran from the other side of the town saying listen, they do not want a reward."],
+		                ["Listen to the message he pleads but he is killed by the Disbelievers and thus abruptly finds himself in Paradise but wishes the people knew of the Forgiveness and Mercy of Allah."],
+		                ["Allah thus sent one heavenly blast and they fell down, lifeless.   "],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THOSE WHO DENY THE RESURRECTION FAIL TO THE SIGNS",
+		            "rangeStart": "30",
+		            "rangeEnd": "40",
+		            "details": [
+		                ["Alas humans ridicule messengers but they don’t realise how many generations have been destroyed before them and none of them will return but will have to stand before Allah."],
+		                ["They deny the Resurrection yet there are signs everywhere."],
+		                ["Allah gives life to the earth and provides water, He created all species including mankind in pairs, and other things that humans know nothing about, and the movement of day and night and sun and moon is under his command."],
 		                [""],
 		                [""],
 		                [""],
@@ -4632,12 +4661,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "REMINDERS AND WARNINGS",
+		            "rangeStart": "41",
+		            "rangeEnd": "51",
 		            "details": [
+		                ["As a reminder Allah refers to the Flood and how our ancestors were carried in the ark."],
+		                ["Allah continued to create the means with which to traverse the sea and if He willed, the people would be drowned and He would not respond to their cries, except for His Mercy. "],
+		                ["We are warned to beware of what lies before and what lies behind with regards to the Hereafter. Perhaps there will be mercy; perhaps we will not heed the warning."],
+		                ["The signs come but the Disbelievers turn away in arrogance not knowing a single blast will overtake them while they argue and then the trumpet will be blown signalling the Resurrection."],
 		                [""],
 		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "A SCENE FROM THE DAY OF RESURRECTION",
+		            "rangeStart": "52",
+		            "rangeEnd": "58",
+		            "details": [
+		                ["The people will ask who has raised them from their sleeping place (in the grave) and they will be told that this is the promised day when mankind will be brought before Allah for account."],
+		                ["The people of Paradise will be rewarded handsomely and greeted by Allah with \"peace\". "],
 		                [""],
 		                [""],
 		                [""],
@@ -4646,13 +4689,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH ADDRESSES THE DISBELIEVERS",
+		            "rangeStart": "59",
+		            "rangeEnd": "65",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah will then separate the criminals from the believers and asks them why they did not worship Him to stay on the straight path but chose Shaytan."],
+		                ["Allah will seal their mouths but their hands and feet will speak and bear witness to all and they will be sent to Hell."],
 		                [""],
 		                [""],
 		                [""],
@@ -4661,14 +4703,28 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE QUR’AN IS A WARNING, A GAUGE BETWEEN RIGHT AND WRONG",
+		            "rangeStart": "66",
+		            "rangeEnd": "76",
 		            "details": [
+		                ["Allah could have left mankind without guidance and basic faculties but because of His Mercy he did not. "],
+		                ["The Prophet (ﷺ) is not a poet and the Qur’an is not poetry but a clear book of guidance and contains warning."],
+		                ["A huge blessing from Allah is livestock which is used for transport, sustenance and for other benefits."],
+		                ["Yet the Disbelievers still worship others than Allah in an ultimate form of ungratefulness."],
 		                [""],
 		                [""],
-		                [""],
-		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE CREATOR IS THE ONLY ONE TO BRING BACK TO LIFE",
+		            "rangeStart": "77",
+		            "rangeEnd": "83",
+		            "details": [
+		                ["Allah reminds us that we were created from a drop of fluid and still they dispute openly asking who could give life back to bones after they have decayed?"],
+		                ["Allah says that the One who gave them life in the first place will bring them back."],
+		                ["It is He who produced Fire so that mankind can benefit from it; it is He who created the heavens and the earth so is it not then easy for Him to bring back the people?"],
+		                ["When Allah wills something to be, He says "Be" and it is. Mankind will indeed be resurrected to stand before Allah."],
 		                [""],
 		                [""],
 		                [""]
