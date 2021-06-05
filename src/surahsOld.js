@@ -4875,16 +4875,45 @@ var surahsOld = [
 	{
 		"name": "Ṣād",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the alphabetic letter Saad with which it begins.",
+		    "period": "Makkan",
+		    "context": "This was revealed when the Prophet (ﷺ) had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraysh which was during the 4th year of the Prophethood. According to some other traditions, it was sent down after Umar's (رضي الله عنه‎) embracing Islam, and this happened, as is well known, after the migration to Habasha. Another chain of the traditions shows that the event which occasioned the revelation of this surah took place during the last illness of Abu Talib. If this be correct, the period of its revelation would be the 10th or 11th year of the prophethood.",
+		    "theme": "This surah mentions previous prophets in support and encouragement for the Prophet (ﷺ) and makes a clear link between the arrogance displayed by the Disbelievers of Makkah, previous generations, and Iblees, the original rebel. The first and last verses assert the truth and nobility of the Qur’an.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE DISBELIEVERS OF MAKKAH AND PREVIOUS REJECTORS",
+		            "rangeStart": "1",
+		            "rangeEnd": "16",
 		            "details": [
+		                ["The arguments of the Disbelievers and their objection to the messenger of Allah, the people of Nuh (عليه السلام), Ad, Pharaoh, Thamud, Lut (عليه السلام) and the forest dwellers (The people of Shu’aib عليه السلام) also did not believe and all will face punishment."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S TESTS FOR HIS PROPHETS",
+		            "rangeStart": "17",
+		            "rangeEnd": "48",
+		            "details": [
+		                ["Dawud (عليه السلام) had strength and the mountains and birds joined him in praising Allah, he was given good speech and a mighty kingdom."],
+		                ["The story of 2 men who entered Dawud’s (عليه السلام) chambers to settle a dispute where one brother who had 99 sheep took his brothers only sheep, Dawud (عليه السلام) said that he had been wronged but then fell in prostration when he realised he was being tested by Allah."],
+		                ["Allah made Dawud (عليه السلام) a successor on the earth and advised him to not follow his desires to be successful."],
+		                ["Sulayman (عليه السلام) similarly was tested when he gave preference for the finer things like his horses and when they disappeared and brought back to him he striked them but returned to his throne with a mere body (possibly his skeleton or someone else including his son who was not worthy to carry on the mighty dynasty) on it upon which he realised he was tested by Allah. He then prayed for forgiveness and a vast kingdom and so was given power of the winds and the Jinn of all types."],
+		                ["Ayyub (عليه السلام) cried that Shaytan had exacerbated his weariness and suffering, so Allah said to him to stamp his foot where water will gush out for him and cure him."],
+		                ["When he was cured and his family who had previously deserted him came back he perhaps remembered an oath to punish someone, but Allah told him to strike them with grass so as to not cause pain so that he could fulfil it in mercy."],
+		                ["Ibrahim, Is’haq and Ya’qoob (عليهم السلام) were given the quality of remembering the Hereafter, and Isma’eel, Al’Yasa (Elisha) and Dhul Kifl (عليهم السلام) were among the truly good."]
+		            ]
+		        },
+		        {
+		            "name": "ARGUMENTS BETWEEN HELL DWELLERS",
+		            "rangeStart": "49",
+		            "rangeEnd": "68",
+		            "details": [
+		                ["The good will have Paradise but the Hell dwellers will constantly be arguing."],
 		                [""],
 		                [""],
 		                [""],
@@ -4895,42 +4924,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ADAM (عليه السلام) AND IBLEES",
+		            "rangeStart": "69",
+		            "rangeEnd": "88",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The Prophet (ﷺ) was not present at the assembly of Angels when they were ordered to bow to Adam (عليه السلام), except Iblees who argued he was superior as he was made from Fire and not from clay."],
+		                ["He requested to be granted respite till the day of rising and promised to mislead mankind except for Allah’s true servants."],
+		                ["Allah promises to fill Hell with him and those who follow him."],
 		                [""],
 		                [""],
 		                [""],
