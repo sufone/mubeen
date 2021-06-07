@@ -4971,19 +4971,33 @@ var surahsOld = [
 	{
 		"name": "az-Zumar",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derives its name from verse 71 and 73 in which the word zumar has occurred and highlights how people will be gathered in Zumar (The groups) to Heaven and Hell.",
+		    "period": "Makkan",
+		    "context": "This surah was sent down before the migration to Habasha. Some traditions provide the explanation that this verse was sent down in respect of Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habasha. ",
+		    "theme": "The main focus of the surah is the contrast between those who follow the true faith, and those who ascribe partners to Allah. The surah emphasizes that people are free to choose whether to believe or disbelieve but urges them in the strongest possible terms to turn to the right path while there is still time to repent.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "REFUTING POLYTHEISM",
+		            "rangeStart": "1",
+		            "rangeEnd": "20",
 		            "details": [
+		                ["This is the pure religion of Allah."],
+		                ["The Disbelievers claim that their idols bring them closer to Allah but this is false. He is far from having any offspring rather He is the Creator."],
+		                ["He created mankind from a single person (Adam (عليه السلام)) and from him He made his wife (Hawa). "],
+		                ["Allah created livestock in pairs and creates people in their mother’s wombs one after the other in threefold darkness (the stomach, the uterus, and the amniotic membrane)."],
+		                ["The losers are those who lose themselves and their families on the Day of Judgement; they will be under layers of Fire, whereas the Believers will have Paradise."],
 		                [""],
-		                [""],
-		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "PARABLES OF THE QUR’AN",
+		            "rangeStart": "23",
+		            "rangeEnd": "29",
+		            "details": [
+		                ["Allah sent down the Qur’an as a book which is consistent, reiterates constantly its key messages, draws comparisons and makes the skin shiver in awe of Allah, and also softens the heart at the mention of Allah."],
+		                ["All kinds of illustration in the Qur’an so people will take heed, in Arabic without deviance."],
+		                ["For example, can a slave who is owned by multiple masters who are bound to quarrel with each other, equal to a slave devoted wholly to one master."],
 		                [""],
 		                [""],
 		                [""],
@@ -4991,56 +5005,42 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "PREPARING FOR THE DAY OF JUDGEMENT",
+		            "rangeStart": "30",
+		            "rangeEnd": "52",
 		            "details": [
+		                ["Allah says to the Prophet (ﷺ) that he will certainly die and so will they."],
+		                ["Allah will remove the worst of what the believers did and reward them for the best of what they did."],
+		                ["Allah is enough for His servant when the Disbelievers threaten the Prophet (ﷺ) with their false gods. They can neither withhold Allah’s Mercy or harm."],
+		                ["The Prophet (ﷺ) advised people to work to what is in their power as he is doing so as well, we will all find out soon."],
+		                ["Allah takes the souls of creation at their decreed time of death."],
+		                ["The Disbelievers will want to ransom the whole of the earth on the Day of Resurrection in their terror and will encounter things which they didn’t even account for and will be overwhelmed by what they used to laugh at."],
 		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S MERCY AND THE DAY OF JUDGEMENT",
+		            "rangeStart": "53",
+		            "rangeEnd": "75",
+		            "details": [
+		                ["Allah says to his servants that have harmed and transgressed themselves by sinning, to not despair of the Mercy of Allah as He forgives all sins as He is the Forgiving, the Merciful."],
+		                ["And repent to him before the punishment comes all of a sudden and you will be without a helper and your soul will despair for having neglected the duties owed to Allah."],
+		                ["The Disbelievers have not grasped the true measure of Allah and will find out when it’s too late."],
+		                ["When the horn will be blown and everything will die, then blown again and all will be standing – the earth will shine with the light from Allah, the record of deeds laid open, the prophets and witnesses brought forth and fair judgement and compensation for all."],
 		                [""],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THOSE DRIVEN IN GROUPS",
+		            "rangeStart": "71",
+		            "rangeEnd": "75",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The Disbelievers will be driven in groups and asked at the gates of Hell by the keepers if a messenger had come to them which they will say yes, they will then be told Hell will be their residence for eternity."],
+		                ["The Believers will also be driven in groups to the gates of Paradise and in contrast be greeted with peace and told to stay for eternity upon which they will praise their Lord."],
+		                ["And the Angels will be seen surrounding the Throne glorifying Allah."],
 		                [""],
 		                [""],
 		                [""],
