@@ -5067,18 +5067,18 @@ var surahsOld = [
 	{
 		"name": "Ghāfir",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from Al Ghaafir (The Forgiver and is also know as Al Mu'min (the believer of Pharaoh's people).",
+		    "period": "Makkan",
+		    "context": "According to Ibn 'Abbas and Jabir bin Zaid, this surah was sent down consecutively after Surah Az-Zumar. The Disbelievers of Makkah at that time were engaged in two kinds of the activities against the Prophet (ﷺ). First, they were disputing the Qur’an and Messenger creating every kind of suspicion and misgiving in the minds of the people. Second, they were preparing the ground for putting an end to the Prophet (ﷺ) himself, for example one day when the Prophet (ﷺ) was offering his prayer in the precincts of the Ka’bah, suddenly 'Uqbah bin Abi Mu'ait, rushed forward and putting a piece of cloth round his neck started twisting it so as to strangle him to death. Abu Bakr (رضي الله عنه‎), who happened to go there in time, pushed him away. Abdullah (رضي الله عنه‎) says that when Abu Bakr (رضي الله عنه‎) was struggling with the cruel man, he was saying words to the effect: \"Would you kill a man only because he says: Allah is my Lord?\" which mirrors the sayings of the secret believer in this surah.",
+		    "theme": "A surah with two recurring themes: disputing Allah’s truth and calling upon Him. In the opening verses Allah is described as the Forgiver, and the Accepter of repentance, yet severe in punishment, and this dual aspect is exemplified in the surah. The central section of the surah deals with the story of Pharaoh and Moosa (عليه السلام): the destruction of one and victory of the other. The Prophet (ﷺ) is, in his turn, urged to be steadfast and to ignore the taunts of the Disbelievers.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "WARNINGS OF PAST MESSENGERS AND THE CONSEQUENCES ON THE DAY OF JUDGEMENT",
+		            "rangeStart": "1",
+		            "rangeEnd": "22",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Allah is the Forgiver to the Believers who do righteous deeds and the Angels who carry the Throne beg forgiveness for the Believers constantly."],
+		                ["Every community tried to destroy their messenger through scheming but the Disbelievers will be told on the Day of Judgement that Allah’s disgust with them will be greater than their own self disgust."],
 		                [""],
 		                [""],
 		                [""],
@@ -5087,12 +5087,27 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "MOOSA (عليه السلام) AND THE SECRET BELIEVER AND THOSE WHO PLOT",
+		            "rangeStart": "23",
+		            "rangeEnd": "35",
 		            "details": [
+		                ["Moosa (عليه السلام) was sent to Pharaoh, Haman and Qarun who accused him of magic and lies and then schemed to punish by killing the sons of those who believe him, but Allah will always ruin their scheming."],
+		                ["Even a secret believing man from the family of Pharaoh pleaded that would they kill a man just for saying He believes."],
+		                ["He later warns his people about the Day of Judgement and not to oppose their messengers as past people did and were destroyed as a result."],
+		                ["Yusuf (عليه السلام) had previously come to the Children of Israel with proofs and had now brought Moosa (عليه السلام) to confirm to the doubters among them."],
+		                ["Those who dispute the signs without any authority – this is how Allah seals the hearts of the arrogant tyrant."],
 		                [""],
-		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE SECRET BELIEVER AND HIS PEOPLE",
+		            "rangeStart": "36",
+		            "rangeEnd": "52",
+		            "details": [
+		                ["Pharaoh instructs Haman to build a tower to see Moosa’s (عليه السلام) God in his arrogance."],
+		                ["And the one who believed among the Children of Israel told his people to follow him explaining that this dunya is brief enjoyment and the Hereafter is much better, and Allah protected him from the scheming of the people against him."],
+		                ["On the Day the Hour arrives the people of Pharaoh will immediately be thrown into the worst torment for their evil ways and they will continue to quarrel with each other in the Fire and the keepers of Hell."],
 		                [""],
 		                [""],
 		                [""],
@@ -5101,41 +5116,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE END OF THE ARROGANT, DELUDED AND DISPUTERS",
+		            "rangeStart": "53",
+		            "rangeEnd": "77",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Moosa (عليه السلام) was given scripture which was passed down to the Children of Israel for guidance and reminder."],
+		                ["The Prophet (ﷺ) is told to ask forgiveness morning and evening as Allah is the Forgiver to the Believers."],
+		                ["Those who dispute the signs of Allah have pride in their hearts which they cannot reach and don’t try and remove – this is why and how Allah seals their hearts, they are too proud to serve Allah and will enter Hell humiliated."],
+		                ["Explanation of Allah’s signs is reiterated yet still people are so deluded as to dispute this, they will only realise on the Day of Judgment."],
+		                ["The Angels will thus reiterate Allah’s punishment on the day and order them to Hell – the home for the arrogant."],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "TRUTH ALWAYS DEFEATS FALSEHOOD AS THIS IS THE LAW OF ALLAH",
+		            "rangeStart": "78",
+		            "rangeEnd": "85",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["Some stories have been related to the Prophet (ﷺ) and others not, in either the case the truth always succeeded."],
+		                ["Believing after seeing the punishment doesn’t benefit them at all – that is not the way that Allah deals with His creatures."],
 		                [""],
 		                [""],
 		                [""],
@@ -5163,17 +5163,60 @@ var surahsOld = [
 	{
 		"name": "Fuṣṣilat",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "This surah is also known as the title of’ Ha Mim al-Sajdah’ which implies that it is a surah which begins with Ha-Mim and in which a verse requiring the performance of sajdah (prostration) has occurred.",
+		    "period": "Makkan",
+		    "context": "Utbah bin Rabiah went and sat by the Prophet (ﷺ) and put his case for trying to end their disagreements and suggested if he wanted wealth, status, curing of Jinn possession he would give them upon which the Prophet (ﷺ) began reciting this surah. Utbah then went back to the Quraysh and said the Qur’anic recitation was not worldy and he would do nothing to obstruct him lest they become unsuccessful.",
+		    "theme": "This surah deals with the obduracy of the Disbelievers, the truthfulness of the Qur’an, the Oneness of Allah, and the inevitability of Resurrection. The surah makes several references to the senses which the Disbelievers shut off from perceiving the Truth in this world, and which will then testify against their ‘owners’ on the Day of Resurrection, and it describes the arrogance displayed by people when all is well, contrasted with their humility and despair when difficulties strike.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S CREATION",
+		            "rangeStart": "1",
+		            "rangeEnd": "12",
 		            "details": [
+		                ["Allah is the Most Merciful who created the world in 2 days, the mountains and its creatures in 4 days, then He turned to the sky which was smoke and to the earth ‘come into being willingly or not’ and they replied ‘we come willingly’."],
+		                ["He completed the 7 heavens in 2 days and gave each heaven its command, and the nearest heaven has lamps and a protection."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "HELPERS IN THE DUNYA AND HEREAFTER",
+		            "rangeStart": "13",
+		            "rangeEnd": "39",
+		            "details": [
+		                ["The ears and eyes and skin will testify against the wrongdoers and in this world, they had companions that made their deeds seem fair seeming to them."],
+		                ["The Disbelievers advise others to not listen to the Qur’an and make noises when it’s recited."],
+		                ["On the Day of Judgement, the evil of the Jinn and men will be against the Disbelievers, but the Angels will say to those who believe that they were with the Believers in the dunya and the Hereafter."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE RIGHTEOUS ONES",
+		            "rangeStart": "33",
+		            "rangeEnd": "39",
+		            "details": [
+		                ["The best people are those who invite people to Allah and are devoted to Him."],
+		                ["The patient and righteous ones repel evil with good, this is advice from Allah that will make an enemy become a friend."],
+		                ["And should Shaytan stir any evil thoughts seek refuge in Allah who is All Knowing and Hearing."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE QUR’AN IS UNCHANGEABLE",
+		            "rangeStart": "40",
+		            "rangeEnd": "45",
+		            "details": [
+		                ["None can tamper with the mighty book the Qur’an and those who try will be punished, if it was in a foreign language they would complain that it was not clear."],
 		                [""],
 		                [""],
 		                [""],
@@ -5183,54 +5226,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE END OF THE DISBELIEVERS",
+		            "rangeStart": "46",
+		            "rangeEnd": "54",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["The end of the Disbelievers and the inevitability of their failure come the Day of Judgement."],
 		                [""],
 		                [""],
 		                [""],
@@ -5259,18 +5259,32 @@ var surahsOld = [
 	{
 		"name": "ash-Shūrā",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "This surah that takes its name from verse 38, where the practice of consultation (shura) is listed as one characteristic of the Muslim community.",
+		    "period": "Makkan",
+		    "context": "This surah might have been sent down consecutively after Ha-Miim As Sajdah, for it seems to be, in a way, a supplement to it.",
+		    "theme": "The surah discusses man’s habit of creating division and disharmony in matters of religion, and Allah’s All-prevailing Power, Wisdom, and final decision. The unity of religion is stressed as is the continuity of the prophets. The Prophet (ﷺ) is reminded that he cannot compel people to believe, that they will be judged according to their deeds, and that he is only there to deliver the message. ",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "RELIGION HAS COME TO UNITE NOT DIVIDE",
+		            "rangeStart": "1",
+		            "rangeEnd": "16",
 		            "details": [
+		                ["Angels praise Allah and ask forgiveness for those on earth."],
+		                ["The Arabic Qur’an was revealed to warn the Mother of all Cities about the Day of assembly."],
+		                ["Allah could have made us one community, but he sent us messengers from Nuh, Ibrahim, Moosa and Isa (عليهم السلام) to unite us and not be divided, but they become divided after the knowledge has come to them out of jealous animosity between themselves."],
+		                ["The Prophet (ﷺ) is told to propagate this message."],
 		                [""],
 		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "HARVESTING FOR THE HEREAFTER",
+		            "rangeStart": "17",
+		            "rangeEnd": "26",
+		            "details": [
+		                ["Allah sent down the scripture for truth and balance, the Disbelievers are impatient of it whereas the Believers are fearful of it."],
+		                ["If anyone wants harvest in the Hereafter they’ll have it, but anyone who solely wants a harvest in this world will have it but nothing in the Hereafter."],
 		                [""],
 		                [""],
 		                [""],
@@ -5279,12 +5293,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S PROVISION",
+		            "rangeStart": "27",
+		            "rangeEnd": "37",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Had Allah sent excessive provision for His servants they would act tyrannically, but He sends it as He wills."],
+		                ["And whatever disaster strikes it is because of what one’s own hands have earned, but Allah pardons much."],
+		                ["Those who keep arguing about the message and scripture there is no escape."],
 		                [""],
 		                [""],
 		                [""],
@@ -5293,40 +5308,25 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THOSE WHO HAVE THE HEREAFTER",
+		            "rangeStart": "38",
+		            "rangeEnd": "50",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Those who respond to Allah, establish prayer and conduct affairs through mutual consultation, give according to what they have, defend against tyranny will have the Hereafter."],
+		                ["The recompense for an evil act is to exact a like act, however to forgive will be rewarded by Allah, patience and forgiveness is one of the greatest things."],
+		                ["The ones who seek revenge are not blameworthy, rather the oppressors have been warned that they are blameworthy and will face torment."],
+		                ["The Believers will say the losers on the Day of Judgement will be those who lost themselves and their families. Allah is warning us to protect ourselves from the Day of Judgement."],
 		                [""],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S SPEECH",
+		            "rangeStart": "51",
+		            "rangeEnd": "53",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["Allah only speaks to humans through revelation or from behind a veil or by sending a messenger to reveal his commands, and this is what the Prophet (ﷺ) is revealing – the straight path."],
 		                [""],
 		                [""],
 		                [""],
@@ -5355,17 +5355,31 @@ var surahsOld = [
 	{
 		"name": "az-Zukhruf",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the word ‘zukhrufan’ which occurs in verse 33 of this surah referring to gold ornaments.",
+		    "period": "Makkan",
+		    "context": "This surah was sent down in the same period in which the Surahs Al-Mumin, As-Sajdah and Ash-Shura, were sent down. It appears that the revelation of this series of the surahs began when the Disbelievers of Makkah were planning to put an end to the Prophet's (ﷺ) life. Day and night, they were holding consultations in their assemblies as how to eliminate him, and even an attack on his life also had been made as has been clearly referred to in v. 79-80. ",
+		    "theme": "A surah named after the gold ornaments mentioned in verse 35 and alluded to again in verse 53: in both instances Allah is refuting the claim of the Disbelievers that a true prophet would be rich. The fact that the Angels are not Allah’s daughters but His obedient servants is emphasized again and again. Similarly, the idea that Isa (عليه السلام) could be the son of Allah is clearly denied.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S PATH",
+		            "rangeStart": "1",
+		            "rangeEnd": "25",
 		            "details": [
+		                ["The Qur’an is the Mother of the Book kept with Allah. All prophets were ridiculed."],
+		                ["Allah’s signs illustrated to us and how we use them to make our living."],
+		                ["They say if Allah willed they wouldn’t worship them, they follow the way of their fathers blindly even thought they are presented with true guidance."],
 		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "IBRAHIM (عليه السلام) CONFIRMS TAWHEED",
+		            "rangeStart": "26",
+		            "rangeEnd": "30",
+		            "details": [
+		                ["And Ibrahim (عليه السلام) did not worship as his people did but worshipped the One who created and guided him; thus, this word was spread to his descendants so they come back to Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -5375,11 +5389,54 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "BLINDNESS FROM REMEMBERING ALLAH",
+		            "rangeStart": "31",
+		            "rangeEnd": "45",
 		            "details": [
+		                ["They then say why wasn’t the Qur’an sent to a distinguished man but it is not up them how Allah sends his Mercy."],
+		                ["And if it were not that mankind might have been a single community, Allah would have given them abundance including gold ornaments but this is just a distraction."],
+		                ["Whoever is blinded from remembering Allah will have a devil appointed to them as a companion, they might think they are guided but they aren’t"],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "MOOSA (عليه السلام) CONFIRMS TAWHEED TO PHARAOH’S PEOPLE",
+		            "rangeStart": "46",
+		            "rangeEnd": "56",
+		            "details": [
+		                ["And Moosa (عليه السلام) presented Allah’s signs to Pharaoh and his establishment but they laughed at him, but when the punishment came they begged Moosa (عليه السلام) for it to be removed and when it had they broke their word."],
+		                ["Pharaoh states to his people that he is the King of Egypt and provider and mocks Moosa (عليه السلام) in his supposed inability to express himself, he asks why he has not come with gold or Angels, his people therefore continued to follow Pharaoh – they were evil."],
+		                ["And Allah drowned them all for provoking Him."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ISA (عليه السلام) CONFIRMS TAWHEED",
+		            "rangeStart": "57",
+		            "rangeEnd": "65",
+		            "details": [
+		                ["When the son of Maryam (رضی اللہ عنھا) is mentioned the Quraysh laugh but they don’t know that he was just a servant of Allah."],
+		                ["And Allah could have made everyone obedient Angels succeeding one after the other."],
+		                ["And Isa (عليه السلام) will be a sign of the Hour, he brought proofs to his people and affirmed that he worships Allah alone, yet the factions still disagreed between them."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE HEREAFTER",
+		            "rangeStart": "66",
+		            "rangeEnd": "78",
+		            "details": [
+		                ["The Hour will come suddenly and the righteous will inherit Paradise while the criminals enter Hell, they will call out to Malik (the Angel in charge of Hell) to die but will not."],
 		                [""],
 		                [""],
 		                [""],
@@ -5389,80 +5446,37 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PROPHET (ﷺ) AFFIRMS TAWHEED",
+		            "rangeStart": "79",
+		            "rangeEnd": "89",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah knows all that they conceal in their private conversations as there is always someone recording."],
+		                ["The Prophet (ﷺ) says if Allah had a son he would be the first to worship but Allah is far above such a thing!"],
+		                ["Allah is One, ask anyone and they would confirm Allah created everything yet still they are deluded and continue associating others in worship."],
 		                [""],
 		                [""],
 		                [""],
 		                [""]
 		            ]
 		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        }
 		    ]
 		}
 	},
 	{
 		"name": "ad-Dukhān",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "A surah that takes its title from verse 10, which describes a smoke-filled day, taken by many to refer to the Day of Judgement. It is fifth in the number of surahs that begin with Ha Mim.",
+		    "period": "Makkan",
+		    "context": "This surah too was sent down in the same period in which Surah Zukhruf and a few other earlier surahs had been revealed. However, this surah was sent down somewhat later. When the Disbelievers of Makkah became more and more antagonistic in their attitude and conduct, the Prophet (ﷺ) prayed: O Allah, help me with a famine like the famine of Yusuf (عليه السلام). He thought that when the people would be afflicted with a calamity, they would remember Allah, their hearts would soften and they would accept the admonition. Allah granted his prayer, and the whole land was overtaken by such a terrible famine that the people were sorely distressed. At last, some of the Quraysh chiefs among whom Abdullah bin Masud (رضي الله عنه‎) has particularly mentioned the name of Abu Sufyan came to the Prophet (ﷺ) and requested him to pray to Allah to deliver his people from the calamity. On this occasion Allah sent down this surah. ",
+		    "theme": "The surah highlights the mercy that is the Qur’an, addresses the obduracy of the powerful and wealthy oppressors, and draws comparisons between the people of Pharaoh, Tubba  (an ancient nation of Arabia), and the Makkans. The people of Paradise will enjoy heavenly bliss while those who were mighty in this world will suffer the torments of Hell. The surah warns about the punishment of Allah.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "QUR’AN SENT ON A BLESSED NIGHT TO WARN MAN",
+		            "rangeStart": "1",
+		            "rangeEnd": "16",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Qur’an was sent down on a blessed night, the night in which is decided every matter (possibly Laylatul Qadr). Allah has always sent messages to man."],
+		                ["The day when there will be a visible smoke from the sky is when they will believe but it will be too late."],
 		                [""],
 		                [""],
 		                [""],
@@ -5471,13 +5485,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "MOOSA (عليه السلام), PHARAOH AND THE CHILDREN OF ISRAEL",
+		            "rangeStart": "17",
+		            "rangeEnd": "33",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["And Moosa (عليه السلام) demanded the release of the servants of Allah from Pharaoh and set out at night with them with Pharaoh pursuing them but whom eventually drowned."],
+		                ["Their prized belongings were inherited by another people and the heavens and the earth did not weep for them."],
+		                ["Thus Allah saved the Children of Israel whom He chose above all other nations."],
 		                [""],
 		                [""],
 		                [""],
@@ -5485,14 +5499,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE FATE OF THE DISBELIEVERS AND BELIEVERS",
+		            "rangeStart": "34",
+		            "rangeEnd": "57",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["The Disbelievers do not believe in a resurrection and are like those before such as the people of Tubba."],
+		                ["Allah has not made the heavens and the earth for play but in truth."],
+		                ["The Day of Judgement will come and the sinners will face Hell with the Tree of Zaqqum and be treated as ‘noble respected men’."],
+		                ["Whereas the righteous will have Gardens of Paradise to enjoy, taste no death and be protected from the Fire."],
 		                [""],
 		                [""],
 		                [""],
@@ -5500,11 +5514,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "QUR’AN HAS BEEN MADE EASY",
+		            "rangeStart": "58",
+		            "rangeEnd": "59",
 		            "details": [
-		                [""],
+		                ["The Qur’an has been made easy on the tongues for taking lesson and seeking advice, so wait as the Disbelievers are also waiting."],
 		                [""],
 		                [""],
 		                [""],
@@ -5547,16 +5561,45 @@ var surahsOld = [
 	{
 		"name": "al-Jāthiyah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "A surah that takes its title from verse 28, where the kneeling posture of all communities on the Day of Judgement is described. It is the sixth among the surahs that begin with Ha Mim.",
+		    "period": "Makkan",
+		    "context": "Revealed consecutively after Surah Ad Dukhan. The close resemblance between the contents of the two surahs makes them look like the twin surahs. ",
+		    "theme": "The surah addresses some of the arguments put forward by those sceptical of the truthfulness of the Qur’an. Emphasis is placed on the signs of Allah’s existence discernible in nature, and on the painful punishment that awaits the doubters on the Day of Judgement. The misguided arrogance of the Disbelievers is contrasted with Allah’s true greatness; references to Allah’s wisdom and majesty open and close the surah.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S SIGNS",
+		            "rangeStart": "1",
+		            "rangeEnd": "15",
 		            "details": [
+		                ["Allah’s signs are illustrated and those who ridicule and ignore these signs when heard will be punished."],
+		                ["Forgive those who believe in the days of Allah."],
+		                ["Whoever does good is for themselves and who does evil is against themselves."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "TRUE RELIGION",
+		            "rangeStart": "16",
+		            "rangeEnd": "22",
+		            "details": [
+		                ["The Children of Israel were preferred above all nations but they differed among themselves, now the Prophet (ﷺ) is the one on the right course of religion."],
+		                ["The religion is a source of insight for people, guidance and mercy for those of faith."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THOSE WITH NO KNOWLEDGE",
+		            "rangeStart": "23",
+		            "rangeEnd": "26",
+		            "details": [
+		                ["Consider the one who takes his desire as his God – Allah sends him astray due to knowledge and his ears and heart and eyes have been covered, they don’t believe in the Hereafter and believe only time will destroy them – they only make assumptions based on no knowledge."],
 		                [""],
 		                [""],
 		                [""],
@@ -5567,41 +5610,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PROMISED DAY",
+		            "rangeStart": "27",
+		            "rangeEnd": "37",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["The Day will arrive when all the nations are kneeling and called to its record, and the Disbelievers will not know what it is and be enveloped by what they mocked at."],
+		                ["So, praise be to Allah, Lord of the heavens and the earth and all the worlds."],
 		                [""],
 		                [""],
 		                [""],
@@ -5643,16 +5657,45 @@ var surahsOld = [
 	{
 		"name": "al-Aḥqāf",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The title refers to the sand dunes mentioned in verse 21, where the people of Ad used to live, and where they were destroyed when they rejected the warning of their prophet.",
+		    "period": "Makkan",
+		    "context": "This surah was sent down towards the end of the 10th year or in the early part of the 11th year of the prophethood. It is determined by an historical event that has been mentioned in vv. 29-32 when the Jinn went back after listening to the Qur'an after the Prophet (ﷺ) had halted at Makkah during his return journey from Ta'if to Makkah. During the boycott and persecution and the year of sorrow, the Prophet (ﷺ) went to Ta’if but was rejected, on his way back he stayed at Makkah where during one night a group of the Jinn happened to pass by and listened to the Qur'an, believed in it, and returned to their people to preach Islam. Thus, Allah gave His Prophet (ﷺ) the good news that if the men were running away from his invitation, there were many of the Jinn, who had become its Believers, and they were spreading his message among their own kind. ",
+		    "theme": "One of the major themes of this surah is the inescapable punishment that awaits those who deny the truth and the Resurrection illustrated by the destruction of the people of Ad. Emphasis is placed on the fact that communities more established than the Makkans’ have been destroyed, and that even the Jinn believe in the Qur’an before the Disbelievers of Makkah do. Finally, the Prophet (ﷺ) is encouraged to be steadfast and await Allah’s judgement on the Disbelievers.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE QUR’AN CONFIRMS AND BUILDS ON THE SCRIPTURE OF MOOSA (عليه السلام)",
+		            "rangeStart": "1",
+		            "rangeEnd": "15",
 		            "details": [
+		                ["The Disbelievers are let known that the Qur’an is not magic or ancient falsehood and that even the Children of Israel attest to it being linked and similar to their tradition."],
+		                ["Whereas before it was the scripture of Moosa (عليه السلام) to guide for the Children of Israel, now it is in Arabic."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "BEING GOOD TO PARENTS",
+		            "rangeStart": "15",
+		            "rangeEnd": "20",
+		            "details": [
+		                ["Being good to parents, not even say oof, but some children don’t believe like their parents and disbelieve, and for all there are degrees for what they have done according to their deeds."],
+		                ["The Disbelievers would have realised they squandered their time in pleasure on earth when they day comes."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE PEOPLE OF AHQAF",
+		            "rangeStart": "21",
+		            "rangeEnd": "28",
+		            "details": [
+		                ["Story of Hud (عليه السلام) and his people who were from the Ahqaf, in their ignorance they thought a cloud of rain was coming but it was their punishment as criminals."],
 		                [""],
 		                [""],
 		                [""],
@@ -5663,40 +5706,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "JINN LISTENING TO THE QUR’AN",
+		            "rangeStart": "29",
+		            "rangeEnd": "35",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["A few of the Jinn listened to the Qur’an and went back and warned their brethren about the message that has come after Moosa (عليه السلام) and warning before the punishment arrives."],
 		                [""],
 		                [""],
 		                [""],
@@ -5739,18 +5753,47 @@ var surahsOld = [
 	{
 		"name": "Muḥammad",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derives its name from the sentence wa amanu bi-ma nuzzila ala Muhammad-in of verse 2. It has another well-known name \"al-Qital\" also, which is derived from the sentence wa dhukira fi-hal-qital of verse 20. ",
+		    "period": "Medinan",
+		    "context": "This surah was revealed after the hijrah at Medina at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Allah first permitted them to fight in Surah Al Hajj and then enjoined fighting in Al Baqarah. But at that time everyone knew fully well what it meant to wage a war in those conditions. There were only a handful of Muslims in Medina, who could not muster even a thousand soldiers; yet they were being urged to take up the sword while in a desperate economic situation and clash against the pagan forces of the whole of Arabia.",
+		    "theme": "A surah that deals with issues of war, those who try to prevent conversion to Islam and the carrying out of Allah’s commands, and the fate of the Hypocrites. It specifically mentions the iniquity of those who expelled the Prophet (ﷺ) from Makkah, it describes the futility of the Disbelievers’ attempts to oppose Allah and His Prophet (ﷺ), and it urges the Muslims to obey Allah in all matters, lest their good deeds come to nothing on the Day of Judgement like those of the Disbelievers and Hypocrites. ",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH SUPPORTS THE BELIEVERS IN BATTLE",
+		            "rangeStart": "1",
+		            "rangeEnd": "11",
 		            "details": [
+		                ["Those who disbelieve and try to prevent others from believing, Allah will make their good deeds worthless."],
+		                ["However, those who do good and believe in what was revealed to Muhammad, the truth from Allah, Allah will remove from them their misdeeds and improve their condition. "],
+		                ["Those who disbelieve follow falsehood whilst those who believe follow the truth.  In this way Allah shows others what they really are."],
+		                ["When the Believers meet Disbelievers in the battlefield they must make sure to strike their necks and securely bind those who are left. "],
+		                ["After the battle you may release them, either by grace or by ransom."],
+		                ["Allah could have taken vengeance Himself, but He ordered an armed struggle to test some of you against others. Allah supports the Believers but the Disbelievers have no support."],
+		                ["The real success: do not be intimidated, stand firm and struggle for the cause of Allah."]
+		            ]
+		        },
+		        {
+		            "name": "BELIEVERS AND DISBELIEVERS",
+		            "rangeStart": "12",
+		            "rangeEnd": "19",
+		            "details": [
+		                ["Allah destroyed many cities that were stronger in might than Makkah; they had no helper."],
+		                ["The Believers will indeed obtain Paradise while the Disbelievers obtain Hell."],
+		                ["The Hypocrites meanwhile listen when present but when they depart pretend they didn’t hear, Allah has sealed their faculties."],
+		                ["The signs of the Day of Judgement are coming so what prevents the remembrance of Allah?"],
+		                ["The separation will take place between those who believe and those who will deny the truth."],
 		                [""],
-		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE HYPOCRITES",
+		            "rangeStart": "20",
+		            "rangeEnd": "28",
+		            "details": [
+		                ["Those who believe ask why Allah has not sent a revelation allowing them to fight."],
+		                ["However, when such an order is given, you can see those in whose hearts is hypocrisy that their faces are sick with fear and afraid of death."],
+		                ["These are those who are cursed by Allah and made blind and deaf with locks on their hearts unable to reflect on the Qur’an and have indeed been tricked by Shaytan, such that their deeds worthless."],
 		                [""],
 		                [""],
 		                [""],
@@ -5759,44 +5802,15 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH IS FREE OF ALL NEEDS",
+		            "rangeStart": "29",
+		            "rangeEnd": "38",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah knows those who have corrupt hearts and could mark them but they are known through their speech. Allah wants to make evident those who are striving for His cause."],
+		                ["Allah advises the Believers to obey Him and the Prophet (ﷺ) and not let their deeds be invalidated.  Do not weaken while you have the upper hand."],
+		                ["If He were to demand all your possessions, you would want to withhold them, exposing your unwillingness. Now He asks but a little of you but still some of you are unwilling."],
+		                ["Those who begrudge what Allah asks only harm themselves because Allah is free of all needs; you are the ones who are needy."],
+		                ["If you refuse and turn away Allah will replace you with people who do not act like you."],
 		                [""],
 		                [""]
 		            ]
@@ -5835,18 +5849,18 @@ var surahsOld = [
 	{
 		"name": "al-Fatḥ",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "A surah that takes its title from verse 1 and makes reference to the victory of the Prophet (ﷺ) and the Muslims from the Truce of Hudaybiyyah.",
+		    "period": "Medinan",
+		    "context": "This was revealed in Dhil-Qadah, A. H. 6, at a time when the Prophet (ﷺ) was on his return journey to Medina after concluding the Truce of Hudaybiyyah with the Disbelievers of Makkah. Upon the Prophet (ﷺ) seeing a divine dream of umrah, he set out with his companions to Makkah despite its dangers. By going in a forbidden month, the Quraysh were hesitant to attack and tribe to provoke the defenceless Muslims and gain allies among the Arab tribes but failed as they were indeed only pilgrims. However, when Uthman (رضي الله عنه‎) was sent as a messenger to the Quraysh he was captured in the city, and then rumours of him being killed made the Muslims make the Pledge of Ridwan to fight to death. However, he came back and peace was negotiated at Hudaybiyyah, a great success (Al Fath) for Muslims in the long term but the Muslims felt humiliated in the short term. This treaty was made as the Muslims had set out to perform pilgrimage, and the Makkans decided to bar them at Hudaybiyyah from reaching the town and sent emissaries to have discussions with the Prophet (ﷺ). In the end the Prophet (ﷺ) signed a treaty that he and the Believers would not enter Makkah that year but would do so the next year. Seeing the long-term significance of this treaty, in the interests of peace he agreed to a truce of ten years during which time, if any Makkan went over to his side, he would return him to the Makkans, but if any of his people went over to the Makkans, they would not return them. The treaty made the Muslims: a recognised state from Arabs, able to perform pilgrimage, focus on other threat such as the Jews and Hypocrites and gave time to spread Islam across Arabia. It was all due to this treaty that two years later when in consequence of the Quraysh's violating the treaty the Prophet (ﷺ) invaded Makkah, he was accompanied by an army 10,000 strong, whereas on the occasion of Hudaybiyyah only 1,400 men had joined him in the march.    ",
+		    "theme": "Throughout the surah the Prophet (ﷺ) is assured that this treaty that Allah has given him is a great breakthrough (cf. verses 1–3, 18–21, 27). The Believers are reassured that their self-restraint and obedience to the Prophet (ﷺ) were inspired by Allah. The surah condemns both the Hypocrites in Medina and the idolaters of Makkah and closes by praising the Believers. The surah talks about the moral and physical victory of Islam over the forces of unbelief.  The Hypocrites and Disbelievers will be disappointed with this victory.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "SUCCESS FOR THE BELIEVERS",
+		            "rangeStart": "1",
+		            "rangeEnd": "10",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The chapter opens with verses addressed to the Prophet (ﷺ) outlining the great favours bestowed on him by Allah and to the Believers in this world and the Hereafter."],
+		                ["The pledge of the Believers to the Prophet (ﷺ) are to Allah as well and so they are in good hands."],
 		                [""],
 		                [""],
 		                [""],
@@ -5855,13 +5869,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE DESERT ARABS",
+		            "rangeStart": "11",
+		            "rangeEnd": "17",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah now addresses the Bedouin (desert Arabs) who refused to accompany Prophet (ﷺ) because they expected defeat at the hands of the Makkans. "],
+		                ["The Prophet (ﷺ) is told of the rich war booty the believers would soon acquire, and Allah warns him not to allow the Bedouin, who previously refused to accompany him, to join him on the next expeditions."],
+		                ["However, soon they will have another chance to fight, by facing a mighty enemy, and if they fight they will be rewarded but if they don’t they’ll be punished."],
 		                [""],
 		                [""],
 		                [""],
@@ -5869,26 +5883,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "PLEDGE AND VICTORY OF THE BELIEVERS",
+		            "rangeStart": "18",
+		            "rangeEnd": "28",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["When the Believers made the pledge before Hudaybiyyah under the tree, Allah was very pleased and so gave tranquillity in their hearts and assurance of victory while the Disbelievers only had misguided fury bound to fail."],
+		                ["Allah promises the believers more victory in the future and protection from the enemy’s hands, and had the Disbelievers fought rather than sign the treaty the believers would have been victorious anyway."],
+		                ["Those who turned the Believers away from Makkah were guilty of gross misconduct, but there were believing men and women among the Makkans and had the fighting taken place they may have been killed."],
+		                ["Allah has fulfilled the Prophet’s (ﷺ) vision of entering Makkah; the Believers will perform Umrah.  "],
 		                [""],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A DESCRIPTION OF THE BELIEVERS",
+		            "rangeStart": "29",
+		            "rangeEnd": "29",
 		            "details": [
-		                [""],
+		                ["Muhammad (ﷺ) is the Messenger of Allah. "],
+		                ["The Believers with him are harsh with the Disbelievers and compassionate with one another, dedicated to prayer, in the Tawrat and Injeel they are described as a seed that sprouts, strengthens and stands firmly on its stem, delighting the sower.  "],
 		                [""],
 		                [""],
 		                [""],
