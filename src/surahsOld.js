@@ -5945,17 +5945,46 @@ var surahsOld = [
 	{
 		"name": "al-Ḥujurāt",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from verse 4 in which the word hujurat has occurred and takes its title from the reference to the private rooms of the wives of the Prophet (ﷺ).",
+		    "period": "Medinan",
+		    "context": "This surah is a collection of the commandments and instructions sent down on different occasions, which have been put together because of the relevancy of the theme. Moreover, the traditions also show that most of these commandments were sent down during the final stage of the Prophet's (ﷺ) life at Medina. For instance, about verse 4 the commentators state that it was sent down concerning the Bani Tamim whose deputation had arrived in Medina and started calling out to the Prophet (ﷺ) from outside the apartments (hujurat) of his wives, and according to all biographical books on the Prophet's (ﷺ) life this deputation had visited Medina in A. H. 9. Likewise, about verse 6 a large number of the traditions of Hadith confirm that it was sent down concerning Walid bin Uqbah whom the Prophet (ﷺ) had sent to collect the zakat from the Bani al-Mustaliq, and it is well known that Walid bin Uqabah had become a Muslim on the conquest of Makkah. ",
+		    "theme": "The surah guides the Believers on how to behave with proper respect towards their leader, and with mutual respect and trust towards each other and how manners are linked to level of faith. It further stresses the unity of mankind and Allah’s intention that people should live together in harmony. It criticizes the desert Arabs for their presumptuous attitude to their faith and to Allah. The surah has comprehensive guidelines to make a peaceful and harmonious society.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "RESPECT AND MANNERS",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
+		                ["Allah addresses the Believers to not put themselves before Allah and His Messenger or raise their voices or try to talk over the Prophet (ﷺ) as he speaks as this is a lack of respect in manners and risks one’s good deeds."],
+		                ["The ones who shout to the Prophet (ﷺ) from outside his private chambers and are loud have a lack of understanding, but Allah is Forgiving and Merciful."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "A REMINDER",
+		            "rangeStart": "6",
+		            "rangeEnd": "8",
+		            "details": [
+		                ["Allah advises the Believers to always examine the validity of news before claiming it as truth as it could hurt people if it turns out to be false and fall into regret."],
+		                ["The Muslims are reminded of their great blessing of the Prophet (ﷺ) being among them and that if he was to follow them they would surely come to harm."],
+		                ["Faith has been made beautiful and disbelief, and disobedience ugly to those rightly guided."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "Justice",
+		            "rangeStart": "9",
+		            "rangeEnd": "10",
+		            "details": [
+		                ["If two groups of Believers fight or take up arms against one another, the Muslim community should work to make peace between them, but if one party oppresses the other then fight against the oppressor until they come a just settlement as Allah loves those who are just and fair. "],
+		                ["All Believers are a family for one another, therefore make peace in your family."],
 		                [""],
 		                [""],
 		                [""],
@@ -5965,13 +5994,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "One Family",
+		            "rangeStart": "11",
+		            "rangeEnd": "13",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The Believers are told not to ridicule or insult one another, or one group mock another, as they may be better than themselves in Allah’s eyes."],
+		                ["They should also avoid being suspicious, spying and backbiting as Allah likens this to eating the flesh of ones own dead brother."],
+		                ["Allah reminds the Believers that they were created from a single pair, male and female, one family, that has been divided into tribes and nations so that you may get to know one another, and the only thing that determines a person’s worth in Allah’s eyes is piety."],
 		                [""],
 		                [""],
 		                [""],
@@ -5979,43 +6008,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A TRUE BELIEVER",
+		            "rangeStart": "14",
+		            "rangeEnd": "18",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["The desert Arabs say they are Believers, but they are not. They have submitted yes, but faith has not yet entered their hearts."],
+		                ["True Believers, Allah says, are those who believe in Allah and Prophet Muhammad (ﷺ) with no doubt or hesitation and strive in His cause with everything they have."],
+		                ["Do not try to tell Allah about His religion because He knows what is in people’s hearts and minds and what is in the heavens and the earth."],
+		                ["Some people thought they were doing the Prophet (ﷺ) a favour by embracing Islam, but they should know that it is Allah who has done them a favour by guiding them to the true faith."],
 		                [""],
 		                [""],
 		                [""]
@@ -6041,17 +6041,31 @@ var surahsOld = [
 	{
 		"name": "Qāf",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derives its name from the initial letter Qaf.",
+		    "period": "Makkan",
+		    "context": "The period of revelation is the second stage of the Prophet's (ﷺ) life at Makkah, which lasted from the third year of the prophethood till the fifth year. This surah might have been sent down in about the 5th year, when the antagonism of the Disbelievers had become quite intense but had not yet assumed tyrannical proportions. The Prophet (ﷺ) gave kutbah on this entire surah.",
+		    "theme": "A surah which deals predominantly with the Resurrection and the Day of Judgement. Reference is made to previous generations of Disbelievers, both to warn the Disbelievers in Makkah and to reassure the Prophet (ﷺ). Creation is cited as an indication of Allah’s ability to bring the dead to life again, and emphasis is placed on the powerlessness of man on the Day of Resurrection. The surah both opens and closes with mention of the Qur’an.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE POLYTHEISTS DENIALS",
+		            "rangeStart": "1",
+		            "rangeEnd": "11",
 		            "details": [
+		                ["The honoured Qur’an is guidance for humanity, yet the Disbelievers deny the resurrection and Hereafter as far-fetched and surprised a man among them was warning them against their centuries old beliefs and customs."],
+		                ["They are indeed in a state of confusion, as Allah tells them just to look at all the signs around them in the earth as evidence of resurrection."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "PREVIOUS NATIONS ALSO DENIED RESURRECTION",
+		            "rangeStart": "12",
+		            "rangeEnd": "15",
+		            "details": [
+		                ["The people of Nuh (عليه السلام), Lut (عليه السلام), Rass, Thamud, Tubba, Ad, Pharaoh, and the Forest-Dwellers (to whom Prophet Shu’aib (عليه السلام) was send) all disbelieved their messengers."],
 		                [""],
 		                [""],
 		                [""],
@@ -6061,11 +6075,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH IS CLOSE",
+		            "rangeStart": "16",
+		            "rangeEnd": "18",
 		            "details": [
-		                [""],
+		                ["Allah knows what his soul whispers to him as He is closer to him than his own jugular vein."],
+		                ["Man does not utter a word except that it is being recorded by Angels on both sides of him always watching."],
 		                [""],
 		                [""],
 		                [""],
@@ -6075,13 +6090,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE REALITY OF RESURRECTION",
+		            "rangeStart": "19",
+		            "rangeEnd": "30",
 		            "details": [
+		                ["Death will inevitably become a reality and with it the truth of resurrection and life after death, everything that Disbelievers tried to escape."],
+		                ["The trumpet for resurrection will be blown, each person being driven by Angel to drive him and another to be a witness."],
+		                ["Allah removes the veil on this day and the Angel with his record of deeds mentioned earlier."],
+		                ["And the deniers will have their devil companions arguing with them but Allah makes clear that He sent a warning."],
 		                [""],
 		                [""],
-		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE REALITY OF THE HEREAFTER",
+		            "rangeStart": "31",
+		            "rangeEnd": "35",
+		            "details": [
+		                ["Allah asks Hell if it has had its fill of evil doers to which it asks if there is anymore."],
+		                ["Meanwhile the doers of good who believed in Allah unseen and came to Him with a clean repenting heart will finally obtain the once distant reality of Paradise."],
 		                [""],
 		                [""],
 		                [""],
@@ -6090,40 +6118,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "REMINDER TO THE PROPHET (ﷺ)",
+		            "rangeStart": "36",
+		            "rangeEnd": "45",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["Previous nations were even mightier but still couldn’t escape their fate, so those with hearts must listen."],
+		                ["Allah created the heavens and the earth and everything in between in 6 days and did not tire so Allah tells the Prophet (ﷺ) to continuously pray and be patient as the inevitable Day of Resurrection will come to pass, and ultimately remind the people using the Qur’an."],
 		                [""],
 		                [""],
 		                [""],
@@ -6137,18 +6137,47 @@ var surahsOld = [
 	{
 		"name": "adh-Dhāriyāt",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the very first word wadh-dhariyat, the name comes from the winds that scatter dust. ",
+		    "period": "Makkan",
+		    "context": "The subject matter and the style clearly show that it was sent down in the period when although the Prophet's (ﷺ) invitation was being resisted and opposed with denial and ridicule and false accusations stubbornly, persecution had not yet started. Therefore, this surah also seems to have been revealed in the same period in which Surah Qaf was revealed. ",
+		    "theme": "A surah that gives several of the signs of nature as proof of the Resurrection, among them the scattering winds that give the surah its title. It reminds how religiosity is linked closely together with rituals as well as other social behaviors. The Disbelievers are reminded of the fate that befell previous rebellious generations and the Prophet (ﷺ) is urged to carry on reminding.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "OATHS OF ALLAH",
+		            "rangeStart": "1",
+		            "rangeEnd": "23",
 		            "details": [
+		                ["Allah swears an oath by: the winds that scatter dust far and wide, by the clouds that bring rain, the ships that sail, the Angels who distribute Allah’s bounty by His command and the sky and stars that the Day of Judgement will occur."],
+		                ["Those who deny the truth will face torment whereas the righteous who used to sleep little, pray to Allah for forgiveness at dawn and give the needy their due will be in Paradise."],
+		                ["The earth contains Allah’s signs and the heavens provide sustenance; Allah, the Lord of the heavens and the earth, then swears an oath by Himself, all that He says is true; as true as if you were hearing yourself speak. "],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "TALES FROM THE LIVES OF THE PROPHETS",
+		            "rangeStart": "24",
+		            "rangeEnd": "46",
+		            "details": [
+		                ["The story of the Angel visitors coming to Ibrahim (عليه السلام) as peaceful guests and made him fearful as they did not eat the roasted calf he presented them."],
+		                ["They instead informed him of a son to be born to his barren wife’s amazement as well as how they were going to a city of criminals to destroy them with rocks made of clay. When they arrived, they could not find any believers except for one single family, the family of Lut (عليه السلام). Allah saved them all except for Lut’s (عليه السلام) wife."],
+		                ["Similarly, Pharaoh and his council rejected the message that Moosa (عليه السلام) presented him with instead calling him a crazy person and a sorcerer and as a consequence of their actions they were cast into the sea. "],
+		                ["The wind had destroyed the people of Ad for their rejection, the people of Thamud were destroyed by a blast for being insolent. Allah uses the forces of nature to reign in and punish the disobedient."],
+		                ["The people of Nuh (عليه السلام), who came before them were also lost in evil."],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "A WARNING AND REMINDER",
+		            "rangeStart": "47",
+		            "rangeEnd": "55",
+		            "details": [
+		                ["With His Power, Allah constructed the skies, the universe and spread out the earth to sustain life and created everything in pairs."],
+		                ["The Prophet (ﷺ) was sent by Allah to warn people to worship Him alone and take note that all messengers and prophets have been called either a sorcerer or a mad person."],
+		                ["And to the Believers he has come to remind. "],
 		                [""],
 		                [""],
 		                [""],
@@ -6157,42 +6186,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "WHY WE ARE HERE",
+		            "rangeStart": "56",
+		            "rangeEnd": "60",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah created the Jinn and humankind in order that they should worship Him. He requires nothing else from them as He is the Provider. "],
+		                ["The wrongdoers will receive their share of the punishment that afflicted their predecessors; there is no need for them to be impatient and try to hasten that day."],
+		                ["On the Day of Judgment, they will surely be punished and there will be no escape. "],
 		                [""],
 		                [""],
 		                [""],
