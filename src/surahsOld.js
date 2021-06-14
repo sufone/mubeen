@@ -6233,18 +6233,18 @@ var surahsOld = [
 	{
 		"name": "at-Ṭūr",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the very first word 'Wat Tur-i' which is Mount Sinai.",
+		    "period": "Makkan",
+		    "context": "This surah was revealed in the same stage of the Prophet's (ﷺ) life at Makkah in which the Surah Adh-Dhaariyat was revealed. This was the period when the Prophet (ﷺ) was being showered with objections and accusations but severe persecution of the Muslims had not yet started.",
+		    "theme": "A surah which addresses many of the arguments put to the Prophet (ﷺ) by the Disbelievers of Makkah. The bliss that will be enjoyed by the Believers is contrasted to the torments of Hell, and the Prophet (ﷺ) is urged to bide his time, to continue to deliver his message, and to wait with confidence for Allah’s judgement. Allah swears by, among other things, Mount Sinai, from which the surah takes its title, that the Day of Judgement is inevitable.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S OATH REGARDING JUDGEMENT AND THE HEREAFTER",
+		            "rangeStart": "1",
+		            "rangeEnd": "28",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Allah swears by Mount Sinai and a scripture spread out, on a parchment, by the much-visited house, by the raised canopy and by the filled oceans, that indeed the punishment of Allah is coming."],
+		                ["The punishments of those in Hell and those in Paradise."],
 		                [""],
 		                [""],
 		                [""],
@@ -6253,14 +6253,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "CRITICISM AGAINST THE DISBELIEVERS",
+		            "rangeStart": "29",
+		            "rangeEnd": "49",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah outlines the attitudes of those who disbelieve and think the Prophet (ﷺ) is practicing magic or poetry and fabricating the Qur’an, while criticising his supposed low status and preaching of Islam."],
+		                ["They cannot be reasoned with due to their hatred for the message of Islam and so they will be punished in the Hereafter."],
+		                ["The Prophet (ﷺ) has been instructed to persistently continue giving his invitation and preaching in spite of the accusations and objections of his opponents and enemies and should endure their resistance patiently as he is under Allah’s watchful eye and His judgment will inevitably comes to pass."],
+		                ["And continue praising and glorifying Allah."],
 		                [""],
 		                [""],
 		                [""]
@@ -6329,18 +6329,32 @@ var surahsOld = [
 	{
 		"name": "an-Najm",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derives its name from the very first word wan Najm. ",
+		    "period": "Makkan",
+		    "context": "This surah was revealed in the Ramadan of 5th year of Prophethood. This was the first surah in which a verse requiring the performance of a sajdah was sent down and was the first surah of the Qur'an, which the Prophet (ﷺ) had publicly recited before an assembly of the Quraysh in which both the Believers and the Disbelievers were present at the Ka’bah. At the end, when he recited the verse requiring the performance of a sajdah and fell down in prostration, the whole assembly also fall down in prostration with him, and even those chiefs of the polytheists could not resist falling down in prostration. Only one man, Umayyah bin Khalaf, from among the Disbelievers, who did not fall down in prostration but took a little dust and rubbing it on his forehead said that that was enough for him, later he died in a state of disbelief.",
+		    "theme": "A surah that confirms the divine source of the Prophet’s (ﷺ) message and refers to his ascension to Paradiseduring the Night Journey. The surah refutes the claims of the Disbelievers about the goddesses and the Angels, and then lists several truths about Allah’s Power. The surah closes with a warning of the imminent Day of Judgement. Some of their wrong beliefs in the Angels as daughters of Allah, intercession of the Angels etc. are also mentioned. The Angels are the servants of Allah.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PROPHET (ﷺ) AND THE NIGHT JOURNEY",
+		            "rangeStart": "1",
+		            "rangeEnd": "18",
 		            "details": [
+		                ["Allah has taken an oath of the stars to prove to the non-believers that Prophet Muhammad (ﷺ) is on the right path, not deluded and does not act on his own desires but from a higher power based on truth."],
+		                ["Allah tells us that it was not a one-time incident that Prophet Muhammad (ﷺ) saw Jibreel (عليه السلام), and therefore the deniers of truth cannot make this excuse that maybe the Prophet was mistaken."],
+		                ["He saw him in his majestic form on the horizon when being given revelation and again when he was taken to the journey of the heavens or \"Miraj\" at the Lote Tree beyond which none can pass near the Garden of refuge covered in splendour."],
+		                ["This was indeed reality which the Prophet (ﷺ) saw with his own eyes."],
 		                [""],
 		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "BASELESS CONJECTURING OF THE DISBELIEVERS",
+		            "rangeStart": "19",
+		            "rangeEnd": "31",
+		            "details": [
+		                ["Lat, Uzza, and Manat were the deities of ancient Arabia and were worshipped as daughters of Allah. They were invented names based on the whims of people."],
+		                ["The same people also claimed Angels were female to which Allah says that no Angel has the power of intercession for them as they deny the resurrection in the first place and are just making assumptions. "],
 		                [""],
 		                [""],
 		                [""],
@@ -6349,12 +6363,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "CHARACTERISTICS OF TRUE RELIGION",
+		            "rangeStart": "32",
+		            "rangeEnd": "41",
 		            "details": [
-		                [""],
-		                [""],
+		                ["We must always stay away from major sins, except small and momentary ones for which Allah has vast forgiveness for and should we become successful in this struggle, we should never think of ourselves as pure. "],
+		                ["The polytheists of Makkah and the Jews in Medina stubbornly resisted the teachings of the Prophet (ﷺ) rather calling themselves followers of Ibrahim and Moosa (عليهم السلام) respectively. "],
+		                ["However, if they really knew what their prophets had taught them, then it should not have been difficult for them to recognize that Prophet Muhammad (ﷺ) was also calling them to the same religion. "],
 		                [""],
 		                [""],
 		                [""],
@@ -6363,28 +6378,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH IS THE LORD OF EVERYTHING",
+		            "rangeStart": "42",
+		            "rangeEnd": "62",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah created and sustains creation and He is the Lord of Sirius (the brightest star in the night sky)."],
+		                ["He destroyed the Ad and Thamud and people of Nuh (عليه السلام) for being unjust and oppressing."],
+		                ["The Prophet (ﷺ) is like every other warner of the Day of Judgement yet some people can still laugh and not weep."],
 		                [""],
 		                [""],
 		                [""],
@@ -6425,17 +6425,17 @@ var surahsOld = [
 	{
 		"name": "al-Qamar",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the very first verse Wan shaqq al-Qamar and is a reference to the Day of Resurrection.",
+		    "period": "Makkan",
+		    "context": "The incident of the shaqq-al-Qamar (splitting of the moon) that has been mentioned in it meaning this incident took place at Mina in Makkah about five years before the Prophet's (ﷺ) hijrah to Medina.",
+		    "theme": "A surah dealing mainly with the punishment dealt out to previous generations of Disbelievers. These are presented as a warning to the Disbelievers of Makkah, with the refrain ‘Will anyone take heed?’ running throughout the surah. Finally, the treatment of the Disbelievers on the Day of Judgement is contrasted to the everlasting bliss the Believers will enjoy. ",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE SIGN OF SPLITTING THE MOON",
+		            "rangeStart": "1",
+		            "rangeEnd": "8",
 		            "details": [
-		                [""],
+		                ["The first verse records the splitting of the moon as a sign to the Disbelievers of Makkah as well as a sign of the final Hour."],
 		                [""],
 		                [""],
 		                [""],
@@ -6445,26 +6445,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "TAKING LESSON FROM THE FATE OF PREVIOUS NATIONS",
+		            "rangeStart": "9",
+		            "rangeEnd": "42",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["The following narrations of Allah’s warnings to evil nations and his subsequent punishments is filtered with the theme and repetition that it is easy to remember and take lessons from the Qur’an so one must haste in taking heed."],
+		                ["The warning and end of the people of Nuh (عليه السلام) is shown with the flood and saving the believers in the ark, the people of Ad were destroyed by a severely cold wind and the people of Thamud also made the same error by disregarding the message of Prophet Salih (عليه السلام) and killing the sign of the she-camel that was given to them."],
+		                ["The people of Lut (عليه السلام) were also destroyed by a stone bearing wind for rejecting the message such that when the Angels came to Luts (عليه السلام) house in the guise of young men, these people rushed to have them; nothing mattered to them except the fulfilment of their lust."],
+		                ["The same thing happened to people of Pharaoh who rejected all of the signs of Allah. "],
 		                [""],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE END OF THE CRIMINALS AND RIGHTEOUS",
+		            "rangeStart": "43",
+		            "rangeEnd": "55",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The Disbelievers like previous nations will be defeated and when the Day of Judgement arrives the criminals who are in error and madness will be dragged on their faces into Hell."],
+		                ["In contrast the righteous will be in Paradise in the presence of Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -6521,17 +6521,60 @@ var surahsOld = [
 	{
 		"name": "ar-Raḥmān",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "This surah is entitled Ar Rahmaan, the word with which it begins. This title, however, deeply relates to the subject matter of the surah too, for in it, from the beginning to the end, the manifestations and fruits of Allah's attribute of Mercy and Grace have been mentioned. ",
+		    "period": "Medinan",
+		    "context": "Debate whether this was Makkan or Medinan.",
+		    "theme": "A surah that highlights Allah’s wonders in this world, describes the end of the world, and paints an evocative picture of the delights of Paradise. Hell is briefly contrasted with the joys that await the righteous. The surah is characterized by the refrain ‘Which, then, of your Lord’s blessings do you both deny?’ which runs throughout. The surah divides mankind and Jinn into three classes: the Disbelievers, the best of Believers, and the ordinary Believers. ",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S BLESSINGS TO HUMANS",
+		            "rangeStart": "1",
+		            "rangeEnd": "16",
 		            "details": [
+		                ["Allah, The Merciful, has created human beings and granted them the unique power of speech – a power not bestowed upon any other creature in this world."],
+		                ["Allah has created justice which works throughout the universe and the Qur’an is the verbal expression of this Divine justice."],
+		                ["Everything has surrendered to the Will of Allah and prostrates to Him.  "],
 		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S BLESSING ON THE EARTH",
+		            "rangeStart": "10",
+		            "rangeEnd": "26",
+		            "details": [
+		                ["Allah has given sustenance to his creatures, created man from clay and Jinn from smokeless Fire, created two seas that meet but have a barrier separating them and both possess small and large pearls, and He is in charge of ships that sail on the sea as high as mountains."],
+		                ["He is the Lord of the East and West."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S MAJESTY AND WHAT LIES BEYOND THE EARTH",
+		            "rangeStart": "27",
+		            "rangeEnd": "36",
+		            "details": [
+		                ["Everyone on earth will perish except the face of Allah when the final Day occurs."],
+		                ["He is always being asked of and is always responding to His creation including man and Jinn."],
+		                ["They have been told they cannot pass beyond the regions of the Paradise and earth without authority from Allah as a flame of Fire and smoke will be sent if anyone tries to."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "RESURRECTION",
+		            "rangeStart": "36",
+		            "rangeEnd": "42",
+		            "details": [
+		                ["The day when the sky is torn apart and turns red and no man or Jinn will be asked about their sins and the criminals will be known and seized."],
 		                [""],
 		                [""],
 		                [""],
@@ -6541,11 +6584,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "HELL",
+		            "rangeStart": "43",
+		            "rangeEnd": "45",
 		            "details": [
-		                [""],
+		                ["These criminals who used to deny Hell will have it brought close and made to go around the flames and scalding water."],
 		                [""],
 		                [""],
 		                [""],
@@ -6555,58 +6598,15 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "PARADISE",
+		            "rangeStart": "46",
+		            "rangeEnd": "78",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["But those who feared meeting Allah there will be 2 gardens, with shading branches, flowing springs, every kind of fruit in pairs."],
+		                ["They will be reclining on silk beds with fruits of both gardens hanging low, with untouched maidens restraining their glances as if they were rubies."],
+		                ["The reward for the good can only be good."],
+		                ["And below these are another 2 gardens, dark green in colour, with a pair of gushing springs, with fruits including date palms and pomegranate trees, and in them good beautiful women, fair ones reserved in pavilions untouched by man or Jinn reclining on green cushions and beautiful fine carpets."],
+		                ["Blessed is the name of the Lord, owner of Majesty and Honour."],
 		                [""],
 		                [""]
 		            ]
@@ -6617,17 +6617,17 @@ var surahsOld = [
 	{
 		"name": "al-Wāqiʿah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word al-waqi`ah of the very first verse.",
+		    "period": "Makkan",
+		    "context": "This surah was revealed after Surah Ta Ha and before Ash-Shu`araa.",
+		    "theme": "A surah whose central message is stated in its opening verses, from which the surah takes its title: The Day of Judgement is inevitable and it will sort people into the humiliated and the richly rewarded. People are divided into three classes: those brought near to Allah (the best of the Believers), those on the right (the ordinary Believers), and those on the left (the Disbelievers). Ample proof is given of Allah’s Power and consequently His ability to bring about the Resurrection (verses 57–72). It completes the subject of death, resurrection and divine judgment.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THREE DISTINCT GROUPS",
+		            "rangeStart": "1",
+		            "rangeEnd": "10",
 		            "details": [
-		                [""],
+		                ["When the inevitable Day of Judgment arrives, no one will be able to deny what is happening and they will be sorted into three distinct groups: those on the right, those on the left and those in front. "],
 		                [""],
 		                [""],
 		                [""],
@@ -6637,12 +6637,27 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THOSE IN FRONT",
+		            "rangeStart": "11",
+		            "rangeEnd": "26",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The group that is closest to Allah in Paradise will include many from earlier generations and some from later generations."],
+		                ["They will recline, facing each other on beautiful ornamental couches while they are waited on by youth that are eternally young."],
+		                ["The youth will offer them goblets, glasses and cups of a pure drink that will not cause headaches or intoxication."],
+		                ["They will be able to choose any sort of fruit they desire and the meat from any birds they choose. "],
+		                ["As a reward for their good deeds there will be beautiful companions described as hidden pearls."],
+		                ["There will be no evil, vain or sinful talk among them; only the greetings of peace."],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THOSE ON THE RIGHT",
+		            "rangeStart": "27",
+		            "rangeEnd": "40",
+		            "details": [
+		                ["On the right are the believers, those who have been handed their book in the right hand, and are from both the later and former generations."],
+		                ["They will also be reclining on raised couches among thornless lote trees and acacias, with abundant fruit, shade trees, and flowing water."],
+		                ["Their companions will be a special creation, virginal, devoted and the same age as their partners. "],
 		                [""],
 		                [""],
 		                [""],
@@ -6651,14 +6666,27 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THOSE ON THE LEFT",
+		            "rangeStart": "41",
+		            "rangeEnd": "56",
 		            "details": [
+		                ["On the left are those who have been handed their book in the left hand – they are very unfortunate."],
+		                ["They will dwell in the middle of black smoke with scorching winds and scalding water."],
+		                ["They overindulged in luxury, committed great sins and denied their own resurrection and of their ancestors. "],
+		                ["The Prophet (ﷺ) is told to tell the deniers that they will indeed be resurrected at an appointed time and then they will eat an evil fruit from the Tree of Zaqqum and drink scalding water."],
+		                ["They will try to quench their thirst as if they were thirsty camels. "],
 		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S MAJESTY AND MANS DEPENDENCE",
+		            "rangeStart": "57",
+		            "rangeEnd": "74",
+		            "details": [
+		                ["Allah asks rhetorically if man was responsible for doing anything in the earth or is He?"],
+		                ["For example, Allah asks if we: created human life from semen, made vegetation grow, bring water from clouds, create the wood to make Fire – He could easily had stopped or changed these natural occurrences to put man into ruin."],
+		                ["All this should make one be grateful and ponder and reflect about our dependent existence."],
 		                [""],
 		                [""],
 		                [""],
@@ -6666,42 +6694,28 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "NO ESCAPE FROM DEATH",
+		            "rangeStart": "75",
+		            "rangeEnd": "87",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah swears a mighty oath by the position of the stars, that the Qur’an is truly noble and well protected in al-Lawh al-Mahfooz. "],
+		                ["The Qur’an here is only touched the Angels."],
+		                ["Allah asks, would you scorn and deny a scripture in return for all that Allah provides for you!?"],
+		                ["When a person is dying and his soul rises into his throat, Allah’s Angels are closer to him but man does not see them."],
+		                ["If one denies resurrection then why don’t they restore the dying one’s soul?"],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "SUMMARY OF THE TRUTH",
+		            "rangeStart": "88",
+		            "rangeEnd": "96",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["If the dying person is one of those in front who will be close to Allah he will find comfort, ease, bounty and bliss."],
+		                ["If he is one who will receive his book in the right hand he will be greeted with peace by the others of the right hand. "],
+		                ["But if he is one of those who denied the truth, he will be welcomed with nothing but scalding water and the Fires of Hell."],
+		                ["This is the absolute truth, a certainty, so glorify and exalt the name of Allah who is the Greatest."],
 		                [""],
 		                [""],
 		                [""]
