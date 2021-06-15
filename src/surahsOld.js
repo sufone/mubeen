@@ -6727,18 +6727,18 @@ var surahsOld = [
 	{
 		"name": "al-Ḥadīd",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its title from the sentence, wa anzalna' l-hadida, of verse 25. ",
+		    "period": "Medinan",
+		    "context": "This was sent down some time during the interval between the Battle of Uhud and the Truce of Hudaybiyyah. This was the time when the tiny Islamic State of Medina had been hemmed in by the Disbelievers and the handful of the ill-equipped Muslims were entrenched against the combined power of entire Arabia. In this state Islam not only stood in need of the sacrifice of life from its followers, but it also needed monetary help and assistance. In this surah a forceful appeal has been made for the same. ",
+		    "theme": "A surah that urges the Believers to spend in Allah’s cause and uphold justice. The all pervasiveness of Allah’s Power, Knowledge, Control, and Glory is affirmed to encourage the Believers to right action, and the fate of the Hypocrites is described. Previous prophets are mentioned, especially Nuh, Ibrahim, and Isa (عليهم السلام), showing the response they received. The surah closes with a reference to the People of the Book. It encourages Muslims to make sacrifices for their faith and be aware of the non-believers as well as the Hypocrites in their own ranks.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "GLORY OF ALLAH",
+		            "rangeStart": "1",
+		            "rangeEnd": "6",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Everything glorifies Allah and everything belongs to Him."],
+		                ["Allah created the heavens and the earth in six days and established Himself above the Throne, there is nothing that is or can be above Him and He is all Aware."],
 		                [""],
 		                [""],
 		                [""],
@@ -6747,12 +6747,41 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S COVENANT AND THE GOOD LOAN TO HIM ",
+		            "rangeStart": "7",
+		            "rangeEnd": "11",
 		            "details": [
+		                ["Believe in Allah and His Messenger Muhammad (ﷺ) and spend out of what Allah has given to be rewarded. "],
+		                ["Allah addresses the Muslims who had affirmed the Faith but were not fulfilling the demands of the Faith saying what is wrong that they don’t truly believe in Allah and his Messenger when invited."],
+		                ["There is a covenant between Allah and the Believers who have revelation that had brought them out of darkness."],
+		                ["Those who believed prior to the victory of Makkah were more charitable than those after, yet Allah will reward both."],
+		                ["Indeed, Allah asks who will be the one that will give Allah a loan that He will repay back in manifold."],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE LIGHT OF THE BELIEVERS",
+		            "rangeStart": "12",
+		            "rangeEnd": "19",
+		            "details": [
+		                ["On the Day of Judgement, the Believers will be distinguishable by the light streaming ahead of them and on their right."],
+		                ["The Hypocrites will cry out, asking the Believers to wait and share their light but they will be told to turn back and seek the light."],
+		                ["And a barrier with a gate will be put between them; inside will be mercy and outside will be the punishment of Hell."],
+		                ["It is time now to remember Allah and the revelation and not be like those previously who broke their covenant with Allah and whose hearts became hard."],
+		                ["Those who practice charity will have their loan multiplied and the Believers will have their light."],
 		                [""],
 		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH KNOWS EVERYTHING",
+		            "rangeStart": "20",
+		            "rangeEnd": "24",
+		            "details": [
+		                ["The life of this world is a temporary amusement, like a bloomed flower that inevitably dies so one should focus on the Hereafter."],
+		                ["No affliction happens either on earth or in your heart but that it was already in writing by Allah so there is no need to grieve for that which passes you by or be over joyful about what you gain."],
 		                [""],
 		                [""],
 		                [""],
@@ -6761,43 +6790,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S GRACE AND BOUNTY",
+		            "rangeStart": "25",
+		            "rangeEnd": "29",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["He sent down metal iron which has many uses and gives great strength for those who fight for those that support Allah and His messengers. Allah sent many prophets including Nuh, Ibrahim and Isa (عليهم السلام)."],
+		                ["Isa (عليه السلام) came with the Injeel and those who followed him had soft hearts and were full of mercy, but they invented monasticism to please Allah but they did not even practice it correctly and so were lawbreakers."],
+		                ["The Believers are told to fear Allah and follow His messenger to have a double share of His Mercy and have a light to walk in and forgiveness."],
+		                ["The People of the Book should know that they have no power over Allah’s Grace and Bounty as He bestows on whomever He wills."],
 		                [""],
 		                [""],
 		                [""]
@@ -6823,17 +6823,17 @@ var surahsOld = [
 	{
 		"name": "al-Mujādilah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "This surah is entitled Al Mujadalah as well as Al Mujadilah, the title being derived from the word ‘tujadiluka’ of the very first verse. As at the outset mention has been made of the woman who pleaded with the Prophet (ﷺ) the case of zihar pronounced by her husband and urged him to suggest a way out of the difficult situation in order to save her and, her children's life from ruin, and Allah has described her pleading by the word \"mujadalah\", the surah came to be known by this very title. If it is read as \"mujadalah\", it would mean \"pleading and arguing\", and if it is read as \"mujadilah\", it would mean \"the woman who pleaded and argued.\" ",
+		    "period": "Medinan",
+		    "context": "This surah was revealed some time after the battle of the Trench (Shawwal, 5 A. H.). In Surah Al-Ahzab, Allah while negating that an adopted son could be one's real son, had just said this and no more; \"And Allah has not made those of your wives whom you divorce by zihar your mothers.\" But in that surah, there was nothing to the effect that to divorce a wife by zihar (i.e. saying ones wife is like a mother) was a sin or a crime, nor anything about the legal injunction concerning it. Contrary to it, in this surah the whole law relating to zihar has been laid down, which shows that these detailed injunctions were sent down some time after the brief reference to it in Surah Al- Ahzab. ",
+		    "theme": "A surah which disallows a specific pagan divorce practice: the surah takes its title from the dispute referred to in verse 1 between a wife who had been divorced in this manner and the Prophet (ﷺ). The surah supports the woman. It goes on to state that those who oppose Allah and His messenger, who secretly ally themselves with Shaytan, who lie in their oaths and make intrigues against the Prophet (ﷺ), will be defeated and suffer humiliation both in this world and in the next, while those on Allah’s side will triumph. The surah also speaks about the Hypocrites and other non-Muslim groups in Medina who were involved in spreading rumors against the Prophet (ﷺ).",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "Zihar",
+		            "rangeStart": "1",
+		            "rangeEnd": "4",
 		            "details": [
-		                [""],
+		                ["Allah has heard the plea of the woman who complained about her husband so the custom of Zihar is condemned and one must either free a slave, fast 2 months consecutively or feed 60 people before one can go back to his wife – these are the boundaries of Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -6843,27 +6843,27 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "SOCIAL ETIQUETTE ",
+		            "rangeStart": "5",
+		            "rangeEnd": "13",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah knows everything in the heavens and the earth, if there is two He is the third."],
+		                ["Thus He is aware of those who hold secret meetings against the Messenger (ﷺ) and greet him rudely and wonder why they aren’t being punished."],
+		                ["The Believers in contrast should talk about piety and not disobedience in gatherings as secret conversation is from Shaytan."],
+		                ["And if people ask to make room and rise up and leave in gatherings then do it."],
+		                ["And when speaking with the messenger (ﷺ) present a charity beforehand, if one can’t even do that at least establish the prayers and give zakat."],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE HYPOCRITES AND THE PARTY OF ALLAH",
+		            "rangeStart": "14",
+		            "rangeEnd": "21",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Those who give loyalty to people who Allah is angry with, who use their oaths to cover up their deeds and are liars will face judgement and a severe punishment."],
+		                ["Shaytan has overcome them and gone to his side and so forgotten Allah. They are against Allah and His messenger and He will undoubtedly overcome them."],
+		                ["Whereas those who believe in Allah and His Messenger have no affection for those who are against them, they are the party of Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -6919,17 +6919,17 @@ var surahsOld = [
 	{
 		"name": "al-Ḥashr",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah is named al-hashr because the word hashr, meaning 'exile' or 'banishment', appears in verse 2, describing the expulsion of Jewish Banu Nadir tribe from their settlements.",
+		    "period": "Medinan",
+		    "context": "This was sent down concerning the battle against the Bani an-Nadir. The Prophet (ﷺ) brought peace to Medina with the constitution of Medina, soon however the Banu Qainuqa were exiled after they broke the treaty of the constitution of Medina and then the treachery of Banu Nadir in which they originally agreed with the Prophet (ﷺ) that they would fight neither for nor against him, yet, after the Makkan defeat of the Muslims in the Battle of Uhud, made an alliance with the Makkans. They also tried to kill the Prophet (ﷺ) while he was in their area. He asked them to leave and they agreed, but Ibn Ubayy, the head of the ‘Hypocrites’ of Medina, promised them that, if they fought the Muslims, he and his camp would fight with them, and, if they had to leave Medina, he and his camp would leave with them. Because the Banu al-Nadir had repeatedly broken their agreements, the Muslims besieged them in Medina (in ah 4/626 ce), Ibn Ubayy did not keep his promise, and the Banu al-Nadir agreed to leave, some going to Syria and some to Khaybar.",
+		    "theme": "In this surah Allah informs that it was He who banished the Disbelievers among the People of the Book who planned to attack the Prophet (ﷺ). Allah stresses that any gains were His doing and so should be distributed in accordance with His instructions. The end of the surah, consequently, emphasizes obedience and awe towards Allah. We are also commanded to love the companions. ",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH IS IN CHARGE",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
-		                [""],
+		                ["It was Allah who banished and exiled the Jewish Banu Nadir tribe for they opposed Allah and His Messenger (ﷺ) and what the Believers did to them was all by His leave."],
 		                [""],
 		                [""],
 		                [""],
@@ -6939,12 +6939,27 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "DISTRIBUTION OF SPOILS",
+		            "rangeStart": "6",
+		            "rangeEnd": "10",
 		            "details": [
+		                ["The spoils from the villages belong to: Allah, His messenger, kinsfolk, orphans, the needy and the travellers in need so that the wealth does not circulate among the rich."],
+		                ["Also, to the poor emigrant who were driven from their homes and possessions and those who came after and prayed to Allah to remove resentment in their hearts."],
+		                ["The ones in Medina already established who love the refugees and even prefer them over themselves even if poor they are saved from the greediness of their own souls."],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "The Hypocrites",
+		            "rangeStart": "11",
+		            "rangeEnd": "17",
+		            "details": [
+		                ["The Hypocrites pretend they are with the People of the Book, but they aren’t, they’re just scared of the Believers and not Allah."],
+		                ["They aren’t united themselves and don’t want to fight, like those before they’ve tasted the result of their conduct and punishment awaits them."],
+		                ["They are like Shaytan who promise to be with you but disowns and abandons."],
 		                [""],
 		                [""],
 		                [""],
@@ -6953,13 +6968,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "GOD CONSCIOUSNESS",
+		            "rangeStart": "18",
+		            "rangeEnd": "22",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Be mindful of Allah and of what your soul is sending tomorrow and don’t be like the one who forgets Allah and so forgets his own soul for there is no comparison between the people of Fire and people of Paradise."],
+		                ["And if Allah sent the Qur’an down on a mountain it would have crumbled and split in awe of Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -6968,25 +6982,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S ATTRIBUTES",
+		            "rangeStart": "22",
+		            "rangeEnd": "24",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["Allah and his mighty attributes - The surah features 15 Asmaul Husna (Beautiful Names of Allah)."],
 		                [""],
 		                [""],
 		                [""],
@@ -7015,17 +7015,17 @@ var surahsOld = [
 	{
 		"name": "al-Mumtaḥanah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "In verse 10 of this surah it has been enjoined that the women who emigrate to dar al-Islam (the Islamic State) and claim to be Muslims, should be examined hence the title Al-Mumtahinah. The word is pronounced both as mumtahinah and as mumtahanah, the meaning according to the first pronunciation being \"the surah which examines\", and according to the second, \"the woman who is examined.\" ",
+		    "period": "Medinan",
+		    "context": "The surah deals with two incidents. The first relates to Hatib bin Abz Balta'a (رضي الله عنه‎), who, a little before the conquest of Makkah, had sent a secret letter to the Quraysh chiefs informing them of the Prophet's (ﷺ) intention to attack them. The second relates to the Muslim women, who had started emigrating from Makkah to Medina, after the conclusion of the Truce of Hudaybiyyah, and the problem arose whether they also were to be returned to the Disbelievers, like the Muslim men, according to the conditions of the Truce. The mention of these two things determines that this surah came down during the interval between the Truce of Hudaybiyyah and the Conquest of Makkah. ",
+		    "theme": "A surah whereby instructions are given on how to deal with women who leave Makkah and join the Muslims, and the procedure for wives who leave Medina for Makkah. The Muslims are instructed on the appropriate allocation of their loyalties and Ibrahim (عليه السلام) is cited for them as an example to learn from. The surah also deals with the relations of Muslims with non-Muslims.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S ENEMIES ARE NOT FRIENDS",
+		            "rangeStart": "1",
+		            "rangeEnd": "3",
 		            "details": [
-		                [""],
+		                ["Allah commands Believers not to take Allah’s enemies as friends, they would deceive you if they had the chance and on the Day of Judgement no relative or child can help."],
 		                [""],
 		                [""],
 		                [""],
@@ -7035,11 +7035,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "EXAMPLE OF IBRAHIM (عليه السلام)",
+		            "rangeStart": "4",
+		            "rangeEnd": "6",
 		            "details": [
-		                [""],
+		                ["There is an example in Ibrahim (عليه السلام) and those with him who maintained a barrier between himself and Allah’s enemies, even though he prayed for forgiveness for his father knowing that he could not protect him from Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -7049,12 +7049,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "PEACEFUL RELATIONS WITH NON-AGGRESORS",
+		            "rangeStart": "7",
+		            "rangeEnd": "9",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Allah might put affection between you and your enemies."],
+		                ["And He does not forbid you to act kindly to those who are peaceful for He loves the just, only those who drove you out the land and fought you for your faith, these people one should not be allies with."],
 		                [""],
 		                [""],
 		                [""],
@@ -7064,16 +7064,16 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "LAWS OF MARRIAGE",
+		            "rangeStart": "10",
+		            "rangeEnd": "13",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Test the believing women when they come as emigrants to see if they are true, they are not lawful to the Disbelievers if they are true Believers and vice versa."],
+		                ["Give the Disbelievers whatever bride-gifts they have paid and only thereafter that they are free to marry them if they wish, and the Believers should not hold on to marriage ties with disbelieving women."],
+		                ["Ask for repayment of the bride-gifts you have paid, and let the Disbelievers do the same."],
+		                ["If any of you have wives who leave you for the Disbelievers, and if your community subsequently acquires [gains] from them, then pay those whose wives have deserted them the equivalent of whatever bride-gift they paid."],
+		                ["When the believing women come pledging that they believe in Allah, will not steal, commit unlawful sexual intercourse, kill their children, fake a pregnancy, nor disobey the Prophet (ﷺ) in what is right - then accept their pledge and ask forgiveness for them of Allah."],
+		                ["The Believers should not befriend those that Allah is angry with as they despair of the Hereafter."],
 		                [""]
 		            ]
 		        },
@@ -7111,17 +7111,17 @@ var surahsOld = [
 	{
 		"name": "as-Ṣaff",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derives its name from the sentence ‘yuqatiluna fi sabilil Allahi saff-an of verse 4 and encourages the Believers to stick together in solid lines in support of Allah’s cause. ",
+		    "period": "Medinan",
+		    "context": "This surah was sent down in the period closely following the Battle of Uhud.",
+		    "theme": "It criticizes those who broke their word and those who argued against the faith. Moosa and Isa (عليهم السلام) are cited as examples of prophets whose communities were divided: the rebellious were left to stray and the faithful granted success. The rewards of those who strive in Allah’s cause are described in some detail. The way of success for the Believers is to struggle for the truth.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THOSE FIRM IN FAITH",
+		            "rangeStart": "1",
+		            "rangeEnd": "4",
 		            "details": [
-		                [""],
+		                ["Allah does not like those who say things but then don’t do it. He likes those who fight in His cause in tight ranks."],
 		                [""],
 		                [""],
 		                [""],
@@ -7131,11 +7131,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "MOOSA AND ISA (عليهم السلام)",
+		            "rangeStart": "5",
+		            "rangeEnd": "6",
 		            "details": [
-		                [""],
+		                ["Moosa (عليه السلام) argued asked why the Children of Israel were rebellious when they knew he was sent by Allah, and likewise Isa (عليه السلام) confirmed the Tawrat and gave news of Ahmad (Prophet Muhammad (ﷺ)) but they thought it to be just sorcery."],
 		                [""],
 		                [""],
 		                [""],
@@ -7145,12 +7145,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "NONE CAN DESTROY ALLAH’S TRUTH",
+		            "rangeStart": "7",
+		            "rangeEnd": "9",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Those who invent lies against Allah do great wrong."],
+		                ["They will try and destroy Allah’s light with their mouth but they can’t, as Allah sent His messenger with guidance and the religion of truth that superseded every other creed."],
 		                [""],
 		                [""],
 		                [""],
@@ -7160,11 +7160,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE GREATEST TRANSACTION",
+		            "rangeStart": "10",
+		            "rangeEnd": "13",
 		            "details": [
-		                [""],
+		                ["The best transaction for the Believers is to have faith in Allah and His messenger and strive for His cause – in return Allah will give Paradise, forgiveness and His help and an imminent breakthrough."],
 		                [""],
 		                [""],
 		                [""],
@@ -7174,11 +7174,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "SUPPORTER OF ALLAH",
+		            "rangeStart": "14",
+		            "rangeEnd": "14",
 		            "details": [
-		                [""],
+		                ["Allah advises the Believers to be like those disciples who sincerely believed in Isa (عليه السلام) and supported him as they were the ones who received help from Allah, not the faction that disbelieved."],
 		                [""],
 		                [""],
 		                [""],
@@ -7207,17 +7207,17 @@ var surahsOld = [
 	{
 		"name": "al-Jumuʿah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the sentence ‘idha nudiya-lis-salat-imin-yaum-il- Jumu'ati’ of verse 9. ",
+		    "period": "Medinan",
+		    "context": "The period of the revelation of the first section (vv. 1-8) is A. H. 7, and probably it was sent down, on the occasion of the conquest of Khaybar or soon after it. The second section (vv. 9-11) was sent down shortly after the emigration, for the Prophet (ﷺ) had established the Friday congregational Prayer on the 5th day after his arrival at Medina. This happened when a trade caravan arrived in Medina right at the time of the friday congregational service and hearing it all except for 12 men, left the Prophet's Mosque and rushed out to the caravan, although the Prophet (ﷺ) at that time was delivering the sermon.",
+		    "theme": "A surah which takes its title from the instruction to the believers to observe the friday prayer promptly and reliably when called. It further reminds the Muslims of Allah’s Grace in granting them a prophet and the chance to grow spiritually. Those who do not act in accordance with the knowledge they have been given are then criticized.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S SENDING",
+		            "rangeStart": "1",
+		            "rangeEnd": "4",
 		            "details": [
-		                [""],
+		                ["Everything belongs to Allah, He sent His unlettered messenger to teach the Qur’an and wisdom to all humanity to now and the future."],
 		                [""],
 		                [""],
 		                [""],
@@ -7227,13 +7227,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE JEWS",
+		            "rangeStart": "5",
+		            "rangeEnd": "8",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Those who were entrusted with the Tawrat and did not heed it is like a donkey carrying books."],
+		                ["Wretched people are those who deny the signs of Allah."],
+		                ["If those of the Jewish faith are true allies of Allah then they should wish for death but they don’t, but it will come inevitably anyway."],
 		                [""],
 		                [""],
 		                [""],
@@ -7241,12 +7241,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "JUMU’AH",
+		            "rangeStart": "9",
+		            "rangeEnd": "11",
 		            "details": [
-		                [""],
-		                [""],
+		                ["When the Friday call to prayer is announced abandon trading and go to remember Allah, and when it ends disperse throughout the land to earn Allah’s bounty and continue to remember Allah."],
+		                ["There are those who continue to engage in trade and leave the Prophet (ﷺ), rather Allah’s gift is better than all trade or entertainment."],
 		                [""],
 		                [""],
 		                [""],
@@ -7303,31 +7303,31 @@ var surahsOld = [
 	{
 		"name": "al-Munāfiqūn",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the sentence Idha jaa kal-munafiquna of verse 1.",
+		    "period": "Medinan",
+		    "context": "This surah was sent down either during the Prophet's (ﷺ) return journey from his campaign against Bani al- Mustaliq, or immediately after his arrival back at Medina, which had taken place in Sha'ban A. H. 6",
+		    "theme": "A surah which warns the Believers about the treachery of the Hypocrites and describes their behaviour in some detail. A specific occasion on which the Hypocrites tried to stop anyone donating money to believers is described and Allah calls on the Muslims to compensate for this by giving more of their own funds to the needy. It criticizes hypocrisy and condemns the Hypocrites.",
 		    "breakdown": [
 		        {
 		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "rangeStart": "1",
+		            "rangeEnd": "8",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["The Hypocrites swear their sincerity but Allah knows they are liars who use their oaths as a cover to deceive people, they believed but then disbelieved which is why their hearts have been sealed."],
+		                ["On the outside they may seem pleasing but they are the enemy in reality."],
+		                ["They despise the Prophet (ﷺ) and do not want forgiveness from his behalf; Allah wouldn’t even grant it to them anyway as they are treacherous, they conspire against him and advise others to not spend on those who follow his path."],
+		                ["They thought the powerful would drive out the weak once the Prophet (ﷺ) came back to Medina but Allah won’t let this happen."],
 		                [""],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE BELIEVERS",
+		            "rangeStart": "9",
+		            "rangeEnd": "11",
 		            "details": [
-		                [""],
+		                ["The Believers should not let their wealth or children divert them from remembering Allah, and to spend in His way before death approaches and one is filled with regret, but Allah will never delay a soul when their time has come."],
 		                [""],
 		                [""],
 		                [""],
@@ -7399,16 +7399,45 @@ var surahsOld = [
 	{
 		"name": "at-Taghābun",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the sentence Dhalika yaum-ut taghabun of verse 9",
+		    "period": "Medinan",
+		    "context": "This surah was probably sent down at an early stage at Medina.",
+		    "theme": "The surah opens with a description of Allah’s Power, Wisdom, and Knowledge. The Disbelievers are reminded of the end of those who disbelieved before them, and their denial of the Resurrection is strongly refuted. The Believers are urged to be wary but forgiving of the enemies they may have within their own families and warned to remain steadfast and to spend in Allah’s cause.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH THE SOVEREIGN",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
+		                ["Allah made Believers and Disbelievers, created nature, man and destiny and knows everything."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE DISBELIEVERS",
+		            "rangeStart": "5",
+		            "rangeEnd": "7",
+		            "details": [
+		                ["The Disbelievers received their due punishment because they thought the messengers as just ‘humans’ and did not believe in the resurrection."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE BELIEVERS AND DISBELIEVERS FATE",
+		            "rangeStart": "8",
+		            "rangeEnd": "10",
+		            "details": [
+		                ["So believe in Allah, His messenger and the resurrection before it arrives and if one does believe in Allah and is righteous will obtain Paradise, but if one disbelieves then they will obtain Hell."],
 		                [""],
 		                [""],
 		                [""],
@@ -7419,12 +7448,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "Principle of Faith",
+		            "rangeStart": "11",
+		            "rangeEnd": "13",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Misfortune only happens with Allah’s permission – He will guide the heart of any who believes in Him."],
+		                ["And follow Allah and His Messenger, there is no God but Him."],
 		                [""],
 		                [""],
 		                [""],
@@ -7433,43 +7462,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "TESTS FOR THE BELIEVERS",
+		            "rangeStart": "14",
+		            "rangeEnd": "18",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Even among Believers’ families there are potential enemies to beware of, but if one overlooks and forgives them then Allah will do the same to you."],
+		                ["And wealth and children are just a test; real reward is with Allah."],
+		                ["And spend in the way of Allah to save oneself from the stinginess of their own soul."],
+		                ["The generous loan to Allah will be multiplied by him."],
 		                [""],
 		                [""],
 		                [""]
@@ -7495,34 +7495,34 @@ var surahsOld = [
 	{
 		"name": "at-Ṭalāq",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "At-Talaq is not only the name of this surah but also the title of its subject matter, for it contains commandments about Talaq (divorce) itself. Abdullah bin Mas`ud (رضي الله عنه‎) has described it as Surah an-Nisa al-qusra also, i.e. the shorter Surah an-Nisa. ",
+		    "period": "Medinan",
+		    "context": "This surah was revealed in Medina and must have been sent down after those verses of Surah Al-Baqarah in which commandments concerning divorce were given for the first time. When the people started making errors in understanding the commandments of Surah Al-Baqarah, and practically also they began to commit mistakes, Allah sent down these instructions for their correction. ",
+		    "theme": "A surah that outlines regulations concerning divorce. It strongly urges people to observe Allah’s regulations and guidance. To reinforce this, they are reminded of the fate of earlier disobedient peoples and the rewards of the obedient. Allah’s Power and Knowledge are then emphasized at the end.",
 		    "breakdown": [
 		        {
 		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "rangeStart": "1",
+		            "rangeEnd": "6",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
+		                ["When anyone intends to divorce women, they do so when the woman’s prescribed waiting period can properly start and the period should be calculated carefully."],
+		                ["They should not be driven out of their homes nor should they themselves leave unless they commit a flagrant indecency. When they have completed their appointed term, one must either keep them honourably or part with them honourably. Two just witnesses must be called from your people and establish witness for the sake of Allah."],
+		                ["And Allah will provide and find a path for those who put trust in Him."],
+		                ["If there is doubt, the period of waiting will be three months for those women who have ceased menstruating and for those who have not [yet] menstruated. The waiting period of those who are pregnant will be until they deliver their child."],
+		                ["And Allah wipes out the sins and gives good deeds to those who fear Him."],
+		                ["The wives whom are being divorced should be housed according to ones means, wherever one houses themselves. They should not be harassed and if they are pregnant they should be looked after until they give birth, if they suckle infants then they must be paid for it."],
+		                ["Consult together in a good way- if you make difficulties for one another, another woman may suckle the child for the father."]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "STRIVING FOR ALLAH",
+		            "rangeStart": "7",
+		            "rangeEnd": "12",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["A wealthy man should spend according to his wealth and the one whose provision is restricted should spend according to what Allah has given him: Allah does not burden any soul with more than He has given it - after hardship, Allah will bring ease."],
+		                ["Those who were insolent toward Allah and His messenger were destroyed and made to taste the ill effect of their conduct and Allah has prepared Hell for them."],
+		                ["So those who have understanding should follow the Qur’an and the Messenger who makes things clear as they will receive Paradise."],
+		                ["It is Allah who created the seven heavens and a similar [number] of earths which He commands and He possesses all knowledge."],
 		                [""],
 		                [""],
 		                [""]
@@ -7591,19 +7591,19 @@ var surahsOld = [
 	{
 		"name": "at-Taḥrīm",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derived its name from the words lima tuharrimu of the very first verse. This too is not a title of its subject matter, but the name implies that it is the surah in which the incident of tahrim (prohibition, forbiddance) has been mentioned. ",
+		    "period": "Medinan",
+		    "context": "In connection with the incident of tahrim referred to in this surah, the traditions of the Hadith mention two ladies who were among the wives of the Prophet (ﷺ) at that time Safiyyah (رضی اللہ عنھا) and Mariyah Qibtiyyah (رضی اللہ عنھا). The former was taken to become a wife by the Prophet (ﷺ) after the conquest of Khaybar, and Khaybar was conquered, as has been unanimously reported, in A. H. 7. The latter had been presented to the Prophet (ﷺ) by Muqawqis, the ruler of Egypt, in A. H. 7 and she had borne him his son, Ibrahim (رضي الله عنه‎), in Dhil-Hijjah, A. H. 8. These historical events almost precisely determine that this surah was sent down some time during A.H. 7 or A. H 8. Some say this was an isuue between A’isha (رضی اللہ عنھا) and Hafsa (رضی اللہ عنھا).",
+		    "theme": "A surah that discusses episodes in the Prophet’s (ﷺ) home life. It chides two of the Prophet’s wives for an incident when a confidence was betrayed and urges all believers to submit themselves to Allah and to guard themselves and their families against the Fire. The surah closes by giving examples of believing and disbelieving women. The surah tells the spouses not to ignore Allah’s rules in their love for each other.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "WIVES OF THE PROPHET (ﷺ)",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Muslims may be released from their oaths."],
+		                ["And when the Prophet (ﷺ) shared something with one wife who told another, the Prophet (ﷺ) was informed and told that wife that Allah told him – the All Knowing, All Aware."],
+		                ["There is a warning to the two wives of the Prophet (ﷺ) to not cooperate against him or Allah, the Angels and Believers will be against them and Allah could make the Prophet (ﷺ) marry others if He wished."],
 		                [""],
 		                [""],
 		                [""],
@@ -7625,11 +7625,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE HEREAFTER",
+		            "rangeStart": "6",
+		            "rangeEnd": "9",
 		            "details": [
-		                [""],
+		                ["Believers should guard against Hell and repent to be successful on the day when the Prophet (ﷺ) will be successful and they will obtain Paradise where Allah will give them their light."],
 		                [""],
 		                [""],
 		                [""],
@@ -7640,12 +7640,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "CONTRAST OF WIVES",
+		            "rangeStart": "10",
+		            "rangeEnd": "12",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The wives of Nuh and Lut (عليهم السلام) are explained how they betrayed their husbands and as a result were in the Fire."],
+		                ["Whereas the wife of Pharaoh was a Believer who desired to be with Allah and desired to be safe from Pharaoh and the evildoers, and Maryam (رضی اللہ عنھا) son of Imran who guarded her chastity so Allah breathed into her from His spirit."],
 		                [""],
 		                [""],
 		                [""],
