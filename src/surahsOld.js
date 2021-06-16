@@ -7687,17 +7687,74 @@ var surahsOld = [
 	{
 		"name": "al-Mulk",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name al-Mulk from the very first sentence and also known as surah tabarak.",
+		    "period": "Makkan",
+		    "context": "This is one of the earliest surahs to be revealed at Makkah.",
+		    "theme": "A surah that challenges the Disbelievers with declarations of Allah’s total power over them, and everything else, in this world and the next. It describes the regret the Disbelievers will express on the Day of Resurrection. It talks about the greatness of Allah and beautiful universe that He has created.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S POWER OVER HIS KINGDOM AND THE TEST OF LIFE AND DEATH",
+		            "rangeStart": "1",
+		            "rangeEnd": "4",
 		            "details": [
+		                ["Allah has power over all things and has created death and life to test us who is best in deeds."],
+		                ["He created the seven heavens in perfection as Allah asks to look and see if there is any flaw in it which there isn’t."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "HELL FOR THE DISBELIEVERS",
+		            "rangeStart": "5",
+		            "rangeEnd": "11",
+		            "details": [
+		                ["The nearest heaven is as a lamp and has stars which Fire against the devils."],
+		                ["Those who defy Allah will enter the Fire where they will hear it inhale when they enter and burst with rage asking if there are more to enter after a group is thrown in."],
+		                ["The guardians of Hell will ask them if they were not warned and they will confess that they were but they did not believe and so were misguided and as a result be filled with deep regret."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH KNOWS HIS CREATION AND HIS CONTROL OVER THEM",
+		            "rangeStart": "12",
+		            "rangeEnd": "22",
+		            "details": [
+		                ["But those who have faith in their Lord though they do not see Him will be rewarded as Allah knows the contents of everyone’s hearts and knows His own creation."],
+		                ["He controls the earth, is there no fear that He who is in heaven could not just destroy you by the earth."],
+		                ["Don’t those who disbelieve see the birds in the sky fly so effortlessly in the air and that Allah gives provision to everything which He could easily stop."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "RESURRECTION",
+		            "rangeStart": "23",
+		            "rangeEnd": "27",
+		            "details": [
+		                ["Allah created us and spread us across the earth, yet the Disbelievers still deny resurrection which only Allah knows and the Prophet (ﷺ) only comes down to warn."],
+		                ["But when it happens they will be distressed."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE INEVITABLE FATE OF DISBELIEVERS",
+		            "rangeStart": "28",
+		            "rangeEnd": "29",
+		            "details": [
+		                ["Whatever happens in the earth to the Prophet (ﷺ) and the Believers is up to Allah and they put their trust in Him, but who will protect the Disbelievers in the Hereafter when they will inevitably come to realise their error."],
 		                [""],
 		                [""],
 		                [""],
@@ -7707,68 +7764,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "FINAL LESSON OF ALLAH’S POWER AND HUMAN HELPLESSNESS",
+		            "rangeStart": "30",
+		            "rangeEnd": "30",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["And if water that sustains everything in the earth was to suddenly be taken away who would bring it back. "],
 		                [""],
 		                [""],
 		                [""],
@@ -7783,18 +7783,18 @@ var surahsOld = [
 	{
 		"name": "al-Qalam",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "This surah is called Nun as well as Al-Qalam, the words with which it begins.",
+		    "period": "Makkan",
+		    "context": "This is one of the earliest surahs to be revealed at Makkah when opposition to the Prophet (ﷺ) had grown very harsh and tyrannical.",
+		    "theme": "A surah that honours the Prophet (ﷺ) and deals with the accusation that he was not Allah’s Messenger but merely mad. The arrogance of those who assume that, because they have some of the good things in this life, they can reject the Revelation, is rebutted. Examples are given of those who came to regret their arrogance. The Prophet (ﷺ) is then urged to remain steadfast. The mission of Islam is for the whole world.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PROPHET (ﷺ) IS NOT MAD",
+		            "rangeStart": "1",
+		            "rangeEnd": "6",
 		            "details": [
-		                [""],
-		                [""],
+		                ["By the pen and what they write, the Prophet (ﷺ) is not mad rather he has the greatest of character and those who oppose him shall see who is really afflicted with madness."],
+		                ["The pen is said to be the first creation."],
 		                [""],
 		                [""],
 		                [""],
@@ -7803,12 +7803,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "CHARACTERS TO AVOID",
+		            "rangeStart": "7",
+		            "rangeEnd": "16",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Do not obey or compromise with the deniers, the habitual swearer, backbiter, slanderer, hinderer of good, sinful, aggressive, coarse or imposter just because they might have wealth or sons."],
+		                ["They deny revelation as old legends and will be branded on the snout."],
 		                [""],
 		                [""],
 		                [""],
@@ -7817,14 +7817,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE STORY OF THE GARDEN OWNERS",
+		            "rangeStart": "17",
+		            "rangeEnd": "33",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["The story of the garden owners who promised to harvest their fruits in the morning without declaring insha Allah, so the garden was destroyed when they slept."],
+		                ["They woke up early to reap the fruit and made sure no poor person entered the garden but when they saw it they realised they were lost and deprived."],
+		                ["The wiser of them remarked that Allah should have been glorified beforehand, but they did glorify Allah afterwards and admit they were wrongdoers and transgressors filled with regret and said perhaps Allah will give them something better in hope."],
+		                ["Such is the punishment of this world, but it will be harder in the Hereafter."],
 		                [""],
 		                [""],
 		                [""],
@@ -7832,13 +7832,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "DISBELIEVERS HAVE NO AUTHORITY",
+		            "rangeStart": "34",
+		            "rangeEnd": "41",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Those mindful of Allah will have Paradise, the Muslims shall not be treated like criminals."],
+		                ["Allah tells the Disbelievers they have no authority to judge from Allah."],
+		                ["They are told to bring their so called ‘partners with Allah’"],
 		                [""],
 		                [""],
 		                [""],
@@ -7846,13 +7846,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "DISBELIEVERS AT RESURRECTION",
+		            "rangeStart": "42",
+		            "rangeEnd": "47",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The day the shin will be uncovered and the Disbelievers unable to prostrate, looking down in shame as they did not prostrate when they had the ability to do so."],
+		                ["Allah informs the Prophet (ﷺ) to leave the Disbelievers who reject His revelation to Him as He will lead them in ways beyond their knowledge, and will give them time as part of His plan."],
+		                ["No payment is asked of them nor do they have knowledge of the unseen."],
 		                [""],
 		                [""],
 		                [""],
@@ -7860,12 +7860,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "LESSON OF PATIENCE FROM PROPHET YUNUS (عليه السلام)",
+		            "rangeStart": "48",
+		            "rangeEnd": "52",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Allah tells the Prophet (ﷺ) to wait patiently and be not like prophet Yunus (عليه السلام) when he called out to Allah in distress inside the whale, if Allah’s Grace hadn’t reached him he would have been lost, but Allah chose him as one of His righteous."],
+		                ["So when the Disbelievers claim the Prophet (ﷺ) is a madman when they hear the Qur’an, it is just a reminder to for all people."],
 		                [""],
 		                [""],
 		                [""],
@@ -7879,17 +7879,46 @@ var surahsOld = [
 	{
 		"name": "al-Ḥāqqah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word al-Haaqqah with which it opens. It means “The Undeniable Reality.",
+		    "period": "Makkan",
+		    "context": "This was one of the earliest surahs to be revealed at Makkah when opposition to the the Prophet (ﷺ) had started but had not yet become tyrannical. Musnad Ahmad contains a tradition from Umar (رضي الله عنه‎), saying: \"Before embracing Islam one day I came out of my house with a view to causing trouble to the Prophet (ﷺ), but he had entered the Masjid al-Haram before me. When I arrived, I found that he was reciting surah Al-Haaqqa in the Prayer. I stood behind him and listened. As he recited the Qur'an I wondered at its literary charm and beauty. Then suddenly an idea came to my mind that he must be a poet as the Quraysh alleged. Just at that moment he recited the words: \"This is the Word of an honorable Messenger: it is not the word of a poet.\" I said to myself: Then, he must be a soothsayer, if not a poet. Thereupon be recited the words: \"Nor is it the word of a soothsayer: little it is that you reflect. It is a Revelation from the Lord and Sustainer of the worlds. On hearing this Islam entered deep into my heart.\" ",
+		    "theme": "A surah that describes punishment in this life and the next. The focus is on the Day of Judgement which is an inevitable reality and the fate of those who believe and disbelieve. The bliss to be enjoyed by the Believers is eloquently contrasted with the torments of Hell. From verse 38 onwards, Allah affirms the Truth of the Qur’an and the Prophet (ﷺ).",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PUNISHMENT FOR DENYING THE INEVITABLE REALITY ",
+		            "rangeStart": "1",
+		            "rangeEnd": "12",
 		            "details": [
+		                ["What could describe the inevitable reality, the thing that Ad and Thamud denied but were destroyed by it."],
+		                ["Thamud by a deafening blast and Ad by a loud violent wind lasting 7 nights and 8 days which wiped out their trace."],
+		                ["And also, Pharaoh, those before him and the ruined cities were seized as well."],
+		                ["And Allah saved Nuh (عليه السلام) on the ark from the flood – all these events are a reminder for those who take heed."],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE INEVITABLE REALITY OF RESURRECTION",
+		            "rangeStart": "13",
+		            "rangeEnd": "37",
+		            "details": [
+		                ["The inevitable reality of resurrection will arrive when the trumpet is blown once and the earth is demolished, and great event will come and the sky will be torn apart and Angels will be on all sides and 8 of them carrying the Throne of Allah."],
+		                ["It will be the Day of Judgement when those who receive their record in their right will be happy in Paradise but those who receive it in their left will wish they had not been given their record and be filled with regret and despair and chained up and ordered into the Fire as they did not believe in Allah, encourage feeding the hungry."],
+		                ["So that day he has no friends, no food except filth which only sinners consume."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "PROPHET MUHAMMAD (ﷺ) IS THE NOBLE MESSENGER OF ALLAH",
+		            "rangeStart": "38",
+		            "rangeEnd": "47",
+		            "details": [
+		                ["Allah swears by what we can and can’t see that the Qur’an is from the noble Prophet (ﷺ) who is neither a poet nor fortune teller, but brings revelation from Allah."],
+		                ["If it were from Prophet Muhammad (ﷺ) himself then Allah would have seized him and cut off his lifeblood."],
 		                [""],
 		                [""],
 		                [""],
@@ -7899,41 +7928,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE TRUTH OF THE QUR’AN AND INEITABLE REGRET",
+		            "rangeStart": "48",
+		            "rangeEnd": "52",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["The Qur’an is a reminder for those who are aware of Allah, and He knows those who deny but will be filled with inevitable regret."],
+		                ["It is the truth so glorify Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -7975,17 +7975,17 @@ var surahsOld = [
 	{
 		"name": "al-Maʿārij",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word dhil Ma'aarij in verse 3 which is a reference to the paths through which Angels ascend to Allah.",
+		    "period": "Makkan",
+		    "context": "This surah was sent down in conditions closely resembling those under which Surah Al Haaqqa was sent down.",
+		    "theme": "A surah that describes the Day of Judgement and warns about the coming doom of the Disbelievers. One of the opponents of the Prophet (ﷺ) challenged him to hasten the punishment they had been threatened with, so the foolishness of the Disbelievers in denying the Resurrection is exposed. The people who will be granted the Garden are described.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THOSE WHO DEMANDED PUNISHMENT ",
+		            "rangeStart": "1,
+		            "rangeEnd": "3",
 		            "details": [
-		                [""],
+		                ["A man mockingly demanded the punishment, and it will fall on the Disbelievers."],
 		                [""],
 		                [""],
 		                [""],
@@ -7995,11 +7995,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE WAYS OF ASCENT",
+		            "rangeStart": "3",
+		            "rangeEnd": "18",
 		            "details": [
+		                ["Allah is the owner of the ways of ascent by which the Angels and the Spirit ascend to Him, on a Day whose length is 50,000 years."],
+		                ["So be patient, as we see it far when in Allah’s perspective it is near."],
+		                ["When the sky will be like oil, and mountains like wool, no friend will ask of his friend even if they’re next to each other."],
+		                ["And when the criminal will wish he could ransom himself with his family and everything on earth, but Hell will be for him who rejects the truth and hoards wealth."],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE CHARACTER OF THOSE WHO EARN PARADISE",
+		            "rangeStart": "19",
+		            "rangeEnd": "34",
+		            "details": [
+		                ["Man was created anxious as he is distressed when touched with misfortune, but tight fisted when in good fortune."],
+		                ["But not those who are constant in prayer and give a share of their wealth away to the needy, believe in the Day of Judgement, fear Allah, are chaste, trustworthy, honest and are steadfast in prayer, they will have Paradise."],
 		                [""],
 		                [""],
 		                [""],
@@ -8009,28 +8024,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A WARNING TO THE DISBELIEVERS AND ADVICE TO LEAVE THEM",
+		            "rangeStart": "35",
+		            "rangeEnd": "44",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The Disbelievers keep rushing to peer at the Prophet (ﷺ) in crowds but do they expect to obtain Paradise?"],
+		                ["They have been created from the base substance they know and Allah swears by Himself as Lord of the sun rising and sunset He has the power to replace them."],
+		                ["Leave them in idle talk till the Day of Resurrection when they will rush out from their graves humbled and humiliated."],
 		                [""],
 		                [""],
 		                [""],
@@ -8071,18 +8071,18 @@ var surahsOld = [
 	{
 		"name": "Nūḥ",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "Nuh is the name of this surah as well as the title of its subject matter, for in it, from beginning to the end, the story of the Prophet Nuh (عليه السلام) has been related.",
+		    "period": "Makkan",
+		    "context": "This is one of the earliest surahs to be revealed at Makkah when opposition to the the Prophet's (ﷺ) message of Islam by the Disbelievers of Makkah had grown very strong and active.",
+		    "theme": "A surah giving further details of the life of Nuh (عليه السلام) before the Flood, to encourage the Prophet (ﷺ) and warn the Disbelievers. This surah also talks about preaching of Prophet Nuh (عليه السلام) and then his prayer for the destruction of the Disbelievers.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "NUH’S (عليه السلام) CALLING TO HIS PEOPLE",
+		            "rangeStart": "1",
+		            "rangeEnd": "20",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Nuh (عليه السلام) warned his people before Allah’s punishment so that they could rectify themselves, but despite his persistent calling in public and private they went further away and became more arrogant."],
+		                ["He further called to Allah’s forgiveness and abundance of provision if one obeyed Allah and explained Allah’s signs from the heavens and the earth and man himself."],
 		                [""],
 		                [""],
 		                [""],
@@ -8091,13 +8091,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "NUH’S (عليه السلام) PRAYER AND THE DESTRUCTION OF THE DISBELIEVERS",
+		            "rangeStart": "21",
+		            "rangeEnd": "28",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["However they chose to follow others who had wealth and children and planned that they should continue following their gods: Wadd, Suwa, Yaghuth, Yauq and Nasr who have misled many."],
+		                ["Thus Nuh (عليه السلام) prayed for destruction to the evildoers and asked that none of them should be left standing otherwise they would mislead Allah’s true servants and only beget more Disbelievers, thus they were drowned and sent to Hell."],
+		                ["Nuh (عليه السلام) asks for forgiveness for himself, his parents, and whoever enters his house as Believers but asks for complete destruction to the Disbelievers."],
 		                [""],
 		                [""],
 		                [""],
