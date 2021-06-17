@@ -8167,18 +8167,18 @@ var surahsOld = [
 	{
 		"name": "al-Jinn",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "Al-Jinn is the name of this surah as well as the title of its subject matter, for in it the event of the Jinn's hearing the Qur'an and returning to their people to preach Islam to them, has been related in detail.",
+		    "period": "Makkan",
+		    "context": "Once the Prophet (ﷺ) was going to visit the fair of Ukaz with some of his companions, on the way he led the fajr prayer at Nakhlah. At that time a company of the Jinn happened to pass that way. When they heard the Qur’an being recited, they tarried and listened to it attentively. This very event has been described in this surah. ",
+		    "theme": "A surah that gives an account of what a group of Jinn said when they overheard a recitation of the Qur’an and realized its truth. This is a lesson to the Makkan Arabs, who are also told that the Prophet (ﷺ) can help them only by delivering the Message - Allah is the All Powerful One. The Disbelievers are then threatened with what they will meet on the Day of Judgement.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "TESTIMONY FROM THE JINN ACCEPTING ISLAM",
+		            "rangeStart": "1",
+		            "rangeEnd": "16",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Allah revealed to Prophet Muhammad (ﷺ) that a group of Jinn listened to his recitation of the Qur’an and returned to their own society and described it as wondrous, true guidance and teaches that Allah is One with no wife or son as these are lies made up by the foolish."],
+		                ["They thus refused to set up any partner with Allah in worship."],
 		                [""],
 		                [""],
 		                [""],
@@ -8187,12 +8187,27 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "JINN DO NOT KNOW THE UNSEEN",
+		            "rangeStart": "6",
+		            "rangeEnd": "15",
 		            "details": [
+		                ["Men have sought refuge with Jinn in the past but they only misguided them further."],
+		                ["The Jinns also thought they would not be resurrected and said that they could not reach the heavens as it was filled with guards and shooting stars fired at them when they tried to listen in, so they therefore don’t know the unseen and if people on earth will have misfortune or be guided."],
+		                ["Among the Jinn are good and bad. They know they cannot frustrate Allah on earth nor escape Him. And among them are Muslims and others unjust who will go to Hell."],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "WARNING TO THE DISBELIEVERS",
+		            "rangeStart": "16",
+		            "rangeEnd": "19",
+		            "details": [
+		                ["Allah tells the Prophet (ﷺ) that if the Makkans had remained on the straight path He would have provided them with abundant water."],
+		                ["The masjids are built for Allah alone, so when the Prophet (ﷺ) stood up to make supplication the crowd pressed in around him, the Disbelievers ready to attack him."],
+		                ["Allah protected him on this and on many other occasions."],
 		                [""],
 		                [""],
 		                [""],
@@ -8201,27 +8216,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "MESSAGE OF THE PROPHET (ﷺ)",
+		            "rangeStart": "20",
+		            "rangeEnd": "28",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["The Prophet (ﷺ) is told to tell the people that he prays to Allah alone with no partner, he himself has no control over any harm or good that happens, none can protect him from Allah, he only delivers the message that whoever disobeys Allah and His messenger will go to Hell."],
+		                ["The Prophet (ﷺ) does not know when the fulfilment of Allah’s warning will happen as only Allah knows the unseen and only may reveal unseen matters to one of His messengers if necessary with guardian Angels for observing and protecting the message so that His messengers deliver the message as everything is carefully monitored."],
 		                [""],
 		                [""],
 		                [""],
@@ -8263,18 +8263,32 @@ var surahsOld = [
 	{
 		"name": "al-Muzzammil",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It takes its name from the reference to the Prophet (ﷺ), in his cloak praying at night, in the opening verses of the surah.",
+		    "period": "Makkan/Medinan",
+		    "context": "The first section (vv. 1-19) is unanimously a Makkan revelation said to be the third revelation. The second section (v. 20) many of the commentators have expressed the opinion that this too was sent down at Makkah, yet some other commentators regard it as a Medinan revelation, and this same opinion is confirmed by the subject matter of this section. ",
+		    "theme": "This surah describes how Allah relaxed the early regime of devotion first imposed on the Prophet (ﷺ) to prepare him for the weighty message. The Prophet (ﷺ) is urged to be patient, told of the punishment that awaits the Makkan Disbelievers in Hell, and reminded of the punishment that befell Pharaoh in this life. The surah emphasized prayers and the reading of the Qur'an in prayers.  ",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "NIGHT PRAYER",
+		            "rangeStart": "1",
+		            "rangeEnd": "8",
 		            "details": [
+		                ["The Prophet (ﷺ) is addressed as Muzzamil, the one enfolded or wrapped in garments, as he was asleep wrapped securely in his garments but Allah awakens him and tells him to pray half the night or a little more or little less."],
+		                ["He is told to recite the Qur’an slowly and distinctly as the night is the best time to make a deeper impression and sharpen words rather than the day when one is kept busy."],
+		                ["This is in preparation for the momentous message that will be given."],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "TRUST IN ALLAH’S PLAN",
+		            "rangeStart": "9",
+		            "rangeEnd": "14",
+		            "details": [
+		                ["The Prophet (ﷺ) is advised to trust in Him and patiently bear and be polite to those who deny truth and live in luxury as Allah will punish them. "],
+		                ["On the Day of Judgement, the earth will shake and the mountains will crumble to sand."],
 		                [""],
 		                [""],
 		                [""],
@@ -8283,12 +8297,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A REMINDER",
+		            "rangeStart": "15",
+		            "rangeEnd": "19",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Prophet Muhammad (ﷺ) is a messenger sent as a witness just as Moosa (عليه السلام) was a witness to Pharaoh."],
+		                ["Pharaoh disobeyed Allah so he was punished, so Prophet Muhammad (ﷺ) must be obeyed to guard against the day that will turn a child’s hair grey and the heavens will fall apart."],
+		                ["This is a reminder, so let those who wish to succeed, move in the right way towards their Lord."],
 		                [""],
 		                [""],
 		                [""],
@@ -8297,32 +8312,17 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE ALL-KNOWING",
+		            "rangeStart": "20",
+		            "rangeEnd": "20",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
+		                ["Allah addresses the Prophet (ﷺ) saying that He knows that he stands in prayer for long hours of the night; sometimes two thirds of the night, at other times half the night or a third of the night. "],
+		                ["He knows that so do too many among the companions."],
+		                ["He knows that humans cannot keep such a difficult schedule so advises to read from the Qur’an as much as one can. "],
+		                ["He knows there are some who are sick, travelling and fighting in His cause."],
+		                ["Thus, He advises to recite as much as is easy for someone, be steadfast in prayer, pay the obligatory alms and give to Allah a good loan."],
+		                ["Whatever good you store up for yourselves will be improved and increased for you."],
+		                ["Ask Allah for His forgiveness, He is Most Forgiving, Most Merciful."]
 		            ]
 		        },
 		        {
@@ -8359,17 +8359,17 @@ var surahsOld = [
 	{
 		"name": "al-Muddaththir",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word al-muddaththir in the first verse.",
+		    "period": "Makkan",
+		    "context": "The first seven verses of this surah belong to the earliest period at Makkah, after the revelation of the verses of surah Alaq. The rest of the surah was revealed when the first Hajj season came after public preaching of Islam had begun in Makkah. ",
+		    "theme": "The first verses of this surah were revealed to inform the Prophet (ﷺ) after the first initial revelation. The surah goes on, in a section from a later period, to remind the obstinate Disbelievers of their fate on the Day of Judgement (verses 8–10) and a specific opponent of the Prophet (ﷺ) is singled out (Waleed ibn Mugirah) (verses 11–31). The end of the surah exposes the foolishness of the Disbelievers’ attitude to the Revelation and the Day of Resurrection.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "INSTRUCTIONS TO THE PROPHET (ﷺ)",
+		            "rangeStart": "1",
+		            "rangeEnd": "10",
 		            "details": [
-		                [""],
+		                ["The Prophet (ﷺ) is told to rise up and warn, glorify Allah and to be pure and clean."],
 		                [""],
 		                [""],
 		                [""],
@@ -8379,11 +8379,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE DAY OF JUDGEMENT",
+		            "rangeStart": "8",
+		            "rangeEnd": "10",
 		            "details": [
-		                [""],
+		                ["When the trumpet is blown the Disbelievers will have difficulty on that day."],
 		                [""],
 		                [""],
 		                [""],
@@ -8393,12 +8393,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "EVIL PLOTTING OF HYPOCRISY ",
+		            "rangeStart": "11",
+		            "rangeEnd": "26",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Without naming Walid bin al-Mughirah, this section shows how although he was fully convinced of the truth of Muhammad (ﷺ) and the Qur'an, he did not want to risk his leadership and position among his people so he developed a lie that it was all just magic."],
+		                ["Allah says to leave to Himself such a person whom he has created and given so much to, yet still desires more, and who devised such an evil plot."],
 		                [""],
 		                [""],
 		                [""],
@@ -8408,11 +8408,25 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "HELLFIRE",
+		            "rangeStart": "27",
+		            "rangeEnd": "48",
 		            "details": [
+		                ["The dreadfulness of Hell has been depicted and it has been explained as to people of what character and morals really deserve it, in particular a level called Saqar which has 19 guardian Angels which will be a test for the Disbelievers, and only Allah knows why this is the case."],
+		                ["Allah further swears by the moon, night and dawn that this Fire is the greatest thing of concern and warning to humanity."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "DIALOGUE BETWEEN COMPANIONS OF PARADISE AND HELL",
+		            "rangeStart": "39",
+		            "rangeEnd": "49",
+		            "details": [
+		                ["The companions of the right in Paradise rather will ask why those in the Fire are there to which they will respond that they never prayed, fed the poor, engaged in gossip and denied the Hereafter and until it had come, so no intercession will be granted to them."],
 		                [""],
 		                [""],
 		                [""],
@@ -8422,26 +8436,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE QUR’AN IS A REMINDER",
+		            "rangeStart": "49",
+		            "rangeEnd": "56",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["Allah asks what is wrong with the Disbelievers that they flee from the reminder like a frightened donkey fleeing from a lion, they expect scripture to be rolled out in front of their eyes for them personally, but really, they don’t fear the Hereafter."],
+		                ["The Qur’an is indeed a reminder and only Allah chooses those who take heed of it as He should be heeded."],
 		                [""],
 		                [""],
 		                [""],
@@ -8455,17 +8455,60 @@ var surahsOld = [
 	{
 		"name": "al-Qiyāmah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah has been so named after the word ‘al-Qiyamah’ in the first verse.",
+		    "period": "Makkan",
+		    "context": "This was one of the earliest surahs to be sent down at Makkah. ",
+		    "theme": "A surah dealing with the Day of Resurrection and man’s denial of that Day. Allah’s Power is convincingly described in several vignettes (verses 3–4, 26–30, 34–40). The third paragraph instructs the Prophet (ﷺ) on appropriate reception of the revelation (verses 16–19), and thereby serves to emphasize that the Qur’an is indeed Allah’s word. The surah talks about the spiritual resurrection of the soul when it becomes aware of its Lord and it speaks about the physical resurrection that will take place at the end of the world.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE INEVITABILITY OF THE DAY OF RESURRECTION",
+		            "rangeStart": "1",
+		            "rangeEnd": "15",
 		            "details": [
+		                ["Allah swears by the Day of Resurrection and by the self-reproaching soul."],
+		                ["He shall assemble man back together but they still continue in sin and deny the resurrection until the actual time of resurrection comes."],
+		                ["The time when the eyes are dazzled, the moon darkens, the sun and moon join, and there will be no escape except to Allah and man will be judged and act as a witness against himself. "],
 		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "PROPHET MUHAMMAD (ﷺ) AND THE QUR’AN",
+		            "rangeStart": "16",
+		            "rangeEnd": "19",
+		            "details": [
+		                ["The Prophet (ﷺ) is told not to rush when trying to memorize the recitation being revealed to him as Allah will most make sure he remembers it."],
+		                ["And when it is recited, to repeat it, and Allah will make it clear and understandable as Allah takes total responsibility for the Qur’an, its revelation, its recitation, its collection, and its preservation."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "OPPOSITE OUTCOMES",
+		            "rangeStart": "20",
+		            "rangeEnd": "30",
+		            "details": [
+		                ["People love this fleeting life and are heedless of the Hereafter."],
+		                ["On the Day of Judgment, some faces will be radiant and beaming, turned towards their Lord, looking at indescribable beauty while others will look dreadful and despairing, anticipating something devastating to befall them."],
+		                ["When such a person is on the verge of death, someone cries out, \"Who will cure him?\""],
+		                ["The person will then understand that it’s their final parting."],
+		                ["Their legs will be brought together and taken to Allah to face reckoning."],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ARROGANT REJECTION",
+		            "rangeStart": "31",
+		            "rangeEnd": "40",
+		            "details": [
+		                ["In this life the Disbeliever denies the truth, fails to pray, and then turns away, walking back to his people with arrogance and conceit. "],
 		                [""],
 		                [""],
 		                [""],
@@ -8475,55 +8518,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S POWER",
+		            "rangeStart": "36",
+		            "rangeEnd": "40",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["Allah asks rhetorically do some people think that they will be left alone and not be returned to the Creator for judgment?"],
+		                ["He can certainly bring the dead back to life just as he created human beings."],
 		                [""],
 		                [""],
 		                [""],
@@ -8551,17 +8551,17 @@ var surahsOld = [
 	{
 		"name": "al-Insān",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "This surah is called Ad-Dahr as well as Al-Insan after the words occurring in the first verse.",
+		    "period": "Medinan",
+		    "context": "Benefits: The Prophet (ﷺ) used to read this surah in salah of fajr on friday. It was narrated from Mus’ab bin Sa’d that his father said: “For the fajr prayer on fridays, the Messenger of Allah (ﷺ) used to recite ‘Alif-Lam-Mim. The revelation...’ [32:1] and ‘Has there not been over man...’” [76:1]1",
+		    "theme": "A surah that speaks of how man is tested and what the results will be for the evildoers and for the righteous. The Prophet (ﷺ) is urged to persevere in his devotion and to bear with patience.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "COMPOSITION OF MAN",
+		            "rangeStart": "1",
+		            "rangeEnd": "3",
 		            "details": [
-		                [""],
+		                ["Man has been reminded that there was a time when he was nothing but a drop of fluid but Allah has created him to test him and has guided him whether he was grateful or not."],
 		                [""],
 		                [""],
 		                [""],
@@ -8571,11 +8571,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE FATE OF FAILING AND SUCCEEDING THE TEST OF LIFE",
+		            "rangeStart": "4",
+		            "rangeEnd": "22",
 		            "details": [
-		                [""],
+		                ["The one who fails the test will face the fire, however more emphasis is directed toward the successful ones who fulfil their vows, feared Allah, remembered the Day of Judgement, fed the needy; these will face the delights of Paradise."],
 		                [""],
 		                [""],
 		                [""],
@@ -8585,13 +8585,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S PLAN",
+		            "rangeStart": "22",
+		            "rangeEnd": "31",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The Prophet (ﷺ) is told to be patient as the Qur’an is revealed in stages as this is His plan in wisdom, not something dictated by the Prophet (ﷺ) himself or anyone else."],
+		                ["The Prophet (ﷺ) is further instructed to continue in his worship of Allah in the morning and evening and through the night, for the Disbelievers do not remember Allah so they forget the Day of Judgement and only focus on the present."],
+		                ["This Qur’an is ultimately a reminder, and one who takes the path of Allah does so only by His will and His mercy, whereas He has prepared a painful punishment for the wrongdoers."],
 		                [""],
 		                [""],
 		                [""],
@@ -8647,17 +8647,17 @@ var surahsOld = [
 	{
 		"name": "al-Mursalāt",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word ‘wal-mursalat’ in the first verse.",
+		    "period": "Makkan",
+		    "context": "This was revealed in the earliest period at Makkah.",
+		    "theme": "A surah that describes the Day of Decision: its inevitability, arguments for its coming, and the events that will presage the Judgement, as well as the fates of believers and Disbelievers. “Woe, that Day, to the deniers.” Occurs 10 times.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE RESURRECTION",
+		            "rangeStart": "1",
+		            "rangeEnd": "15",
 		            "details": [
-		                [""],
+		                ["The system of winds and other foreshadowing of the Day of Judgement has been presented as an evidence of the truth that the Resurrection which is being foretold by the Qur'an and the Prophet Muhammad (ﷺ)."],
 		                [""],
 		                [""],
 		                [""],
@@ -8667,26 +8667,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "DENIERS ON THE DAY OF JUDGEMENT",
+		            "rangeStart": "16",
+		            "rangeEnd": "40",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["Woe on the Day of Judgement to the deniers is repeated consistently throughout the rest of the surah."],
+		                ["Allah has destroyed the former peoples in the past for denial and informs man of his humble origins and all the facilities He has provided for him so those who deny the Day of Judgement are in huge error."],
+		                ["Those who denied are therefore told to go to what they denied to in the Day of Judgement which is 3 columns of smoke that doesn’t protect against the Fire."],
+		                ["They will be unable to speak or make excuses and will be told to plot against Him on that Day!"],
 		                [""],
 		                [""],
 		                [""]
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE FATE OF THE RIGHTEOUS AND DISBELIEVERS",
+		            "rangeStart": "41",
+		            "rangeEnd": "50",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The righteous however will have Paradise to enjoy whereas the Disbelievers are told that they will only enjoy themselves for a while."],
+		                ["Allah ends on the note that the one who fails to obtain guidance from Book like the Qur'an, can have no other source in the world to afford him guidance."],
 		                [""],
 		                [""],
 		                [""],
@@ -8743,17 +8743,17 @@ var surahsOld = [
 	{
 		"name": "an-Nabaʾ",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah derived its name from the word ‘an-Naba’ in the second verse. Naba implies the news of Resurrection and Hereafter and the whole surah is devoted to the same theme.",
+		    "period": "Makkan",
+		    "context": "The theme of all the surahs, from Al-Qiyamah to An-Naziat, closely resembles one another's, and all these seem to have been revealed in the earliest period at Makkah.",
+		    "theme": "The surah gives an important news or message. The Disbelievers often asked incredulously about the Resurrection. This surah gives evidence of Allah’s power, then explains what will happen on the Day of Resurrection, and the respective fates of Believers and Disbelievers.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE GREAT NEWS",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
-		                [""],
+		                ["Allah asks a rhetorical question in relation to what could people be talking and arguing about when it is obviously none other than the great news i.e. the Resurrection and Hereafter, which they will soon come to know about."],
 		                [""],
 		                [""],
 		                [""],
@@ -8763,11 +8763,40 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ALLAH’S GENEROSITY TOWARDS MANKIND",
+		            "rangeStart": "5",
+		            "rangeEnd": "16",
 		            "details": [
+		                ["Allah gives evidence of His power and generosity to mankind, as he created the earth smooth and the mountains secure, people in pairs, sleep for rest, the night as a mantle and the day for earning livelihood."],
+		                ["He created the seven heavens, the blazing lamp and rains to produce vegetation."],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE DAY OF RESURRECTION AND HELL",
+		            "rangeStart": "17",
+		            "rangeEnd": "30",
+		            "details": [
+		                ["The day the trumpet will be blown, and all of mankind will rise out of their graves."],
+		                ["In crowds as the sky opens up wide and the mountains shaking until they become a mirage."],
+		                ["Hell is lying in wait for the Disbelievers and transgressors where they will stay forever."],
+		                ["A place where they will feel no cool breeze or have cool water to drink but scalding water and decaying filth."],
+		                ["The Disbelievers did not expect to be called to account as they ignored, mocked and did not fear Allah and his revelations but now they will come to know the fruits of their labour."],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "GIFTS FOR THE RIGHTEOUS",
+		            "rangeStart": "31",
+		            "rangeEnd": "36",
+		            "details": [
+		                ["Whereas the righteous who were aware of Allah and their commitment to Him, will find success, reward and safety from the Fires of Hell and will have everything they desire in Paradise and reap the rewards of their account and record. "],
 		                [""],
 		                [""],
 		                [""],
@@ -8777,43 +8806,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ON THE DAY OF TRUTH",
+		            "rangeStart": "37",
+		            "rangeEnd": "40",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["The Day of Resurrection is the day where the Spirit and the Angels will stand together in ranks, row after row. "],
+		                ["Nobody will speak except those to whom Allah grants permission.  Even then they will only be capable of speaking the truth because this is the Day of Truth. "],
+		                ["This day will become a reality so whoever desires to be successful should seek a way to Allah through correct beliefs and righteous deeds. "],
+		                ["Allah has warned man of the imminent torment when everyone shall see exactly what their own hands have put forth, and the Disbeliever will wish that they were turned to dust!"],
 		                [""],
 		                [""],
 		                [""]
