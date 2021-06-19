@@ -8839,18 +8839,61 @@ var surahsOld = [
 	{
 		"name": "an-Nāziʿāt",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the word wan-naazi`aat (the Extractors) with which the surah opens. This word is most often translated as Angels, particularly the Angels charged with extracting the souls from the dead. ",
+		    "period": "Makkan",
+		    "context": "This surah was sent down after Surah An-Naba.",
+		    "theme": "A surah where the main theme is the possibility and inevitability of the Resurrection, its results, and its timing. The story of Moosa (عليه السلام) and Pharaoh acts as encouragement to the Prophet (ﷺ) and a warning to the Disbelievers.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "AN OATH BY THE ANGELS",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
+		                ["An oath, by Allah, on those Angels who tear out the souls destined for Hell and those Angels that gently remove the souls destined for Paradise."],
+		                ["Also by those Angels who glide about as if swimming and those who charge swiftly, eagerly competing with each other to carry out Allah’s commands. "],
+		                ["And the Angels that organise each matter according to Allah’s decree. "],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE RESURRECTION",
+		            "rangeStart": "6",
+		            "rangeEnd": "14",
+		            "details": [
+		                ["On the Day of Resurrection there will be a loud blast of a trumpet or horn that will be followed by a second blast."],
+		                ["The first blast from the trumpet will destroy the earth and everything on it while the second will herald mankind rising up from their graves. "],
+		                ["The hearts of those who denied the Resurrection will tremble and pound with terror and their eyes will be downcast, whereas before they used to mockingly question the Resurrection."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "MOOSA (عليه السلام) AND PHARAOH",
+		            "rangeStart": "15",
+		            "rangeEnd": "26",
+		            "details": [
+		                ["Allah called out to Prophet Moosa (عليه السلام) in the sacred valley known as Tuwa to tell Pharaoh that he has transgressed beyond all bounds."],
+		                ["Ask him if he wants to repent and purify himself and offer to guide him towards Allah."],
+		                ["However even after showing him a great miracle in the form of his staff turning a serpent Pharaoh denied everything and hastily gathered his people together proclaiming rather that he was the supreme God."],
+		                ["For this, Allah seized him for punishment in this life and in the Hereafter, which now stands a lesson and a warning for anyone who fears Allah and stands in awe of Him."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH THE CREATOR",
+		            "rangeStart": "27",
+		            "rangeEnd": "33",
+		            "details": [
+		                ["Allah asks mankind what is harder to create, you or the heavens?"],
+		                ["He has created the universe in perfect proportion, the darkness of the night and brightness of the day along with the earth with its water sources producing vegetation and the firmness of the mountains, all of which benefit mankind."],
 		                [""],
 		                [""],
 		                [""],
@@ -8859,12 +8902,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A PERMANENT ABODE",
+		            "rangeStart": "34",
+		            "rangeEnd": "41",
 		            "details": [
-		                [""],
-		                [""],
+		                ["When the calamity of the Day of Resurrection arrives and every person will remember exactly what he or she has done, Hell will be on view for all to see."],
+		                ["It will become the home of those who have transgressed, rebelled or preferred the life of this world, whereas Paradise will become the home and refuge of all those were righteous, those who restrained themselves from base desires and those who feared this momentous Day."],
 		                [""],
 		                [""],
 		                [""],
@@ -8873,57 +8916,14 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "WHEN WILL THE HOUR ARRIVE",
+		            "rangeStart": "42",
+		            "rangeEnd": "46",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["The Disbelievers mockingly ask when the Hour will happen but only Allah knows the answer. To Him belongs the ultimate knowledge. "],
+		                ["Prophet Muhammad’s (ﷺ) message and warning will only benefit those who fear the coming of the Day."],
+		                ["And when the day commences, mankind will feel as if they had only been in this life for the evening of a day or a part of the morning."],
+		                ["Those who have ruined their Hereafter will wonder how they could have done so in such a short time."],
 		                [""],
 		                [""],
 		                [""]
@@ -8935,17 +8935,17 @@ var surahsOld = [
 	{
 		"name": "ʿAbasa",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah is designated after the word `abasa’ with which it opens.",
+		    "period": "Makkan",
+		    "context": "According to them, once some big chiefs of Makkah were sitting in the Prophet's (ﷺ) assembly and he was earnestly engaged in trying to persuade them to accept Islam. At that very point, a blind man, named Ibn Umm Maktum, approached him to seek explanation of some point concerning Islam. The Prophet (ﷺ) disliked his interruption and ignored him. Thereupon Allah sent down this surah in Makkah. ",
+		    "theme": "While the Prophet (ﷺ) was speaking to some disbelieving notables, hoping to convert them, a blind Muslim man came up to learn from him, but in his eagerness to attract the Disbelievers to Islam, the Prophet (ﷺ) frowned at him. The Prophet (ﷺ) is then reproached and told not to concern himself with the Disbelievers. In the second paragraph there is a condemnation of man’s ingratitude: man becomes self-satisfied and forgets his origin and his final return to Allah.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "CORRECT METHOD OF INVITATION",
+		            "rangeStart": "1",
+		            "rangeEnd": "10",
 		            "details": [
-		                [""],
+		                ["When the Prophet (ﷺ) frowned at the blind believer while speaking with the Quraysh nobles Allah reprimanded him explaining that it was not correct to turn away the one striving toward and fearing Allah to focus on those who are self satisfied."],
 		                [""],
 		                [""],
 		                [""],
@@ -8955,11 +8955,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "PURITY OF THE QUR’AN",
+		            "rangeStart": "11",
+		            "rangeEnd": "16",
 		            "details": [
-		                [""],
+		                ["The Qur’an should be learned by those eager to learn, it is written on purified and exalted pages by scribes."],
 		                [""],
 		                [""],
 		                [""],
@@ -8969,12 +8969,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "REFLECTION AND CONTEMPLATION",
+		            "rangeStart": "17",
+		            "rangeEnd": "32",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Man is scolded for his ungrateful attitude towards Allah such that Allah reminds man of his humble origin, how his life is made easy, how Allah determines his death and resurrection, yet he still does not follow Allah."],
+		                ["Allah further reminds man of the sustenance he receives from rain and food from the earth."],
 		                [""],
 		                [""],
 		                [""],
@@ -8984,12 +8984,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE DEAFENING BLAST",
+		            "rangeStart": "33",
+		            "rangeEnd": "42",
 		            "details": [
-		                [""],
-		                [""],
+		                ["So, when the deafening blast arrives bringing the Day of Judgement everyone will forget their loved ones and be focused only on themselves."],
+		                ["Some will be beaming with light and happiness whereas others will be dark filled with dust; these are the Disbelievers."],
 		                [""],
 		                [""],
 		                [""],
@@ -9031,19 +9031,19 @@ var surahsOld = [
 	{
 		"name": "at-Takwīr",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the word ‘kuwwirat’ in the first verse. ‘Kuwwirat’ is passive voice from ‘takwir’ in the past tense, and means \"that which is folded up\", thereby implying that it is a surah in which the \"folding up\" has been mentioned:",
+		    "period": "Makkan",
+		    "context": "This was one of the earliest surahs to be revealed at Makkah.",
+		    "theme": "A surah stressing the fact that people will be confronted by their deeds on Judgement Day, asserting the truth of the Qur’an, and calling people to the right path. All the natural power as well as the human power and authority will come to an end. It opens with a powerful description of events on that Day, and the title of the surah is taken from this description.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE REALITY OF THE DAY OF RESURRECTION",
+		            "rangeStart": "1",
+		            "rangeEnd": "14",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The Day of Judgement is described vividly as: the sun darkens, the stars dimmed, mountains moved, pregnant camels abandoned, wild beasts gathered, seas boiled over, souls paired."],
+		                ["When the baby girl is asked why she was buried alive."],
+		                ["When the record books are bare and the sky is stripped away, when the Fire is blazed and Paradise brought near, then will every soul will know what it has prepared."],
 		                [""],
 		                [""],
 		                [""],
@@ -9051,13 +9051,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE REALITY OF THE REVELATION",
+		            "rangeStart": "15",
+		            "rangeEnd": "19",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah swears by the stars, night and dawn that prophet Muhammad (ﷺ) is not mad and did witness the Angel Jibreel (عليه السلام) who is described as a noble messenger possessing great strength, one who is obeyed and trusted in the heavens and is greatly honoured by the Lord of the Throne."],
+		                ["Prophet Muhammad (ﷺ) doesn’t withhold anything revealed to him and it is certainly not from the devils."],
+		                ["So Allah asks where is man going, the revelation is a reminder for those wanting to take a straight path, but it is only Allah’s will that will makes one do so."],
 		                [""],
 		                [""],
 		                [""],
@@ -9127,16 +9127,45 @@ var surahsOld = [
 	{
 		"name": "al-Infiṭār",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the word ‘infatarat’ in the first verse. Infitar is an infinitive which means to cleave or split asunder, thereby implying that it is the surah in which the splitting asunder of the sky has been mentioned.",
+		    "period": "Makkan",
+		    "context": "This surah and the surah At-Takwir closely resemble each other in their subject matter. This shows that both were sent down in about the same period.",
+		    "theme": "A surah dealing with man’s ingratitude and his failure to concede that the Day of Judgement will come. It opens with a powerful description of events on the Day of Judgement and the title is taken from this description. The creation has a purpose and the Day of Judgment will come.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A POWERFUL EVENT",
+		            "rangeStart": "1",
+		            "rangeEnd": "3",
 		            "details": [
+		                ["On the Day of Judgment, the skies will be spilt apart, the stars will be flung across the universe, and the seas and oceans will burst forth as if the wall of a dam has broken. "],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE RESURRECTION",
+		            "rangeStart": "4",
+		            "rangeEnd": "5",
+		            "details": [
+		                ["The graves will be turned inside out and each soul will know what it has done and what it has left undone. "],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S CREATION",
+		            "rangeStart": "6",
+		            "rangeEnd": "8",
+		            "details": [
+		                ["Allah asks what has caused mankind to lure them away from Him after He created and assembled them in perfect proportion and balance. "],
 		                [""],
 		                [""],
 		                [""],
@@ -9147,11 +9176,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "RECORDING ANGELS",
+		            "rangeStart": "9",
+		            "rangeEnd": "12",
 		            "details": [
-		                [""],
+		                ["Yet man still denies the resurrection not knowing that there are guardians watching over them recording everything."],
 		                [""],
 		                [""],
 		                [""],
@@ -9161,12 +9190,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "RIGHTEOUS OR WICKED?",
+		            "rangeStart": "13",
+		            "rangeEnd": "16",
 		            "details": [
-		                [""],
-		                [""],
+		                ["The righteous will live in bliss while the wicked will burn in the Fire and shall enter their respective places on the Day of Judgement and cannot escape from it."],
 		                [""],
 		                [""],
 		                [""],
@@ -9176,40 +9204,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "CONSEQUENCES",
+		            "rangeStart": "17",
+		            "rangeEnd": "19",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["Allah asks the rhetorical question twice; just what is it that will make you understand what the Day of Judgment is?"],
+		                ["The Day when no soul will be able to do anything for another; on that Day, command will belong to Allah."],
 		                [""],
 		                [""],
 		                [""],
@@ -9223,18 +9223,18 @@ var surahsOld = [
 	{
 		"name": "al-Muṭaffifīn",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the very first verse; Wayl-ul-lil mutaffifin.",
+		    "period": "Makkan",
+		    "context": "This surah was revealed in the earliest stage at Makkah, when surah after surah was being revealed to impress the doctrine of the Hereafter on the people's minds. ",
+		    "theme": "The practice of cheating appears to have been prevalent in Makkah, and is strongly condemned here and elsewhere in the Qur’an. The fate of the cheats and Disbelievers is contrasted with the delight in store for the good.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE DEFRAUDERS",
+		            "rangeStart": "1",
+		            "rangeEnd": "6",
 		            "details": [
-		                [""],
-		                [""],
+		                ["Allah says woe to those who deal in fraud, the ones who give short measure but demand full measure from others, but they have no problem defrauding others."],
+		                ["They think not that they will be called to account by Allah on the Day of Resurrection."],
 		                [""],
 		                [""],
 		                [""],
@@ -9243,12 +9243,27 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "REGISTER OF THE WICKED",
+		            "rangeStart": "7",
+		            "rangeEnd": "17",
 		            "details": [
+		                ["A list of the wicked is already in a register called Sijjin."],
+		                ["The deniers of the Day of Judgement are those who deny it saying it is ancient fables and their hearts are encrusted by what they have done."],
+		                ["They will be partitioned and thrown into Hell."],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "REGISTER OF THE RIGHTEOUS",
+		            "rangeStart": "18",
+		            "rangeEnd": "28",
+		            "details": [
+		                ["By contrast, the record of the righteous is in a register called illiyun and attested to by the Angels."],
+		                ["The righteous will be in a state of bliss, they will eat sealed nectar with a lingering odor of musk and drink from the spring of tasneem."],
+		                ["So those who wish to strive to compete in righteousness should do so."],
 		                [""],
 		                [""],
 		                [""],
@@ -9257,28 +9272,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE TABLES TURNED",
+		            "rangeStart": "29",
+		            "rangeEnd": "36",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The criminals used to laugh at the Believers, winking when they would pass and exchange glances, and when they returned to their people would joke about the Believers misguidance."],
+		                ["However, on the Day of Resurrection, it will be the Believers laughing at the Disbelievers from reclining couches."],
+		                ["Have the Disbelievers not been repaid by what they used to do."],
 		                [""],
 		                [""],
 		                [""],
@@ -9319,16 +9319,45 @@ var surahsOld = [
 	{
 		"name": "al-Inshiqāq",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "It is derived from the word ‘inshaqqat’ in the first verse. Inshaqqat is infinitive which means to split asunder, thereby implying that it is the surah in which mention has been made of the splitting asunder of the heavens.",
+		    "period": "Makkan",
+		    "context": "This is one of the earliest surahs to be revealed at Makkah. Persecution of the Muslims had not yet started; however, the message of the Qur'an was being openly repudiated at Makkah and the people were refusing to acknowledge that Resurrection would ever take place when they would have to appear before Allah to render an account of their deeds.",
+		    "theme": "A surah dealing with the inevitability of man’s meeting with his Lord on the Day of Judgement. The obedience of the sky and earth is contrasted with the disobedience of the Disbelievers. The reaction of the Believers and of the Disbelievers on the Day of Judgement is described. ",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE SKY AND EARTH OBEY ALLAH",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
+		                ["When the sky is split apart; having heard Allah’s commands it immediately and willingly obeys."],
+		                ["And when the earth has been stretched flat and levelled out it casts out everything and is empty, following the example of the sky. "],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE PATH TO MEETING WITH ALLAH",
+		            "rangeStart": "6",
+		            "rangeEnd": "15",
+		            "details": [
+		                ["Allah acknowledges mans efforts to strive and labour to reach Him and confirms that we will indeed meet Him."],
+		                ["On the Day of Resurrection mankind will be divided into two distinct groups, those who receive their book of records on their right and enjoy a blessed Hereafter and those who receive it from behind who will be wretched in the Hereafter. "],
+		                ["Indeed, some people led their lives without care, thinking they would never return to Allah for accountability but Allah was watching and seeing all their misdeeds. "],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE LIFE OF MAN",
+		            "rangeStart": "16",
+		            "rangeEnd": "19",
+		            "details": [
+		                ["Allah swears by the glow of the sunset, by the night and what it conceals and by the full moon that man will gradually move from stage to stage whether it be from birth to death in life or through the stages in the Hereafter, and that death is not the final stage."],
 		                [""],
 		                [""],
 		                [""],
@@ -9339,41 +9368,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "BELIEF IN THE QUR’AN",
+		            "rangeStart": "20",
+		            "rangeEnd": "25",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["What is wrong with some people that they do not prostrate when the Qur’an is recited Allah asks?"],
+		                ["It is because the Disbelievers reject the Qur’an so they are reminded of a painful punishment whereas those who believe and do good deeds is everlasting reward."],
 		                [""],
 		                [""],
 		                [""],
