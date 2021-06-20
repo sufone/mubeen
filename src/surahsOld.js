@@ -9415,18 +9415,47 @@ var surahsOld = [
 	{
 		"name": "al-Burūj",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah is so designated after the word ‘al buruj’ appearing in the first verse.",
+		    "period": "Makkan",
+		    "context": "This surah was sent down at Makkah in the period when persecution of the Muslims was at its climax and the Disbelievers of Makkah were trying their utmost by tyranny and coercion to turn away the new converts from Islam.",
+		    "theme": "This surah strengthened the heart of the Prophet (ﷺ) and his followers by referring to the fate of those who tortured earlier Believers. The title expresses Allah’s power over the whole universe, from the stars in the sky to the evildoers referred to in this surah. Indeed, His all-encompassing power is a recurring theme throughout the surah.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "AN OATH",
+		            "rangeStart": "1",
+		            "rangeEnd": "4",
 		            "details": [
+		                ["The chapter opens with an oath that links together, heaven, the great constellations, the Day of Judgment and the witnesses."],
+		                ["These are powerful images that provide a serious atmosphere for what comes next."],
+		                ["Doomed are the people referred to as the \"People of the Ditch\" (sometimes translated as trench) who were the agents of a tyrannical King who refused to allow his people to believe in Allah."],
+		                ["The actions the King’s agents took in obedience to their ruler earned them the curse of Allah."],
 		                [""],
 		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE PEOPLE OF THE DITCH",
+		            "rangeStart": "5",
+		            "rangeEnd": "11",
+		            "details": [
+		                ["The King ordered his men to make a fuel filled Fire in a great pit and drove the believers into the burning hole while the perpetrators then sat around the pit watching the people burn, delighting in their torture. "],
+		                ["Vengeance was exacted for no other reason except that they were Believers in the One Allah. "],
+		                ["Allah says very eloquently that those who torture or persecute the believing men or women, and do not repent from their actions, will find themselves in the Fires of Hell, but those who do good will be in Paradise. "],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S SUPREME POWER",
+		            "rangeStart": "12",
+		            "rangeEnd": "16",
+		            "details": [
+		                ["Allah’s vengeance is indeed stern in contrast to the actions of the tyrannical king’s men. "],
+		                ["Their vengeance was trifling compared to Allah’s; Allah will bring people back to life and can punish as He wills and for as long as He wills."],
+		                ["Allah further reminds us that creation, death and decay, and then re-creation is a continuous process and is happening throughout the universe."],
 		                [""],
 		                [""],
 		                [""],
@@ -9435,13 +9464,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "SURROUNDED BY ALLAH",
+		            "rangeStart": "17",
+		            "rangeEnd": "22",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah asks if anyone has heard the story of the soldiers of Pharaoh and the warriors and how they were severely punished."],
+		                ["Yet, even knowing these stories the Disbelievers persist in their denial of the truth."],
+		                ["Allah has them encircled, He surrounds them unaware."],
 		                [""],
 		                [""],
 		                [""],
@@ -9449,40 +9478,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PRESERVED TABLET",
+		            "rangeStart": "21",
+		            "rangeEnd": "22",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["This is a glorious Qur’an inscribed on a preserved slate, an imperishable tablet that Allah keeps with Him."],
 		                [""],
 		                [""],
 		                [""],
@@ -9511,16 +9511,45 @@ var surahsOld = [
 	{
 		"name": "at-Ṭāriq",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah taken its name from the word at-tariq in its first verse.",
+		    "period": "Makkan",
+		    "context": "This was one of the earliest surahs revealed at Makkah at a stage when the Disbelievers of Makkah were employing all sorts of devices and plans to defeat and frustrate the message of the Qur'an and Prophet Muhammad (ﷺ).",
+		    "theme": "A surah that focuses on a series of examples of things coming out: the piercing night-star, spurting semen, the baby that bursts out of the womb, and plants that sprout out of the ground. All of these are used to illustrate resurrection from the grave. Everything in this universe is working under the protection and supervision of the great keeper.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "AN OATH",
+		            "rangeStart": "1",
+		            "rangeEnd": "3",
 		            "details": [
+		                ["Allah swears by the sky and the night comer which is a piercing star."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "MIRACLE OF CREATION",
+		            "rangeStart": "4",
+		            "rangeEnd": "8",
+		            "details": [
+		                ["There is a watcher over every soul."],
+		                ["Mankind is then asked to reflect and ponder on their creation as He explains how we come from a fluid between the backbone and ribs."],
+		                ["Allah is indeed able to return him to life even after death."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "HELPLESS MAN",
+		            "rangeStart": "9",
+		            "rangeEnd": "10",
+		            "details": [
+		                ["On the Day of Judgement human beings will emerge from the grave and all secrets will be laid bare with man completely helpless."],
 		                [""],
 		                [""],
 		                [""],
@@ -9531,11 +9560,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE SERIOUSNESS OF THE QUR’AN",
+		            "rangeStart": "11",
+		            "rangeEnd": "14",
 		            "details": [
-		                [""],
+		                ["Go now swears by the sky that sends down recurring rain and by the earth that cracks open that the Qur’an is a decisive statement not to be taken lightly."],
 		                [""],
 		                [""],
 		                [""],
@@ -9545,41 +9574,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE BEST OF PLANNERS IS ALLAH",
+		            "rangeStart": "15",
+		            "rangeEnd": "17",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["Allah says that they (the Disbelievers of Makkah) are plotting and scheming but Allah is also plotting and ensures that none of their plots ultimately succeed."],
+		                ["In this sense He advises the Prophet (ﷺ) to leave them be for a while."],
 		                [""],
 		                [""],
 		                [""],
@@ -9607,16 +9607,45 @@ var surahsOld = [
 	{
 		"name": "al-Aʿlā",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word al-A`laa in the very first verse.",
+		    "period": "Makkan",
+		    "context": "This was one of the earliest surahs to be revealed when the Prophet (ﷺ) was not yet fully accustomed to receive revelation and at the time it came down he feared he might forget its words.",
+		    "theme": "A surah reassuring the Prophet (ﷺ) that Allah will help him and urging him to continue with his mission. The temporary nature of this world is highlighted through mention of the short life of green pasture.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "PRAISE ALLAH",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
+		                ["Allah orders to Glorify His name the Most High, the creator of man and who guides them."],
+		                ["The one who brings out the green pasture and then makes into dark debris."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "PROPHET MUHAMMAD (ﷺ) WILL NOT FORGET",
+		            "rangeStart": "6",
+		            "rangeEnd": "8",
+		            "details": [
+		                ["Allah addresses Prophet Muhammad (ﷺ) saying that He will make him recite the Qur’an and he (Prophet Muhammad) will not forget, unless Allah wishes for He knows everything."],
+		                ["And Allah encourages the Prophet (ﷺ) by showing him the easy way."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE REMINDER",
+		            "rangeStart": "9",
+		            "rangeEnd": "11",
+		            "details": [
+		                ["Prophet Muhammad (ﷺ) is told to remind everyone, if reminding will help, but only those who are in awe of Allah will heed it while the wicked will ignore it."],
 		                [""],
 		                [""],
 		                [""],
@@ -9627,11 +9656,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE GREAT FIRE",
+		            "rangeStart": "12",
+		            "rangeEnd": "13",
 		            "details": [
-		                [""],
+		                ["Those wicked ones will enter into the greatest Fire where they will neither die nor live."],
 		                [""],
 		                [""],
 		                [""],
@@ -9641,13 +9670,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PURE ONES",
+		            "rangeStart": "14",
+		            "rangeEnd": "17",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The one who purifies himself, mentions his Lord and prays will be successful."],
+		                ["Yet the people prefer the life of this world when the Hereafter is longer lasting. "],
 		                [""],
 		                [""],
 		                [""],
@@ -9656,40 +9684,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ONE ORIGIN",
+		            "rangeStart": "18",
+		            "rangeEnd": "19",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["This chapter concludes by pointing out that the message of Islam is not new."],
+		                ["Allah says this is the message delivered in the scriptures given to Prophets Ibrahim and Moosa (عليهم السلام)."],
 		                [""],
 		                [""],
 		                [""],
@@ -9703,16 +9703,45 @@ var surahsOld = [
 	{
 		"name": "al-Ghāshiyah",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word al-ghishiyah in the first verse, The Overwhelming Event. The Arabic word ghashiyah means something that covers entirely. Thus, this overwhelming event will both overwhelm and cover the entire earth. ",
+		    "period": "Makkan",
+		    "context": "This is one of the earliest surahs to be revealed; but this was the period when the Prophet (ﷺ) had started preaching his message publicly, and the people of Makkah were hearing it and ignoring it carelessly and thoughtlessly.",
+		    "theme": "This surah serves to warn the Disbelievers, encourage the Prophet (ﷺ) and the Believers, and absolve him of responsibility for the Disbelievers. The title comes from the description of events on the Day of Judgement in the first verse, and the downcast faces of the Disbelievers on that Day are contrasted with the radiant faces of the Believers.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE OVERWHELMING EVENT AND HELLFIRE",
+		            "rangeStart": "1",
+		            "rangeEnd": "7",
 		            "details": [
+		                ["Allah asks rhetorically if the news of the Overwhelming Event has reached you? "],
+		                ["The Day when there will be those with downcast faces who toiled hard in this world but now see no good result for their actions."],
+		                ["As a result they will enter Hell forced to drink boiling water and eat from poisonous thorny plants that will not nourish nor satisfy."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "GARDENS OF PARADISE",
+		            "rangeStart": "8",
+		            "rangeEnd": "16",
+		            "details": [
+		                ["Whereas other faces on this Day will show pleasure and happiness as they will be pleased with their labouring in this world."],
+		                ["They will be in an elevated Garden, with no vain or evil talk but flowing springs, raised couches, filled goblets and cushions and carpets."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE WONDERS OF NATURE",
+		            "rangeStart": "17",
+		            "rangeEnd": "20",
+		            "details": [
+		                ["Allah then addresses the Disbelievers asking rhetorically do they not see how the rain clouds are formed, the heavens lifted, the mountains erected and the earth spread out? "],
 		                [""],
 		                [""],
 		                [""],
@@ -9723,41 +9752,12 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "ADMONITION AND ACCOUNTABILITY",
+		            "rangeStart": "21",
+		            "rangeEnd": "26",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
+		                ["Allah instructs the Prophet (ﷺ) to only warn the people as he cannot control them."],
+		                ["Allah will deal with those who disbelieve with great torment as they will indeed return back to Him and account for their actions."],
 		                [""],
 		                [""],
 		                [""],
@@ -9799,17 +9799,46 @@ var surahsOld = [
 	{
 		"name": "al-Fajr",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah is so designated after the word wal-fajr with which it opens.",
+		    "period": "Makkan",
+		    "context": "This was revealed at the stage when persecution of the new converts to Islam had begun in Makkah.",
+		    "theme": "A surah in which Allah emphasizes (by oath) that the tyrants of the Prophet’s (ﷺ) time will be like those He dealt with in the past. The surah compares the destiny of the ungrateful with that of the souls at peace. The surah talks about the judgment of Allah: the reward and punishment that will take place in the Hereafter.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A MIGHTY OATH",
+		            "rangeStart": "1",
+		            "rangeEnd": "5",
 		            "details": [
+		                ["Allah takes an oath by the daybreak, and by the ten nights (first ten days of Dul-Hijjah), by the even and the odd and by the passing of the night."],
+		                ["Isn't this oath strong enough for a rational person?"],
 		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "PAST NATIONS",
+		            "rangeStart": "6",
+		            "rangeEnd": "14",
+		            "details": [
+		                ["Allah then addresses Prophet Muhammad (ﷺ) asking him if he considered how He dealt with the tyrants and Disbelievers of the past including the people of ‘Ad in the city of Iram whose lofty pillars have never been made in any other land, the people of Thamud who built their dwellings in the rocks of the valley; and the might and powerful Pharaoh."],
+		                ["All of them committed excesses and spread corruption in their lands but Allah punished them all."],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "MANKIND’S TEST",
+		            "rangeStart": "15",
+		            "rangeEnd": "20",
+		            "details": [
+		                ["The nature of mankind is such that when a person is tried or tested with honour and blessings he says, \"My God has honoured me\", but when a person is tried or tested with a restriction of his provisions he says, \"My God has humiliated me\"."],
+		                ["However people who think like this don’t take care of the orphans nor feed the needy; you devour the inheritance of those under your protection and love wealth."],
 		                [""],
 		                [""],
 		                [""],
@@ -9819,44 +9848,15 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "A POWERFUL ADMONITION",
+		            "rangeStart": "21",
+		            "rangeEnd": "30",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
+		                ["And when the earth is pounded to dust and Allah comes with the Angels in ranks, and Hell will be brought near."],
+		                ["This is the Day when mankind will take heed but by then it will be too late."],
+		                ["The losers will wish they had sent forth some good deeds and left provision for the life to come. On that Day no one will punish as Allah punishes and no one will bind as He binds."],
+		                ["However, amidst this unimaginable horror, the believers are addressed by Allah Himself."],
+		                ["Allah proclaims: ‘O Soul, be at peace, return to Allah well pleased with Him and well pleasing to Him to join His servants and enter His Garden."],
 		                [""],
 		                [""]
 		            ]
@@ -9895,16 +9895,45 @@ var surahsOld = [
 	{
 		"name": "al-Balad",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah has been so named after the word al balad in the first verse.",
+		    "period": "Makkan",
+		    "context": "This was one of the earliest surahs revealed at Makkah, but it contains a pointer which indicates that it was sent down in the period when the Disbelievers of Makkah had resolved to oppose the Prophet (ﷺ), and made it lawful for themselves to commit tyranny and excess against him.",
+		    "theme": "The point of this surah is that man is created to work and be judged. He should therefore seek to do good deeds rather than indulge in arrogance and wastefulness. The final judgment will be in the Hereafter.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE OATH OF MAKKAH",
+		            "rangeStart": "1",
+		            "rangeEnd": "3",
 		            "details": [
+		                ["Allah swears by the sacred city of Makkah and Prophet Muhammad (ﷺ) is indeed an inhabitant of this city."],
+		                ["Allah concludes his oath by swearing by parents and their children or as some scholars say, by Prophet Adam (عليه السلام) and his children - mankind. "],
+		                [""],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THIS WORLD IS A TEST",
+		            "rangeStart": "4",
+		            "rangeEnd": "10",
+		            "details": [
+		                ["Mankind has been created for hard work and for testing but they prefer to squander their wealth."],
+		                ["However they don’t realise that Allah has complete power over them and sees all they do and has provided them all the faculties to not act like that."],
+		                ["They have been given sight and speech to control themselves and the option to follow the clear paths of either good or evil."],
+		                [""],
+		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "THE STEEP PATH",
+		            "rangeStart": "11",
+		            "rangeEnd": "16",
+		            "details": [
+		                ["Man does not however attempt the steep path, the one that involves: freeing slaves, feeding the hungry, whether they are a relative, or an orphan, or somebody needy and in distress and encouraging others to patience and compassion."],
 		                [""],
 		                [""],
 		                [""],
@@ -9915,40 +9944,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "COMPANIONS OF THE RIGHT AND LEFT",
+		            "rangeStart": "17",
+		            "rangeEnd": "18",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["Those who take the steep path will be the companions of the right achieving Paradise, but those who disbelieved will be companions of the left who will enter Hell."],
 		                [""],
 		                [""],
 		                [""],
