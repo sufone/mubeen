@@ -9991,19 +9991,19 @@ var surahsOld = [
 	{
 		"name": "ash-Shams",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah has been so designated after the word ash-shams with which it opens.",
+		    "period": "Makkan",
+		    "context": "This surah too was revealed in the earliest period at Makkah at a stage when opposition to the Prophet (ﷺ) had grown very strong and intense.",
+		    "theme": "The central theme of this surah is purifying or corrupting the soul, with the tribe of Thamud given as an example of corruption.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "SUCCESS OR FAILURE",
+		            "rangeStart": "1",
+		            "rangeEnd": "10",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Allah swears by a number of celestial phenomena including the sun, the moon that follows it, the day when the sun’s splendour is revealed, and the night that descends to shroud the earth and by the sky and how He constructed it and by the earth and how He spread it out. "],
+		                ["Allah then swears by the soul and how He balanced and refined it giving it the knowledge of what is right for it and what is wrong for it. "],
+		                ["The one who purifies it will succeed and the one who corrupts it will fail."],
 		                [""],
 		                [""],
 		                [""],
@@ -10011,13 +10011,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE PEOPLE OF THAMUD",
+		            "rangeStart": "11",
+		            "rangeEnd": "15",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["The people of Thamud sent their most wretched person among them to hamstring the she-camel, even after Prophet Salih (عليه السلام) told them not to harm her and drink in peace (the she-camel). "],
+		                ["The prophet was called a liar and the people killed the she camel and for that they were destroyed by Allah levelling them to the ground."],
+		                ["And Allah does not hesitate when punishing them."],
 		                [""],
 		                [""],
 		                [""],
@@ -10087,17 +10087,17 @@ var surahsOld = [
 	{
 		"name": "al-Layl",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name from the word wal-lail with which it opens.",
+		    "period": "Makkan",
+		    "context": "Its subject matter so closely resembles that of Surah Ash-Shams that each surah seems to be an explanation of the other. It is one and the same thing which has been explained in Surah Ash-Shams in one way and in this surah in another. This indicates that both these surahs were sent down in about the same period.",
+		    "theme": "A surah showing the consequences of the paths people choose and emphasizing Allah’s Guidance and warning.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "Three Oaths",
+		            "rangeStart": "1",
+		            "rangeEnd": "3",
 		            "details": [
-		                [""],
+		                ["By the night when it descends and covers everything with darkness, and by the appearance of the bright and radiant day, and by He who created both the male and the female. "],
 		                [""],
 		                [""],
 		                [""],
@@ -10107,11 +10107,26 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THE TWO PATHS",
+		            "rangeStart": "4",
+		            "rangeEnd": "11",
 		            "details": [
+		                ["Your efforts are diverse; they differ greatly and come to very different conclusions."],
+		                ["The one who is charitable, mindful of Allah, and Believes in goodness will have Allah ease their path. "],
+		                ["Whereas the person who is stingy and considers himself self-sufficient and not in need of Allah or believe in goodness will have Allah make their path difficult."],
+		                ["And their wealth will not help them."],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH PROVIDES GUIDANCE",
+		            "rangeStart": "12",
+		            "rangeEnd": "13",
+		            "details": [
+		                ["Allah decrees that it is incumbent upon Him to give guidance to mankind. "],
+		                ["This world and the next belong to Allah; he is the beginning and the end.  "],
 		                [""],
 		                [""],
 		                [""],
@@ -10121,28 +10136,13 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "WHO ENTERS AND ESCAPES THE FIRE",
+		            "rangeStart": "14",
+		            "rangeEnd": "17",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
-		                [""],
-		                [""],
+		                ["Therefore, Allah warns about the blazing Fire for whom only the most wicked individuals who denied the truth and turned away will enter."],
+		                ["However, the pious, righteous people will be kept well away from it as they gave away their wealth to purify it and not to return it to anyone but only seeking Allah’s pleasure."],
+		                ["They will be satisfied."],
 		                [""],
 		                [""],
 		                [""],
@@ -10183,18 +10183,32 @@ var surahsOld = [
 	{
 		"name": "ad-Ḍuḥā",
 		"summary": {
-		    "name": "",
-		    "period": "",
-		    "context": "",
-		    "theme": "",
+		    "name": "The surah takes its name Ad-Duhaa from the very first word.",
+		    "period": "Makkan",
+		    "context": "Its subject matter clearly indicates that it belongs to the earliest period at Makkah.",
+		    "theme": "A surah addressed to the Prophet (ﷺ), to reassure him, when he had not received revelation for some time, that his Lord had not forsaken him.",
 		    "breakdown": [
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "AN OATH WITH REASSURANCE",
+		            "rangeStart": "1",
+		            "rangeEnd": "4",
 		            "details": [
+		                ["Allah swears by the morning brightness and by the night when the earth grows still and dark. "],
+		                ["Allah has not forsaken you (the Prophet ﷺ), nor is He displeased with you. "],
+		                ["He (Allah) goes on to say that the life to come will be better than this present life."],
 		                [""],
 		                [""],
+		                [""],
+		                [""]
+		            ]
+		        },
+		        {
+		            "name": "ALLAH’S FAVORS",
+		            "rangeStart": "5",
+		            "rangeEnd": "8",
+		            "details": [
+		                ["Allah tells Prophet Muhammad (ﷺ) that He will be bounteous to him and he will be well satisfied and content. "],
+		                ["It was Allah who found the Prophet Muhammad (ﷺ) an orphan and gave him shelter and refuge, when he was lost it was Allah who found him and guided him and when the Prophet (ﷺ) was poor it was Allah who enriched him and made him self-sufficient."],
 		                [""],
 		                [""],
 		                [""],
@@ -10203,25 +10217,11 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
+		            "name": "THREE DEMANDS",
+		            "rangeStart": "9",
+		            "rangeEnd": "11",
 		            "details": [
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""],
-		                [""]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""],
+		                ["Prophet Muhammad (ﷺ) is then instructed by Allah to protect the orphans, be charitable to those who seek aid and proclaim the blessings of Allah."],
 		                [""],
 		                [""],
 		                [""],
