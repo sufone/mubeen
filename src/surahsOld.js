@@ -2149,7 +2149,7 @@ var surahsOld = [
 						["Supported by an Angel at the time of childbirth, Allah provides her fresh water and ripe dates at the time of delivery."],
 						["The baby Isa (عليه السلام) miraculously speaks from the cradle in defense of his mother when Maryam (رضی اللہ عنھا) is probed about the child, announcing that he is Allah’s blessed servant and prophet, and has been commanded to pray, give charity, and be kind to his mother."],
 						["Allah does not take a son and has no need for one."],
-						["Remind all the sects who still differ about Isa (عليه السلام) of the dreadful "Day of Remorse" when all will return to Allah."],
+						["Remind all the sects who still differ about Isa (عليه السلام) of the dreadful \"Day of Remorse\" when all will return to Allah."],
 						[""],
 						[""]
 					]
@@ -2881,7 +2881,7 @@ var surahsOld = [
 		"summary": {
 			"name": "The title of the chapter is taken from verses 35 in where Allah is described as the light of the heavens and the earth.",
 			"period": "Medinan",
-			"context": "• This was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by v.11-20 that deal with the incident of the 'Slander', which occurred during that Campaign. • This surah and v. 28-73 of Surah Al-Ahzab (of which this is the sequel) were sent down to strengthen the moral front, which at that time was the main target of the attack. The verses of surah Al-Ahzab were sent down concerning the Prophet's (ﷺ) marriage with Zainab (رضی اللہ عنھا) (who was the divorced wife of his adopted son, Zaid bin Harithah) and on the occasion of the second attack (the "Slander" about A’ishah (رضی اللہ عنھا), Surah An-Noor was sent down to repair the cracks that had appeared in the unity of the Muslim Community.  • This second slander was made on the honor of A’isha (رضی اللہ عنھا) in connection with an incident which occurred while he was returning from the Campaign against Bani al-Mustaliq. She was left behind unwittingly by her travelling companions after wandering away in search of a dropped necklace. She was escorted back to Medina by a Muslim man coming later who found her there. The instigator of the slander was Abdullah bin Ubayy, chief of the Hypocrites who played the part of a villain in this attack where the slander implied: an attack on the honor of the Prophet (ﷺ) and Abu Bakr Siddiq (رضي الله عنه‎), a means to undermine the high moral superiority which was the greatest asset of the Islamic Movement and intended to ignite civil war between the Muhajirs and the Ansar, and between Aus and Khazraj, the two clans of the Ansar. ",
+			"context": "• This was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by v.11-20 that deal with the incident of the 'Slander', which occurred during that Campaign. • This surah and v. 28-73 of Surah Al-Ahzab (of which this is the sequel) were sent down to strengthen the moral front, which at that time was the main target of the attack. The verses of surah Al-Ahzab were sent down concerning the Prophet's (ﷺ) marriage with Zainab (رضی اللہ عنھا) (who was the divorced wife of his adopted son, Zaid bin Harithah) and on the occasion of the second attack (the \"Slander\" about A’ishah (رضی اللہ عنھا), Surah An-Noor was sent down to repair the cracks that had appeared in the unity of the Muslim Community.  • This second slander was made on the honor of A’isha (رضی اللہ عنھا) in connection with an incident which occurred while he was returning from the Campaign against Bani al-Mustaliq. She was left behind unwittingly by her travelling companions after wandering away in search of a dropped necklace. She was escorted back to Medina by a Muslim man coming later who found her there. The instigator of the slander was Abdullah bin Ubayy, chief of the Hypocrites who played the part of a villain in this attack where the slander implied: an attack on the honor of the Prophet (ﷺ) and Abu Bakr Siddiq (رضي الله عنه‎), a means to undermine the high moral superiority which was the greatest asset of the Islamic Movement and intended to ignite civil war between the Muhajirs and the Ansar, and between Aus and Khazraj, the two clans of the Ansar. ",
 			"theme": "This surah clarifies several regulations for the Muslim community, mainly to do with marriage, modesty, obedience to the Prophet (ﷺ), and appropriate behaviour in the household. Preservation of family and its etiquette. The surah is named after the Verse of Light (verses 35–6) where Allah’s light is contrasted to the darkness in which the Disbelievers find themselves engulfed.",
 			"breakdown": [
 				{
@@ -4580,7 +4580,7 @@ var surahsOld = [
 		                ["Allah reminds us that we were created from a drop of fluid and still they dispute openly asking who could give life back to bones after they have decayed?"],
 		                ["Allah says that the One who gave them life in the first place will bring them back."],
 		                ["It is He who produced Fire so that mankind can benefit from it; it is He who created the heavens and the earth so is it not then easy for Him to bring back the people?"],
-		                ["When Allah wills something to be, He says "Be" and it is. Mankind will indeed be resurrected to stand before Allah."]
+		                ["When Allah wills something to be, He says \"Be\" and it is. Mankind will indeed be resurrected to stand before Allah."]
 		            ]
 		        }
 		    ]
@@ -6418,7 +6418,7 @@ var surahsOld = [
 		    "breakdown": [
 		        {
 		            "name": "THOSE WHO DEMANDED PUNISHMENT ",
-		            "rangeStart": "1,
+		            "rangeStart": "1",
 		            "rangeEnd": "3",
 		            "details": [
 		                ["A man mockingly demanded the punishment, and it will fall on the Disbelievers."]
@@ -7927,7 +7927,7 @@ var surahsOld = [
 		    "theme": "A surah which criticizes man’s preoccupation with worldly wealth, consequences of materialism and stresses that he will be brought to account on the Day of Resurrection.",
 		    "breakdown": [
 		        {
-		            "name": "THE PILING UP,
+		            "name": "THE PILING UP",
 		            "rangeStart": "1",
 		            "rangeEnd": "2",
 		            "details": [
@@ -8235,7 +8235,7 @@ var surahsOld = [
 		    "name": "Al-Ikhlas is not merely the name of this surah but also the title of its contents, for it deals exclusively with Tawheed. The other surahs of the Qur’an generally have been designated after a word occurring in them, but in this surah the word Ikhlas has occurred nowhere. It has been given this name in view of its meaning and subject matter. Whoever understands it and believes in its teaching, will get rid of shirk (polytheism) completely.",
 		    "period": "Makkan",
 		    "context": "People on different occasions had questioned the Prophet (ﷺ) about the essence and nature of the Allah to Whose service and worship he invited the people, and on every occasion, he recited by Allah's command this very surah in response. They included the Arab pagans, Jews and Christians. In each of these traditions, it has been said that this surah was revealed on this or that occasion. ",
-		    "theme": "This surah is unusual in having as its title a term not mentioned in the body of the surah. Ikhlas conveys the meaning of sincerity in one’s religion and total dedication to the One true God. It speaks about the Oneness of Allah. Because of the importance of this theme in Islam, the Prophet (ﷺ) said that this surah, despite its brevity, was equal to one-third of the Qur’an. Narrated Abu Sa`id Al-Khudri: The Prophet (ﷺ) said to his companions, \"Is it difficult for any of you to recite one third of the Qur'an in one night?\" This suggestion was difficult for them so they said, \"Who among us has the power to do so, O Allah's Messenger (ﷺ)?\" Allah Apostle replied: 'Allah (the) One, the Self-Sufficient Master Whom all creatures need.' (Surat Al-Ikhlas 112.1--to the End) is equal to one third of the Qur'an."",
+		    "theme": "This surah is unusual in having as its title a term not mentioned in the body of the surah. Ikhlas conveys the meaning of sincerity in one’s religion and total dedication to the One true God. It speaks about the Oneness of Allah. Because of the importance of this theme in Islam, the Prophet (ﷺ) said that this surah, despite its brevity, was equal to one-third of the Qur’an. Narrated Abu Sa`id Al-Khudri: The Prophet (ﷺ) said to his companions, \"Is it difficult for any of you to recite one third of the Qur'an in one night?\" This suggestion was difficult for them so they said, \"Who among us has the power to do so, O Allah's Messenger (ﷺ)?\" Allah Apostle replied: 'Allah (the) One, the Self-Sufficient Master Whom all creatures need.' (Surat Al-Ikhlas 112.1--to the End) is equal to one third of the Qur'an.\"",
 		    "breakdown": [
 		        {
 		            "name": "PURE MONOTHEISM",
@@ -8243,14 +8243,6 @@ var surahsOld = [
 		            "rangeEnd": "3",
 		            "details": [
 		                ["He is Allah, the One, the Eternal, He begot no one nor was He begotten, and there is no one comparable to Him."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
