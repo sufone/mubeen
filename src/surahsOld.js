@@ -43,7 +43,7 @@ var surahsOld = [
 					"details": [
 						["The story of origin and the origin of our speech as Allah taught speech/intellect."],
 						["Appointment as Allah's representative on Earth and status as Angels ordered to prostrate to him."],
-						["Iblees (Shaytan/Shaytan) and his arrogance."],
+						["Iblees (Shaytan/Satan) and his arrogance."],
 						["Adam (عليه السلام) falling prey to the temptations of Shaytan but repenting after."],
 						["Allah forgave Adam (عليه السلام) so there is hope that Allah will forgive all and any sin of the children of Adam (عليه السلام), but the best is those who repent."],
 						["Guidance of Islam is the same that was given to Adam (عليه السلام) and that it is the original religion of mankind and Allah will always send guidance periodically through prophets."],
