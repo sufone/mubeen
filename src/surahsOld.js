@@ -5492,14 +5492,6 @@ var surahsOld = [
 		                ["The Prophet (ﷺ) has been instructed to persistently continue giving his invitation and preaching in spite of the accusations and objections of his opponents and enemies and should endure their resistance patiently as he is under Allah’s watchful eye and His judgment will inevitably comes to pass."],
 		                ["And continue praising and glorifying Allah."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -6075,14 +6067,6 @@ var surahsOld = [
 		            "details": [
 		                ["The Believers should not let their wealth or children divert them from remembering Allah, and to spend in His way before death approaches and one is filled with regret, but Allah will never delay a soul when their time has come."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -6173,14 +6157,6 @@ var surahsOld = [
 		                ["Those who were insolent toward Allah and His messenger were destroyed and made to taste the ill effect of their conduct and Allah has prepared Hell for them."],
 		                ["So those who have understanding should follow the Qur’an and the Messenger who makes things clear as they will receive Paradise."],
 		                ["It is Allah who created the seven heavens and a similar [number] of earths which He commands and He possesses all knowledge."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -6482,14 +6458,6 @@ var surahsOld = [
 		                ["However they chose to follow others who had wealth and children and planned that they should continue following their gods: Wadd, Suwa, Yaghuth, Yauq and Nasr who have misled many."],
 		                ["Thus Nuh (عليه السلام) prayed for destruction to the evildoers and asked that none of them should be left standing otherwise they would mislead Allah’s true servants and only beget more Disbelievers, thus they were drowned and sent to Hell."],
 		                ["Nuh (عليه السلام) asks for forgiveness for himself, his parents, and whoever enters his house as Believers but asks for complete destruction to the Disbelievers."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -6996,14 +6964,6 @@ var surahsOld = [
 		                ["Allah swears by the stars, night and dawn that prophet Muhammad (ﷺ) is not mad and did witness the Angel Jibreel (عليه السلام) who is described as a noble messenger possessing great strength, one who is obeyed and trusted in the heavens and is greatly honoured by the Lord of the Throne."],
 		                ["Prophet Muhammad (ﷺ) doesn’t withhold anything revealed to him and it is certainly not from the devils."],
 		                ["So Allah asks where is man going, the revelation is a reminder for those wanting to take a straight path, but it is only Allah’s will that will makes one do so."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -7513,14 +7473,6 @@ var surahsOld = [
 		                ["The prophet was called a liar and the people killed the she camel and for that they were destroyed by Allah levelling them to the ground."],
 		                ["And Allah does not hesitate when punishing them."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -7745,14 +7697,6 @@ var surahsOld = [
 		            "details": [
 		                ["This night is better than a thousand months wherein the Angels and the Spirit descend again and again with their Lord’s permission on every task and peace entails from night until the break of dawn."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -7941,14 +7885,6 @@ var surahsOld = [
 		            "details": [
 		                ["Man will come to know with certainty soon what awaits when he finally sees the Fire and will be asked about his pleasures he indulged in before."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -7967,14 +7903,6 @@ var surahsOld = [
 		            "rangeEnd": "3",
 		            "details": [
 		                ["All human beings are in loss. Only those are successful who have iman (faith in Islam), do righteous deeds and remind others of the Haqq (truth, rights, reality) and remind others of Sabr (patience). "]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -8003,14 +7931,6 @@ var surahsOld = [
 		            "details": [
 		                ["Such a person will enter the crusher which is Allah’s blazing Fire which rises over peoples’ hearts and closes in on them in towering columns."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -8029,14 +7949,6 @@ var surahsOld = [
 		            "rangeEnd": "5",
 		            "details": [
 		                ["Allah informs the Prophet (ﷺ) about how He dealt with the army of the elephant by ruining their plans and sending ranks of birds pelting pellets of hard baked clay at them and turning them into cropped stubble."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -8065,14 +7977,6 @@ var surahsOld = [
 		            "details": [
 		                ["So let them worship the Lord of this house who provides food to ward off hunger and safety to ward off fear. "]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -8100,14 +8004,6 @@ var surahsOld = [
 		            "details": [
 		                ["So, woe to those who pray but are heedless of their prayer and who are all show and forbid kindness."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -8126,14 +8022,6 @@ var surahsOld = [
 		            "rangeEnd": "3",
 		            "details": [
 		                ["Allah has given the Prophet (ﷺ) abundance through al-kawthar, so pray and make sacrifice to Him for your enemy is the one who is cut off."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -8155,14 +8043,6 @@ var surahsOld = [
 		                ["The Prophet (ﷺ) is ordered to say to the Disbelievers that we do not and will not worship what you worship, nor do you worship or will you worship what we worship."],
 		                ["For you is your religion and to me mine."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -8181,14 +8061,6 @@ var surahsOld = [
 		            "rangeEnd": "3",
 		            "details": [
 		                ["When Allah’s help comes and opens up the way (to the Prophet ﷺ), when you see people embracing Islam in crowds, then praise and ask forgiveness from Allah as He is always ready to accept repentance."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -8216,14 +8088,6 @@ var surahsOld = [
 		            "rangeEnd": "5",
 		            "details": [
 		                ["And his wife, the Firewood carrier will also be in the Fire with a palm fibre around her neck."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
@@ -8263,14 +8127,6 @@ var surahsOld = [
 		            "details": [
 		                ["I seek refuge in the Lord of the daybreak from the evil He created, the harm in the night when darkness gathers, and harm when the witches blow their knots and from the evil of the envier when he envies."]
 		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
-		            ]
 		        }
 		    ]
 		}
@@ -8289,14 +8145,6 @@ var surahsOld = [
 		            "rangeEnd": "6",
 		            "details": [
 		                ["I seek refuge in the Lord of Makind, the Controller of people, the God of people, against the harm of the rereating whisperer who whispers in the hearts of people."]
-		            ]
-		        },
-		        {
-		            "name": "",
-		            "rangeStart": "",
-		            "rangeEnd": "",
-		            "details": [
-		                [""]
 		            ]
 		        }
 		    ]
