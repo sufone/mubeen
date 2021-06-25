@@ -10,7 +10,7 @@
     ],
     "android": {
       "package": "com.navedislam.mubeen",
-      "versionCode": 3,
+      "versionCode": 4,
       "permissions": []
     },
     "version": "1.2",
