@@ -55,7 +55,7 @@ var surahsOld = [
 					"rangeEnd": "120",
 					"details": [
 						["The Children of Israel are the most discussed story showing their over questioning and arrogance which caused their degradation and breaking their covenant with Allah."],
-						["When finally entering Jerusalem the Children of Israel experienced great blessing as: Moosa (عليه السلام) striked a rock supplying water for the 12 tribes of Israel, prayed for heavenly assistance from Allah via Manna and Quails, and gave miracles by resurrecting a dead man to settle a dispute among them over his death."],
+						["When finally entering Jerusalem the Children of Israel experienced great blessing as: Moosa (عليه السلام) struck a rock supplying water for the 12 tribes of Israel, prayed for heavenly assistance from Allah via Manna and Quails, and gave miracles by resurrecting a dead man to settle a dispute among them over his death."],
 						["The man was killed and his murderer was unknown, however in order to trace the killer Moosa (عليه السلام) ordered a cow to be slaughtered but they started questioning him about the type of cow they should slaughter."],
 						["They even started worshipping the calf in Moosa’s (عليه السلام) absence, asking to see Allah, not being satisfied with His heavenly provision, breaking the Sabbath and disobeying and killing prophets."],
 						["Even after all this they were called by Allah to repentance and forgiveness."],
@@ -63,7 +63,7 @@ var surahsOld = [
 						["The Arabian prophet (Prophet Muhammad ﷺ) citing the incidents without previous exposure to the text of Jews and Christians is proof of real prophethood."],
 						["The issue of accountability as past communities will be held accountable for what they did and we for what we do; and neither will be questioned regarding the other."],
 						["Warning not to follow magic which was taught by the Angels Harut and Marut in Babylon, yet falsely attributed to Sulayman (Solomon) (عليه السلام) by the Jinn Shaytans."],
-						["This was a reminder to the Believers to learn from these examples of the folly of the People of the Book as he was slandered even after death but Allah helped and rectified the slander in the Qu’ran."]
+						["This was a reminder to the Believers to learn from these examples of the folly of the People of the Book as he was slandered even after death but Allah helped and rectified the slander in the Quran."]
 					]
 				},
 				{
@@ -158,7 +158,7 @@ var surahsOld = [
 			"name": "This surah takes its title from the family of Imran, who was the Grandfather of Isa (Jesus) (عليه السلام) whose mother is Maryam (رضی اللہ عنھا), her father is Imran - thus family of Imran.",
 			"period": "Medinan",
 			"context": "Much of the surah was revealed soon after the success of the Battle of Badr and some revealed after the Battle of Uhud to make reflections. They were in danger from tribes across Arabia after the Battle of Badr and needed to know how to react to the Jews in the Medinan suburbs who were conspiring against them as well. Part of the surah was also revealed on the occasion of a visit from the Christians of Najran where a rare interfaith dialogue took place as Medina was occupied with many Jews.",
-			"theme": "The Qur’an confirms the earlier scriptures and goes on to say later that the central tenet of faith is devotion to Allah. The story of Zakarriya (عليه السلام), Maryam (رضی اللہ عنھا), and Isa (عليه السلام) is given and the fact that Isa (عليه السلام) was unfathered, just as Adam (عليه السلام) was created without a father, is accentuated. Half of the surah is thus dedicated to discussing Christianity, particularly the main theological differences between Christianity but also the People of the Book. It is the only surah which mentions the mother of Maryam (رضی اللہ عنھا). Aspects of the Battles of Bad and particulary the Battle of Uhud are described which was difficult and so the surah provides optimism for the Believers in adversity. There is also a drive to obtain a common understanding between Muslims and the People of the Book.",
+			"theme": "The Qur’an confirms the earlier scriptures and goes on to say later that the central tenet of faith is devotion to Allah. The story of Zakarriya (عليه السلام), Maryam (رضی اللہ عنھا), and Isa (عليه السلام) is given and the fact that Isa (عليه السلام) was unfathered, just as Adam (عليه السلام) was created without a father, is accentuated. Half of the surah is thus dedicated to discussing Christianity, particularly the main theological differences between Christianity but also the People of the Book. It is the only surah which mentions the mother of Maryam (رضی اللہ عنھا). Aspects of the Battles of Bad and particularly the Battle of Uhud are described which was difficult and so the surah provides optimism for the Believers in adversity. There is also a drive to obtain a common understanding between Muslims and the People of the Book.",
 			"breakdown": [
 				{
 					"name": "KNOWLEDGE AND GUIDANCE",
@@ -177,7 +177,7 @@ var surahsOld = [
 					"rangeEnd": "65",
 					"details": [
 						["Allah chose Adam, Nuh (Noah), Ibrahim (عليهم السلام), and the family of Imran above all else."],
-						["The mother of Maryam (رضی اللہ عنھا) is discussed; she made dua for a knowledgable child to grow up as a Rabbi which shows the importance of parents; righteous parents derive righteous children."],
+						["The mother of Maryam (رضی اللہ عنھا) is discussed; she made dua for a knowledgeable child to grow up as a Rabbi which shows the importance of parents; righteous parents derive righteous children."],
 						["Inspired by Maryam’s (رضی اللہ عنھا) piety, Zakariyya (Zachariah) (عليه السلام) (Maryam’s (رضي الله عنه‎) guardian uncle) asks Allah for a son despite his barren wife and is told to not speak for 3 days and is then given Yahya (John the Baptist) (عليه السلام) - Isa (عليه السلام) is now his first cousin."],
 						["Allah thus provided for Maryam (رضی اللہ عنھا) when she went into seclusion and informed her about the coming of Isa (عليه السلام) and the Angels informed her that he will lead the children of Israel, preach Tawheed (Oneness of God) and perform miracles such as speaking in the cradle."],
 						["The Qur’an clears Isa (عليه السلام) and his mother not only from the stigma maliciously set upon them by the Jews, but also refutes the erroneous Christian creed of the Divinity of Isa (عليه السلام) which had been formulated because of his miraculous birth, yet Allah explains he is like Adam (عليه السلام) with no father."],
@@ -332,7 +332,7 @@ var surahsOld = [
 					"details": [
 						["Resuming the theme of defense, the Muslims have been warned to be on their guard against their enemies."],
 						["They have been admonished to take necessary precautions against the machinations of the Hypocrites and the Disbelievers and the People of the Book."],
-						["The characteristics of the Hypocrites and Jews are further elaborated on, particularly the incident of the Jews asking the Prophet (ﷺ) to send a book down from Paradiseto them and how they slander Maryam (رضی اللہ عنھا) and supposedly killed Isa (عليه السلام), but Allah brought up Isa (عليه السلام) to Him and he was not crucified."],
+						["The characteristics of the Hypocrites and Jews are further elaborated on, particularly the incident of the Jews asking the Prophet (ﷺ) to send a book down from Paradise to them and how they slander Maryam (رضی اللہ عنھا) and supposedly killed Isa (عليه السلام), but Allah brought up Isa (عليه السلام) to Him and he was not crucified."],
 						["The doctrine of the Trinity is strongly broken down as false here and Isa (عليه السلام) will testify against those who worship him."],
 						["As belief in Allah, Revelation and the Hereafter is the only safeguard against every kind of enemy, they should sincerely repent and believe in and follow His Messenger, Muhammad (ﷺ) as this was the same message sent to Moosa (عليه السلام) who spoke to Allah, Dawud (عليه السلام) who received the Psalms, Isa (عليه السلام) who worshipped Allah alone and other messengers we know little about."],
 					]
@@ -355,7 +355,7 @@ var surahsOld = [
 			"name": "This surah takes its' name from verse 112 in which the word mai'dah occurs and relates to food due to reference of the meal Isa (عليه السلام) asked Allah to send down to his disciples.",
 			"period": "Medinan",
 			"context": "Revealed after the Treaty of Hudaybiyyah and deals with those problems that arose from the treaty. For example, the Quraysh prevented the Prophet (ﷺ) from doing Umrah, but after the treaty there was an emphasis on Hajj on this surah. The Jewish menace which was always threatening Medina had been totally removed and the Jews in the other parts of Hijaz had-become tributaries of the State of Medina. The last effort of the Quraysh to suppress Islam had been thwarted in the Battle of the Ditch.",
-			"theme": "Overall theme is Muslims should be faithful to their contracts and live up to their commitments and part of this is the regulation of lawful and unlawful food, obedience to which is part of the pledge between Allah and the Believers. Paganism have been eliminated during this time, so, this surah is mainly focusing on Judaic and Christian fundamentals. Part of the surah concerns hunting for food during the pilgrimage and respect for the rites of pilgrimage. Allah also discusses the covenants taken with the People of the Book and their relationships with the Muslims. Isa (عليه السلام), in particular, is given prominence here: mention is made of the feast for which his disciples asked him to pray to Allah, which gives the surah its title, and of his renunciation of any claim to divinity.",
+			"theme": "Overall theme is Muslims should be faithful to their contracts and live up to their commitments and part of this is the regulation of lawful and unlawful food, obedience to which is part of the pledge between Allah and the Believers. Paganism has been eliminated during this time, so, this surah is mainly focusing on Judaic and Christian fundamentals. Part of the surah concerns hunting for food during the pilgrimage and respect for the rites of pilgrimage. Allah also discusses the covenants taken with the People of the Book and their relationships with the Muslims. Isa (عليه السلام), in particular, is given prominence here: mention is made of the feast for which his disciples asked him to pray to Allah, which gives the surah its title, and of his renunciation of any claim to divinity.",
 			"breakdown": [
 				{
 					"name": "ALLAH PERFECTS HIS RELIGION",
@@ -445,7 +445,7 @@ var surahsOld = [
 					"rangeEnd": "119",
 					"details": [
 						["The conversation that will take place between Allah and His Prophets on the Day of Judgement, has been made for the benefit of the erring people to serve as a corrective to their corrupt creeds, particularly Isa (عليه السلام) who will say that they he did not instruct his followers to worship him but rather Allah."],
-						["Allah shows Isa (عليه السلام) how he performed miracles only by His permission such as bringing a clay bird to life, healing the blind and leper, raising the dead, and bringing a table spread from Paradiseat the request of his disciples."],
+						["Allah shows Isa (عليه السلام) how he performed miracles only by His permission such as bringing a clay bird to life, healing the blind and leper, raising the dead, and bringing a table spread from Paradise at the request of his disciples."],
 						["The conversation with Prophet Isa (عليه السلام) has been cited as a specimen to warn particularly the Christians, who profess to believe in him, and generally all those people who put false hopes in their prophets."],
 					]
 				},
@@ -563,7 +563,7 @@ var surahsOld = [
 					"rangeStart": "11",
 					"rangeEnd": "25",
 					"details": [
-						["Allah asked all Angels to prostrate to Adam (عليه السلام), although Iblees refused to on account of him being made from clay and himself being made from Fire, and as a result of this pride and arrogance Shaytan and his followers will be cast out as mankinds biggest enemy ready to misguide all until the Day of Judgement."],
+						["Allah asked all Angels to prostrate to Adam (عليه السلام), although Iblees refused to on account of him being made from clay and himself being made from Fire, and as a result of this pride and arrogance Shaytan and his followers will be cast out as mankind's biggest enemy ready to misguide all until the Day of Judgement."],
 						["Shaytan misleading Adam (عليه السلام) and Hawa (Eve) serve as a warning to all mankind as to his craftiness and whispering, but that repentance to Allah is the way to come back."],
 						["The reasoning behind Shaytan’s downfall and Adam’s (عليه السلام) raised status serves as a lesson to all mankind and Jinn as to the kinds of virtues to adopt and vices to avoid."],
 						["Allah chose us over all creatures and even answered Iblees’ dua (in His Wisdom) for long life to try to misguide people."],
@@ -734,7 +734,7 @@ var surahsOld = [
 			"name": "This surah is known by two names -- At-Taubah and Al-Bara'at. It is called At-Taubah because it enunciates the nature of taubah (repentance) and mentions the conditions of its acceptance (vv. 102. 118). The second name Bara'at (Release) is taken from the first word of the surah.This is the only surah of the Qur’an to which Bismillah is not prefixed as the Prophet (ﷺ) himself did not dictate it at the beginning of the surah.",
 			"period": "Medinan",
 			"context": "• Revealed around one year before the death of the Prophet (ﷺ) after the battle of Tabuk in 9 AH.• The first discourse (vv. 1-37), was revealed in Zil-Qa'adah A.H. 9 or thereabout. As the importance of the subject of the discourse required its declaration on the occasion of Hajj the Prophet (ﷺ) dispatched Ali (رضي الله عنه‎) to follow Abu Bakr (رضي الله عنه‎), who had already left for Makkah as leader of the Pilgrims to the Ka'bah. He instructed Ali (رضي الله عنه‎) to deliver the discourse before the representatives of the different clans of Arabia so as to inform them of the new policy towards the Disbelievers.• The second discourse (vv., 38-72) was sent down in Rajab A.H. 9 or a little before this, when the Prophet (ﷺ) was engaged in making preparations for the Campaign of Tabuk. In this discourse, the Believers were urged to take active part in Jihad, and the shirkers were severely rebuked for holding back their wealth and for hesitation to sacrifice their lives in the way of Allah because of their hypocrisy, weak faith or negligence.• The third discourse (vv. 73-129) was revealed on his return from the Campaign of Tabuk. This discourse warns the Hypocrites of their evil deeds and rebukes those Believers who had stayed behind in the Campaign of Tabuk. Then after taking them to task, Allah pardons those true Believers who had not taken part in the Jihad in the way of Allah for one reason or the other.",
-			"theme": "The surah opens by giving notice of the severance of the treaty with the idolaters because they had broken it, but the bulk of the surah deals with preparations and recruitment for the Campgain to Tabuk, which took place in the heat of the summer of AH 9 (631 CE) when the Prophet (ﷺ) gathered 30,000 fighters against the Byzantine Empire who did not show up. The Hypocrites and those who stayed behind and failed to support the Prophet (ﷺ) are all censured. ",
+			"theme": "The surah opens by giving notice of the severance of the treaty with the idolaters because they had broken it, but the bulk of the surah deals with preparations and recruitment for the Campaign to Tabuk, which took place in the heat of the summer of AH 9 (631 CE) when the Prophet (ﷺ) gathered 30,000 fighters against the Byzantine Empire who did not show up. The Hypocrites and those who stayed behind and failed to support the Prophet (ﷺ) are all censured. ",
 			"breakdown": [
 				{
 					"name": "OBSERVING TREATIES",
@@ -760,7 +760,7 @@ var surahsOld = [
 					"details": [
 						["In this discourse, the Muslims have been told clearly and explicitly that they will inherit the rewards promised by Allah only if they take active part in the conflict with kufr, for that is the criterion which distinguishes true Muslims from Hypocrites."],
 						["Therefore, true Muslims should take active part in Jihad, without minding dangers, obstacles, difficulties, temptations and the like. "],
-						["V.60 mentionds the 8 categories of zakat."],
+						["V.60 mentions the 8 categories of zakat."],
 					]
 				},
 				{
@@ -812,7 +812,7 @@ var surahsOld = [
 	{
 		"name": "Yūnus",
 		"summary": {
-			"name": "The surah takes its name from V. 98, in which there is a reference to Prophet Yunus (عليه السلام). The name, as usual, is symbolical and does not indicate that the surah deals with the story of Prophet Yunus (عليه السلام). ",
+			"name": "The surah takes its name from V. 98, in which there is a reference to Prophet Yunus (عليه السلام). The name, as usual, is symbolic and does not indicate that the surah deals with the story of Prophet Yunus (عليه السلام). ",
 			"period": "Makkan",
 			"context": "We learn from traditions, and this is supported by the contents of the surah itself, that the whole of this surah was revealed at Makkah. Surah Yunus, Hud and Yusuf (Joseph) was revealed one after another.",
 			"theme": "A surah which takes its title from the reference to Yunus (عليه السلام) in verse 98. The main theme is to prove Tawheed, faith in Allah, the Hereafter and particularly prophethood. It stresses Allah’s Power, the authenticity of the Qur’an, and the fate of evildoers. Allah’s anger at those who consistently deny the truth of His revelations and signs is made clear, as is the fact that, were it not for His decision to await the Day of Resurrection, His judgement would already have fallen upon them. The Prophet (ﷺ) is encouraged to be patient and reminded of the fact that he cannot force people to believe.",
@@ -830,7 +830,7 @@ var surahsOld = [
 					"rangeStart": "11",
 					"rangeEnd": "20",
 					"details": [
-						["When a person is in need he calls out to Allah but when Allah removes the affliction he (the person) returns to disobedience as if he had never called upon Allah at all showing mans deep ingratitude to his creator."],
+						["When a person is in need he calls out to Allah but when Allah removes the affliction he (the person) returns to disobedience as if he had never called upon Allah at all showing man's deep ingratitude to his creator."],
 						["Mankind was indeed one community but they differed and became groups."],
 					]
 				},
@@ -956,7 +956,7 @@ var surahsOld = [
 			"name": "This surah has been named after Prophet Hud (عليه السلام) whose story has been related in V. 50-60. ",
 			"period": "Makkan",
 			"context": "This surah was most likely revealed during the same period as Surah Yunus and most probably followed it immediately. It is related that after its revelation, once Abu Bakr (رضي الله عنه‎) said to the Prophet (ﷺ), 'Of late I have been noticing that you are growing older and older. What is the cause of it?' The Prophet (ﷺ) replied, 'Surah Hud and the like surahs have made me old.' This shows that it was a very hard time for the Prophet (ﷺ) and these stern warnings added greatly to his anxieties that were caused by the persecution from the Quraysh, who were doing their worst to crush down the Message of Islam. ",
-			"theme": "A surah named after the prophet Hud (عليه السلام) whose story is given in verses 50–60. It begins by announcing that the Prophet (ﷺ) is sent both to warn and to give good news, and the body of the surah focuses on the warning aspect: Allah watches over everything and is aware of all that people do. In this surah we have the stories of prophets. Theere are many stories of past prophets Nuh, Salih, Hud, Lut, Shu’ayb and Moosa (عليهم السلام). The basic point is that Allah sent His prophets and messengers to mankind out of His Grace and Mercy, but when people did not listen to the prophets and rejected their message then Allah's punishment came and came relentlessly. ",
+			"theme": "A surah named after the prophet Hud (عليه السلام) whose story is given in verses 50–60. It begins by announcing that the Prophet (ﷺ) is sent both to warn and to give good news, and the body of the surah focuses on the warning aspect: Allah watches over everything and is aware of all that people do. In this surah we have the stories of prophets. There are many stories of past prophets Nuh, Salih, Hud, Lut, Shu’ayb and Moosa (عليهم السلام). The basic point is that Allah sent His prophets and messengers to mankind out of His Grace and Mercy, but when people did not listen to the prophets and rejected their message then Allah's punishment came and came relentlessly. ",
 			"breakdown": [
 				{
 					"name": "MESSAGE OF ALLAH",
@@ -1033,7 +1033,7 @@ var surahsOld = [
 						["Due to a drought, he then moved to Egypt."],
 						["Lut (عليه السلام) returned with Ibrahim (عليه السلام) from Egypt, but parted ways because the land was not enough for both their herds. "],
 						["Lut (عليه السلام) settled towards the Dead Sea near Sodom and Gomorrah."],
-						["Ibrahim (عليه السلام) had three beautiful character traits: forbearance, repentanance, and soft-heartedness. "],
+						["Ibrahim (عليه السلام) had three beautiful character traits: forbearance, repentance, and soft-heartedness. "],
 						["He was quick to serve unannounced guests - Angels of Allah - who brought two bits of news. "],
 						["One, destruction was forthcoming to the people of Lut (عليه السلام). "],
 						["As for the second, the birth of Ibrahim’s son, Is’haq (Isaac) (عليه السلام), from Sarah, his aged wife, and his grandson, Ya’qoob (عليه السلام). "],
@@ -1096,7 +1096,7 @@ var surahsOld = [
 		"summary": {
 			"name": "Named after Prophet Yusuf (عليه السلام) as this surah is almost wholly dedicated to his story.",
 			"period": "Makkan",
-			"context": "The story of Yusuf (عليه السلام) was revealed after an Israelite asked Prophet Muhammad (ﷺ) what he knew about Prophet Yusuf (عليه السلام). The story of Yusuf (عليه السلام) was not known to the Arabs at the time and it was part of a test the Jews concocted to test Prophet Muhammad’s claim to prophethood, but he narrated it to them in their astonishment. The story of Yusuf (عليه السلام) is framed by a three-verse introduction and a 10 verse epilogue. It was revealed in a year that is known as the Year of Sorrow when the Prophet (ﷺ) lost two of his closest supporters, his uncle Abu Talib and his beloved wife Khadijah. During the time of Yusuf (عليه السلام) the ruling dynasty were a foreign Arab peoples from Syria known as the Amalekites and had the ruling Hyksos kings (with no pharaoh as they had their own religion), hence Yusuf’s (عليه السلام) relative ease of integration. The Hyksos ruled over Egypt up to the end of the fifteenth century B. C. and practically all the powers remained in the hands of the Israelites. Then there arose a great nationalist movement which overthrew the power of this dynasty and exiled 250,000 or so of the Amalekites. As a result of this, a very bigoted dynasty of Copts came into power and uprooted everything connected with the Amalekites. Then started that persecution of the Israelites which has been mentioned in connection with the story of Prophet Moosa (عليه السلام). ",
+			"context": "The story of Yusuf (عليه السلام) was revealed after an Israelite asked Prophet Muhammad (ﷺ) what he knew about Prophet Yusuf (عليه السلام). The story of Yusuf (عليه السلام) was not known to the Arabs at the time and it was part of a test the Jews concocted to test Prophet Muhammad’s claim to prophethood, but he narrated it to them in their astonishment. The story of Yusuf (عليه السلام) is framed by a three-verse introduction and a 10 verse epilogue. It was revealed in a year that is known as the Year of Sorrow when the Prophet (ﷺ) lost two of his closest supporters, his uncle Abu Talib and his beloved wife Khadijah. During the time of Yusuf (عليه السلام) the ruling dynasty were a foreign Arab peoples from Syria known as the Amalekites and had the ruling Hyksos kings (with no pharaoh as they had their own religion), hence Yusuf’s (عليه السلام) relative ease of integration. The Hyksos ruled over Egypt up to the end of the fifteenth century B. C. and practically all the powers remained in the hands of the Israelites. Then there arose a great nationalist movement which overthrew the power of this dynasty and exiled 250,000 or so of the Amalekites. As a result of this, a very bigoted dynasty of Copts came into power and uprooted everything connected with the Amalekites. Then started the persecution of the Israelites which has been mentioned in connection with the story of Prophet Moosa (عليه السلام). ",
 			"theme": "A surah dealing primarily with the story of Yusuf (عليه السلام) but framed by a three-verse introduction about the Qur’an and a ten-verse epilogue about the Makkans response, the punishment met by earlier Disbelievers, and encouragement for the Prophet (ﷺ). The story confirms unconditionally that Allah has total control over all affairs and is a story of patience in the face of adversity and trust in the face of sorrow. The basic theme of the surah is to emphasize that all prophets were human beings and they were also highly moral beings.",
 			"breakdown": [
 				{
@@ -1182,7 +1182,7 @@ var surahsOld = [
 						["The two other prisoners discuss their dreams with Yusuf (عليه السلام) and ask him to interpret them. "],
 						["One of them said, ‘I dreamed that I was pressing grapes’; the other said, ‘I dreamed that I was carrying bread on my head and that the birds were eating it.’ "],
 						["Yusuf (عليه السلام) mentioned their next meal reminding them that Allah provides their sustenance then replies that he is able to interpret dreams because Allah has taught him to do so."],
-						["He spells out his belief in Allah and in the Day of Judgement. "],
+						["He spells out his belief in Allah and on the Day of Judgement. "],
 						["Yusuf (عليه السلام) asserts that his family, the family of Ibrahim, Is’haq and Ya’qoob (عليهم السلام) hold the knowledge of the Oneness of Allah, and that his religion and family do not attribute partners to Allah."],
 						["Most people however do not realise this."]
 					]
@@ -1242,7 +1242,7 @@ var surahsOld = [
 						["Ya’qoob (عليه السلام) advises his sons to not all enter the city by the same gate as a precaution but at the same time tells them that this will not help them against the will of Allah.  All power is in Allah’s hands, says Ya’qoob (عليه السلام)."],
 						["The sons of Ya’qoob (عليه السلام) present themselves to Yusuf (عليه السلام) and he draws his youngest brother Binyamin aside and reveals his identity to him."],
 						["Yusuf (عليه السلام) gives his brothers their portion of grain but places his drinking cup in his youngest brother’s pack. Someone calls out and accuses the caravan of thievery. ‘What is lost?’ the brothers ask. ‘The King’s drinking cup’, is the reply, and ‘whoever returns it will be given a camel’s load of grain’."],
-						["The brothers respond that they did not come to make mischief. Yusuf’s (عليه السلام) men ask the brothers what penalty should apply if they are found to be lying. They answered, ‘the penalty will be the enslavement of the person in whose bag the cup is found: this is how we punish wrongdoers.’"],
+						["The brothers responded that they did not come to make mischief. Yusuf’s (عليه السلام) men ask the brothers what penalty should apply if they are found to be lying. They answered, ‘the penalty will be the enslavement of the person in whose bag the cup is found: this is how we punish wrongdoers.’"],
 						["Yusuf (عليه السلام) did not want his brother punished under the laws of Egypt but wanted the opportunity to keep his brother with him while the others returned to their father Ya’qoob (عليه السلام). The bags are searched and the cup is found in the youngest brother’s belongings."],
 						["Allah explains that He devised a plan for Yusuf (عليه السلام) and that He will raise the status of whomsoever He wills."],
 						["The brothers allude to Binyamin’s brother (Yusuf (عليه السلام)) being a thief, but Yusuf (عليه السلام) controls himself and does not disclose his identity. The brothers beg that one of them be allowed to stay in his brother’s stead; this is refused."],
@@ -1910,7 +1910,7 @@ var surahsOld = [
 						["Many say to the Prophet (ﷺ) that they will not believe until he performs miracles to their demands such as making water rush from the ground or causing rivers to appear in gardens or making pieces of the sky fall down or bringing Allah and the Angels down in front of them. "],
 						["Even then, they say, we will not believe in your ascension unless you bring down for us a book that we can read. "],
 						["Allah says to tell them that you (Prophet Muhammad (ﷺ)) have never claimed to be anything other than a human being with a message."],
-						["They didn’t believe because they queried why Allah would send a human being. "],
+						["They didn’t believe because they wondered why Allah would send a human being. "],
 						["Thus they should be told that if there had been Angels walking about on earth then an Angel would have been sent. "],
 						["On the Day of Resurrection the Disbelievers will be gathered together lying on their faces blind, dumb and deaf and will be sent to Hell."],
 						["If mankind was in charge of Allah’s Mercy he would withhold it because human beings have always been stingy."],
@@ -1986,7 +1986,7 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "REMEMBERANCE OF ALLAH",
+					"name": "REMEMBRANCE OF ALLAH",
 					"rangeStart": "27",
 					"rangeEnd": "31",
 					"details": [
@@ -2262,7 +2262,7 @@ var surahsOld = [
 		"summary": {
 			"name": "This surah takes its name from its first word 'Ṭā Hā.' This name, like the names of many other surahs, is merely symbolic.",
 			"period": "Makkan",
-			"context": "The period of its revelation is the same as of Surah Maryam. It is possible that it was sent down during the Migration to Habasha or just after it. Umar (رضي الله عنه‎) read this surah and he became Muslim. ",
+			"context": "The period of its revelation is the same as that of Surah Maryam. It is possible that it was sent down during the Migration to Habasha or just after it. Umar (رضي الله عنه‎) read this surah and he became Muslim. ",
 			"theme": "A surah that both begins and ends with mention of the Qur’an: it was not sent to the Prophet (ﷺ) to cause him grief but is a clear proof from his Lord. The surah enumerates the blessing of Allah to his prophets and their followers. The example of Moosa (عليه السلام) is given as a lengthy account in order to encourage the Prophet (ﷺ) and show the end of the Disbelievers. The destruction of earlier generations is cited as a lesson from which the Disbelievers should learn. The Prophet (ﷺ) is ordered to be patient and to persevere with his worship.",
 			"breakdown": [
 				{
@@ -2571,7 +2571,7 @@ var surahsOld = [
 	{
 		"name": "al-Ḥajj",
 		"summary": {
-			"name": "This surah takes its name from V.27 and get its title from the reference to the rite of pilgrimage initiated by Ibrahim (عليه السلام). ",
+			"name": "This surah takes its name from V.27 and gets its title from the reference to the rite of pilgrimage initiated by Ibrahim (عليه السلام). ",
 			"period": "Medinan",
 			"context": "It appears that the month of Zul-Hijjah must have brought to the immigrants nostalgic memories of their homes in Makkah and naturally they must have thought of their Sacred City and of their Hajj congregation there, and grieved to think that the disbelieving Quraysh had debarred them from visiting the Sacred Mosque. Therefore, they might even have been praying for and expecting divine permission to wage war against those tyrants who had expelled them from their homes and deprived them of visiting the House of Allah and made it difficult for them to follow the way of Islam. It was at this psychological occasion that these verses were sent down in Medina. That is why the purpose for which Masjid-al-Haram was built has been specifically mentioned. It has been made plain that Hajj had been enjoined for the worship of Allah alone. But it is an irony that afterwards it had been dedicated to the rituals of shirk and the worshipers of Allah alone had been debarred from visiting it. Therefore, permission for waging war against those tyrants has been given to oust them from there and to establish the righteous way of life for establishing virtue and eradicating evil. ",
 			"theme": "This surah is introduced by the condemnation of those who bar the believers from access to the Sacred Mosque and is followed by permission to fight when attacked. It begins with the Day of Judgement and castigates those who worship useless idols, describing them later as powerless to create even a fly. Method of Hajj discussed. The surah then ends by urging the Muslims to persevere in following the faith of Ibrahim (عليه السلام).",
@@ -2725,7 +2725,7 @@ var surahsOld = [
 	{
 		"name": "al-Muʾminūn",
 		"summary": {
-			"name": "The surah takes its name‘Al-Mu'minoon’ from the first verse.",
+			"name": "The surah takes its name ‘Al-Mu'minoon’ from the first verse.",
 			"period": "Makkan",
 			"context": "This was revealed during the middle stage of prophethood at Makkah when a bitter conflict had begun between the Prophet (ﷺ) and the Disbelievers of Makkah, though the persecution by them had not yet become tyrannical. It appears that the surah was sent down during the climax of the 'famine' in Makkah, which according to authentic traditions occurred during the middle stage of prophethood. ",
 			"theme": "A surah which stresses the character of the Believer and how they will succeed, whereas the Disbelievers will be punished for their arrogance and derision. Several proofs are given of Allah’s Oneness and His power, and the inevitability of the Resurrection is emphasized.",
@@ -2881,7 +2881,7 @@ var surahsOld = [
 		"summary": {
 			"name": "The title of the chapter is taken from verses 35 in where Allah is described as the light of the heavens and the earth.",
 			"period": "Medinan",
-			"context": "• This was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by v.11-20 that deal with the incident of the 'Slander', which occurred during that Campaign. • This surah and v. 28-73 of Surah Al-Ahzab (of which this is the sequel) were sent down to strengthen the moral front, which at that time was the main target of the attack. The verses of surah Al-Ahzab were sent down concerning the Prophet's (ﷺ) marriage with Zainab (رضی اللہ عنھا) (who was the divorced wife of his adopted son, Zaid bin Harithah) and on the occasion of the second attack (the \"Slander\" about A’ishah (رضی اللہ عنھا), Surah An-Noor was sent down to repair the cracks that had appeared in the unity of the Muslim Community.  • This second slander was made on the honor of A’isha (رضی اللہ عنھا) in connection with an incident which occurred while he was returning from the Campaign against Bani al-Mustaliq. She was left behind unwittingly by her travelling companions after wandering away in search of a dropped necklace. She was escorted back to Medina by a Muslim man coming later who found her there. The instigator of the slander was Abdullah bin Ubayy, chief of the Hypocrites who played the part of a villain in this attack where the slander implied: an attack on the honor of the Prophet (ﷺ) and Abu Bakr Siddiq (رضي الله عنه‎), a means to undermine the high moral superiority which was the greatest asset of the Islamic Movement and intended to ignite civil war between the Muhajirs and the Ansar, and between Aus and Khazraj, the two clans of the Ansar. ",
+			"context": "• This was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by v.11-20 that deals with the incident of the 'Slander', which occurred during that Campaign. • This surah and v. 28-73 of Surah Al-Ahzab (of which this is the sequel) were sent down to strengthen the moral front, which at that time was the main target of the attack. The verses of surah Al-Ahzab were sent down concerning the Prophet's (ﷺ) marriage with Zainab (رضی اللہ عنھا) (who was the divorced wife of his adopted son, Zaid bin Harithah) and on the occasion of the second attack (the \"Slander\" about A’ishah (رضی اللہ عنھا), Surah An-Noor was sent down to repair the cracks that had appeared in the unity of the Muslim Community.  • This second slander was made on the honor of A’isha (رضی اللہ عنھا) in connection with an incident which occurred while he was returning from the Campaign against Bani al-Mustaliq. She was left behind unwittingly by her travelling companions after wandering away in search of a dropped necklace. She was escorted back to Medina by a Muslim man coming later who found her there. The instigator of the slander was Abdullah bin Ubayy, chief of the Hypocrites who played the part of a villain in this attack where the slander implied: an attack on the honor of the Prophet (ﷺ) and Abu Bakr Siddiq (رضي الله عنه‎), a means to undermine the high moral superiority which was the greatest asset of the Islamic Movement and intended to ignite civil war between the Muhajirs and the Ansar, and between Aus and Khazraj, the two clans of the Ansar. ",
 			"theme": "This surah clarifies several regulations for the Muslim community, mainly to do with marriage, modesty, obedience to the Prophet (ﷺ), and appropriate behaviour in the household. Preservation of family and its etiquette. The surah is named after the Verse of Light (verses 35–6) where Allah’s light is contrasted to the darkness in which the Disbelievers find themselves engulfed.",
 			"breakdown": [
 				{
@@ -2892,7 +2892,7 @@ var surahsOld = [
 						["Allah has sent this chapter down from on high and contains commandments that are obligatory."],
 						["The punishment for fornication is then outlined which is flogging as it is a crime, and witnesses must be present for the crime to be valid."],
 						["Witnesses must also be present for the punishment."],
-						["Believers should not marry fornicators and those who makes false accusations make themselves liable for punishment. "],
+						["Believers should not marry fornicators and those who make false accusations make themselves liable for punishment. "],
 						["If couples accuse each other of adultery they can be exempted from punishment by taking prescribed oaths attesting to their good behaviour."],
 						[""],
 						[""]
@@ -3100,11 +3100,11 @@ var surahsOld = [
 					"rangeStart": "35",
 					"rangeEnd": "44",
 					"details": [
-						["There were many who were given warnings but rejected reveations including people during the time of Moosa and Haroon (عليهم السلام), Nuh (عليه السلام) and those among the people of ‘Aad, Thamud and the Companions of the Rass who were destroyed as a result."],
+						["There were many who were given warnings but rejected revelations including people during the time of Moosa and Haroon (عليهم السلام), Nuh (عليه السلام) and those among the people of ‘Aad, Thamud and the Companions of the Rass who were destroyed as a result."],
 						["Now they deny Prophet Muhammad (ﷺ) but soon they will see a punishment for doing so."],
-						["And there is also those who have taken their own desires as his god. "],
+						["And there are also those who have taken their own desires as his god. "],
 						["The Prophet (ﷺ) cannot guide a person who chooses not to hear or understand the warning. "],
-						["Some people are like cattle lead away from the right track. "],
+						["Some people are like cattle leading away from the right track. "],
 						[""],
 						[""]
 					]
@@ -3351,7 +3351,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "6",
 					"details": [
-						["Allah says that this scripture is a guide for the Believers and joyful news for those who pray, give charity, and believe in the Hereafter, whereas it is a warning for those whodo not believe and wander blindly believing that their lives will have no lasting consequences and will face punishment. "],
+						["Allah says that this scripture is a guide for the Believers and joyful news for those who pray, give charity, and believe in the Hereafter, whereas it is a warning for those who don't believe and wander blindly believing that their lives will have no lasting consequences and will face punishment. "],
 						[""],
 						[""],
 						[""],
@@ -3366,7 +3366,7 @@ var surahsOld = [
 					"rangeEnd": "14",
 					"details": [
 						["While travelling with his family Moosa (عليه السلام) sees a Fire which He approaches to find Allah calling out to him and showing him miracles of his staff turning into a snake."],
-						["Allah calms his fear saying that the messengers should not be afraid when in Allah’s presence and then tells Moosa (عليه السلام) to put his hand inside his cloak and when he withdraws it, it will be shinning white. "],
+						["Allah calms his fear saying that the messengers should not be afraid when in Allah’s presence and then tells Moosa (عليه السلام) to put his hand inside his cloak and when he withdraws it, it will be shining white. "],
 						["These are two of the the nine signs that will be given to Pharaoh to convince him to submit to Allah but he refuses and comes to a bad end."],
 						[""],
 						[""],
@@ -3385,7 +3385,7 @@ var surahsOld = [
 						["The hoopoe returned saying that he had been in Sheba where he found a woman with a magnificent throne leading the people but they all worship the sun instead of Allah. Sulayman (عليه السلام) thus sent the hoopoe with a letter for the Queen of Sheba inviting to submit to Allah which she read to her counsellors. "],
 						["Sulayman (عليه السلام) and his army had not invaded the city so she decided to send a delegation with gifts but Sulayman (عليه السلام) said that they could not give him anything that Allah had not already provided for him. Sulayman (عليه السلام) thus sent them away with a threat to invade their city."],
 						["Sheba thus decided to come in person, and whilst waiting Sulayman (عليه السلام) asked who could bring Sheba’s magnificent throne upon which one of the Jinn was able to produce the throne within the blink of an eye. When Sheba arrived, she was asked if what she saw was her throne and although it was disguised she said it looked as if it was."],
-						["When Sheba was asked to enter the palace, she thought she was about to wade through water and lifted her skirt, however the floor was made of shinning smooth glass."],
+						["When Sheba was asked to enter the palace, she thought she was about to wade through water and lifted her skirt, however the floor was made of shining smooth glass."],
 						["When she saw for herself what Allah had given Sulayman (عليه السلام) and how majestic his position was, she submitted to the command of Allah and acknowledged that he was a noble prophet. "]
 					]
 				},
@@ -3565,7 +3565,7 @@ var surahsOld = [
 					"rangeStart": "51",
 					"rangeEnd": "61",
 					"details": [
-						["The Prophet (ﷺ) is told he does not decide who will be guided but Allah guides whoever He pleases and knows which people will accept guidance."],
+						["The Prophet (ﷺ) is told he does not decide who will be guided but Allah guides whomever He pleases and knows which people will accept guidance."],
 						["And no town is ever destroyed without ever being offered guidance from a messenger and warner."],
 						[""],
 						[""],
@@ -3822,7 +3822,7 @@ var surahsOld = [
 		"summary": {
 			"name": "The surah takes its name Ar-Room from the second verse in which the words ghulibat-ir-Room have occurred.",
 			"period": "Makkan",
-			"context": "The period of the revelation of this surah is determined by the historical event wherein \"The Romans have been vanquished in the neighboring land.\" The Persians under Chosroes had taken over much Byzantine territory especially at the Levant in 615 A. D – the date of revelation and the same time of the first migration to Abbysinia which was an ally of the Byzantium Empire at the time. Pagan Arabs were mocking the situation claiming idolatry was defeating revealed religion, particularly after Chosroes captured Jerusalem massacaring Christians and the Church of the Holy Sepulchre. Even seven to eight years after this prediction of the Qur’an, the conditions were such that no one could even imagine that the Byzantine Empire would ever gain an upper hand over Persia. Not to speak of gaining domination, no one could hope that the Empire, under the circumstances, would even survive. However Byzantine emperor Heraclius in 624 had attacked Persia and destroyed the birthplace of Zoroaster and ravaged the principal Fire temple of Persia. This was the very year when the Muslims achieved a decisive victory at Badr for the first time against the Disbelievers. Thus, both the predictions made in Surah Room were fulfilled simultaneously within the stipulated period of ten years. At the battle at Nineveh in 627 A.D. they dealt them the hardest blow to Persia which signalled the fulfilment of the prediction of the Qur’an. This was the year when the peace Treaty of Hudaybiyyah was concluded, which the Qur’an has termed as \"the supreme victory\". In 628 A. D., the Emperor himself went to Jerusalem to install the \"Holy Cross\" in its place, and in the same year the Prophet (ﷺ) entered Makkah for the first time after the Hijrah to perform the `Umra-tul-Qada'. ",
+			"context": "The period of the revelation of this surah is determined by the historical event wherein \"The Romans have been vanquished in the neighboring land.\" The Persians under Chosroes had taken over much Byzantine territory especially at the Levant in 615 AD – the date of revelation and the same time of the first migration to Abyssinia which was an ally of the Byzantium Empire at the time. Pagan Arabs were mocking the situation claiming idolatry was defeating revealed religion, particularly after Chosroes captured Jerusalem massacring Christians and the Church of the Holy Sepulchre. Even seven to eight years after this prediction of the Qur’an, the conditions were such that no one could even imagine that the Byzantine Empire would ever gain an upper hand over Persia. Not to speak of gaining domination, no one could hope that the Empire, under the circumstances, would even survive. However Byzantine emperor Heraclius in 624 had attacked Persia and destroyed the birthplace of Zoroaster and ravaged the principal Fire temple of Persia. This was the very year when the Muslims achieved a decisive victory at Badr for the first time against the Disbelievers. Thus, both the predictions made in Surah Room were fulfilled simultaneously within the stipulated period of ten years. At the battle at Nineveh in 627 A.D. they dealt them the hardest blow to Persia which signalled the fulfilment of the prediction of the Qur’an. This was the year when the peace Treaty of Hudaybiyyah was concluded, which the Qur’an has termed as \"the supreme victory\". In 628 A. D., the Emperor himself went to Jerusalem to install the \"Holy Cross\" in its place, and in the same year the Prophet (ﷺ) entered Makkah for the first time after the Hijrah to perform the `Umra-tul-Qada'. ",
 			"theme": "A surah which opens with a reference to the defeat of the Byzantines at the hands of the Persians in Syria, and the subsequent victory of the Byzantines. The surah urges people to reflect on the creation of themselves, the heavens and earth, and all Allah’s wonders. Allah’s Power to give life to a barren land is repeated as an indication both of His ability to raise the dead and of His Mercy to mankind. The Disbelievers are warned to believe before it is too late; the Prophet (ﷺ) is urged to persevere and to ignore the taunts of the Disbelievers.",
 			"breakdown": [
 				{
@@ -4686,7 +4686,7 @@ var surahsOld = [
 		                ["Dawud (عليه السلام) had strength and the mountains and birds joined him in praising Allah, he was given good speech and a mighty kingdom."],
 		                ["The story of 2 men who entered Dawud’s (عليه السلام) chambers to settle a dispute where one brother who had 99 sheep took his brothers only sheep, Dawud (عليه السلام) said that he had been wronged but then fell in prostration when he realised he was being tested by Allah."],
 		                ["Allah made Dawud (عليه السلام) a successor on the earth and advised him to not follow his desires to be successful."],
-		                ["Sulayman (عليه السلام) similarly was tested when he gave preference for the finer things like his horses and when they disappeared and brought back to him he striked them but returned to his throne with a mere body (possibly his skeleton or someone else including his son who was not worthy to carry on the mighty dynasty) on it upon which he realised he was tested by Allah. He then prayed for forgiveness and a vast kingdom and so was given power of the winds and the Jinn of all types."],
+		                ["Sulayman (عليه السلام) similarly was tested when he gave preference for the finer things like his horses and when they disappeared and brought back to him he struck them but returned to his throne with a mere body (possibly his skeleton or someone else including his son who was not worthy to carry on the mighty dynasty) on it upon which he realised he was tested by Allah. He then prayed for forgiveness and a vast kingdom and so was given power of the winds and the Jinn of all types."],
 		                ["Ayyub (عليه السلام) cried that Shaytan had exacerbated his weariness and suffering, so Allah said to him to stamp his foot where water will gush out for him and cure him."],
 		                ["When he was cured and his family who had previously deserted him came back he perhaps remembered an oath to punish someone, but Allah told him to strike them with grass so as to not cause pain so that he could fulfil it in mercy."],
 		                ["Ibrahim, Is’haq and Ya’qoob (عليهم السلام) were given the quality of remembering the Hereafter, and Isma’eel, Al’Yasa (Elisha) and Dhul Kifl (عليهم السلام) were among the truly good."]
@@ -4783,10 +4783,10 @@ var surahsOld = [
 	{
 		"name": "Ghāfir",
 		"summary": {
-		    "name": "The surah takes its name from Al Ghaafir (The Forgiver and is also know as Al Mu'min (the believer of Pharaoh's people).",
+		    "name": "The surah takes its name from Al Ghaafir (The Forgiver and is also known as Al Mu'min (the believer of Pharaoh's people).",
 		    "period": "Makkan",
 		    "context": "According to Ibn 'Abbas and Jabir bin Zaid, this surah was sent down consecutively after Surah Az-Zumar. The Disbelievers of Makkah at that time were engaged in two kinds of the activities against the Prophet (ﷺ). First, they were disputing the Qur’an and Messenger creating every kind of suspicion and misgiving in the minds of the people. Second, they were preparing the ground for putting an end to the Prophet (ﷺ) himself, for example one day when the Prophet (ﷺ) was offering his prayer in the precincts of the Ka’bah, suddenly 'Uqbah bin Abi Mu'ait, rushed forward and putting a piece of cloth round his neck started twisting it so as to strangle him to death. Abu Bakr (رضي الله عنه‎), who happened to go there in time, pushed him away. Abdullah (رضي الله عنه‎) says that when Abu Bakr (رضي الله عنه‎) was struggling with the cruel man, he was saying words to the effect: \"Would you kill a man only because he says: Allah is my Lord?\" which mirrors the sayings of the secret believer in this surah.",
-		    "theme": "A surah with two recurring themes: disputing Allah’s truth and calling upon Him. In the opening verses Allah is described as the Forgiver, and the Accepter of repentance, yet severe in punishment, and this dual aspect is exemplified in the surah. The central section of the surah deals with the story of Pharaoh and Moosa (عليه السلام): the destruction of one and victory of the other. The Prophet (ﷺ) is, in his turn, urged to be steadfast and to ignore the taunts of the Disbelievers.",
+		    "theme": "A surah with two recurring themes: disputing Allah’s truth and calling upon Him. In the opening verses Allah is described as the Forgiver, and the Acceptor of repentance, yet severe in punishment, and this dual aspect is exemplified in the surah. The central section of the surah deals with the story of Pharaoh and Moosa (عليه السلام): the destruction of one and victory of the other. The Prophet (ﷺ) is, in his turn, urged to be steadfast and to ignore the taunts of the Disbelievers.",
 		    "breakdown": [
 		        {
 		            "name": "WARNINGS OF PAST MESSENGERS AND THE CONSEQUENCES ON THE DAY OF JUDGEMENT",
@@ -4848,7 +4848,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "This surah is also known as the title of’ Ha Mim al-Sajdah’ which implies that it is a surah which begins with Ha-Mim and in which a verse requiring the performance of sajdah (prostration) has occurred.",
 		    "period": "Makkan",
-		    "context": "Utbah bin Rabiah went and sat by the Prophet (ﷺ) and put his case for trying to end their disagreements and suggested if he wanted wealth, status, curing of Jinn possession he would give them upon which the Prophet (ﷺ) began reciting this surah. Utbah then went back to the Quraysh and said the Qur’anic recitation was not worldy and he would do nothing to obstruct him lest they become unsuccessful.",
+		    "context": "Utbah bin Rabiah went and sat by the Prophet (ﷺ) and put his case for trying to end their disagreements and suggested if he wanted wealth, status, curing of Jinn possession he would give them upon which the Prophet (ﷺ) began reciting this surah. Utbah then went back to the Quraysh and said the Qur’anic recitation was not worldly and he would do nothing to obstruct him lest they become unsuccessful.",
 		    "theme": "This surah deals with the obduracy of the Disbelievers, the truthfulness of the Qur’an, the Oneness of Allah, and the inevitability of Resurrection. The surah makes several references to the senses which the Disbelievers shut off from perceiving the Truth in this world, and which will then testify against their ‘owners’ on the Day of Resurrection, and it describes the arrogance displayed by people when all is well, contrasted with their humility and despair when difficulties strike.",
 		    "breakdown": [
 		        {
@@ -4964,7 +4964,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "It is derived from the word ‘zukhrufan’ which occurs in verse 33 of this surah referring to gold ornaments.",
 		    "period": "Makkan",
-		    "context": "This surah was sent down in the same period in which the Surahs Al-Mumin, As-Sajdah and Ash-Shura, were sent down. It appears that the revelation of this series of the surahs began when the Disbelievers of Makkah were planning to put an end to the Prophet's (ﷺ) life. Day and night, they were holding consultations in their assemblies as how to eliminate him, and even an attack on his life also had been made as has been clearly referred to in v. 79-80. ",
+		    "context": "This surah was sent down in the same period in which the Surahs Al-Mumin, As-Sajdah and Ash-Shura, were sent down. It appears that the revelation of this series of the surahs began when the Disbelievers of Makkah were planning to put an end to the Prophet's (ﷺ) life. Day and night, they were holding consultations in their assemblies as to how to eliminate him, and even an attack on his life also had been made as has been clearly referred to in v. 79-80. ",
 		    "theme": "A surah named after the gold ornaments mentioned in verse 35 and alluded to again in verse 53: in both instances Allah is refuting the claim of the Disbelievers that a true prophet would be rich. The fact that the Angels are not Allah’s daughters but His obedient servants is emphasized again and again. Similarly, the idea that Isa (عليه السلام) could be the son of Allah is clearly denied.",
 		    "breakdown": [
 		        {
@@ -4974,7 +4974,7 @@ var surahsOld = [
 		            "details": [
 		                ["The Qur’an is the Mother of the Book kept with Allah. All prophets were ridiculed."],
 		                ["Allah’s signs illustrated to us and how we use them to make our living."],
-		                ["They say if Allah willed they wouldn’t worship them, they follow the way of their fathers blindly even thought they are presented with true guidance."]
+		                ["They say if Allah willed they wouldn’t worship them, they follow the way of their fathers blindly even though they are presented with true guidance."]
 		            ]
 		        },
 		        {
@@ -5049,7 +5049,7 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "16",
 		            "details": [
-		                ["Qur’an was sent down on a blessed night, the night in which is decided every matter (possibly Laylatul Qadr). Allah has always sent messages to man."],
+		                ["Qur’an was sent down on a blessed night, the night in which every matter is decided (possibly Laylatul Qadr). Allah has always sent messages to man."],
 		                ["The day when there will be a visible smoke from the sky is when they will believe but it will be too late."]
 		            ]
 		        },
@@ -5241,7 +5241,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "A surah that takes its title from verse 1 and makes reference to the victory of the Prophet (ﷺ) and the Muslims from the Truce of Hudaybiyyah.",
 		    "period": "Medinan",
-		    "context": "This was revealed in Dhil-Qadah, A. H. 6, at a time when the Prophet (ﷺ) was on his return journey to Medina after concluding the Truce of Hudaybiyyah with the Disbelievers of Makkah. Upon the Prophet (ﷺ) seeing a divine dream of umrah, he set out with his companions to Makkah despite its dangers. By going in a forbidden month, the Quraysh were hesitant to attack and tribe to provoke the defenceless Muslims and gain allies among the Arab tribes but failed as they were indeed only pilgrims. However, when Uthman (رضي الله عنه‎) was sent as a messenger to the Quraysh he was captured in the city, and then rumours of him being killed made the Muslims make the Pledge of Ridwan to fight to death. However, he came back and peace was negotiated at Hudaybiyyah, a great success (Al Fath) for Muslims in the long term but the Muslims felt humiliated in the short term. This treaty was made as the Muslims had set out to perform pilgrimage, and the Makkans decided to bar them at Hudaybiyyah from reaching the town and sent emissaries to have discussions with the Prophet (ﷺ). In the end the Prophet (ﷺ) signed a treaty that he and the Believers would not enter Makkah that year but would do so the next year. Seeing the long-term significance of this treaty, in the interests of peace he agreed to a truce of ten years during which time, if any Makkan went over to his side, he would return him to the Makkans, but if any of his people went over to the Makkans, they would not return them. The treaty made the Muslims: a recognised state from Arabs, able to perform pilgrimage, focus on other threat such as the Jews and Hypocrites and gave time to spread Islam across Arabia. It was all due to this treaty that two years later when in consequence of the Quraysh's violating the treaty the Prophet (ﷺ) invaded Makkah, he was accompanied by an army 10,000 strong, whereas on the occasion of Hudaybiyyah only 1,400 men had joined him in the march.    ",
+		    "context": "This was revealed in Dhil-Qadah, A. H. 6, at a time when the Prophet (ﷺ) was on his return journey to Medina after concluding the Truce of Hudaybiyyah with the Disbelievers of Makkah. Upon the Prophet (ﷺ) seeing a divine dream of umrah, he set out with his companions to Makkah despite its dangers. By going in a forbidden month, the Quraysh were hesitant to attack any tribe to provoke the defenceless Muslims and gain allies among the Arab tribes but failed as they were indeed only pilgrims. However, when Uthman (رضي الله عنه‎) was sent as a messenger to the Quraysh he was captured in the city, and then rumours of him being killed made the Muslims make the Pledge of Ridwan to fight to death. However, he came back and peace was negotiated at Hudaybiyyah, a great success (Al Fath) for Muslims in the long term but the Muslims felt humiliated in the short term. This treaty was made as the Muslims had set out to perform pilgrimage, and the Makkans decided to bar them at Hudaybiyyah from reaching the town and sent emissaries to have discussions with the Prophet (ﷺ). In the end the Prophet (ﷺ) signed a treaty that he and the Believers would not enter Makkah that year but would do so the next year. Seeing the long-term significance of this treaty, in the interests of peace he agreed to a truce of ten years during which time, if any Makkan went over to his side, he would return him to the Makkans, but if any of his people went over to the Makkans, they would not return them. The treaty made the Muslims: a recognised state from Arabs, able to perform pilgrimage, focus on other threat such as the Jews and Hypocrites and gave time to spread Islam across Arabia. It was all due to this treaty that two years later when in consequence of the Quraysh's violating the treaty the Prophet (ﷺ) invaded Makkah, he was accompanied by an army 10,000 strong, whereas on the occasion of Hudaybiyyah only 1,400 men had joined him in the march.    ",
 		    "theme": "Throughout the surah the Prophet (ﷺ) is assured that this treaty that Allah has given him is a great breakthrough (cf. verses 1–3, 18–21, 27). The Believers are reassured that their self-restraint and obedience to the Prophet (ﷺ) were inspired by Allah. The surah condemns both the Hypocrites in Medina and the idolaters of Makkah and closes by praising the Believers. The surah talks about the moral and physical victory of Islam over the forces of unbelief.  The Hypocrites and Disbelievers will be disappointed with this victory.",
 		    "breakdown": [
 		        {
@@ -5328,7 +5328,7 @@ var surahsOld = [
 		            "rangeEnd": "13",
 		            "details": [
 		                ["The Believers are told not to ridicule or insult one another, or one group mock another, as they may be better than themselves in Allah’s eyes."],
-		                ["They should also avoid being suspicious, spying and backbiting as Allah likens this to eating the flesh of ones own dead brother."],
+		                ["They should also avoid being suspicious, spying and backbiting as Allah likens this to eating the flesh of one's own dead brother."],
 		                ["Allah reminds the Believers that they were created from a single pair, male and female, one family, that has been divided into tribes and nations so that you may get to know one another, and the only thing that determines a person’s worth in Allah’s eyes is piety."]
 		            ]
 		        },
@@ -5351,7 +5351,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah derives its name from the initial letter Qaf.",
 		    "period": "Makkan",
-		    "context": "The period of revelation is the second stage of the Prophet's (ﷺ) life at Makkah, which lasted from the third year of the prophethood till the fifth year. This surah might have been sent down in about the 5th year, when the antagonism of the Disbelievers had become quite intense but had not yet assumed tyrannical proportions. The Prophet (ﷺ) gave kutbah on this entire surah.",
+		    "context": "The period of revelation is the second stage of the Prophet's (ﷺ) life at Makkah, which lasted from the third year of the prophethood till the fifth year. This surah might have been sent down in about the 5th year, when the antagonism of the Disbelievers had become quite intense but had not yet assumed tyrannical proportions. The Prophet (ﷺ) gave khutbah on this entire surah.",
 		    "theme": "A surah which deals predominantly with the Resurrection and the Day of Judgement. Reference is made to previous generations of Disbelievers, both to warn the Disbelievers in Makkah and to reassure the Prophet (ﷺ). Creation is cited as an indication of Allah’s ability to bring the dead to life again, and emphasis is placed on the powerlessness of man on the Day of Resurrection. The surah both opens and closes with mention of the Qur’an.",
 		    "breakdown": [
 		        {
@@ -5501,8 +5501,8 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah derives its name from the very first word wan Najm. ",
 		    "period": "Makkan",
-		    "context": "This surah was revealed in the Ramadan of 5th year of Prophethood. This was the first surah in which a verse requiring the performance of a sajdah was sent down and was the first surah of the Qur'an, which the Prophet (ﷺ) had publicly recited before an assembly of the Quraysh in which both the Believers and the Disbelievers were present at the Ka’bah. At the end, when he recited the verse requiring the performance of a sajdah and fell down in prostration, the whole assembly also fall down in prostration with him, and even those chiefs of the polytheists could not resist falling down in prostration. Only one man, Umayyah bin Khalaf, from among the Disbelievers, who did not fall down in prostration but took a little dust and rubbing it on his forehead said that that was enough for him, later he died in a state of disbelief.",
-		    "theme": "A surah that confirms the divine source of the Prophet’s (ﷺ) message and refers to his ascension to Paradiseduring the Night Journey. The surah refutes the claims of the Disbelievers about the goddesses and the Angels, and then lists several truths about Allah’s Power. The surah closes with a warning of the imminent Day of Judgement. Some of their wrong beliefs in the Angels as daughters of Allah, intercession of the Angels etc. are also mentioned. The Angels are the servants of Allah.",
+		    "context": "This surah was revealed in the Ramadan of the 5th year of Prophethood. This was the first surah in which a verse requiring the performance of a sajdah was sent down and was the first surah of the Qur'an, which the Prophet (ﷺ) had publicly recited before an assembly of the Quraysh in which both the Believers and the Disbelievers were present at the Ka’bah. At the end, when he recited the verse requiring the performance of a sajdah and fell down in prostration, the whole assembly also fell down in prostration with him, and even those chiefs of the polytheists could not resist falling down in prostration. Only one man, Umayyah bin Khalaf, from among the Disbelievers, who did not fall down in prostration but took a little dust and rubbing it on his forehead said that that was enough for him, later he died in a state of disbelief.",
+		    "theme": "A surah that confirms the divine source of the Prophet’s (ﷺ) message and refers to his ascension to Paradise during the Night Journey. The surah refutes the claims of the Disbelievers about the goddesses and the Angels, and then lists several truths about Allah’s Power. The surah closes with a warning of the imminent Day of Judgement. Some of their wrong beliefs in the Angels as daughters of Allah, intercession of the Angels etc. are also mentioned. The Angels are the servants of Allah.",
 		    "breakdown": [
 		        {
 		            "name": "THE PROPHET (ﷺ) AND THE NIGHT JOURNEY",
@@ -5706,7 +5706,7 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "ALLAH’S MAJESTY AND MANS DEPENDENCE",
+		            "name": "ALLAH’S MAJESTY AND MAN'S DEPENDENCE",
 		            "rangeStart": "57",
 		            "rangeEnd": "74",
 		            "details": [
@@ -5810,7 +5810,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "This surah is entitled Al Mujadalah as well as Al Mujadilah, the title being derived from the word ‘tujadiluka’ of the very first verse. As at the outset mention has been made of the woman who pleaded with the Prophet (ﷺ) the case of zihar pronounced by her husband and urged him to suggest a way out of the difficult situation in order to save her and, her children's life from ruin, and Allah has described her pleading by the word \"mujadalah\", the surah came to be known by this very title. If it is read as \"mujadalah\", it would mean \"pleading and arguing\", and if it is read as \"mujadilah\", it would mean \"the woman who pleaded and argued.\" ",
 		    "period": "Medinan",
-		    "context": "This surah was revealed some time after the battle of the Trench (Shawwal, 5 A. H.). In Surah Al-Ahzab, Allah while negating that an adopted son could be one's real son, had just said this and no more; \"And Allah has not made those of your wives whom you divorce by zihar your mothers.\" But in that surah, there was nothing to the effect that to divorce a wife by zihar (i.e. saying ones wife is like a mother) was a sin or a crime, nor anything about the legal injunction concerning it. Contrary to it, in this surah the whole law relating to zihar has been laid down, which shows that these detailed injunctions were sent down some time after the brief reference to it in Surah Al- Ahzab. ",
+		    "context": "This surah was revealed some time after the battle of the Trench (Shawwal, 5 A. H.). In Surah Al-Ahzab, Allah while negating that an adopted son could be one's real son, had just said this and no more; \"And Allah has not made those of your wives whom you divorce by zihar your mothers.\" But in that surah, there was nothing to the effect that to divorce a wife by zihar (i.e. saying one'swife is like a mother) was a sin or a crime, nor anything about the legal injunction concerning it. Contrary to it, in this surah the whole law relating to zihar has been laid down, which shows that these detailed injunctions were sent down some time after the brief reference to it in Surah Al- Ahzab. ",
 		    "theme": "A surah which disallows a specific pagan divorce practice: the surah takes its title from the dispute referred to in verse 1 between a wife who had been divorced in this manner and the Prophet (ﷺ). The surah supports the woman. It goes on to state that those who oppose Allah and His messenger, who secretly ally themselves with Shaytan, who lie in their oaths and make intrigues against the Prophet (ﷺ), will be defeated and suffer humiliation both in this world and in the next, while those on Allah’s side will triumph. The surah also speaks about the Hypocrites and other non-Muslim groups in Medina who were involved in spreading rumors against the Prophet (ﷺ).",
 		    "breakdown": [
 		        {
@@ -5927,7 +5927,7 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "PEACEFUL RELATIONS WITH NON-AGGRESORS",
+		            "name": "PEACEFUL RELATIONS WITH NON-AGGRESSORS",
 		            "rangeStart": "7",
 		            "rangeEnd": "9",
 		            "details": [
@@ -6008,8 +6008,8 @@ var surahsOld = [
 		"summary": {
 		    "name": "It is derived from the sentence ‘idha nudiya-lis-salat-imin-yaum-il- Jumu'ati’ of verse 9. ",
 		    "period": "Medinan",
-		    "context": "The period of the revelation of the first section (vv. 1-8) is A. H. 7, and probably it was sent down, on the occasion of the conquest of Khaybar or soon after it. The second section (vv. 9-11) was sent down shortly after the emigration, for the Prophet (ﷺ) had established the Friday congregational Prayer on the 5th day after his arrival at Medina. This happened when a trade caravan arrived in Medina right at the time of the friday congregational service and hearing it all except for 12 men, left the Prophet's Mosque and rushed out to the caravan, although the Prophet (ﷺ) at that time was delivering the sermon.",
-		    "theme": "A surah which takes its title from the instruction to the believers to observe the friday prayer promptly and reliably when called. It further reminds the Muslims of Allah’s Grace in granting them a prophet and the chance to grow spiritually. Those who do not act in accordance with the knowledge they have been given are then criticized.",
+		    "context": "The period of the revelation of the first section (vv. 1-8) is A. H. 7, and probably it was sent down, on the occasion of the conquest of Khaybar or soon after it. The second section (vv. 9-11) was sent down shortly after the emigration, for the Prophet (ﷺ) had established the Friday congregational Prayer on the 5th day after his arrival at Medina. This happened when a trade caravan arrived in Medina right at the time of the Friday congregational service and hearing it all except for 12 men, left the Prophet's Mosque and rushed out to the caravan, although the Prophet (ﷺ) at that time was delivering the sermon.",
+		    "theme": "A surah which takes its title from the instruction to the believers to observe the Friday prayer promptly and reliably when called. It further reminds the Muslims of Allah’s Grace in granting them a prophet and the chance to grow spiritually. Those who do not act in accordance with the knowledge they have been given are then criticized.",
 		    "breakdown": [
 		        {
 		            "name": "ALLAH’S SENDING",
@@ -6144,7 +6144,7 @@ var surahsOld = [
 		                ["And Allah will provide and find a path for those who put trust in Him."],
 		                ["If there is doubt, the period of waiting will be three months for those women who have ceased menstruating and for those who have not [yet] menstruated. The waiting period of those who are pregnant will be until they deliver their child."],
 		                ["And Allah wipes out the sins and gives good deeds to those who fear Him."],
-		                ["The wives whom are being divorced should be housed according to ones means, wherever one houses themselves. They should not be harassed and if they are pregnant they should be looked after until they give birth, if they suckle infants then they must be paid for it."],
+		                ["The wives who are being divorced should be housed according to one's means, wherever one houses themselves. They should not be harassed and if they are pregnant they should be looked after until they give birth, if they suckle infants then they must be paid for it."],
 		                ["Consult together in a good way- if you make difficulties for one another, another woman may suckle the child for the father."]
 		            ]
 		        },
@@ -6167,7 +6167,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah derived its name from the words lima tuharrimu of the very first verse. This too is not a title of its subject matter, but the name implies that it is the surah in which the incident of tahrim (prohibition, forbiddance) has been mentioned. ",
 		    "period": "Medinan",
-		    "context": "In connection with the incident of tahrim referred to in this surah, the traditions of the Hadith mention two ladies who were among the wives of the Prophet (ﷺ) at that time Safiyyah (رضی اللہ عنھا) and Mariyah Qibtiyyah (رضی اللہ عنھا). The former was taken to become a wife by the Prophet (ﷺ) after the conquest of Khaybar, and Khaybar was conquered, as has been unanimously reported, in A. H. 7. The latter had been presented to the Prophet (ﷺ) by Muqawqis, the ruler of Egypt, in A. H. 7 and she had borne him his son, Ibrahim (رضي الله عنه‎), in Dhil-Hijjah, A. H. 8. These historical events almost precisely determine that this surah was sent down some time during A.H. 7 or A. H 8. Some say this was an isuue between A’isha (رضی اللہ عنھا) and Hafsa (رضی اللہ عنھا).",
+		    "context": "In connection with the incident of tahrim referred to in this surah, the traditions of the Hadith mention two ladies who were among the wives of the Prophet (ﷺ) at that time Safiyyah (رضی اللہ عنھا) and Mariyah Qibtiyyah (رضی اللہ عنھا). The former was taken to become a wife by the Prophet (ﷺ) after the conquest of Khaybar, and Khaybar was conquered, as has been unanimously reported, in A. H. 7. The latter had been presented to the Prophet (ﷺ) by Muqawqis, the ruler of Egypt, in A. H. 7 and she had borne him his son, Ibrahim (رضي الله عنه‎), in Dhil-Hijjah, A. H. 8. These historical events almost precisely determine that this surah was sent down some time during A.H. 7 or A. H 8. Some say this was an issue between A’isha (رضی اللہ عنھا) and Hafsa (رضی اللہ عنھا).",
 		    "theme": "A surah that discusses episodes in the Prophet’s (ﷺ) home life. It chides two of the Prophet’s wives for an incident when a confidence was betrayed and urges all believers to submit themselves to Allah and to guard themselves and their families against the Fire. The surah closes by giving examples of believing and disbelieving women. The surah tells the spouses not to ignore Allah’s rules in their love for each other.",
 		    "breakdown": [
 		        {
@@ -6259,7 +6259,7 @@ var surahsOld = [
 		            "rangeStart": "30",
 		            "rangeEnd": "30",
 		            "details": [
-		                ["And if water that sustains everything in the earth was to suddenly be taken away who would bring it back. "]
+		                ["And if water that sustains everything in the earth was to suddenly be taken away, who would bring it back?"]
 		            ]
 		        }
 		    ]
@@ -6373,7 +6373,7 @@ var surahsOld = [
 		            ]
 		        },
 		        {
-		            "name": "THE TRUTH OF THE QUR’AN AND INEITABLE REGRET",
+		            "name": "THE TRUTH OF THE QUR’AN AND INEVITABLE REGRET",
 		            "rangeStart": "48",
 		            "rangeEnd": "52",
 		            "details": [
@@ -6692,7 +6692,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "This surah is called Ad-Dahr as well as Al-Insan after the words occurring in the first verse.",
 		    "period": "Medinan",
-		    "context": "Benefits: The Prophet (ﷺ) used to read this surah in salah of fajr on friday. It was narrated from Mus’ab bin Sa’d that his father said: “For the fajr prayer on fridays, the Messenger of Allah (ﷺ) used to recite ‘Alif-Lam-Mim. The revelation...’ [32:1] and ‘Has there not been over man...’” [76:1]1",
+		    "context": "Benefits: The Prophet (ﷺ) used to read this surah in salah of fajr on Friday. It was narrated from Mus’ab bin Sa’d that his father said: “For the fajr prayer on Fridays, the Messenger of Allah (ﷺ) used to recite ‘Alif-Lam-Mim. The revelation...’ [32:1] and ‘Has there not been over man...’” [76:1]1",
 		    "theme": "A surah that speaks of how man is tested and what the results will be for the evildoers and for the righteous. The Prophet (ﷺ) is urged to persevere in his devotion and to bear with patience.",
 		    "breakdown": [
 		        {
@@ -6982,7 +6982,7 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "3",
 		            "details": [
-		                ["On the Day of Judgment, the skies will be spilt apart, the stars will be flung across the universe, and the seas and oceans will burst forth as if the wall of a dam has broken. "]
+		                ["On the Day of Judgment, the skies will be split apart, the stars will be flung across the universe, and the seas and oceans will burst forth as if the wall of a dam has broken. "]
 		            ]
 		        },
 		        {
@@ -7101,7 +7101,7 @@ var surahsOld = [
 		            "rangeStart": "6",
 		            "rangeEnd": "15",
 		            "details": [
-		                ["Allah acknowledges mans efforts to strive and labour to reach Him and confirms that we will indeed meet Him."],
+		                ["Allah acknowledges man's efforts to strive and labour to reach Him and confirms that we will indeed meet Him."],
 		                ["On the Day of Resurrection mankind will be divided into two distinct groups, those who receive their book of records on their right and enjoy a blessed Hereafter and those who receive it from behind who will be wretched in the Hereafter. "],
 		                ["Indeed, some people led their lives without care, thinking they would never return to Allah for accountability but Allah was watching and seeing all their misdeeds. "]
 		            ]
@@ -7306,7 +7306,7 @@ var surahsOld = [
 	{
 		"name": "al-Ghāshiyah",
 		"summary": {
-		    "name": "The surah takes its name from the word al-ghishiyah in the first verse, The Overwhelming Event. The Arabic word ghashiyah means something that covers entirely. Thus, this overwhelming event will both overwhelm and cover the entire earth. ",
+		    "name": "The surah takes its name from the word al-ghishiyah in the first verse, The Overwhelming Event. The Arabic word ghashiyah means something that covers everything. Thus, this overwhelming event will both overwhelm and cover the entire earth. ",
 		    "period": "Makkan",
 		    "context": "This is one of the earliest surahs to be revealed; but this was the period when the Prophet (ﷺ) had started preaching his message publicly, and the people of Makkah were hearing it and ignoring it carelessly and thoughtlessly.",
 		    "theme": "This surah serves to warn the Disbelievers, encourage the Prophet (ﷺ) and the Believers, and absolve him of responsibility for the Disbelievers. The title comes from the description of events on the Day of Judgement in the first verse, and the downcast faces of the Disbelievers on that Day are contrasted with the radiant faces of the Believers.",
@@ -7335,7 +7335,7 @@ var surahsOld = [
 		            "rangeStart": "17",
 		            "rangeEnd": "20",
 		            "details": [
-		                ["Allah then addresses the Disbelievers asking rhetorically do they not see how the rain clouds are formed, the heavens lifted, the mountains erected and the earth spread out? "]
+		                ["Allah then addresses the Disbelievers asking rhetorically, do they not see how the rain clouds are formed, the heavens lifted, the mountains erected and the earth spread out? "]
 		            ]
 		        },
 		        {
@@ -7460,7 +7460,7 @@ var surahsOld = [
 		            "rangeEnd": "10",
 		            "details": [
 		                ["Allah swears by a number of celestial phenomena including the sun, the moon that follows it, the day when the sun’s splendour is revealed, and the night that descends to shroud the earth and by the sky and how He constructed it and by the earth and how He spread it out. "],
-		                ["Allah then swears by the soul and how He balanced and refined it giving it the knowledge of what is right for it and what is wrong for it. "],
+		                ["Allah then swears by the soul and how He balanced and refined it, giving it the knowledge of what is right for it and what is wrong for it. "],
 		                ["The one who purifies it will succeed and the one who corrupts it will fail."]
 		            ]
 		        },
@@ -7567,7 +7567,7 @@ var surahsOld = [
 	{
 		"name": "ash-Sharḥ",
 		"summary": {
-		    "name": "The surah is so designated after the first sentence. It also titled as Alam-Nashrah.  ",
+		    "name": "The surah is so designated after the first sentence. It's also titled as Alam-Nashrah.  ",
 		    "period": "Makkan",
 		    "context": "Its subject matter so closely resembles that of Surah Ad-Duhaa that both these surahs seem to have been revealed in about the same period under similar conditions. According to Abdullah bin Abbas (رضي الله عنه‎), it was sent down in Makkah just after wad-Duhaa.  ",
 		    "theme": "This surah is addressed to the Prophet (ﷺ) and is a continuation of the reassurance and encouragement given in the previous surah.",
@@ -7621,7 +7621,7 @@ var surahsOld = [
 		            "rangeStart": "4",
 		            "rangeEnd": "6",
 		            "details": [
-		                ["Allah creates man in the finest state and then return him to the lowest state, except the righteous who do good deeds who will receive great rewards."]
+		                ["Allah created man in the finest state and then return him to the lowest state, except the righteous who do good deeds who will receive great rewards."]
 		            ]
 		        },
 		        {
@@ -7761,7 +7761,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "It is derived from the word zilzal in the first verse. It is also titled as surah Al-Zilzal  ",
 		    "period": "Medinan",
-		    "context": "There is difference of opinion over this being Makkan or Medinan. That it is a Medinan surah is reasoned from a tradition from Abu Said Khudri (رضي الله عنه‎), which Ibn Abi Hatim has related from him. He says: \"When the verse Fa-man ya mal mithqala dharratin khairan yarah, wa man ya mal mithqala dharratin sharran yarah, was revealed, I said: \"O Messenger of Allah, shall I really see my deeds? The Prophet (ﷺ) replied in the affirmative. I submitted: And every major sin? He replied yes. I said: And the minor sins too? He replied yes. Thereupon I exclaimed that I would then be ruined. The Prophet (ﷺ) said: Rejoice, O Abu Sa'id, for each good act will be equal to ten good acts like it.\" ",
+		    "context": "There is a difference of opinion over this being Makkan or Medinan. That it is a Medinan surah is reasoned from a tradition from Abu Said Khudri (رضي الله عنه‎), which Ibn Abi Hatim has related from him. He says: \"When the verse Fa-man ya mal mithqala dharratin khairan yarah, wa man ya mal mithqala dharratin sharran yarah, was revealed, I said: \"O Messenger of Allah, shall I really see my deeds? The Prophet (ﷺ) replied in the affirmative. I submitted: And every major sin? He replied yes. I said: And the minor sins too? He replied yes. Thereupon I exclaimed that I would then be ruined. The Prophet (ﷺ) said: Rejoice, O Abu Sa'id, for each good act will be equal to ten good acts like it.\" ",
 		    "theme": "A surah, one of a series of suras that deal with scenes from the Day of Judgement, in particular the final earthquake.",
 		    "breakdown": [
 		        {
@@ -7855,7 +7855,7 @@ var surahsOld = [
 		            "rangeStart": "6",
 		            "rangeEnd": "11",
 		            "details": [
-		                ["Those with heavy scales of good deeds on that day will have a pleasant life, whereas those who’s deeds are light will have their home in a bottomless pit."],
+		                ["Those with heavy scales of good deeds on that day will have a pleasant life, whereas those whose deeds are light will have their home in a bottomless pit."],
 		                ["Allah wants one to think how incredible this will be explaining how it is a blazing Fire."]
 		            ]
 		        }
@@ -7867,7 +7867,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah taken its name from the word at ‘takathur’ in the first verse.",
 		    "period": "Makkan",
-		    "context": "Ibn Abi Hatim has cited Abu Buraidah as saying that this surah was sent down concerning the two tribes, Bani Harithah and Bani al-Harth, of the Ansar. The two tribes had first recounted the glories and illustrious deeds of their living men; then they had gone to the grave yard and bragged of the glorious deeds of their dead, thereupon this revelation came down. But, if the practice of the companions and their successors concerning the occasions of revelation, is kept in view, this tradition is no argument to prove that Surah At-Takaathur was sent down on that very occasion, but it shows that this surah fully applied to the act of the two tribes. ",
+		    "context": "Ibn Abi Hatim has cited Abu Buraidah as saying that this surah was sent down concerning the two tribes, Bani Harithah and Bani al-Harth, of the Ansar. The two tribes had first recounted the glories and illustrious deeds of their living men; then they had gone to the graveyard and bragged of the glorious deeds of their dead, thereupon this revelation came down. But, if the practice of the companions and their successors concerning the occasions of revelation, is kept in view, this tradition is no argument to prove that Surah At-Takaathur was sent down on that very occasion, but it shows that this surah fully applied to the act of the two tribes. ",
 		    "theme": "A surah which criticizes man’s preoccupation with worldly wealth, consequences of materialism and stresses that he will be brought to account on the Day of Resurrection.",
 		    "breakdown": [
 		        {
@@ -7940,7 +7940,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah derives its name from the word ashab ‘al fil’ in the very first verse.",
 		    "period": "Makkan",
-		    "context": "This must have been sent down in the very earliest stage at Makkah. The backdrop of this surah was that Christian Abyssinia with aid from Byzantines invaded Najran in Yemen to put end to Christian persecution from a Jewish King in Najran and also obtain lucrative trade routes. Abraha was the new ruler of Yemen (reperesenting Abyssinia only in name) and wanted to expand dominance. He built a magnificent cathedral in the capital Sanaa so that it would become a new pilgrimage site taking over Makkah increasing the city’s economic importance, and also a means to provoke the Arabs so that he could attack them. An Arab somehow got into the cathedral and defiled it upon which Abraha vowed to destroy the Ka’bah. He then set off to attack Makkah with a huge army which included elephants and defeated everyone in his path. When he arrived in Makkah, Abdul Muttalib (The Prophet’s (ﷺ) grandfather) represented the city and said that Allah will defend the Ka’bah as He is the owner. Abdul Muttalib then made supplication to Allah to protect His house and the people evacuated the city. When the army was arriving one of the elephants knelt towards Makkah refusing to move and swarms of birds carrying stones showered over the army decimating them leaving them to flee back. The Arabs describe the year in which this event took place as Am al-Fil (the year of the elephants), and in the same year the Messenger of Allah (ﷺ) was born. ",
+		    "context": "This must have been sent down in the very earliest stage at Makkah. The backdrop of this surah was that Christian Abyssinia with aid from Byzantines invaded Najran in Yemen to put an end to Christian persecution from a Jewish King in Najran and also obtain lucrative trade routes. Abraha was the new ruler of Yemen (representing Abyssinia only in name) and wanted to expand dominance. He built a magnificent cathedral in the capital Sanaa so that it would become a new pilgrimage site taking over Makkah increasing the city’s economic importance, and also a means to provoke the Arabs so that he could attack them. An Arab somehow got into the cathedral and defiled it upon which Abraha vowed to destroy the Ka’bah. He then set off to attack Makkah with a huge army which included elephants and defeated everyone in his path. When he arrived in Makkah, Abdul Muttalib (The Prophet’s (ﷺ) grandfather) represented the city and said that Allah will defend the Ka’bah as He is the owner. Abdul Muttalib then made supplication to Allah to protect His house and the people evacuated the city. When the army was arriving one of the elephants knelt towards Makkah refusing to move and swarms of birds carrying stones showered over the army decimating them leaving them to flee back. The Arabs describe the year in which this event took place as Am al-Fil (the year of the elephants), and in the same year the Messenger of Allah (ﷺ) was born. ",
 		    "theme": "This surah is a reference to events that happened in 570 CE, the year of the Prophet’s (ﷺ) birth, when the army of Abraha (a Christian ruler of Yemen), which included war elephants, marched to attack Makka, destroy the Ka’bah, and divert pilgrims to the new cathedral in Sana. The destruction of this army is cited here to encourage the believers and warn the Disbelievers.",
 		    "breakdown": [
 		        {
@@ -7959,8 +7959,8 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah has been so entitled after the word Quraysh in the very first verse.",
 		    "period": "Makkan",
-		    "context": "To understand the surah well it is essential that one should keep the historical background relevant to the contents of this surah and of Surah Al-Fil in view. The Quraysh were a tribe of merchants whowere made up of ten main clans including Hashim, the clan to which the Prophet (ﷺ) belonged. They were the custodians of the Ka’bah and a result of their generous welfare to any pilgrims they were held in high esteem which is why the Quraysh felt no fear that their caravans would be robbed or harmed any where on the way. Because of their business relations with Syria, Egypt, Iraq, Iran, Yaman and Abyssinia, the Quraysh became the most affluent tribe, and Makkah became the most important commercial center of the Arabian Peninsula. They were thus prospering and flourishing when the event of Abrahah's invasion of Makkah took place and had he succeeded in taking the Holy City and destroying the Ka’bah, the glory and renown of not only the Quraysh but of the Ka’bah itself, would have faded away, the belief of the pre-Islamic Arabia that the House indeed was Allah's House would have been shattered, and the high esteem in which Quraysh were held for being keepers of the House throughout the country would have been tarnished. Some of the early Muslims regarded these two chapters as one chapter but they have been separated. ",
-		    "theme": "This surah connects grammatically with the previous one’s account of how Allah defeated the threat to Makkah posed by Abraha, so making it safe for the tribe of Quraysh to continue their trading journeys. It higlights the honor and reputation Allah had given them as guardians of the Holy Ka’bah, which allowed them to travel without fear of being harmed and which traveled south in the winter and north in summer. ",
+		    "context": "To understand the surah well it is essential that one should keep the historical background relevant to the contents of this surah and of Surah Al-Fil in view. The Quraysh were a tribe of merchants who were made up of ten main clans including Hashim, the clan to which the Prophet (ﷺ) belonged. They were the custodians of the Ka’bah and as a result of their generous welfare to any pilgrims they were held in high esteem which is why the Quraysh felt no fear that their caravans would be robbed or harmed anywhere on the way. Because of their business relations with Syria, Egypt, Iraq, Iran, Yaman and Abyssinia, the Quraysh became the most affluent tribe, and Makkah became the most important commercial center of the Arabian Peninsula. They were thus prospering and flourishing when the event of Abrahah's invasion of Makkah took place and had he succeeded in taking the Holy City and destroying the Ka’bah, the glory and renown of not only the Quraysh but of the Ka’bah itself, would have faded away, the belief of the pre-Islamic Arabia that the House indeed was Allah's House would have been shattered, and the high esteem in which Quraysh were held for being keepers of the House throughout the country would have been tarnished. Some of the early Muslims regarded these two chapters as one chapter but they have been separated. ",
+		    "theme": "This surah connects grammatically with the previous one’s account of how Allah defeated the threat to Makkah posed by Abraha, making it safe for the tribe of Quraysh to continue their trading journeys. It highlights the honor and reputation Allah had given them as guardians of the Holy Ka’bah, which allowed them to travel without fear of being harmed and which traveled south in the winter and north in summer. ",
 		    "breakdown": [
 		        {
 		            "name": "SAFETY AND SECURITY",
@@ -7986,7 +7986,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah has been so designated after the word al-ma`un occurring at the end of the last verse.",
 		    "period": "Medinan",
-		    "context": "It holds out a threat of destruction to those praying ones who are unmindful of their Prayers and who pray only to be seen. This kind of Hypocrites were found only at Medina, for it was there that Islam and the Muslims gained such strength that many people were compelled to believe from expedience, had to visit the Mosque, join the congregational Prayer and prayed only to be seen of others, so as to be counted among Muslims. Contrary to this is, at Makkah conditions were altogether different. No one had to pray to be seen. There it was difficult even for the believers to pray in congregation; they prayed secretly and if a person prayed openly he did so only at the risk of his life. ",
+		    "context": "It holds out a threat of destruction to those praying ones who are unmindful of their Prayers and who pray only to be seen. This kind of Hypocrites were found only at Medina, for it was there that Islam and the Muslims gained such strength that many people were compelled to believe from expedience, had to visit the Mosque, join the congregational Prayer and prayed only to be seen of others, so as to be counted among Muslims. Contrary to this, at Makkah conditions were altogether different. No one had to pray to be seen. There it was difficult even for the believers to pray in congregation; they prayed secretly and if a person prayed openly he did so only at the risk of his life. ",
 		    "theme": "This surah describes some characteristics of a person who denies the Judgement.",
 		    "breakdown": [
 		        {
@@ -8071,7 +8071,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah takes its name from the word Lahab in the first verse.",
 		    "period": "Makkan",
-		    "context": "This is the only place in the Qur’an where a person from among the enemies of Islam has been condemned by name. Abu Lahab, son of Abdul Muttalib was an uncle of the Prophet (ﷺ), whose father and he were sons of the same father. In Arabia, an uncle represented the father especially when the nephew was fatherless. The uncle was expected to look after the nephew as one of his own children. But this man in his hostility to Islam and love of kufr trampled all the Arab traditions under foot. He didn’t care about honouring family relations. When the Prophet (ﷺ) was commanded to present the message of Islam openly, and he was instructed in the Qur’an to warn first of all his nearest kinsfolk of the punishment of Allah, he ascended Mount Safa one morning and called out aloud warning of Allah’s punishment upon which Abu Lahab said \"May you perish! Did you summon us for this?”, and in some traditions started stoning him. In some traditions he said “May this religion perish in which I and all other people should be equal and alike!\" Abu Lahab had his sons divorce the daughters of the Prophet (ﷺ) and was overjoyed when his sons died. He also advised people to not follow the Propeht (ﷺ) everytime he preached. He sided with the disbelieving Quraysh during the boycott of Bani Hashim and Bani Muttalib. Furthermore Abu Lahab's wife, Umm Jamil (Abu Sufyan's sister), had made it a practice to cast thorns at his door in the night so that when he or his children came out of the house at dawn, they should run thorns in the foot. ",
+		    "context": "This is the only place in the Qur’an where a person from among the enemies of Islam has been condemned by name. Abu Lahab, son of Abdul Muttalib was an uncle of the Prophet (ﷺ), whose father and he were sons of the same father. In Arabia, an uncle represented the father especially when the nephew was fatherless. The uncle was expected to look after the nephew as one of his own children. But this man in his hostility to Islam and love of kufr trampled all the Arab traditions under foot. He didn’t care about honouring family relations. When the Prophet (ﷺ) was commanded to present the message of Islam openly, and he was instructed in the Qur’an to warn first of all his nearest kinsfolk of the punishment of Allah, he ascended Mount Safa one morning and called out aloud warning of Allah’s punishment upon which Abu Lahab said \"May you perish! Did you summon us for this?”, and in some traditions started stoning him. In some traditions he said “May this religion perish in which I and all other people should be equal and alike!\" Abu Lahab had his sons divorce the daughters of the Prophet (ﷺ) and was overjoyed when his sons died. He also advised people to not follow the Prophet (ﷺ) everytime he preached. He sided with the disbelieving Quraysh during the boycott of Bani Hashim and Bani Muttalib. Furthermore Abu Lahab's wife, Umm Jamil (Abu Sufyan's sister), had made it a practice to cast thorns at his door in the night so that when he or his children came out of the house at dawn, they should run thorns in the foot. ",
 		    "theme": "This surah refers to an uncle of the Prophet (ﷺ) who opposed him fiercely, as did his wife. He insulted the Prophet (ﷺ) with ‘Tabbakyadak’ (‘may your hands be ruined’) of which this surah is the retort.",
 		    "breakdown": [
 		        {
@@ -8137,14 +8137,14 @@ var surahsOld = [
 		    "name": "Although these two surahs of the Qur'an are separate entities and are written in the mushaf also under separate names, yet they are so deeply related mutually and their contents so closely resemble each other's that they have been designated by a common name Mu'awwidhatayn (the two surahs in which refuge with Allah has been sought). The title of this chapter is ‘The People’. It is named for the last word in the first verse where Allah refers to Himself as the Lord of all the people. ",
 		    "period": "Makkan",
 		    "context": "The surah was revealed when opposition to the Prophet (ﷺ) there had grown very intense. Later, when at Medina storms of opposition were raised by the Hypocrites, Jews and polytheists, the Prophet (ﷺ) was instructed to recite these very surahs, for example when magic was worked on him by some Jews in Medina and Arab magicians. When his illness grew intense, Jibreel (عليه السلام) came and instructed him by Allah's command to recite these very surahs. The magic spell had affected only the person of Muhammad (ﷺ) and not the Prophethood of Muhammad (ﷺ), which remained wholly unaffected by it. Many during the time were also angry and jealous of the Prophet (ﷺ) which this surah serves as a protection against and all other kinds of evil, hidden or visible, known or unknown.",
-		    "theme": "This surah is commonly used as an invocation against evil. The evils mentioned in the previous chapter are those that are out of our control. However, in this chapter, the evils are such that we are liable for them ourselves thus to a certain extent these are the greater evils. The surah tells us that Shaytan is always against the human beings and he puts wrong suggestions in their minds. We should seek Allah’s protection from Shaytan and his whisperings. This is a very appropriate ending for the Book of Allah.",
+		    "theme": "This surah is commonly used as an invocation against evil. The evils mentioned in the previous chapter are those that are out of our control. However, in this chapter, the evils are such that we are liable for them ourselves thus to a certain extent these are the greater evils. The surah tells us that Shaytan is always against human beings and he puts wrong suggestions in their minds. We should seek Allah’s protection from Shaytan and his whisperings. This is a very appropriate ending for the Book of Allah.",
 		    "breakdown": [
 		        {
 		            "name": "THE LORD, KING, AND GOD",
 		            "rangeStart": "1",
 		            "rangeEnd": "6",
 		            "details": [
-		                ["I seek refuge in the Lord of Makind, the Controller of people, the God of people, against the harm of the rereating whisperer who whispers in the hearts of people."]
+		                ["I seek refuge in the Lord of Mankind, the Controller of people, the God of people, against the harm of the retreating whisperer who whispers in the hearts of people."]
 		            ]
 		        }
 		    ]
