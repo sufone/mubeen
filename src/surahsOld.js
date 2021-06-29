@@ -24,7 +24,7 @@ var surahsOld = [
 			"name": "Named after the message that Moosa (Moses) (عليه السلام) gave to his people that Allah wants them to sacrifice a cow.",
 			"period": "Medinan",
 			"context": "The greater part of Al-Baqarah was the first surah revealed in Medina. The smaller part which was revealed at a later period has been included in this surah because its contents are closely related to those dealt with in this surah. Whereas in Makkah the Prophet (ﷺ) was dealing with open hostility and clear disbelief, in Medina he was now dealing with the Jews and Hypocrites.",
-			"theme": "The surah opens with a response to the plea for guidance from the previous surah Fatiha, dividing mankind into three groups in their response to this guidance – the Believers, the Disbelievers, and the Hypocrites – and closes confirming the tenets of faith given in the opening verses. Most aspects of theology are discussed including Allah’s Power, signs, Angels, stories of previous nations and the Day of Judgement. The rituals of Islam including the five pillars are then outlined in detail along with Islamic law which includes guidelines on a moral civic society, economic guidelines and the issue of war.",
+			"theme": "The surah opens with a response to the plea for guidance from the previous surah Fatiha, dividing mankind into three groups in their response to this guidance – the Believers, the Disbelievers, and the Hypocrites – and closes confirming the tenets of faith given in the opening verses. Most aspects of theology are discussed including Allah’s Power, signs, angels, stories of previous nations and the Day of Judgement. The rituals of Islam including the five pillars are then outlined in detail along with Islamic law which includes guidelines on a moral civic society, economic guidelines and the issue of war.",
 			"breakdown": [
 				{
 					"name": "ALLAH AND QUR'ANIC GUIDANCE",
@@ -91,7 +91,7 @@ var surahsOld = [
 					"rangeStart": "153",
 					"rangeEnd": "243",
 					"details": [
-						["Salat (Prayer), Sawm (Fasting), Zakat (Giving away fixed amount of wealth), Hajj (Pilgrimage) and Jihad (Striving) have been prescribed for Muslims."],
+						["Salah (Prayer), Sawm (Fasting), Zakat (Giving away fixed amount of wealth), Hajj (Pilgrimage) and Jihad (Striving) have been prescribed for Muslims."],
 						["Only surah which mention details of Ramadan; fasting is for God consciousness; those who can’t fast must feed the poor or the like."],
 						["Ramadan is the month of Qur’an so fasting is prescribed for us; Qur’an is linked to Ramadan before fasting."],
 						["Allah wants ease for us, we don’t see the wisdom behind difficulties."],
@@ -109,7 +109,7 @@ var surahsOld = [
 					"details": [
 						["The Children of Israel were ordered to follow King Talut (Saul) and to fight with him, yet they were weary of following him despite the Ark of the Covenant coming down as his proof of leadership."],
 						["As a test from Allah when the army of Talut reached a river only those who knew that they would meet Allah did not drink from it, but many did."],
-						["The small army of believers now reached Jalut (Goliath) outnumbered, but the young Prophet Dawud (عليه السلام) slayed with a slingshot Jalut and took over Talut’s kingdom showing reliance on Allah gives victory."],
+						["The small army of believers now reached Jalut (Goliath) outnumbered, but the young Prophet Dawud (عليه السلام) slayed Jalut with a slingshot and took over Talut’s kingdom showing reliance on Allah gives victory."],
 						["Whoever gives in the cause of Allah is like giving one grain - it comes as 700 grains."],
 					]
 				},
@@ -177,12 +177,12 @@ var surahsOld = [
 					"rangeEnd": "65",
 					"details": [
 						["Allah chose Adam, Nuh (Noah), Ibrahim (عليهم السلام), and the family of Imran above all else."],
-						["The mother of Maryam (رضی اللہ عنھا) is discussed; she made dua for a knowledgeable child to grow up as a Rabbi which shows the importance of parents; righteous parents derive righteous children."],
+						["The mother of Maryam (رضی اللہ عنھا) is discussed; she made dua for a knowledgable child to grow up as a Rabbi which shows the importance of parents; righteous parents derive righteous children."],
 						["Inspired by Maryam’s (رضی اللہ عنھا) piety, Zakariyya (Zachariah) (عليه السلام) (Maryam’s (رضي الله عنه‎) guardian uncle) asks Allah for a son despite his barren wife and is told to not speak for 3 days and is then given Yahya (John the Baptist) (عليه السلام) - Isa (عليه السلام) is now his first cousin."],
 						["Allah thus provided for Maryam (رضی اللہ عنھا) when she went into seclusion and informed her about the coming of Isa (عليه السلام) and the Angels informed her that he will lead the children of Israel, preach Tawheed (Oneness of God) and perform miracles such as speaking in the cradle."],
 						["The Qur’an clears Isa (عليه السلام) and his mother not only from the stigma maliciously set upon them by the Jews, but also refutes the erroneous Christian creed of the Divinity of Isa (عليه السلام) which had been formulated because of his miraculous birth, yet Allah explains he is like Adam (عليه السلام) with no father."],
 						["The doctrine of trinity is challenged."],
-						["The truthfulness and miracle of the Qur’an mentions stories not even found in the Injeel (Gospel) or Tawrat (Tawrat) further showing proof of prophecy of the Prophet (ﷺ)."],
+						["The truthfulness and miracle of the Qur’an mentions stories not even found in the Injeel (Gospel) or Tawrat (Torah) further showing proof of prophecy of the Prophet (ﷺ)."],
 						["So, a final plea is made to the Believers to come to common terms between themselves and the People of the Book – that God is One and Ibrahim (عليه السلام) was neither a Jew nor Christian."],
 						["Maryam (رضی اللہ عنھا) dedicated her life to Allah and when her uncle Zakariyya (عليه السلام) visited her he found heavenly food to which she replied that it was from Allah."],
 					]
@@ -194,7 +194,6 @@ var surahsOld = [
 					"details": [
 						["Whether they accept or not, our duty is only to remind."],
 						["The Muslims are reminded to be on guard and learn from the history of the People of the Book for some have malicious intentions."],
-						["Inspired by Maryam’s (رضی اللہ عنھا) piety, Zakariyya (Zachariah) (عليه السلام) (Maryam’s (رضي الله عنه‎) guardian uncle) asks Allah for a son despite his barren wife and is told to not speak for 3 days and is then given Yahya (John the Baptist) (عليه السلام) - Isa (عليه السلام) is now his first cousin."],
 						["This book is also a reminder to the People of the Book of Allah’s covenant and to believe in the final Prophet (ﷺ) with the same message revealed to past prophets."],
 						["But only Islam will be accepted by Allah."],
 					]
@@ -269,7 +268,7 @@ var surahsOld = [
 					"rangeStart": "43",
 					"rangeEnd": "57",
 					"details": [
-						["The ways of the purification of mind and body for the offering of salat have been taught because it plays the most important part in every scheme of moral and social reform."],
+						["The ways of the purification of mind and body for the offering of prayer have been taught because it plays the most important part in every scheme of moral and social reform."],
 						["After moral preparation, instructions for defense have been given."],
 						["First of all, the Muslims have been warned to be on their guard against the evil practices of the local Jews at the time who were hostile to Muslims."],
 						["This caution was necessary for removing some possible misunderstanding that might have arisen on account of the pre-Islamic alliance between the people of Medina and the Jews."],
@@ -301,8 +300,8 @@ var surahsOld = [
 					"rangeStart": "101",
 					"rangeEnd": "104",
 					"details": [
-						["Instructions have been given for the offering of salat during military campaigns and actual fighting."],
-						["This is to impress the importance of salat even at the time of fear and danger."],
+						["Instructions have been given for the offering of prayer during military campaigns and actual fighting."],
+						["This is to impress the importance of prayer even at the time of fear and danger."],
 					]
 				},
 				{
@@ -354,16 +353,16 @@ var surahsOld = [
 		"summary": {
 			"name": "This surah takes its' name from verse 112 in which the word mai'dah occurs and relates to food due to reference of the meal Isa (عليه السلام) asked Allah to send down to his disciples.",
 			"period": "Medinan",
-			"context": "Revealed after the Treaty of Hudaybiyyah and deals with those problems that arose from the treaty. For example, the Quraysh prevented the Prophet (ﷺ) from doing Umrah, but after the treaty there was an emphasis on Hajj on this surah. The Jewish menace which was always threatening Medina had been totally removed and the Jews in the other parts of Hijaz had-become tributaries of the State of Medina. The last effort of the Quraysh to suppress Islam had been thwarted in the Battle of the Ditch.",
-			"theme": "Overall theme is Muslims should be faithful to their contracts and live up to their commitments and part of this is the regulation of lawful and unlawful food, obedience to which is part of the pledge between Allah and the Believers. Paganism has been eliminated during this time, so, this surah is mainly focusing on Judaic and Christian fundamentals. Part of the surah concerns hunting for food during the pilgrimage and respect for the rites of pilgrimage. Allah also discusses the covenants taken with the People of the Book and their relationships with the Muslims. Isa (عليه السلام), in particular, is given prominence here: mention is made of the feast for which his disciples asked him to pray to Allah, which gives the surah its title, and of his renunciation of any claim to divinity.",
+			"context": "Revealed after the Treaty of Hudaybiyyah and deals with those problems that arose from the treaty. For example, the Quraysh prevented the Prophet (ﷺ) from doing Umrah, but after the treaty there was an emphasis on Hajj on this surah. The Jewish menace which was always threatening Medina had been totally removed and the Jews in the other parts of Hijaz had become tributaries of the State of Medina. The last effort of the Quraysh to suppress Islam had been thwarted in the Battle of the Ditch.",
+			"theme": "Overall theme is Muslims should be faithful to their contracts and live up to their commitments and part of this is the regulation of lawful and unlawful food, obedience to which is part of the pledge between Allah and the Believers. Paganism had been eliminated during this time, so, this surah is mainly focusing on Judaic and Christian fundamentals. Part of the surah concerns hunting for food during the pilgrimage and respect for the rites of pilgrimage. Allah also discusses the covenants taken with the People of the Book and their relationships with the Muslims. Isa (عليه السلام), in particular, is given prominence here: mention is made of the feast for which his disciples asked him to pray to Allah, which gives the surah its title, and of his renunciation of any claim to divinity.",
 			"breakdown": [
 				{
 					"name": "ALLAH PERFECTS HIS RELIGION",
 					"rangeStart": "1",
 					"rangeEnd": "10",
 					"details": [
-						["Surah An Nisaa started with “Oh Mankind” while Maa’idah starts with “Oh you who Believe”."],
-						["The Believers have been exhorted to fulfill scrupulously all of their obligations and follow the regulations prescribed by the Divine Law about Hajj, food, salat, justice, etc."],
+						["Surah An Nisaa started with “Oh Mankind” while Ma’idah starts with “Oh you who Believe”."],
+						["The Believers have been exhorted to fulfill scrupulously all of their obligations and follow the regulations prescribed by the Divine Law about Hajj, food, prayer, justice, etc."],
 						["V.3 ‘Today I have completed my religion and I have perfected my favors upon you and have approved for you Islam as your religion..wish to have no burden upon us but to purify us’ - the Prophet (ﷺ) was on a camel and it kneeled due to heaviness of the revelation."],						
 					]
 				},
