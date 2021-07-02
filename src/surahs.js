@@ -886,7 +886,7 @@ var surahs = [
 			{
 				name: 'az-Zalzalah',
 				nameEnglish: "Earthquake",
-				number: 8,
+				number: 99,
 				pageGreen: 599,
 				period: 'Makkan',
 				verses: 8

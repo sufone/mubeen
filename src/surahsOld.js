@@ -842,7 +842,7 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": " PROOF OF THE QUR’AN",
+					"name": "PROOF OF THE QUR’AN",
 					"rangeStart": "31",
 					"rangeEnd": "40",
 					"details": [
@@ -3019,7 +3019,7 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": "",
+					"name": "THE SIGNS OF ALLAH AND HIS POWER",
 					"rangeStart": "17",
 					"rangeEnd": "28",
 					"details": [
@@ -6878,7 +6878,7 @@ var surahsOld = [
 		    "theme": "When the Prophet lost his last son, an opponent who hated him taunted him with being ‘cut off’ without posterity. This Makkan surah comes to reassure the Prophet (ﷺ) and as a retort to his enemy. The surah gives comfort that Allah’s message will prevail and the enemies of the truth will be the losers.",
 		    "breakdown": [
 		        {
-		            "name": "ALLAH’S BLESSINGS ON PROPHET MUHAMMAD (ﷺ",
+		            "name": "ALLAH’S BLESSINGS ON PROPHET MUHAMMAD (ﷺ)",
 		            "rangeStart": "1",
 		            "rangeEnd": "3",
 		            "details": [
