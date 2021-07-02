@@ -9,4 +9,4 @@
 
 # License
 AGPL v3.0 for code
-All rights reserved for text content 
+All rights reserved for text content (need to speak to author about creative commons or something…)
