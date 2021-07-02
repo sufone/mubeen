@@ -595,7 +595,7 @@ var surahsOld = [
 					"rangeEnd": "100",
 					"details": [
 						["Whenever Allah sent a prophet to a town (or nation) he afflicted the people with adversity and misfortune in order that they might humble themselves before Him."],
-						["Then Allah changed their hardship to prosperity but the people did not recognise Allah’s grace. "],
+						["Then Allah changed their hardship to prosperity but the people did not recognise Allah’s grace."],
 						["Had they believed they would have been showered with riches but they did not so they were seized for their misdeeds."],
 						["Do people not understand, from the stories of those before them, that Allah can afflict them for their sins and seal their hearts?"],
 					]
@@ -740,7 +740,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "12",
 					"details": [
-						["This portion deals with the sanctity of treaties and lays down principles, rules and regulations which must be kept in view before breaking them, in case the other party does not observe them sincerely. "],
+						["This portion deals with the sanctity of treaties and lays down principles, rules and regulations which must be kept in view before breaking them, in case the other party does not observe them sincerely."],
 						["Begins by announcing that after 4 months, the pagans should leave Makkah - either accept Islam or leave the holy sanctity."],
 					]
 				},
@@ -749,7 +749,7 @@ var surahsOld = [
 					"rangeStart": "13",
 					"rangeEnd": "37",
 					"details": [
-						["In this portion the Muslims have been urged to fight in the Way of Allah with the pagan Arabs, the Jews and the Christians, who were duly warned of the consequences of their mischievous and inimical behavior. "],
+						["In this portion the Muslims have been urged to fight in the Way of Allah with the pagan Arabs, the Jews and the Christians, who were duly warned of the consequences of their mischievous and inimical behavior."],
 					]
 				},
 				{
@@ -758,7 +758,7 @@ var surahsOld = [
 					"rangeEnd": "72",
 					"details": [
 						["In this discourse, the Muslims have been told clearly and explicitly that they will inherit the rewards promised by Allah only if they take active part in the conflict with kufr, for that is the criterion which distinguishes true Muslims from Hypocrites."],
-						["Therefore, true Muslims should take active part in Jihad, without minding dangers, obstacles, difficulties, temptations and the like. "],
+						["Therefore, true Muslims should take active part in Jihad, without minding dangers, obstacles, difficulties, temptations and the like."],
 						["V.60 mentions the 8 categories of zakat."],
 					]
 				},
@@ -767,7 +767,7 @@ var surahsOld = [
 					"rangeStart": "73",
 					"rangeEnd": "90",
 					"details": [
-						["This portion deals with the problems of Hypocrites and lays down rules and regulations governing the treatment that should be meted out to them and points out their distinctive marks from true Muslims. "],
+						["This portion deals with the problems of Hypocrites and lays down rules and regulations governing the treatment that should be meted out to them and points out their distinctive marks from true Muslims."],
 					]
 				},
 				{
@@ -777,7 +777,7 @@ var surahsOld = [
 					"details": [
 						["This portion deals with the case of those who remained behind and did not accompany the Prophet (ﷺ) for Jihad to Tabuk."],
 						["For this purpose, they have been separated in different categories, that is, the disabled, the sick, the indigent, the Hypocrites, the Believers who realized their guilt and punished themselves before the return of the Prophet (ﷺ) from Tabuk and those who confessed their error."],
-						["Their cases have been dealt with in accordance with the nature and extent of their offense. "],
+						["Their cases have been dealt with in accordance with the nature and extent of their offense."],
 					]
 				},
 				{
@@ -786,7 +786,7 @@ var surahsOld = [
 					"rangeEnd": "118",
 					"details": [
 						["In order to make their noble qualities look all the more conspicuous and dignified by contrast, the characteristics of the Believers have been mentioned, and they have been reassured that Allah, the Sovereign of the Universe, is their Helper and Guardian."],
-						["Accordingly, because of their sincerity, He has forgiven the Three Believers who did not take part in the expedition. "],
+						["Accordingly, because of their sincerity, He has forgiven the Three Believers who did not take part in the expedition."],
 					]
 				},
 				{
@@ -794,7 +794,7 @@ var surahsOld = [
 					"rangeStart": "119",
 					"rangeEnd": "127",
 					"details": [
-						["In the concluding portion, general instructions have been given to the Believers for their guidance. "],
+						["In the concluding portion, general instructions have been given to the Believers for their guidance."],
 					]
 				},
 				{
@@ -870,7 +870,7 @@ var surahsOld = [
 					"rangeStart": "57",
 					"rangeEnd": "60",
 					"details": [
-						["Instruction from Allah has been given to mankind; it is a mercy, a cure, and guidance. "],
+						["Instruction from Allah has been given to mankind; it is a mercy, a cure, and guidance."],
 						["Tell them, Prophet Muhammad (ﷺ) that these things are a blessing and better for mankind than all the riches of this world that they try to accumulate."],
 					]
 				},
@@ -879,8 +879,8 @@ var surahsOld = [
 					"rangeStart": "61",
 					"rangeEnd": "67",
 					"details": [
-						["Whatever matters people are engaged in, from reading the Qur’an to the mundane, Allah is a witness to it and it is all, the large and the small of it, recorded in a book. "],
-						["Not even a speck, the weight of dust escapes Allah’s knowledge, and it is kept in a clear record. "],
+						["Whatever matters people are engaged in, from reading the Qur’an to the mundane, Allah is a witness to it and it is all, the large and the small of it, recorded in a book."],
+						["Not even a speck, the weight of dust escapes Allah’s knowledge, and it is kept in a clear record."],
 						
 						
 						
@@ -903,9 +903,9 @@ var surahsOld = [
 					"rangeEnd": "86",
 					"details": [
 						["The story of Nuh (عليه السلام) has been related where his people rejected him and were drowned as a result."],
-						["Then Allah sent others, each to their own people. "],
-						["They came with clear evidences but the succeeding generations were persistent in their disbelief. "],
-						["Moosa and Haroon (عليهم السلام) were sent to Pharaoh and his people but they behaved arrogantly towards them and their message. "],
+						["Then Allah sent others, each to their own people."],
+						["They came with clear evidences but the succeeding generations were persistent in their disbelief."],
+						["Moosa and Haroon (عليهم السلام) were sent to Pharaoh and his people but they behaved arrogantly towards them and their message."],
 						["Moosa (عليه السلام) said, 'Do you think I bring you magic; because magicians will never succeed.'"],
 						["Nobody believed Moosa (عليه السلام) except some of the youth amongst his own people; most of the people were too scared of Pharaoh’s regime."],
 						["Moosa (عليه السلام) asked the believers to put their trust in Allah and they prayed to Him to release them from the hands of the unjust people."],
@@ -916,11 +916,11 @@ var surahsOld = [
 					"rangeStart": "87",
 					"rangeEnd": "95",
 					"details": [
-						["Allah revealed to Moosa and Haroon (عليهم السلام) that they should take their people to Egypt where they would build their houses and establish the prayer. "],
-						["Moosa (عليه السلام) then prayed that the wealth and splendour of Pharaoh’s people be taken away from them. "],
-						["Obliterate their wealth and harden their hearts he asked. "],
+						["Allah revealed to Moosa and Haroon (عليهم السلام) that they should take their people to Egypt where they would build their houses and establish the prayer."],
+						["Moosa (عليه السلام) then prayed that the wealth and splendour of Pharaoh’s people be taken away from them."],
+						["Obliterate their wealth and harden their hearts he asked."],
 						["So Moosa (عليه السلام) led his people across the sea; Pharaoh and his soldiers pursued them until they were drowned."],
-						["At the very last minute Pharaoh said that he believed in the God of Moosa (عليه السلام) but it was already too late and Allah saved his body so that he may be a sign for those that come after him.  "],
+						["At the very last minute Pharaoh said that he believed in the God of Moosa (عليه السلام) but it was already too late and Allah saved his body so that he may be a sign for those that come after him. "],
 					]
 				},
 				{
@@ -929,10 +929,10 @@ var surahsOld = [
 					"rangeEnd": "103",
 					"details": [
 						["No town ever saw the scourge then believed and it profited them except for the people of Yunus (عليه السلام)."],
-						["When they believed the punishment was removed, and they had enjoyment, for a time. "],
-						["If Allah had so willed all the people on the earth would have believed. "],
-						["Prophet Muhammad (ﷺ) is asked if he would compel the people, against their will to believe. "],
-						["Belief comes only by the will of Allah and He disgraces those who will not use their common sense. "],
+						["When they believed the punishment was removed, and they had enjoyment, for a time."],
+						["If Allah had so willed all the people on the earth would have believed."],
+						["Prophet Muhammad (ﷺ) is asked if he would compel the people, against their will to believe."],
+						["Belief comes only by the will of Allah and He disgraces those who will not use their common sense."],
 						
 					]
 				},
@@ -994,9 +994,9 @@ var surahsOld = [
 					"rangeEnd": "49",
 					"details": [
 						["Nuh’s (عليه السلام) message to his people which was around present day southern Iraq was to worship Allah and fear the Day of Judgement but the leaders of his nation considered him to be a mere human followed by people of low status."],
-						["They rejected his answers and invited him to bring on the destruction he promised. "],
+						["They rejected his answers and invited him to bring on the destruction he promised."],
 						["Allah instructed Nuh (عليه السلام) to patiently bear their mockery and build the ark."],
-						["Tenderness of a father could not save his disbelieving son from drowning with the rest. "],
+						["Tenderness of a father could not save his disbelieving son from drowning with the rest."],
 						["The ark, carrying Nuh (عليه السلام), fellow believers, and animals landed safely."],
 					]
 				},
@@ -1017,9 +1017,9 @@ var surahsOld = [
 					"details": [
 						["The dwelling places of Salih’s (عليه السلام) people, Thamud, are situated somewhere between Hijaz and Syria in the southeastern part of Midian which is situated east of the Gulf of Aqaba."],
 						["Chiseled out of stone, their dwellings are still preserved."],
-						["Salih’s (عليه السلام) message was similar to that of Nuh and Hud (عليهم السلام). "],
-						["In addition, he produced a female camel from the neighboring hills to prove that he was Allah’s true prophet but warned people not to harm it. "],
-						["Nevertheless, they killed it, thereby inviting Allah’s wrath in the form of a heavenly scream that left them dead, face down in their homes. "],
+						["Salih’s (عليه السلام) message was similar to that of Nuh and Hud (عليهم السلام)."],
+						["In addition, he produced a female camel from the neighboring hills to prove that he was Allah’s true prophet but warned people not to harm it."],
+						["Nevertheless, they killed it, thereby inviting Allah’s wrath in the form of a heavenly scream that left them dead, face down in their homes."],
 					]
 				},
 				{
@@ -1027,16 +1027,16 @@ var surahsOld = [
 					"rangeStart": "69",
 					"rangeEnd": "76",
 					"details": [
-						["Born in Iraq, Ibrahim (عليه السلام) settled in the city of Ur. "],
+						["Born in Iraq, Ibrahim (عليه السلام) settled in the city of Ur."],
 						["He travelled to Harran in the north of the Arabian Peninsula and then to Palestine with his wife, Sarah, and his nephew, Lut (عليه السلام)."],
 						["Due to a drought, he then moved to Egypt."],
-						["Lut (عليه السلام) returned with Ibrahim (عليه السلام) from Egypt, but parted ways because the land was not enough for both their herds. "],
+						["Lut (عليه السلام) returned with Ibrahim (عليه السلام) from Egypt, but parted ways because the land was not enough for both their herds."],
 						["Lut (عليه السلام) settled towards the Dead Sea near Sodom and Gomorrah."],
-						["Ibrahim (عليه السلام) had three beautiful character traits: forbearance, repentance, and soft-heartedness. "],
-						["He was quick to serve unannounced guests - Angels of Allah - who brought two bits of news. "],
-						["One, destruction was forthcoming to the people of Lut (عليه السلام). "],
-						["As for the second, the birth of Ibrahim’s son, Is’haq (Isaac) (عليه السلام), from Sarah, his aged wife, and his grandson, Ya’qoob (عليه السلام). "],
-						["Ibrahim (عليه السلام) makes a futile attempt to turn away the Angels from Lut (عليه السلام). "],
+						["Ibrahim (عليه السلام) had three beautiful character traits: forbearance, repentance, and soft-heartedness."],
+						["He was quick to serve unannounced guests - Angels of Allah - who brought two bits of news."],
+						["One, destruction was forthcoming to the people of Lut (عليه السلام)."],
+						["As for the second, the birth of Ibrahim’s son, Is’haq (Isaac) (عليه السلام), from Sarah, his aged wife, and his grandson, Ya’qoob (عليه السلام)."],
+						["Ibrahim (عليه السلام) makes a futile attempt to turn away the Angels from Lut (عليه السلام)."],
 					]
 				},
 				{
@@ -1047,7 +1047,7 @@ var surahsOld = [
 						["As hospitable as his uncle, Lut (عليه السلام) is distressed to see young, attractive guests who people immediately wanted to act lewd towards with."],
 						["Lut (عليه السلام) tries to reason with the people by pointing to available women for marriage and not to disgrace him."],
 						["Feeling powerless to protect his guests, the Angels comfort Lut (عليه السلام) that he will be unharmed."],
-						["He was to leave town at nightfall with his family except his wife who would stay behind as she had informed people of the Angelic guests and so helped the evildoers. "],
+						["He was to leave town at nightfall with his family except his wife who would stay behind as she had informed people of the Angelic guests and so helped the evildoers."],
 						["Allah destroys them by lifting up the city, throwing it upside down, and raining them with stones due to their wickedness."],
 					]
 				},
@@ -1056,11 +1056,11 @@ var surahsOld = [
 					"rangeStart": "84",
 					"rangeEnd": "95",
 					"details": [
-						["Shu’aib (عليه السلام) was sent to the people of Midian who lived in the land of Hijaz, next to Syria and east of the Gulf of Aqaba. "],
+						["Shu’aib (عليه السلام) was sent to the people of Midian who lived in the land of Hijaz, next to Syria and east of the Gulf of Aqaba."],
 						["According to some historians, that land is the site of the modern city of Tabuk."],
 						["The Disbelievers made fun of Prophet Shu’aib’s (عليه السلام) prayer, saying does it instruct him that they should leave ancestral gods or change how they dispose of their money."],
-						["He reminds them that he only wishes reformation and Allah is his strength on whom he relies. "],
-						["His compassionate pleading to look at the ruins of Nuh, Hud, Salih, and Lut (عليهم السلام) does not convince them. "],
+						["He reminds them that he only wishes reformation and Allah is his strength on whom he relies."],
+						["His compassionate pleading to look at the ruins of Nuh, Hud, Salih, and Lut (عليهم السلام) does not convince them."],
 						["Shu’aib (عليه السلام) and fellow believers are rescued when a scream destroys them as if they never existed."],
 					]
 				},
@@ -1103,7 +1103,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "3",
 					"details": [
-						["The Qur’an is a book revealed to make things clear, it is revealed in the Arabic language and contains information that Muhammad (ﷺ) did not know. "],
+						["The Qur’an is a book revealed to make things clear, it is revealed in the Arabic language and contains information that Muhammad (ﷺ) did not know."],
 						["This story is called the best of stories meaning that it contains information relevant to events happening at the time of revelation and it contains lessons for all mankind."],
 						["The best story is the story in the Qur’an."],
 						
@@ -1120,12 +1120,12 @@ var surahsOld = [
 						["Yusuf (عليه السلام) has a dream in which he sees the sun, moon and eleven stars prostrating before him."],
 						["This is interpreted as men bowing down to him."],
 						["He confides in his father who advises him to keep it secret from his brothers."],
-						["Yusuf (عليه السلام) and Binyamin (Benjamin) were the sons of Ya’qoob’s (عليه السلام) second wife. "],
-						["The older boys considered themselves men and blinded by jealousy they plan to kill Yusuf (عليه السلام). "],
+						["Yusuf (عليه السلام) and Binyamin (Benjamin) were the sons of Ya’qoob’s (عليه السلام) second wife."],
+						["The older boys considered themselves men and blinded by jealousy they plan to kill Yusuf (عليه السلام)."],
 						["One of the brothers convinces the other brothers to throw him in a well instead."],
-						["They carry out their devious plan and using their father’s worst fear (a wolf attack) and a blood-stained shirt, they try to convince him of Yusuf’s (عليه السلام) death. "],
+						["They carry out their devious plan and using their father’s worst fear (a wolf attack) and a blood-stained shirt, they try to convince him of Yusuf’s (عليه السلام) death."],
 						["Meanwhile, Allah eases Yusuf’s (عليه السلام) fear."],
-						["Allah inspires him that one day he will inform his brothers of their deed while they do not realize who he is. "],
+						["Allah inspires him that one day he will inform his brothers of their deed while they do not realize who he is."],
 						["Yusuf’s (عليه السلام) father Ya’qoob (عليه السلام) sensed treachery but turned to Allah and accepted the news with trust and patience."],
 					]
 				},
@@ -1135,9 +1135,9 @@ var surahsOld = [
 					"rangeEnd": "22",
 					"details": [
 						["Yusuf (عليه السلام) is rescued from the well and sold into slavery."],
-						["He is sold for a small price to an influential man from Egypt, who comments to his wife that Yusuf (عليه السلام) may be of some service to them. "],
-						["Allah remarks that He established Yusuf (عليه السلام) in the land and provided him with sustenance in order to teach him the interpretation of dreams. "],
-						["Yusuf (عليه السلام) grows up in comfortable conditions and Allah bestows upon him good judgment and knowledge. "],
+						["He is sold for a small price to an influential man from Egypt, who comments to his wife that Yusuf (عليه السلام) may be of some service to them."],
+						["Allah remarks that He established Yusuf (عليه السلام) in the land and provided him with sustenance in order to teach him the interpretation of dreams."],
+						["Yusuf (عليه السلام) grows up in comfortable conditions and Allah bestows upon him good judgment and knowledge."],
 						["He is in the house of a politician learning how to negotiate and make wise decisions."],
 						["Some dreams are from Allah as shown by the dream of Yusuf (عليه السلام), the dream of prisoners, and dream of the king, however some dreams are from Shaytan (nightmare)."],
 						
@@ -1149,7 +1149,7 @@ var surahsOld = [
 					"rangeStart": "23",
 					"rangeEnd": "30",
 					"details": [
-						["The wife of the Egyptian politician watches Yusuf (عليه السلام) grow to manhood and is attracted to him. "],
+						["The wife of the Egyptian politician watches Yusuf (عليه السلام) grow to manhood and is attracted to him."],
 						["She tries to seduce him but he seeks refuge in Allah."],
 						["The wife chases him to the front door just as her husband is entering the house and then tries to blame him but a member of the household points out that his shirt was torn from the back."],
 						["The women of the city then began to gossip about Yusuf (عليه السلام) and the politician’s wife."],
@@ -1164,11 +1164,11 @@ var surahsOld = [
 					"rangeEnd": "35",
 					"details": [
 						["After she hears the gossip, she invites the women to her house in order to show them how beautiful and attractive Yusuf (عليه السلام) is."],
-						["She hands each of them a knife and calls for Yusuf (عليه السلام) to show himself. "],
+						["She hands each of them a knife and calls for Yusuf (عليه السلام) to show himself."],
 						["The women are astounded and cut their hands."],
-						["She explains that she tried to seduce him but he resisted. "],
+						["She explains that she tried to seduce him but he resisted."],
 						["She threatens that if he does not obey now he will go to prison."],
-						["Yusuf (عليه السلام) is afraid that he will let himself be seduced so he asks Allah to protect him, saying he would prefer prison to what the women are planning. "],
+						["Yusuf (عليه السلام) is afraid that he will let himself be seduced so he asks Allah to protect him, saying he would prefer prison to what the women are planning."],
 						
 					]
 				},
@@ -1177,11 +1177,11 @@ var surahsOld = [
 					"rangeStart": "36",
 					"rangeEnd": "40",
 					"details": [
-						["He is imprisoned along with two other men. "],
-						["The two other prisoners discuss their dreams with Yusuf (عليه السلام) and ask him to interpret them. "],
-						["One of them said, ‘I dreamed that I was pressing grapes’; the other said, ‘I dreamed that I was carrying bread on my head and that the birds were eating it.’ "],
+						["He is imprisoned along with two other men."],
+						["The two other prisoners discuss their dreams with Yusuf (عليه السلام) and ask him to interpret them."],
+						["One of them said, ‘I dreamed that I was pressing grapes’; the other said, ‘I dreamed that I was carrying bread on my head and that the birds were eating it.’"],
 						["Yusuf (عليه السلام) mentioned their next meal reminding them that Allah provides their sustenance then replies that he is able to interpret dreams because Allah has taught him to do so."],
-						["He spells out his belief in Allah and on the Day of Judgement. "],
+						["He spells out his belief in Allah and on the Day of Judgement."],
 						["Yusuf (عليه السلام) asserts that his family, the family of Ibrahim, Is’haq and Ya’qoob (عليهم السلام) hold the knowledge of the Oneness of Allah, and that his religion and family do not attribute partners to Allah."],
 						["Most people however do not realise this."]
 					]
@@ -1193,7 +1193,7 @@ var surahsOld = [
 					"details": [
 						["Yusuf (عليه السلام) interprets the dream."],
 						["One will serve wine to his master; the other will be crucified and the birds will peck at his head."],
-						["He asks the one to be saved to mention him (Yusuf (عليه السلام)) to his master. "],
+						["He asks the one to be saved to mention him (Yusuf (عليه السلام)) to his master."],
 						["But Shaytan makes the man forget and Yusuf (عليه السلام) languishes in prison for more time."],
 						
 						
@@ -1208,8 +1208,8 @@ var surahsOld = [
 					"details": [
 						["The King (of Egypt) asks his counsellors to interpret his dream."],
 						["‘I dreamed about seven fat cows being eaten by seven lean ones; seven green ears of corn and [seven] others withered.’"],
-						["They were unable to do so and the ex-prisoner remembered Yusuf (عليه السلام). "],
-						["He ran to him and interprets the dream and the King asks for Yusuf (عليه السلام) to be brought into his presence. "],
+						["They were unable to do so and the ex-prisoner remembered Yusuf (عليه السلام)."],
+						["He ran to him and interprets the dream and the King asks for Yusuf (عليه السلام) to be brought into his presence."],
 						["The ex-prisoner goes back to Yusuf (عليه السلام) but Yusuf (عليه السلام) asks him to ask his master (the King) about the women who cut their hands."],
 						["The King establishes Yusuf’s (عليه السلام) innocence."],
 						["Yusuf (عليه السلام) says he wanted his master, the politician to know that he did not betray him or abuse his trust."],
@@ -1226,7 +1226,7 @@ var surahsOld = [
 					"details": [
 						["Yusuf’s (عليه السلام) brothers present themselves asking for their measure of grain."],
 						["He recognizes them but they do not recognize him. He asks them to come again, this time with their younger brother. Without him they will not be permitted to have the grain."],
-						["They reply that they will try to persuade their father and get his permission. "],
+						["They reply that they will try to persuade their father and get his permission."],
 						["Yusuf (عليه السلام) tells his servants to put the goods his brothers traded for grain back in their saddle bags in order to make them eager to return."],
 						["The brothers ask their father Ya’qoob (عليه السلام) to let them take their younger brother Binyamin but he is wary asking 'Am I to entrust him to you as I did his brother before?'"],
 						["The brothers open the saddle bags and find their good returned to them"],
@@ -1286,7 +1286,7 @@ var surahsOld = [
 					"rangeEnd": "101",
 					"details": [
 						["Later when the whole family was presented before Yusuf (عليه السلام) he drew his parents close to him and welcomed them telling them that, Allah willing they will be safe."],
-						["They all bowed down to Yusuf (عليه السلام) and he commented to his father that this was the fulfilment of the dream he had so long ago. "],
+						["They all bowed down to Yusuf (عليه السلام) and he commented to his father that this was the fulfilment of the dream he had so long ago."],
 						["Yusuf (عليه السلام) said that Allah had been gracious towards him after Shaytan had sowed discord between he and his brothers."],
 						["Yusuf (عليه السلام) prays to Allah acknowledging his blessings and asking to live and die as a Muslim and be joined with the righteous."],
 						["The story of Yusuf (عليه السلام) is a lesson for all of mankind. True patience and the ability to forgive are lofty characteristics worthy of inculcating."],
@@ -1377,10 +1377,10 @@ var surahsOld = [
 					"rangeStart": "31",
 					"rangeEnd": "34",
 					"details": [
-						["If there was ever to be a recitation that could move mountains, shatter the earth, or make the dead speak it would be this one. "],
-						["Allah commands everything and He could have guided all of mankind if that had been His will. "],
-						["The Disbelievers will never be far from disaster, until the end when Allah’s promise will be fulfilled. "],
-						["You, Muhammad are not the first messenger to be mocked. "],
+						["If there was ever to be a recitation that could move mountains, shatter the earth, or make the dead speak it would be this one."],
+						["Allah commands everything and He could have guided all of mankind if that had been His will."],
+						["The Disbelievers will never be far from disaster, until the end when Allah’s promise will be fulfilled."],
+						["You, Muhammad are not the first messenger to be mocked."],
 						["Even though the Disbelievers were granted a respite, they were taken to task with a terrible punishment."],
 						
 						
@@ -1391,7 +1391,7 @@ var surahsOld = [
 					"rangeStart": "35",
 					"rangeEnd": "43",
 					"details": [
-						["The Believers will have Paradise, the Disbelievers will have Fire and there are those who accepted Islam from among the People of the Book (Jews and Christians) who rejoice at the new revelations (Qur’an) but some from among the People of the Book who deny parts of it. "],
+						["The Believers will have Paradise, the Disbelievers will have Fire and there are those who accepted Islam from among the People of the Book (Jews and Christians) who rejoice at the new revelations (Qur’an) but some from among the People of the Book who deny parts of it."],
 						["This is only an invitation from the Prophet (ﷺ) to follow the Mother of the Book written in Arabic."],
 						["All previous messengers had a book and Allah confirms that He is a witness to the truth of the message of the Prophet (ﷺ) even though Disbelievers do not believe it."],
 						
@@ -1417,7 +1417,7 @@ var surahsOld = [
 					"rangeEnd": "12",
 					"details": [
 						["This Qur’an was sent to Prophet Muhammad (ﷺ) so that he could use it to lead the people out of darkness and ignorance and into the light of Allah."],
-						["Prophet Moosa (عليه السلام) was also told to bring his people into the light and to remind them of their divine history, particularly the troubled times when they were living under the yoke of Pharaoh. "],
+						["Prophet Moosa (عليه السلام) was also told to bring his people into the light and to remind them of their divine history, particularly the troubled times when they were living under the yoke of Pharaoh."],
 						["The message was also denied and rejected by the people of Nuh (عليه السلام), and Ad and Thamud, as well as the people who came after them."],
 						
 						
@@ -1430,7 +1430,7 @@ var surahsOld = [
 					"rangeStart": "13",
 					"rangeEnd": "17",
 					"details": [
-						["The Disbelievers wanted the messengers to return to their old religion but Allah made them understand that He would destroy the Disbelievers and then the messengers and their followers would live in the land after the Disbelievers were gone. "],
+						["The Disbelievers wanted the messengers to return to their old religion but Allah made them understand that He would destroy the Disbelievers and then the messengers and their followers would live in the land after the Disbelievers were gone."],
 						
 						
 						
@@ -1445,7 +1445,7 @@ var surahsOld = [
 					"rangeEnd": "22",
 					"details": [
 						["The good deeds of those who disbelieve are like ashes blowing in the wind."],
-						["When the weak appear before Allah they will call out for help to those who considered themselves mighty. "],
+						["When the weak appear before Allah they will call out for help to those who considered themselves mighty."],
 						["They will answer by saying if Allah had guided us we would have guided you, but there is no escape now whether we panic or bear it in silence."],
 						["Shaytan will tell them that Allah’s promise was true however he (Shaytan) deceived them."],
 						["They followed him (Shaytan) of their own free will. Shaytan rejects those who followed him and they will face a severe punishment."],
@@ -1459,8 +1459,8 @@ var surahsOld = [
 					"rangeStart": "23",
 					"rangeEnd": "27",
 					"details": [
-						["Those who believe and do good deeds will be admitted to Paradise, where gardens bloom and rivers flow. "],
-						["Their greeting will be the word ‘Peace’. "],
+						["Those who believe and do good deeds will be admitted to Paradise, where gardens bloom and rivers flow."],
+						["Their greeting will be the word ‘Peace’."],
 						["In order that we may ponder and reflect, Allah compares a ‘good word’ with a good tree whose branches reach high into the sky, roots are firmly planted in the ground and it yields fruit every season."],
 						["Likewise, a ‘bad word’ is like a bad tree. It is easily uprooted and has no endurance."],
 						
@@ -1474,7 +1474,7 @@ var surahsOld = [
 					"rangeEnd": "34",
 					"details": [
 						["There are some people who have responded to the favors of Allah with ingratitude."],
-						["They cause others to end up burning in the Fires of Hell by encouraging the worship of false gods. "],
+						["They cause others to end up burning in the Fires of Hell by encouraging the worship of false gods."],
 						["Their pleasure will be in this life only for they have no hope of Paradise."],
 						["Everything has been provided yet most of mankind is ungrateful."],
 						
@@ -1502,7 +1502,7 @@ var surahsOld = [
 					"rangeEnd": "52",
 					"details": [
 						["Allah knows exactly what the Disbelievers do; He gives them respite until the Day when they will be staring around in horror."],
-						["The people should be warned that a Day will come when the earth and the heavens will change into another earth and heavens and everyone who ever lived will stand before Allah. "],
+						["The people should be warned that a Day will come when the earth and the heavens will change into another earth and heavens and everyone who ever lived will stand before Allah."],
 						["Everyone will be judged and every soul will get exactly what it deserves."],
 						
 						
@@ -1529,7 +1529,7 @@ var surahsOld = [
 					"details": [
 						["The Disbelievers will one day come to wish that they had submitted themselves to Allah."],
 						["Allah has never destroyed a people except at the time that was previously decreed."],
-						["They call Prophet Muhammad (ﷺ) insane and ask him for Angels but the Angels will only appear to strike them down. "],
+						["They call Prophet Muhammad (ﷺ) insane and ask him for Angels but the Angels will only appear to strike them down."],
 						["Messengers were sent to earlier nations and they were all mocked and ridiculed by their own people."],
 						["Some people will not believe even though they know the stories of the people who came before them."],
 						["Even if Allah had opened a gate in Paradise they would believe themselves to be dazzled and bewitched by magic."],
@@ -1556,7 +1556,7 @@ var surahsOld = [
 					"rangeEnd": "44",
 					"details": [
 						["Mankind was created from humble clay (altered black mud) and the Jinn were created before mankind from smokeless Fire."],
-						["When Allah created Adam (عليه السلام) he told the Angels to bow down before him (Adam عليه السلام) and they did, except Iblees who was cast out and cursed until the Day of Judgment. "],
+						["When Allah created Adam (عليه السلام) he told the Angels to bow down before him (Adam عليه السلام) and they did, except Iblees who was cast out and cursed until the Day of Judgment."],
 						["He asked for a reprieve until that Day and Allah granted it to him."],
 						["Iblees vowed to mislead mankind and make disobedience attractive to all of them except the ones sincerely devoted to Allah."],
 						["Allah said that the misguided ones would go to Hell, an allotted number through each of the seven gates of Hell."],
@@ -1600,7 +1600,7 @@ var surahsOld = [
 					"details": [
 						["Allah reminds the Prophet (ﷺ) that He gave him great blessings like the seven oft-repeated verses and the Qur’an."],
 						["Prophet Muhammad (ﷺ) is further told to be kind to the Believers and to tell the people that he is nothing except a warner."],
-						["All will be questioned about their behaviour including those who invented lies about the Qur’an just as others invented lies about their own scriptures. "],
+						["All will be questioned about their behaviour including those who invented lies about the Qur’an just as others invented lies about their own scriptures."],
 						["Allah tells Muhammad (ﷺ) He knows how distressed he is by what the Disbelievers are saying but that he should cure his distress by praising Allah, bowing before Him and worshipping Him until the certainty of death arrives."],
 						
 						
@@ -1623,7 +1623,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "21",
 					"details": [
-						["The Day of Judgement is coming so do not be impatient to experience it. "],
+						["The Day of Judgement is coming so do not be impatient to experience it."],
 						["Allah sends down Angels to inspire some people to warn others that there is no true deity but Allah."],
 						["Fear Him for He is far above anything they associate with Him."],
 						["People are created from a tiny drop of sperm but soon they become strong and openly challenge Allah."],
@@ -1694,7 +1694,7 @@ var surahsOld = [
 					"rangeStart": "61",
 					"rangeEnd": "69",
 					"details": [
-						["If Allah punished mankind for the evil that they do there would not be one person left on the earth. "],
+						["If Allah punished mankind for the evil that they do there would not be one person left on the earth."],
 						["Instead He gives them respite, until an appointed time."],
 						["The Qur’an was revealed in order to make the things they argue about clear and it is a guidance and a mercy for those who believe."],
 						["Allah created the bee, which feeds on all kinds of fruit and produces honey for the benefit of mankind."],
@@ -1711,7 +1711,7 @@ var surahsOld = [
 						["Some people will live well into old age and will lose their faculties, some will have more wealth."],
 						["Are slaves and those who have been provided with everything equal?"],
 						["Is a person unable to care for himself equal to one who is righteous and dispenses justice?"],
-						["Babies emerge from their mother’s wombs knowing nothing but Allah provides them with hearing, sight and minds so that they can be thankful to Him. "],
+						["Babies emerge from their mother’s wombs knowing nothing but Allah provides them with hearing, sight and minds so that they can be thankful to Him."],
 						["Allah has made the birds able to fly without falling, provides mankind with shelter and garments for warmth and battle."],
 						["He bestows the favours so that you will submit to Him."],
 						
@@ -1725,7 +1725,7 @@ var surahsOld = [
 					"details": [
 						["On the Day of Judgment there will be a witness (their Messenger) from every nation."],
 						["Then it will be too late for excuses."],
-						["Allah will bring a witness from every nation and Prophet Muhammad (ﷺ) will be the witness over the Muslims. "],
+						["Allah will bring a witness from every nation and Prophet Muhammad (ﷺ) will be the witness over the Muslims."],
 						
 						
 						
@@ -1738,7 +1738,7 @@ var surahsOld = [
 					"rangeEnd": "100",
 					"details": [
 						["Allah commands mankind to be just and behave with righteousness whilst being supportive of their relatives."],
-						["Whenever you recite from the Qur’an seek refuge in Allah from the accursed Shaytan. "],
+						["Whenever you recite from the Qur’an seek refuge in Allah from the accursed Shaytan."],
 						["Shaytan has no power over those who are submitted to Allah; his power only affects those who align themselves with him (Shaytan) and worship something other than Allah."],
 						["Famous verse quoted in all Jumu’ah prayer.v.90."],
 						["‘Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression."],
@@ -1752,9 +1752,9 @@ var surahsOld = [
 					"rangeStart": "101",
 					"rangeEnd": "111",
 					"details": [
-						["When Allah substitutes one verse for another they say that Prophet Muhammad (ﷺ) has invented lies but they do not understand that Angel Jibreel (عليه السلام) has brought the verses down piecemeal in order to gradually strengthen the believers. "],
+						["When Allah substitutes one verse for another they say that Prophet Muhammad (ﷺ) has invented lies but they do not understand that Angel Jibreel (عليه السلام) has brought the verses down piecemeal in order to gradually strengthen the believers."],
 						["They say that a human being has taught Prophet Muhammad (ﷺ) the revelations but this Qur’an is in clear Arabic."],
-						["Allah has sealed the hearts, ears and eyes of the heedless, but those who must flee persecution or are compelled to say words of disbelief will feel Allah’s Mercy and Forgiveness. "],
+						["Allah has sealed the hearts, ears and eyes of the heedless, but those who must flee persecution or are compelled to say words of disbelief will feel Allah’s Mercy and Forgiveness."],
 						
 						
 					]
@@ -1764,11 +1764,11 @@ var surahsOld = [
 					"rangeStart": "112",
 					"rangeEnd": "117",
 					"details": [
-						["Allah presents an example of a town that was secure with provisions in abundance. "],
-						["The people became ungrateful so they were afflicted with famine and fear. "],
-						["They denied their messenger and the punishment overtook them. "],
+						["Allah presents an example of a town that was secure with provisions in abundance."],
+						["The people became ungrateful so they were afflicted with famine and fear."],
+						["They denied their messenger and the punishment overtook them."],
 						["So eat from the good things Allah has provided and be grateful."],
-						["Allah has forbidden only carrion, blood, pig meat and that which has been dedicated to something other than Allah. "],
+						["Allah has forbidden only carrion, blood, pig meat and that which has been dedicated to something other than Allah."],
 						["But if a person must eat these things out of necessity Allah will be Forgiving."],
 						
 					]
@@ -1806,7 +1806,7 @@ var surahsOld = [
 						["Glory be to Allah who took Prophet Muhammad (ﷺ) on a journey, over one night, from the sacred House in Makkah to the blessed area in Jerusalem surrounding the mosque to show him some signs."],
 						["Allah also gave Moosa (عليه السلام), who was a thankful servant, a book as a guide for the Children of Israel, who were the descendants of Nuh (عليه السلام) and were warned not to take any Protector other than Him."],
 						["Allah warned the Children of Israel that twice they would become arrogant transgressors and that twice they would be punished."],
-						["After the promised punishment for the first transgression, Allah allowed them to prosper. "],
+						["After the promised punishment for the first transgression, Allah allowed them to prosper."],
 						["When the second transgression came, Allah allowed their enemies to destroy the temple as punishment."],
 						
 						
@@ -1848,8 +1848,8 @@ var surahsOld = [
 						["The Qur’an explains things in many different ways but that makes some people turn even further away."],
 						["If there really was some other god, why does it not dethrone the Master of the Throne?!"],
 						["Everything in the heavens and earth glorifies Him, but we do not understand how they glorify."],
-						["When you recite the Qur’an there is a barrier between you and those who do not believe in the Hereafter. "],
-						["They do not understand it as Allah covers their heart when it’s recited and when Allah’s Oneness is mentioned they turn away. "],
+						["When you recite the Qur’an there is a barrier between you and those who do not believe in the Hereafter."],
+						["They do not understand it as Allah covers their heart when it’s recited and when Allah’s Oneness is mentioned they turn away."],
 						["When they are raised up they will think they had been dead for only a very short time."],
 						
 						
@@ -1863,8 +1863,8 @@ var surahsOld = [
 						["Shaytan is their sworn enemy."],
 						["Some prophets were given more than others."],
 						["There is no community of evildoers that will not be destroyed or severely punished before the Day of Resurrection."],
-						["Allah does not send signs for those who demand them because previously His signs were denied. "],
-						["Allah made the Night Journey and the accursed Tree of Zaqqum mentioned in the Qur’an as tests. "],
+						["Allah does not send signs for those who demand them because previously His signs were denied."],
+						["Allah made the Night Journey and the accursed Tree of Zaqqum mentioned in the Qur’an as tests."],
 						
 						
 					]
@@ -1874,10 +1874,10 @@ var surahsOld = [
 					"rangeStart": "61",
 					"rangeEnd": "65",
 					"details": [
-						["When Allah told the Angels to prostrate before Adam (عليه السلام) they all obeyed except Iblees. "],
-						["He was arrogant and asked why he should worship someone made from clay. "],
-						["Iblees said that if Allah delayed his death until the Day of Resurrection he would lead most of the descendants of Adam (عليه السلام) astray. "],
-						["Allah told him to go away because Hell would be the reward for him and any that follow him. "],
+						["When Allah told the Angels to prostrate before Adam (عليه السلام) they all obeyed except Iblees."],
+						["He was arrogant and asked why he should worship someone made from clay."],
+						["Iblees said that if Allah delayed his death until the Day of Resurrection he would lead most of the descendants of Adam (عليه السلام) astray."],
+						["Allah told him to go away because Hell would be the reward for him and any that follow him."],
 						["Iblees was told to do whatever he could to tempt and destroy mankind but to be aware that he would never have power over the true Believers."],
 						
 						
@@ -1889,10 +1889,10 @@ var surahsOld = [
 					"rangeEnd": "84",
 					"details": [
 						["Allah has honoured the son of Adam (عليه السلام) above all other creation."],
-						["On the Day of Resurrection, when every community is gathered with their leader, those who receive their book in their right hand will read it with pleasure whereas those who pretended to be blind to the Hereafter will be worse than blind in the Hereafter. "],
+						["On the Day of Resurrection, when every community is gathered with their leader, those who receive their book in their right hand will read it with pleasure whereas those who pretended to be blind to the Hereafter will be worse than blind in the Hereafter."],
 						["Allah orders the establishment of regular prayers. "],
-						["Truth has come and falsehood has departed. "],
-						["The Qur’an was sent in stages and is a healing and a mercy for the believers but the Disbelievers gain nothing from it except loss. "],
+						["Truth has come and falsehood has departed."],
+						["The Qur’an was sent in stages and is a healing and a mercy for the believers but the Disbelievers gain nothing from it except loss."],
 						
 						
 					]
@@ -1903,14 +1903,14 @@ var surahsOld = [
 					"rangeEnd": "99",
 					"details": [
 						["If people ask about the spirit is then know that only Allah knows and man has been given very little knowledge about it."],
-						["If Allah wanted He could take away that which has been revealed and then mankind would never be able to get it back. "],
-						["Even if all of mankind and the Jinn came together they could not produce anything like the Qur’an no matter how much they helped each other. "],
-						["The Qur’an is full of different examples to help people understand the message but still most people persist in their disbelief. "],
-						["Many say to the Prophet (ﷺ) that they will not believe until he performs miracles to their demands such as making water rush from the ground or causing rivers to appear in gardens or making pieces of the sky fall down or bringing Allah and the Angels down in front of them. "],
-						["Even then, they say, we will not believe in your ascension unless you bring down for us a book that we can read. "],
+						["If Allah wanted He could take away that which has been revealed and then mankind would never be able to get it back."],
+						["Even if all of mankind and the Jinn came together they could not produce anything like the Qur’an no matter how much they helped each other."],
+						["The Qur’an is full of different examples to help people understand the message but still most people persist in their disbelief."],
+						["Many say to the Prophet (ﷺ) that they will not believe until he performs miracles to their demands such as making water rush from the ground or causing rivers to appear in gardens or making pieces of the sky fall down or bringing Allah and the Angels down in front of them."],
+						["Even then, they say, we will not believe in your ascension unless you bring down for us a book that we can read."],
 						["Allah says to tell them that you (Prophet Muhammad (ﷺ)) have never claimed to be anything other than a human being with a message."],
-						["They didn’t believe because they wondered why Allah would send a human being. "],
-						["Thus they should be told that if there had been Angels walking about on earth then an Angel would have been sent. "],
+						["They didn’t believe because they wondered why Allah would send a human being."],
+						["Thus they should be told that if there had been Angels walking about on earth then an Angel would have been sent."],
 						["On the Day of Resurrection the Disbelievers will be gathered together lying on their faces blind, dumb and deaf and will be sent to Hell."],
 						["If mankind was in charge of Allah’s Mercy he would withhold it because human beings have always been stingy."],
 						
@@ -1923,10 +1923,10 @@ var surahsOld = [
 					"rangeStart": "100",
 					"rangeEnd": "111",
 					"details": [
-						["Prophet Moosa (عليه السلام) was sent nine clear signs but Pharaoh believed it was magic and was drowned. "],
+						["Prophet Moosa (عليه السلام) was sent nine clear signs but Pharaoh believed it was magic and was drowned."],
 						["The Children of Israel were told to settle down and when the appointment of the Hereafter comes they will all be resurrected in one gathering."],
-						["The truth has been sent down in the form of the Qur’an which has been sent down little by little and the righteous people who were given knowledge before the Qur’an recognise the truth of it and weep falling down in prostration. "],
-						["Tell them to call on Allah by his best names. "],
+						["The truth has been sent down in the form of the Qur’an which has been sent down little by little and the righteous people who were given knowledge before the Qur’an recognise the truth of it and weep falling down in prostration."],
+						["Tell them to call on Allah by his best names."],
 						["Praise Allah, the One with no son or partner."],
 						["He has no need of protection, so glorify Him greatly."],
 						
@@ -1958,22 +1958,22 @@ var surahsOld = [
 					"rangeEnd": "26",
 					"details": [
 						["Allah narrates the story of the young pious men who Allah guided and gave them refuge in the cave (after a king that was after them who threatened their religion), praying that Allah would guide them to a way out of their predicament."],
-						["Allah put them into a deep sleep and awakened them after a long period of time. "],
+						["Allah put them into a deep sleep and awakened them after a long period of time."],
 						["How long they had been sleeping is argued about by believers and nonbelievers alike but now Allah reveals the truth of the matter."],
 						["(Before taking refuge in the cave) They declared that Allah was the Lord of the heavens and the earth and they would never call upon any deity other than Him."],
 						["They discussed it amongst each other and withdrew to the cave knowing that Allah would cover them with His Mercy and guide them out of the ordeal they found themselves in."],
-						["And if you had been there with the sleepers you would have seen that the sun rose on their right and set on their left. "],
+						["And if you had been there with the sleepers you would have seen that the sun rose on their right and set on their left."],
 						["All the while they lay in an open space within the cave."],
-						["If you looked at the sleepers you might have thought that they were awake, they turned from one side to the other and their dog lay stretched out at the entrance to the cave. "],
+						["If you looked at the sleepers you might have thought that they were awake, they turned from one side to the other and their dog lay stretched out at the entrance to the cave."],
 						["If you had seen them you would have ran away filled with terror."],
 						["In the same way that He put them to sleep Allah woke them up."],
 						["The youths began to question one another, asking, how long have we been sleeping."],
-						["It felt like only a day or part of a day and they agreed that only Allah knew for sure how much time had passed. "],
-						["One of them went to the town with a silver coin to look for food. "],
+						["It felt like only a day or part of a day and they agreed that only Allah knew for sure how much time had passed."],
+						["One of them went to the town with a silver coin to look for food."],
 						["The others warned him to be cautious and not disclose their whereabouts."],
 						["If he was caught he would be stoned to death or worse he would be forced to change to their religion."],
-						["So Allah brought them to people’s attention so that everyone may know that His promises of Resurrection and the Last Hour were true. "],
-						["The people who found them argued and disputed amongst themselves and those who prevailed decided to build a house of worship over them. "],
+						["So Allah brought them to people’s attention so that everyone may know that His promises of Resurrection and the Last Hour were true."],
+						["The people who found them argued and disputed amongst themselves and those who prevailed decided to build a house of worship over them."],
 						["The people who heard the story argued about how many sleepers there were, but they guess at the unseen because only a few people have any real knowledge."],
 						["Therefore adhere to what is clear and never say that you will do something without saying if Allah wills."],
 						["If you do forget then remember Allah and hope that He will guide you to even better conduct."],
@@ -1989,7 +1989,7 @@ var surahsOld = [
 					"rangeStart": "27",
 					"rangeEnd": "31",
 					"details": [
-						["The Prophet (ﷺ) is told to recite what has been revealed to him and there is no authorisation to change anything in any way. "],
+						["The Prophet (ﷺ) is told to recite what has been revealed to him and there is no authorisation to change anything in any way."],
 						["Be busy in the rememberance of Allah for the wrongdoers will end up surrounded by Fire and the righteous believers in Gardens of Eternity."],
 						
 						
@@ -2006,7 +2006,7 @@ var surahsOld = [
 					"details": [
 						["Allah then narrates the parable of two men both with beautiful gardens with a river between."],
 						["One man told the other that he was wealthier and had more followers and believed it will last forever and the Last Hour will never come and even if it did Allah would reward him with something even better."],
-						["The other man asked if he disbelieved in the One who created him, for he does not, and he should have said that all is as Allah willed and no one has power except Him. "],
+						["The other man asked if he disbelieved in the One who created him, for he does not, and he should have said that all is as Allah willed and no one has power except Him."],
 						["Although I have less, Allah might give me something better and destroy what you have."],
 						["As such the first man’s garden was destroyed and he wished he had not attributed his prosperity to himself rather than Allah and realised real protection comes from Allah."],
 						
@@ -2022,7 +2022,7 @@ var surahsOld = [
 						["Here one day gone the next."],
 						["The world is distraction and the Day of Judgement is coming."],
 						["Remind the people about when the Angels prostrated to Adam (عليه السلام)."],
-						["Iblees was amongst them and he refused. "],
+						["Iblees was amongst them and he refused."],
 						["Taking Shaytan and his offspring as masters would be a grave mistake and one will realise on the Day of Judgement."],
 						["The Qur’an is full of examples to make people understand, but mankind is quarrelsome."],
 						["Allah sends guidance and messengers to remind but those who turn away and mock it have veils cast over their hearts and their ears are deaf."],
@@ -2040,19 +2040,19 @@ var surahsOld = [
 						["The place where the fish was forgotten was the appointed place, so they turned back and there was the man they were looking for, Khidr (رضي الله عنه‎)."],
 						["He was very knowledgeable and Moosa (عليه السلام) hoped to learn from him but Khidr (رضي الله عنه‎) expressed doubts that Moosa (عليه السلام) would have the patience he needed."],
 						["They set off in a boat but Khidr (رضي الله عنه‎) made a hole in the boat."],
-						["Moosa (عليه السلام) forgot his promise not to question Khidr (رضي الله عنه‎) about his actions. "],
+						["Moosa (عليه السلام) forgot his promise not to question Khidr (رضي الله عنه‎) about his actions."],
 						["They travelled on until they met a boy and Khidr (رضي الله عنه‎) killed him."],
 						["Again Moosa (عليه السلام) questioned him as to why he killed an innocent child."],
-						["Khidr (رضي الله عنه‎) reminded him of his promise not to question anything. "],
-						["They travelled on until they came to a town where they asked for food but the townspeople refused to help or feed them. "],
-						["Nevertheless Khidr (رضي الله عنه‎) and Moosa (عليه السلام) repaired a wall that was falling down. "],
+						["Khidr (رضي الله عنه‎) reminded him of his promise not to question anything."],
+						["They travelled on until they came to a town where they asked for food but the townspeople refused to help or feed them."],
+						["Nevertheless Khidr (رضي الله عنه‎) and Moosa (عليه السلام) repaired a wall that was falling down."],
 						["Moosa (عليه السلام) told Khidr (رضي الله عنه‎) that he could have asked for payment for the work, to which Khidr (رضي الله عنه‎) replied that this was the end of their time together."],
 						["Before Moosa (عليه السلام) left, Khidr (رضي الله عنه‎) explained to him the reasons behind his actions."],
 						["The boat belonged to poor people."],
 						["There was a King who was seizing every boat; if their boat was defective they would be able to keep it and repair it."],
 						["The boy’s parents were true believers and he would have grown up to incite them to wickedness and disbelief."],
 						["Allah planned to replace him with a better and purer child."],
-						["The wall belonged to two orphans and there was buried treasure underneath it. "],
+						["The wall belonged to two orphans and there was buried treasure underneath it."],
 						["Their father had been a righteous man, so Allah intended that the treasure remain buried, safe from the orphan’s caregivers until they reached maturity."],
 						["Khidr (رضي الله عنه‎) said he did not do these things of his own accord, he was following Allah’s plan."],
 						
@@ -2068,15 +2068,15 @@ var surahsOld = [
 						["Allah then narrates the story of Dhul-Qarnayn who was a powerful leader."],
 						["Once on an expedition he came across a group of people."],
 						["Allah told him to either punish them or show kindness to them."],
-						["Dhul-Qarnayn chose to punish the ones who had done evil and noted that they would also be punished a second time by Allah. "],
-						["He spoke gently to the ones who were not doing evil. "],
+						["Dhul-Qarnayn chose to punish the ones who had done evil and noted that they would also be punished a second time by Allah."],
+						["He spoke gently to the ones who were not doing evil."],
 						["On his next expedition he came upon another group of people for whom Allah had not provided any shelter."],
-						["And so it was; he travelled on until he came to a point between two mountains. "],
+						["And so it was; he travelled on until he came to a point between two mountains."],
 						["Dhul-Qarnayn could barely communicate with the people there."],
-						["The people managed to ask him if they could pay him to build a wall. "],
+						["The people managed to ask him if they could pay him to build a wall."],
 						["The wall was to keep out Ya’jooj and Ma’jooj (Gog and Magog) who were destroying their land."],
 						["Dhul-Qarnayn said that what Allah provided him with was better than any tribute they could pay him but if they provided him with men to help he could put up a fortification."],
-						["They filled the gap between the mountains with iron and poured molten copper over it. "],
+						["They filled the gap between the mountains with iron and poured molten copper over it."],
 						["Ya’jooj and Ma’jooj could not scale it or tunnel through it."],
 						["This is a mercy from Allah, Dhul-Qarnayn said, but one day Allah will flatten it to the ground, this is a promise from Allah."],
 						["Know that on that day the two parties, (Ya’jooj and Ma’jooj) will surge against each other like waves."],
@@ -2091,9 +2091,9 @@ var surahsOld = [
 					"rangeEnd": "110",
 					"details": [
 						["The person who loses the most, by his or her actions, is the one whose efforts are lost even though they think they are doing well because they disbelieve, whereas the believers will be in Paradise."],
-						["And if all the oceans were ink for writing, the ink would run dry before the words of Allah’s attributes, grandeur, and knowledge were exhausted. "],
+						["And if all the oceans were ink for writing, the ink would run dry before the words of Allah’s attributes, grandeur, and knowledge were exhausted."],
 						["Even if another amount of ink just like it were to be added it would not be enough."],
-						["The Prophet (ﷺ) is told to say that he is just a human being, the same as everyone else, and it has been revealed to him that the Lord Allah is One. "],
+						["The Prophet (ﷺ) is told to say that he is just a human being, the same as everyone else, and it has been revealed to him that the Lord Allah is One."],
 						["Everyone amongst the people who fears their meeting with Allah should do good deeds and never let anyone else or anything share in the worship that is due to Allah alone."],
 						
 						
@@ -2117,9 +2117,9 @@ var surahsOld = [
 					"details": [
 						["In the Bible, Zakariyya (عليه السلام) is husband of Elisabeth who is the cousin of Maryam (رضی اللہ عنھا)."],
 						["The Qur’an tells us that Zakariyya (عليه السلام) was also the guardian of Maryam (رضی اللہ عنھا), the mother of Isa (عليه السلام)."],
-						["Zakariyya (عليه السلام) was a prophet of Allah whose office was in the temple in Jerusalem. He was in charge of services at the temple. "],
+						["Zakariyya (عليه السلام) was a prophet of Allah whose office was in the temple in Jerusalem. He was in charge of services at the temple."],
 						["Zakariyya’s (عليه السلام) wife was barren and both were very old."],
-						["Zakariyya (عليه السلام) began to worry over who would carry on the daily services of the temple and preach the message of Allah after his death. "],
+						["Zakariyya (عليه السلام) began to worry over who would carry on the daily services of the temple and preach the message of Allah after his death."],
 						["In response to Zakariyya’s (عليه السلام) earnest prayer to Allah for a son, an Angel announced that Allah will provide him a son whose name will be Yahya (عليه السلام)."]
 					]
 				},
@@ -2136,7 +2136,7 @@ var surahsOld = [
 					"rangeStart": "16",
 					"rangeEnd": "40",
 					"details": [
-						["An Angel appears to Virgin Maryam (رضی اللہ عنھا) in the form of a man to convey the birth of a son – a mercy and a miracle from Allah. "],
+						["An Angel appears to Virgin Maryam (رضی اللہ عنھا) in the form of a man to convey the birth of a son – a mercy and a miracle from Allah."],
 						["Fearing reaction from people toward an unmarried pregnancy, she goes to Bethlehem."],
 						["Supported by an Angel at the time of childbirth, Allah provides her fresh water and ripe dates at the time of delivery."],
 						["The baby Isa (عليه السلام) miraculously speaks from the cradle in defense of his mother when Maryam (رضی اللہ عنھا) is probed about the child, announcing that he is Allah’s blessed servant and prophet, and has been commanded to pray, give charity, and be kind to his mother."],
@@ -2159,10 +2159,10 @@ var surahsOld = [
 					"rangeStart": "51",
 					"rangeEnd": "65",
 					"details": [
-						["Moosa (عليه السلام) was a chosen prophet called into close communion by Allah next to Mount Tur (the burning bush). "],
+						["Moosa (عليه السلام) was a chosen prophet called into close communion by Allah next to Mount Tur (the burning bush)."],
 						["Isma’eel (عليه السلام) was also a sincere prophet and messenger of Allah who was true to his word and cared for his family’s spiritual well-being; he reminded them to pray and be charitable."],
 						["Idris (Enoch) (عليه السلام) was a sincere, prophet of Allah, elevated in status."],
-						["A distinctive attribute of those whose character is molded by the teachings of the prophets, is that they are no longer slaves of their base desires, but rise above them, however many after the prophets continued to follow their desires and become misguided.  "]
+						["A distinctive attribute of those whose character is molded by the teachings of the prophets, is that they are no longer slaves of their base desires, but rise above them, however many after the prophets continued to follow their desires and become misguided. "]
 					]
 				},
 				{
@@ -2170,9 +2170,9 @@ var surahsOld = [
 					"rangeStart": "66",
 					"rangeEnd": "76",
 					"details": [
-						["The Arabs, who were first addressed by the Qur’an, accepted life after death, but their acceptance was purely formal and as such had no impact on their lives. "],
-						["This indifference persists because people do not give serious consideration to this matter. "],
-						["If they did, they would realize that the initial, first birth is in itself an argument in support of re-birth. "],
+						["The Arabs, who were first addressed by the Qur’an, accepted life after death, but their acceptance was purely formal and as such had no impact on their lives."],
+						["This indifference persists because people do not give serious consideration to this matter."],
+						["If they did, they would realize that the initial, first birth is in itself an argument in support of re-birth."],
 						["They further have an arrogance and laxity in worship and his taking for granted all that he has in this world and not treating the Hereafter with seriousness."],
 						["A further accusation of Allah having a son is marveled at for its absurdness."]
 					]
@@ -2219,18 +2219,18 @@ var surahsOld = [
 					"rangeStart": "9",
 					"rangeEnd": "99",
 					"details": [
-						["What follows next is the most vividly described story of Moosa (عليه السلام). "],
+						["What follows next is the most vividly described story of Moosa (عليه السلام)."],
 						["Reference is made of the journey of Moosa (عليه السلام) and his family from Midian to Egypt."],
 						["When he goes towards the light he hears the voice of Allah calling him."],
-						["Moosa (عليه السلام) holds a conversation with his Lord at the holy valley. "],
-						["Allah tells him to establish prayer for His remembrance, then gives him two miracles. "],
-						["One, that his staff will turn into a serpent when he throws it on the ground; and second, that when he presses his right hand to his left side, it will come forth white and shining. "],
-						["After this Allah tells him about the mission he has been chosen for: call Pharaoh to the path of Allah. "],
-						["Moosa (عليه السلام) prays to Allah for support and for his brother Haroon (عليه السلام) to assist him. "],
+						["Moosa (عليه السلام) holds a conversation with his Lord at the holy valley."],
+						["Allah tells him to establish prayer for His remembrance, then gives him two miracles."],
+						["One, that his staff will turn into a serpent when he throws it on the ground; and second, that when he presses his right hand to his left side, it will come forth white and shining."],
+						["After this Allah tells him about the mission he has been chosen for: call Pharaoh to the path of Allah."],
+						["Moosa (عليه السلام) prays to Allah for support and for his brother Haroon (عليه السلام) to assist him."],
 						["Allah accepts his prayers and grants him his wish and reminds him of the blessings that were bestowed on him since his birth, when the Pharaoh of that time was killing the sons of all the Israelites."],
-						["Allah further reminds Moosa (عليه السلام) how He had made him go through the various twists and turns of his life before coming finally to this awesome moment when he was being chosen as a prophet. "],
-						["When Pharaoh saw the signs of Allah, he felt threatened and summoned his sorcerers for a duel. "],
-						["Pharaoh’s sorcerers challenge and lose to Moosa (عليه السلام), and finally recognize the truth of their Lord. "],
+						["Allah further reminds Moosa (عليه السلام) how He had made him go through the various twists and turns of his life before coming finally to this awesome moment when he was being chosen as a prophet."],
+						["When Pharaoh saw the signs of Allah, he felt threatened and summoned his sorcerers for a duel."],
+						["Pharaoh’s sorcerers challenge and lose to Moosa (عليه السلام), and finally recognize the truth of their Lord."],
 						["Then Allah commanded Moosa (عليه السلام) to take the people of Bani Israel out of the slavery of Pharaoh."],
 						["But when Moosa (عليه السلام) went to Mount Toor to receive the Tawrat, his people started worshipping the statue of a calf, being led astray by a man called Samiri."],
 						["Moosa (عليه السلام) banished him and burnt the idol."]
@@ -2283,7 +2283,7 @@ var surahsOld = [
 					"details": [
 						["In private conversations, the Disbelievers say that Muhammad is a just human being like themselves, and that he is trying to trick them with witchcraft or being a poet, but Allah hears everything they think is said in secrecy."],
 						["All previous prophets were mortal men."],
-						["The Disbelievers ask for a sign, but Allah mentions that all the cities and towns destroyed previously asked for and received signs yet they did not believe. "]
+						["The Disbelievers ask for a sign, but Allah mentions that all the cities and towns destroyed previously asked for and received signs yet they did not believe."]
 					]
 				},
 				{
@@ -2291,10 +2291,10 @@ var surahsOld = [
 					"rangeStart": "10",
 					"rangeEnd": "24",
 					"details": [
-						["Prior nations were destroyed because of their iniquities and other communities were raised up in their place. "],
+						["Prior nations were destroyed because of their iniquities and other communities were raised up in their place."],
 						["Paradise and earth and all that lies between them were not created to be a playground."],
-						["Falsehood is blown away by the truth, so woe to those who have created false gods. "],
-						["Those who are with Allah worship and praise him tirelessly. "]
+						["Falsehood is blown away by the truth, so woe to those who have created false gods."],
+						["Those who are with Allah worship and praise him tirelessly."]
 					]
 				},
 				{
@@ -2302,11 +2302,11 @@ var surahsOld = [
 					"rangeStart": "25",
 					"rangeEnd": "47",
 					"details": [
-						["All the prophets were sent with the same message; there is no deity but Allah, so worship Him alone. "],
+						["All the prophets were sent with the same message; there is no deity but Allah, so worship Him alone."],
 						["The heavens and the earth were once one a mass split asunder by Allah; all living creatures have their origin in water; the earth is covered with firm mountains and broad pathways and the sky is a canopy; Allah created the night and the day; the celestial bodies move in their orbits."],
 						["Every soul is tested and will taste death to return to Allah."],
-						["The Day of Judgement will arrive suddenly and the Disbelievers will be powerless to turn it away. "],
-						["The previous messengers were ridiculed but in the end those who ridiculed were overcome by what they mocked. "]
+						["The Day of Judgement will arrive suddenly and the Disbelievers will be powerless to turn it away."],
+						["The previous messengers were ridiculed but in the end those who ridiculed were overcome by what they mocked."]
 					]
 				},
 				{
@@ -2315,9 +2315,9 @@ var surahsOld = [
 					"rangeEnd": "70",
 					"details": [
 						["Allah gave Moosa and his brother Haroon (عليهم السلام) the scripture that distinguishes between right and wrong and the Qur’an is also a blessed message."],
-						["And Ibrahim (عليه السلام) was given right judgement when he questioned his father and his people about their clear idolatry but they answered that they only followed the ways of their ancestors instead of Allah the Creator. "],
+						["And Ibrahim (عليه السلام) was given right judgement when he questioned his father and his people about their clear idolatry but they answered that they only followed the ways of their ancestors instead of Allah the Creator."],
 						["Ibrahim (عليه السلام) threatened to destroy all the idols they worshipped except the largest one, which he did and then blamed it on that one and asked them to question it rather than him, pointing out the absurdity of their beliefs."],
-						["At first Ibrahim’s (عليه السلام) people admitted their errors but then they were seized with pride and obstinacy. "],
+						["At first Ibrahim’s (عليه السلام) people admitted their errors but then they were seized with pride and obstinacy."],
 						["They threw Ibrahim (عليه السلام) into the midst of a Fire but Allah kept the Fire cool."]
 					]
 				},
@@ -2326,9 +2326,9 @@ var surahsOld = [
 					"rangeStart": "71",
 					"rangeEnd": "77",
 					"details": [
-						["Prophet Ibrahim and his nephew Lut (عليهم السلام) were delivered from harm and sent to a land that Allah had blessed for the entire world. "],
-						["Here Ibrahim (عليه السلام) was blessed even more with his righteous son Is’haq and his grandson Ya’qoob (عليهم السلام) where they all worshipped Allah and acted righteously. "],
-						["Lut (عليه السلام) was given sound judgment and knowledge and Allah saved him from the city of wicked deeds. "],
+						["Prophet Ibrahim and his nephew Lut (عليهم السلام) were delivered from harm and sent to a land that Allah had blessed for the entire world."],
+						["Here Ibrahim (عليه السلام) was blessed even more with his righteous son Is’haq and his grandson Ya’qoob (عليهم السلام) where they all worshipped Allah and acted righteously."],
+						["Lut (عليه السلام) was given sound judgment and knowledge and Allah saved him from the city of wicked deeds."],
 						["Even further back in the past Nuh (عليه السلام) called out to Allah and He accepted his prayer against the Disbelievers who were drowned and Nuh (عليه السلام) and the Believers saved."]
 					]
 				},
@@ -2341,7 +2341,7 @@ var surahsOld = [
 						["Allah was watching them when they were trying to judge a case about sheep straying a night and He made Sulayman (عليه السلام) understand the case in a better way."],
 						["However, both were given wisdom in abundance."],
 						["It was Allah who made the mountains and the birds sing His praises with Dawud (عليه السلام) and it was also Allah who taught Dawud (عليه السلام) to make coats of armour for protection in battle."],
-						["Allah harnessed the wind for Sulayman (عليه السلام) and made some of the Jinn subservient to him. "],
+						["Allah harnessed the wind for Sulayman (عليه السلام) and made some of the Jinn subservient to him."],
 						["Allah asks us to remember Ayyub (Job) (عليه السلام), who cried to his Lord when he was afflicted. Allah heard his cry and removed his suffering."],
 						["And remember Isma’eel, Idris, and Dhul Kifl (Ezekiel) (عليهم السلام). They were all steadfast and were admitted into Allah’s mercy."],
 						["And remember the man in the whale (Prophet Yunus عليه السلام) who was angry but admitted his wrong and Allah saved him from his distress."]
@@ -2352,12 +2352,12 @@ var surahsOld = [
 					"rangeStart": "89",
 					"rangeEnd": "112",
 					"details": [
-						["Allah blessed Zakariyya (عليه السلام) and accepted his prayer for a child. He was given Yahya (عليه السلام). "],
+						["Allah blessed Zakariyya (عليه السلام) and accepted his prayer for a child. He was given Yahya (عليه السلام)."],
 						["Remember the one who guarded her chastity (Maryam (رضی اللہ عنھا)). Allah made her and her son a sign for all people."],
-						["Allah calls all the prophets a single community and says worship Me alone. "],
+						["Allah calls all the prophets a single community and says worship Me alone."],
 						["Towards the end of time the people of Ya’jooj and Ma’jooj will be let loose to swarm across the land which is a sign of the Day of Judgement when the Disbelievers will be in horror and the Believers greeted by Angels."],
 						["Surely this is great news for the Believers."],
-						["Prophet Muhammad (ﷺ) has been sent as a blessing for all the worlds and was told to warn them (mankind) asking them to affirm their belief that Allah is one.   "]
+						["Prophet Muhammad (ﷺ) has been sent as a blessing for all the worlds and was told to warn them (mankind) asking them to affirm their belief that Allah is one.  "]
 					]
 				},
 				
@@ -2368,7 +2368,7 @@ var surahsOld = [
 	{
 		"name": "al-Ḥajj",
 		"summary": {
-			"name": "This surah takes its name from V.27 and gets its title from the reference to the rite of pilgrimage initiated by Ibrahim (عليه السلام). ",
+			"name": "This surah takes its name from V.27 and gets its title from the reference to the rite of pilgrimage initiated by Ibrahim (عليه السلام).",
 			"period": "Medinan",
 			"context": "It appears that the month of Zul-Hijjah must have brought to the immigrants nostalgic memories of their homes in Makkah and naturally they must have thought of their Sacred City and of their Hajj congregation there, and grieved to think that the disbelieving Quraysh had debarred them from visiting the Sacred Mosque. Therefore, they might even have been praying for and expecting divine permission to wage war against those tyrants who had expelled them from their homes and deprived them of visiting the House of Allah and made it difficult for them to follow the way of Islam. It was at this psychological occasion that these verses were sent down in Medina. That is why the purpose for which Masjid-al-Haram was built has been specifically mentioned. It has been made plain that Hajj had been enjoined for the worship of Allah alone. But it is an irony that afterwards it had been dedicated to the rituals of shirk and the worshipers of Allah alone had been debarred from visiting it. Therefore, permission for waging war against those tyrants has been given to oust them from there and to establish the righteous way of life for establishing virtue and eradicating evil. ",
 			"theme": "This surah is introduced by the condemnation of those who bar the believers from access to the Sacred Mosque and is followed by permission to fight when attacked. It begins with the Day of Judgement and castigates those who worship useless idols, describing them later as powerless to create even a fly. Method of Hajj discussed. The surah then ends by urging the Muslims to persevere in following the faith of Ibrahim (عليه السلام).",
@@ -2378,7 +2378,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "24",
 					"details": [
-						["The chapter begins with an awesome opening that makes hearts tremble. "],
+						["The chapter begins with an awesome opening that makes hearts tremble."],
 						["It addresses all mankind, calling on them to fear their Lord and warning them against what may happen on the eventful and terrible Day of Judgement."]
 					]
 				},
@@ -2387,11 +2387,11 @@ var surahsOld = [
 					"rangeStart": "25",
 					"rangeEnd": "37",
 					"details": [
-						["The idolaters in Makkah confronted the Prophet (ﷺ) and his Muslim companions seeking to debar their entry into the Sacred Mosque at the Ka’bah. "],
+						["The idolaters in Makkah confronted the Prophet (ﷺ) and his Muslim companions seeking to debar their entry into the Sacred Mosque at the Ka’bah."],
 						["It then speaks about the basis on which this mosque was founded when Allah assigned its building to Ibrahim (عليه السلام) and ordered him to call on all people to visit it for pilgrimage."],
 						["It must be for the worship of Allah alone and kept open to all people, whether they reside nearby or come from afar."],
 						["None is to be denied entry, and none is to claim its ownership."],
-						["The chapter then outlines some of the rituals of pilgrimage and how they enhance people’s consciousness and constant remembrance of Allah. "]
+						["The chapter then outlines some of the rituals of pilgrimage and how they enhance people’s consciousness and constant remembrance of Allah."]
 					]
 				},
 				{
@@ -2410,9 +2410,9 @@ var surahsOld = [
 					"rangeEnd": "78",
 					"details": [
 						["Our father Ibrahim (عليه السلام), Allah named you Muslims before."],
-						["The section refers to their worship of deities that have no sanction from Allah, as well as their worship of beings they do not know. "],
+						["The section refers to their worship of deities that have no sanction from Allah, as well as their worship of beings they do not know."],
 						["Those they worship instead of Allah are devoid of power and their weakness is as they are incapable of contending with flies, or of retrieving what a fly takes from them."],
-						["The passage and the chapter end with an address to the community of Believers requiring them to fulfil their duties as leaders of humanity. "],
+						["The passage and the chapter end with an address to the community of Believers requiring them to fulfil their duties as leaders of humanity."],
 						["They should prepare themselves for their task with prayer, worship and good action, seeking Allah’s help and protection."]
 					]
 				},
@@ -2458,11 +2458,11 @@ var surahsOld = [
 					"rangeStart": "55",
 					"rangeEnd": "95",
 					"details": [
-						["Those completely devoted to the life of this world are not interested in any discourse about Allah or the Hereafter. "],
+						["Those completely devoted to the life of this world are not interested in any discourse about Allah or the Hereafter."],
 						["They ignore all such talk and are lost in worldly pursuits."],
 						["With the onset of Allah’s retribution, such people forget their recklessness and arrogance and start pleading humbly but did not bother trying to obtain truth in this world."],
 						["Those who think they have wealth believe they are righteous but the righteous are only those who do good deeds."],
-						["In the Makkan period of Islam when the Quraysh rejected Prophet Muhammad (ﷺ) Allah sent famine on them for several years. "],
+						["In the Makkan period of Islam when the Quraysh rejected Prophet Muhammad (ﷺ) Allah sent famine on them for several years."],
 						["In accordance with Allah’s scheme, when a community adopts an arrogant attitude and does not accept good advice, He gives a warning punishment in order to soften their hearts and make them pay attention to the Truth."]
 					]
 				},
@@ -2471,8 +2471,8 @@ var surahsOld = [
 					"rangeStart": "96",
 					"rangeEnd": "119",
 					"details": [
-						["The prayer shows that a Believer is always a God-fearing person. "],
-						["Even when Allah’s punishment is directed towards others, he starts trembling with fear. "],
+						["The prayer shows that a Believer is always a God-fearing person."],
+						["Even when Allah’s punishment is directed towards others, he starts trembling with fear."],
 						["He starts addressing Allah in all humility, because he knows that, if he is to be saved, it will not be solely by his deeds, rather with Allah’s mercy."],
 						["The Prophet’s (ﷺ) job is to only present the message."],
 						["The enemies of the truth have been warned that they shall have to render an account in the Hereafter and bear the consequences of their persecution of the Believers; therefore, they should mend their ways."]
@@ -2497,7 +2497,7 @@ var surahsOld = [
 						["Allah has sent this chapter down from on high and contains commandments that are obligatory."],
 						["The punishment for fornication is then outlined which is flogging as it is a crime, and witnesses must be present for the crime to be valid."],
 						["Witnesses must also be present for the punishment."],
-						["Believers should not marry fornicators and those who make false accusations make themselves liable for punishment. "],
+						["Believers should not marry fornicators and those who make false accusations make themselves liable for punishment."],
 						["If couples accuse each other of adultery they can be exempted from punishment by taking prescribed oaths attesting to their good behaviour."]
 					]
 				},
@@ -2512,7 +2512,7 @@ var surahsOld = [
 						["Nobody gave A’isha (رضی اللہ عنھا) the benefit of the doubt and nobody produced witnesses. Still many people passed on the gossip."],
 						["Allah asks why they did not hesitate to repeat a monstrous slander and warns the Believers never to do this again. This unthinking behaviour causes pain, doubt and worry."],
 						["And once again Allah leaves us to finish the sentence, if it were not for His Mercy and His favour, mankind might be severely punished."],
-						["Those who accuse chaste women are cursed in this life and will face a severe punishment. "]
+						["Those who accuse chaste women are cursed in this life and will face a severe punishment."]
 					]
 				},
 				{
@@ -2520,13 +2520,13 @@ var surahsOld = [
 					"rangeStart": "27",
 					"rangeEnd": "34",
 					"details": [
-						["Allah tells the Believers not to enter homes other than their own unless they have been granted permission. "],
-						["However, there is no harm in entering uninhabited places if there is a good reason to do so. "],
-						["Men are told to lower their gazes and guard their modesty and then women are exhorted to do the same including not revealing their charms, beauty or adornments to any men except those who are not strangers to them such as, husband, father, sons, brothers, father-in-law, stepsons and nephews. "],
+						["Allah tells the Believers not to enter homes other than their own unless they have been granted permission."],
+						["However, there is no harm in entering uninhabited places if there is a good reason to do so."],
+						["Men are told to lower their gazes and guard their modesty and then women are exhorted to do the same including not revealing their charms, beauty or adornments to any men except those who are not strangers to them such as, husband, father, sons, brothers, father-in-law, stepsons and nephews."],
 						["Women should also not draw attention to themselves in such a way that will tempt another person to sin."],
-						["Men and women are encouraged to marry. "],
-						["However, they should abstain from sexual relations until Allah provides them with the means to marry. "],
-						["A slave wishing to buy his or her freedom should be encouraged and aided with some of the wealth Allah has provided. Do not force slave girls into prostitution. "],
+						["Men and women are encouraged to marry."],
+						["However, they should abstain from sexual relations until Allah provides them with the means to marry."],
+						["A slave wishing to buy his or her freedom should be encouraged and aided with some of the wealth Allah has provided. Do not force slave girls into prostitution."],
 						["The fate of earlier communities demonstrates what happens to those who deviate from Allah’s laws."]
 					]
 				},
@@ -2551,7 +2551,7 @@ var surahsOld = [
 					"details": [
 						["The light Allah mentions can be found in the houses and mosques that have been built for Allah’s remembrance by the Believers."],
 						["The deeds of the Disbelievers will disappear like a mirage in the desert."],
-						["The state of a Disbeliever is like darkness in a bottomless ocean. "],
+						["The state of a Disbeliever is like darkness in a bottomless ocean."],
 						["If Allah does not give light then there is no light at all."],
 						["Everything in the heavens and the earth glorify Allah in its own way."],
 						["Each knowing how to pray and exalt Him, and Allah is well aware of all that they do."]
@@ -2562,12 +2562,12 @@ var surahsOld = [
 					"rangeStart": "46",
 					"rangeEnd": "64",
 					"details": [
-						["If you obey Prophet Muhammad (ﷺ) you will be rightly guided for it is his duty to convey the message clearly. "],
-						["Ask permission before entering at three times: before the dawn prayer, at the midday rest and after the evening prayer. "],
+						["If you obey Prophet Muhammad (ﷺ) you will be rightly guided for it is his duty to convey the message clearly."],
+						["Ask permission before entering at three times: before the dawn prayer, at the midday rest and after the evening prayer."],
 						["If elderly women want to lay aside their outer garments there is no blame on them."],
 						["There is no blame laid on the blind, the lame or the sick who wish to eat and mingle with people, and there is no prohibition on eating at the houses of members of your extended family or close friends."],
 						["Remember to give greetings of peace."],
-						["Ask permission to leave when you are meeting with the Prophet (ﷺ), and do not leave unless the needs are pressing. "],
+						["Ask permission to leave when you are meeting with the Prophet (ﷺ), and do not leave unless the needs are pressing."],
 						["Treat and address the Prophet (ﷺ) with all the respect due to a man of his lofty station. Allah knows all thoughts and actions and on the Day of Judgement they will be clear to see. Allah knows everything."]
 					]
 				},
@@ -2587,7 +2587,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "9",
 					"details": [
-						["Blessed is Allah who has sent down the criterion of what is right and what is wrong (the Qur’an) to his Prophet in order that he may warn the world. "],
+						["Blessed is Allah who has sent down the criterion of what is right and what is wrong (the Qur’an) to his Prophet in order that he may warn the world."],
 						["Yet the Disbelievers ask what sort of messenger eats food and walks about in the markets; why is he not accompanied by an Angel or has treasure or even a garden of his own?"],
 						["The wrongdoers then declare that Muhammad (ﷺ) is affected by magic."],
 						["They use their own imagination to discredit Muhammad (ﷺ); they are clearly lost."]
@@ -2600,8 +2600,8 @@ var surahsOld = [
 					"details": [
 						["Blessed be Allah who could if He willed give Muhammad (ﷺ) any number of special things, even more special then the things the Disbelievers ask about such as gardens under which rivers flow and palaces too."],
 						["They (the Disbelievers) deny the Hour but Allah has prepared a blazing Fire for those who deny the Hour."],
-						["When they see it in the distance they will hear its fury and roaring and will then be flung into it pleading for death. "],
-						["Which is better they are asked, this, or the garden promised to the righteous?  "]
+						["When they see it in the distance they will hear its fury and roaring and will then be flung into it pleading for death."],
+						["Which is better they are asked, this, or the garden promised to the righteous? "]
 					]
 				},
 				{
@@ -2609,10 +2609,10 @@ var surahsOld = [
 					"rangeStart": "17",
 					"rangeEnd": "24",
 					"details": [
-						["On the Day of Judgement, Allah will gather all of mankind with the deities. "],
+						["On the Day of Judgement, Allah will gather all of mankind with the deities."],
 						["The deities will be asked if they tried to mislead the people and they will answer that they most certainly did not."],
-						["The deities will deny the Disbelievers and the punishment will not be averted. "],
-						["All prophets ate food and walked in the markets and streets and that some people have been created to be a trial for others. "],
+						["The deities will deny the Disbelievers and the punishment will not be averted."],
+						["All prophets ate food and walked in the markets and streets and that some people have been created to be a trial for others."],
 						["Those who ask why they do not see Allah or Angels, do not really believe in a day when they will stand before Allah and will thus have a terrible Hereafter."]
 					]
 				},
@@ -2621,11 +2621,11 @@ var surahsOld = [
 					"rangeStart": "25",
 					"rangeEnd": "34",
 					"details": [
-						["The Day the clouds are torn apart will be a hard day for the Disbelievers. "],
+						["The Day the clouds are torn apart will be a hard day for the Disbelievers."],
 						["They will bite their hands in regret and wish they had chosen better companions, finally acknowledging Shaytan as a treacherous enemy."],
-						["Prophet Muhammad (ﷺ) will decry the people who took the Qur’an as nonsense and Allah replies that every messenger had a wicked enemy. "],
+						["Prophet Muhammad (ﷺ) will decry the people who took the Qur’an as nonsense and Allah replies that every messenger had a wicked enemy."],
 						["The Disbelievers of Makkah ask why the Qur’an was not sent down all at one time and Allah answers that it was sent gradually to strengthen the Prophet’s (ﷺ) heart."],
-						["He (Prophet Muhammad (ﷺ)) is told that Allah will help Him answer any arguments put to him. "]
+						["He (Prophet Muhammad (ﷺ)) is told that Allah will help Him answer any arguments put to him."]
 					]
 				},
 				{
@@ -2635,9 +2635,9 @@ var surahsOld = [
 					"details": [
 						["There were many who were given warnings but rejected revelations including people during the time of Moosa and Haroon (عليهم السلام), Nuh (عليه السلام) and those among the people of ‘Aad, Thamud and the Companions of the Rass who were destroyed as a result."],
 						["Now they deny Prophet Muhammad (ﷺ) but soon they will see a punishment for doing so."],
-						["And there are also those who have taken their own desires as his god. "],
-						["The Prophet (ﷺ) cannot guide a person who chooses not to hear or understand the warning. "],
-						["Some people are like cattle leading away from the right track. "]
+						["And there are also those who have taken their own desires as his god."],
+						["The Prophet (ﷺ) cannot guide a person who chooses not to hear or understand the warning."],
+						["Some people are like cattle leading away from the right track."]
 					]
 				},
 				{
@@ -2646,7 +2646,7 @@ var surahsOld = [
 					"rangeEnd": "62",
 					"details": [
 						["Allah is the one who: lengthens the shade, makes the night as a rest and the day a type of resurrection, controls and sustains the earth and its inhabitants."],
-						["He created two seas, one salty and bitter the other sweet and fresh; he created mankind from water. "],
+						["He created two seas, one salty and bitter the other sweet and fresh; he created mankind from water."],
 						["Allah created the heavens and the earth and what is between them in six days (each ‘day’ length of which only Allah knows) and established Himself above them upon His Throne."],
 						["Yet still some people do not bow down or believe, instead they turn further away."]
 					]
@@ -2701,7 +2701,7 @@ var surahsOld = [
 						["Ibrahim (عليه السلام) questioned his father and people about idol worship pointing out they could not benefit or harm them."],
 						["Ibrahim (عليه السلام) pledged allegiance to Allah alone who guides, sustains, cures him and will resurrect him."],
 						["Ibrahim (عليه السلام) supplicated that Allah join him with the righteous, give him honor amongst later generations and grant him repose in the Gardens of Paradise."],
-						["Whereas those who worship idols will be thrown into Hell with their idols and with the armies of Shaytan. "]
+						["Whereas those who worship idols will be thrown into Hell with their idols and with the armies of Shaytan."]
 					]
 				},
 				{
@@ -2710,7 +2710,7 @@ var surahsOld = [
 					"rangeEnd": "140",
 					"details": [
 						["Prophet Nuh (عليه السلام) was gentle and mild, and asked for no payment, but they considered him and those who followed him to be poor and worthless and threatened to stone him."],
-						["Nuh (عليه السلام) then supplicated to Allah who saved him and the believers in a ship while the disbelievers drowned. "],
+						["Nuh (عليه السلام) then supplicated to Allah who saved him and the believers in a ship while the disbelievers drowned."],
 						["Prophet Hud (عليه السلام) asked the people of Ad to fear Allah and requested no payment."],
 						["They built large structures thinking they were immortal and said they had no fear of torment believing it all to be lies until they were utterly destroyed by Allah."]
 					]
@@ -2721,11 +2721,11 @@ var surahsOld = [
 					"rangeEnd": "191",
 					"details": [
 						["Prophet Salih (عليه السلام) asked the people of Thamud to fear Allah asking for no reward but they thought he was affected by magic."],
-						["He told them Allah is the Sustainer but they wanted a sign, but when the sign came in the form of a she-camel who was to share their water; each drinking on alternate days, they hamstrung her and so were destroyed. "],
-						["Prophet Lut (عليه السلام) told the people not to engage in lewd acts and to fear Allah but they responded by threatening him with expulsion. "],
+						["He told them Allah is the Sustainer but they wanted a sign, but when the sign came in the form of a she-camel who was to share their water; each drinking on alternate days, they hamstrung her and so were destroyed."],
+						["Prophet Lut (عليه السلام) told the people not to engage in lewd acts and to fear Allah but they responded by threatening him with expulsion."],
 						["He then supplicated to Allah to save him and his family and He did; all except his wife who was destroyed with the rest.  A rain of destruction poured down on those who had been forewarned."],
 						["Prophet Shu’aib (عليه السلام) warned his people to weigh with correct scales, to give full measure, and not spread corruption, but they accused him of being bewitched and a liar."],
-						["They asked him to cause fragments of the sky to fall upon them if he was truthful and so Allah destroyed them in the form of dark clouds. "]
+						["They asked him to cause fragments of the sky to fall upon them if he was truthful and so Allah destroyed them in the form of dark clouds."]
 					]
 				},
 				{
@@ -2735,7 +2735,7 @@ var surahsOld = [
 					"details": [
 						["The Qur’an has come to the Prophet (ﷺ) through the Angel Jibreel (عليه السلام) in a plain Arabic language to warn people and was foretold in previous scriptures."],
 						["Allah puts unbelief in the hearts of the guilty such that they will only believe once they see the torment in front of them but it will be too late which happened to many previous nations, but Allah always sends a warner before punishment."],
-						["The Qur’an has not come from the Jinn, rather the devils descend upon the liars and only the lost follow the poets; except the poets who believe and are righteous. "]
+						["The Qur’an has not come from the Jinn, rather the devils descend upon the liars and only the lost follow the poets; except the poets who believe and are righteous."]
 					]
 				},				
 			]
@@ -2754,7 +2754,7 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "6",
 					"details": [
-						["Allah says that this scripture is a guide for the Believers and joyful news for those who pray, give charity, and believe in the Hereafter, whereas it is a warning for those who don't believe and wander blindly believing that their lives will have no lasting consequences and will face punishment. "]
+						["Allah says that this scripture is a guide for the Believers and joyful news for those who pray, give charity, and believe in the Hereafter, whereas it is a warning for those who don't believe and wander blindly believing that their lives will have no lasting consequences and will face punishment."]
 					]
 				},
 				{
@@ -2763,7 +2763,7 @@ var surahsOld = [
 					"rangeEnd": "14",
 					"details": [
 						["While travelling with his family Moosa (عليه السلام) sees a Fire which He approaches to find Allah calling out to him and showing him miracles of his staff turning into a snake."],
-						["Allah calms his fear saying that the messengers should not be afraid when in Allah’s presence and then tells Moosa (عليه السلام) to put his hand inside his cloak and when he withdraws it, it will be shining white. "],
+						["Allah calms his fear saying that the messengers should not be afraid when in Allah’s presence and then tells Moosa (عليه السلام) to put his hand inside his cloak and when he withdraws it, it will be shining white."],
 						["These are two of the the nine signs that will be given to Pharaoh to convince him to submit to Allah but he refuses and comes to a bad end."]
 					]
 				},
@@ -2772,14 +2772,14 @@ var surahsOld = [
 					"rangeStart": "15",
 					"rangeEnd": "44",
 					"details": [
-						["When Allah gave knowledge to Dawud (عليه السلام) and Sulayman (عليه السلام) they praised Him. Dawud (عليه السلام) understood the language of the birds and Sulayman (عليه السلام) inherited the Kingdom of Dawud (عليه السلام). "],
+						["When Allah gave knowledge to Dawud (عليه السلام) and Sulayman (عليه السلام) they praised Him. Dawud (عليه السلام) understood the language of the birds and Sulayman (عليه السلام) inherited the Kingdom of Dawud (عليه السلام)."],
 						["Sulayman’s (عليه السلام) soldiers marched in rows, Jinn, humans and birds. When the armies marched through the valley of the ants, one ant directed the others so that they would not be crushed."],
-						["Sulayman (عليه السلام) understood and smiled widely beseeching Allah to give him strength, be grateful, perform good deeds and to be with the righteous. Sulayman (عليه السلام) inspected the birds but could not find the hoopoe. "],
-						["The hoopoe returned saying that he had been in Sheba where he found a woman with a magnificent throne leading the people but they all worship the sun instead of Allah. Sulayman (عليه السلام) thus sent the hoopoe with a letter for the Queen of Sheba inviting to submit to Allah which she read to her counsellors. "],
+						["Sulayman (عليه السلام) understood and smiled widely beseeching Allah to give him strength, be grateful, perform good deeds and to be with the righteous. Sulayman (عليه السلام) inspected the birds but could not find the hoopoe."],
+						["The hoopoe returned saying that he had been in Sheba where he found a woman with a magnificent throne leading the people but they all worship the sun instead of Allah. Sulayman (عليه السلام) thus sent the hoopoe with a letter for the Queen of Sheba inviting to submit to Allah which she read to her counsellors."],
 						["Sulayman (عليه السلام) and his army had not invaded the city so she decided to send a delegation with gifts but Sulayman (عليه السلام) said that they could not give him anything that Allah had not already provided for him. Sulayman (عليه السلام) thus sent them away with a threat to invade their city."],
 						["Sheba thus decided to come in person, and whilst waiting Sulayman (عليه السلام) asked who could bring Sheba’s magnificent throne upon which one of the Jinn was able to produce the throne within the blink of an eye. When Sheba arrived, she was asked if what she saw was her throne and although it was disguised she said it looked as if it was."],
 						["When Sheba was asked to enter the palace, she thought she was about to wade through water and lifted her skirt, however the floor was made of shining smooth glass."],
-						["When she saw for herself what Allah had given Sulayman (عليه السلام) and how majestic his position was, she submitted to the command of Allah and acknowledged that he was a noble prophet. "]
+						["When she saw for herself what Allah had given Sulayman (عليه السلام) and how majestic his position was, she submitted to the command of Allah and acknowledged that he was a noble prophet."]
 					]
 				},
 				{
@@ -2790,8 +2790,8 @@ var surahsOld = [
 						["Salih (عليه السلام) called the people of Thamud to worship Allah alone, but they split into rival factions."],
 						["One group said that Salih (عليه السلام) and his followers were an evil omen and the leaders of some families planned to kill him and his family. They planned a deceitful plan, but Allah also planned a plan."],
 						["The outcome was that their plan came to nothing and they were destroyed, and their desolate houses are a sign for those who think."],
-						["Lut (عليه السلام) was sent to his people to ask them why they openly committed lewd acts even though they knew it to be wrong. "],
-						["They had no answer except to try to expel Lut (عليه السلام) and his followers from the town. "],
+						["Lut (عليه السلام) was sent to his people to ask them why they openly committed lewd acts even though they knew it to be wrong."],
+						["They had no answer except to try to expel Lut (عليه السلام) and his followers from the town."],
 						["So, Allah saved Lut (عليه السلام) and all his family; except his wife who was destined to be one of those who stayed behind."],
 						["An evil rain of stones pelted down on those who chose to ignore the warning."]
 					]
@@ -2801,11 +2801,11 @@ var surahsOld = [
 					"rangeStart": "59",
 					"rangeEnd": "93",
 					"details": [
-						["The Prophet (ﷺ) is asked to praise Allah and send peace upon the messengers. "],
+						["The Prophet (ﷺ) is asked to praise Allah and send peace upon the messengers."],
 						["He is also instructed to ask who is better, Allah, who created the heavens and the earth and all that is in them, or another deity?"],
 						["It is He who knows when the dead will be raised which the Disbelievers refute as they say think it is only ancient tales."],
-						["The Disbelievers are warned of the day when they will come in groups before Allah unable to speak when they are given their verdict. "],
-						["When the trumpet sounds many will be terrified; the firm mountains will pass away like clouds and when a good deed will keep a person safe, but an evil deed will see them flung into the Fire. "],
+						["The Disbelievers are warned of the day when they will come in groups before Allah unable to speak when they are given their verdict."],
+						["When the trumpet sounds many will be terrified; the firm mountains will pass away like clouds and when a good deed will keep a person safe, but an evil deed will see them flung into the Fire."],
 						["The Prophet (ﷺ) has been commanded to submit to Allah, to worship Him and recite the Qur’an."]
 					]
 				},
@@ -2825,14 +2825,14 @@ var surahsOld = [
 					"rangeStart": "1",
 					"rangeEnd": "21",
 					"details": [
-						["Allah wanted to favour and make the Israelites leaders in the land who were being persecuted by Pharaoh and Haman. Allah wanted them to face their greatest fears. "],
+						["Allah wanted to favour and make the Israelites leaders in the land who were being persecuted by Pharaoh and Haman. Allah wanted them to face their greatest fears."],
 						["Moosa’s (عليه السلام) mother was inspired by Allah and made to understand that she should suckle her baby but when the time comes when she is afraid for him she should put him in the river."],
 						["She must not grieve or be afraid because Allah will return the baby to her and he will grow up to be one of His messengers."],
 						["A member of Pharaoh’s family found baby Moosa (عليه السلام) little realizing that later he would become a source of grief for the evildoers."],
 						["Pharaoh’s wife was able to convince her husband to adopt the baby and they took him into the family. The following day Moosa’s (عليه السلام) mother was bereft but Allah strengthened her."],
-						["She sent Moosa’s (عليه السلام) sister to find out what happened. Allah had ordained that Moosa (عليه السلام) would refuse to feed from any of the palace wet nurses so Moosa’s (عليه السلام) sister was able to tell them about her mother that could feed the baby. "],
+						["She sent Moosa’s (عليه السلام) sister to find out what happened. Allah had ordained that Moosa (عليه السلام) would refuse to feed from any of the palace wet nurses so Moosa’s (عليه السلام) sister was able to tell them about her mother that could feed the baby."],
 						["In this way Moosa (عليه السلام) was restored to his mother so she would feel comforted and know that Allah’s promise was true."],
-						["Moosa (عليه السلام) had reached adulthood when one day when walking in the city he came upon two people fighting. "],
+						["Moosa (عليه السلام) had reached adulthood when one day when walking in the city he came upon two people fighting."],
 						["One was from his own people and appealed to him for help. Moosa (عليه السلام) did help and killed the person with one blow."],
 						["He realised that Shaytan must have had a hand in this and appealed to Allah for forgiveness. When forgiven, he promised never to support evildoers."],
 						["The next day he came upon the same man fighting and realised he was a troublemaker. Moosa (عليه السلام) was reluctant to be drawn into another fight but was going to attack the troublemaker who was accusing him of being a tyrant."],
@@ -2848,15 +2848,15 @@ var surahsOld = [
 						["Moosa (عليه السلام) watered the sheep for them and then sat in the shade and prayed to Allah for assistance."],
 						["He asked Allah for any good thing at all and just then one of the two women returned saying that their father wanted to speak to him and reward him.  Moosa (عليه السلام) went with the woman and met her father, Prophet Shu’aib (عليه السلام)."],
 						["The old man listened to his story and reassured him."],
-						["One of the daughters encouraged her father to hire Moosa (عليه السلام), and so Prophet Shu’aib (عليه السلام) offered one of his daughters in marriage if he worked for him for eight years adding that ten would be better though. "],
-						["Moosa (عليه السلام) agreed to fulfil one of the terms. And when the agreed upon term had been completed Moosa (عليه السلام) set out to travel with his family. "],
+						["One of the daughters encouraged her father to hire Moosa (عليه السلام), and so Prophet Shu’aib (عليه السلام) offered one of his daughters in marriage if he worked for him for eight years adding that ten would be better though."],
+						["Moosa (عليه السلام) agreed to fulfil one of the terms. And when the agreed upon term had been completed Moosa (عليه السلام) set out to travel with his family."],
 						["One night he noticed a Fire on the side of a mountain. He told his family to wait while he went to find the source of the Fire and perhaps learn some news or in the very least bring back a flaming branch so that they could light their own Fire."],
-						["When Moosa (عليه السلام) reached the Fire a voice called out to him. The voice seemed to come from the right side of the valley, from a tree. The voice said, \"I am Allah, Lord of the worlds\". "],
-						["Allah then showed him vividly the signs of the snake and staff and his shining hand that he was to present to Pharaoh. Moosa (عليه السلام) then told Allah about the man he had killed and that he feared he would be killed himself if he returned to Egypt. "],
+						["When Moosa (عليه السلام) reached the Fire a voice called out to him. The voice seemed to come from the right side of the valley, from a tree. The voice said, \"I am Allah, Lord of the worlds\"."],
+						["Allah then showed him vividly the signs of the snake and staff and his shining hand that he was to present to Pharaoh. Moosa (عليه السلام) then told Allah about the man he had killed and that he feared he would be killed himself if he returned to Egypt."],
 						["He also asked that his eloquent brother Haroon (عليه السلام) be able to accompany him on his mission. Allah replied that he would strengthen Moosa (عليه السلام) with his brother, and that they would not be harmed and would triumph."],
 						["When Moosa and Haroon (عليهم السلام) presented themselves before Pharaoh they were accused of trickery and sorcery because they had never seen such a thing before."],
-						["Arrogantly Pharaoh told his advisor Haman to build a high tower so that he could climb up and see this God of Moosa (عليه السلام) and accused him of lying. "],
-						["Allah seized them and flung them into the sea and that was an end to them. "]
+						["Arrogantly Pharaoh told his advisor Haman to build a high tower so that he could climb up and see this God of Moosa (عليه السلام) and accused him of lying."],
+						["Allah seized them and flung them into the sea and that was an end to them."]
 					]
 				},
 				{
@@ -2864,8 +2864,8 @@ var surahsOld = [
 					"rangeStart": "44",
 					"rangeEnd": "50",
 					"details": [
-						["Allah tells the Prophet (ﷺ) that he was not present there on the mountain when He (Allah) gave Moosa (عليه السلام) the law, nor was he among the people of Midian, nor when He spoke to Moosa (عليه السلام) on the side of Mount Sinai. "],
-						["You (Prophet Muhammad) had no direct means of obtaining the information of earlier nations; all this is being revealed to you. "]
+						["Allah tells the Prophet (ﷺ) that he was not present there on the mountain when He (Allah) gave Moosa (عليه السلام) the law, nor was he among the people of Midian, nor when He spoke to Moosa (عليه السلام) on the side of Mount Sinai."],
+						["You (Prophet Muhammad) had no direct means of obtaining the information of earlier nations; all this is being revealed to you."]
 					]
 				},
 				{
@@ -2891,12 +2891,12 @@ var surahsOld = [
 					"rangeStart": "76",
 					"rangeEnd": "82",
 					"details": [
-						["Qarun was from one of Moosa’s (عليه السلام) people but he rebelled against them. "],
+						["Qarun was from one of Moosa’s (عليه السلام) people but he rebelled against them."],
 						["Allah gave him so many treasures and his people urged him not to gloat but be thankful. But Qarun replied all that he has is only because of his own knowledge and ability."],
 						["One day he came out of his house in all his worldly adornment."],
 						["Allah caused the earth to swallow him and his house."],
 						["Then the same people who had envied Qarun changed their minds realising it is Allah who enlarges provision and it is Allah that can take it away."],
-						["If it was not for Allah’s Grace He could have caused the earth to swallow us all. "]
+						["If it was not for Allah’s Grace He could have caused the earth to swallow us all."]
 					]
 				},
 				{
@@ -2924,8 +2924,8 @@ var surahsOld = [
 					"rangeEnd": "13",
 					"details": [
 						["The surah immediately informs the Believers that their faith will be tested."],
-						["The people who came before them were tested and it is how Allah separates the liars from those who are truthful. "],
-						["It is not enough to claim belief; belief imposes certain duties. "]
+						["The people who came before them were tested and it is how Allah separates the liars from those who are truthful."],
+						["It is not enough to claim belief; belief imposes certain duties."]
 					]
 				},
 				{
@@ -2933,10 +2933,10 @@ var surahsOld = [
 					"rangeStart": "14",
 					"rangeEnd": "27",
 					"details": [
-						["Nuh (عليه السلام) was spreading his message amongst his people for nearly one thousand years but they were still doing evil when the flood overtook them. "],
-						["Those saved in the ark are a sign for all those who came after them. "],
+						["Nuh (عليه السلام) was spreading his message amongst his people for nearly one thousand years but they were still doing evil when the flood overtook them."],
+						["Those saved in the ark are a sign for all those who came after them."],
 						["Ibrahim (عليه السلام) tried to warn his people against idol worship and told them to seek their provision from Allah."],
-						["He warned them with stories from their own past and with logical arguments about the power and Mercy of Allah. "],
+						["He warned them with stories from their own past and with logical arguments about the power and Mercy of Allah."],
 						["Their response was to throw him into the Fire of which he walked out of."],
 						["Lut (عليه السلام) witnessed this event and then reaffirmed his faith."],
 						["Ibrahim (عليه السلام) was father to a long line of prophets beginning with his son Is’haq and grandson Ya’qoob (عليهم السلام)."]
@@ -2947,10 +2947,10 @@ var surahsOld = [
 					"rangeStart": "28",
 					"rangeEnd": "35",
 					"details": [
-						["Lut (عليه السلام) tried to counsel his people asking them to stop their immoral practices, their acts of highway robbery, and corruption. "],
+						["Lut (عليه السلام) tried to counsel his people asking them to stop their immoral practices, their acts of highway robbery, and corruption."],
 						["They instead asked to bring on the punishment so the when the Angels brought the news of a son to Ibrahim (عليه السلام) they also told him they were charged with destroying the town Lut (عليه السلام) was living in but save Lut (عليه السلام)."],
-						["When the Angels in the form of guests visited Lut (عليه السلام), he was anxious because he could do nothing to protect them from the unruly and evil townspeople. "],
-						["The Angels were aware of Lut’s (عليه السلام) grief. "],
+						["When the Angels in the form of guests visited Lut (عليه السلام), he was anxious because he could do nothing to protect them from the unruly and evil townspeople."],
+						["The Angels were aware of Lut’s (عليه السلام) grief."],
 						["They revealed their identity and told him why they had come and that he and his household, except his wife, would be safe from Allah’s torment."],
 						["The ruins of the town were left so that people who think would understand."]
 					]
@@ -2960,10 +2960,10 @@ var surahsOld = [
 					"rangeStart": "36",
 					"rangeEnd": "40",
 					"details": [
-						["Shu’aib (عليه السلام) was denied by his people; the people of Midian. "],
-						["Allah therefore sent an earthquake that overtook them in the night. "],
+						["Shu’aib (عليه السلام) was denied by his people; the people of Midian."],
+						["Allah therefore sent an earthquake that overtook them in the night."],
 						["The people of Ad and Thamud were also destroyed."],
-						["Moosa (عليه السلام) went to Pharaoh, Qarun and Haman with clear undeniable signs but they too were arrogant and refused to believe. "]
+						["Moosa (عليه السلام) went to Pharaoh, Qarun and Haman with clear undeniable signs but they too were arrogant and refused to believe."]
 					]
 				},
 				{
@@ -2971,7 +2971,7 @@ var surahsOld = [
 					"rangeStart": "41",
 					"rangeEnd": "59",
 					"details": [
-						["Those who seek protection from something other than Allah are like spiders who think they are safe in their flimsy cobweb homes. "],
+						["Those who seek protection from something other than Allah are like spiders who think they are safe in their flimsy cobweb homes."],
 						["Allah knows what they call on besides Him and even when given examples they fail to understand."],
 						["Only argue with the People of the Book in a good way, explain that their God and your God is One and the same."],
 						["Many of those given the scriptures believe in the Qur’an; only the defiant refuse."]
@@ -2982,7 +2982,7 @@ var surahsOld = [
 					"rangeStart": "60",
 					"rangeEnd": "69",
 					"details": [
-						["If you ask the Disbelievers who created the heavens and the earth, or who sends down the rain, they would answer, Allah. "],
+						["If you ask the Disbelievers who created the heavens and the earth, or who sends down the rain, they would answer, Allah."],
 						["Why then do they continue to deny the signs? Why do they not use their common sense?"],
 						["This life is just a temporary amusement."]
 					]
@@ -3072,7 +3072,7 @@ var surahsOld = [
 					"rangeEnd": "19",
 					"details": [
 						["Allah gave wisdom to the wise man Luqman so that he would be grateful and acknowledge Allah’s favours."],
-						["Allah then commands that people be good to their parents and further associates gratitude towards Him with gratitude towards parents, but not to obey them only when they ask you to commit the greatest sin of associating others with Allah. "],
+						["Allah then commands that people be good to their parents and further associates gratitude towards Him with gratitude towards parents, but not to obey them only when they ask you to commit the greatest sin of associating others with Allah."],
 						["Luqman teaches his son to: not associate anything in worship with Allah, that nothing can escape Allah’s knowledge, to lead a moral and upstanding life, establish prayer, enjoin the good, forbid the evil and bear the trials and afflictions of life with patience, don’t be arrogant and prideful, walk moderately and speak modestly."]
 					]
 				},
@@ -3120,9 +3120,9 @@ var surahsOld = [
 					"rangeStart": "12",
 					"rangeEnd": "22",
 					"details": [
-						["When the day finally arrives, the criminals will hang their heads in shame asking their Lord to return them to the world. "],
+						["When the day finally arrives, the criminals will hang their heads in shame asking their Lord to return them to the world."],
 						["They ignored the meeting planned for Judgment Day and now they will be ignored by Allah and taste punishment."],
-						["Whereas the people who believe in Allah’s revelations prostrate themselves whenever they are reminded of them; this is the difference between Believers and Disbelievers. "]
+						["Whereas the people who believe in Allah’s revelations prostrate themselves whenever they are reminded of them; this is the difference between Believers and Disbelievers."]
 					]
 				},
 				{
@@ -3369,7 +3369,7 @@ var surahsOld = [
 		            "details": [
 		                ["Allah swears by the wise Qur’an that Prophet Muhammad (ﷺ) is indeed a messenger on the straight path sent to warn those who are unaware."],
 		                ["The Qur’an is full of wisdom, and those who do not follow its guidance are indeed unfortunate."],
-		                ["However only those who believe in Allah and fear His punishment will take heed of the warning. "]
+		                ["However only those who believe in Allah and fear His punishment will take heed of the warning."]
 		            ]
 		        },
 		        {
@@ -3380,7 +3380,7 @@ var surahsOld = [
 		                ["Allah narrates the story of the three messengers, two of whom who were sent to the people and then a third to strengthen their number yet still the people refused to believe and instead called them liars and threatened with stoning."],
 		                ["A man ran from the other side of the town saying listen, they do not want a reward."],
 		                ["Listen to the message he pleads but he is killed by the Disbelievers and thus abruptly finds himself in Paradise but wishes the people knew of the Forgiveness and Mercy of Allah."],
-		                ["Allah thus sent one heavenly blast and they fell down, lifeless.   "]
+		                ["Allah thus sent one heavenly blast and they fell down, lifeless.  "]
 		            ]
 		        },
 		        {
@@ -3399,7 +3399,7 @@ var surahsOld = [
 		            "rangeEnd": "51",
 		            "details": [
 		                ["As a reminder Allah refers to the Flood and how our ancestors were carried in the ark."],
-		                ["Allah continued to create the means with which to traverse the sea and if He willed, the people would be drowned and He would not respond to their cries, except for His Mercy. "],
+		                ["Allah continued to create the means with which to traverse the sea and if He willed, the people would be drowned and He would not respond to their cries, except for His Mercy."],
 		                ["We are warned to beware of what lies before and what lies behind with regards to the Hereafter. Perhaps there will be mercy; perhaps we will not heed the warning."],
 		                ["The signs come but the Disbelievers turn away in arrogance not knowing a single blast will overtake them while they argue and then the trumpet will be blown signalling the Resurrection."]
 		            ]
@@ -3410,7 +3410,7 @@ var surahsOld = [
 		            "rangeEnd": "58",
 		            "details": [
 		                ["The people will ask who has raised them from their sleeping place (in the grave) and they will be told that this is the promised day when mankind will be brought before Allah for account."],
-		                ["The people of Paradise will be rewarded handsomely and greeted by Allah with \"peace\". "]
+		                ["The people of Paradise will be rewarded handsomely and greeted by Allah with \"peace\"."]
 		            ]
 		        },
 		        {
@@ -3427,7 +3427,7 @@ var surahsOld = [
 		            "rangeStart": "66",
 		            "rangeEnd": "76",
 		            "details": [
-		                ["Allah could have left mankind without guidance and basic faculties but because of His Mercy he did not. "],
+		                ["Allah could have left mankind without guidance and basic faculties but because of His Mercy he did not."],
 		                ["The Prophet (ﷺ) is not a poet and the Qur’an is not poetry but a clear book of guidance and contains warning."],
 		                ["A huge blessing from Allah is livestock which is used for transport, sustenance and for other benefits."],
 		                ["Yet the Disbelievers still worship others than Allah in an ultimate form of ungratefulness."]
@@ -3589,7 +3589,7 @@ var surahsOld = [
 		            "details": [
 		                ["This is the pure religion of Allah."],
 		                ["The Disbelievers claim that their idols bring them closer to Allah but this is false. He is far from having any offspring rather He is the Creator."],
-		                ["He created mankind from a single person (Adam (عليه السلام)) and from him He made his wife (Hawa). "],
+		                ["He created mankind from a single person (Adam (عليه السلام)) and from him He made his wife (Hawa)."],
 		                ["Allah created livestock in pairs and creates people in their mother’s wombs one after the other in threefold darkness (the stomach, the uterus, and the amniotic membrane)."],
 		                ["The losers are those who lose themselves and their families on the Day of Judgement; they will be under layers of Fire, whereas the Believers will have Paradise."]
 		            ]
@@ -4052,9 +4052,9 @@ var surahsOld = [
 		            "rangeEnd": "11",
 		            "details": [
 		                ["Those who disbelieve and try to prevent others from believing, Allah will make their good deeds worthless."],
-		                ["However, those who do good and believe in what was revealed to Muhammad, the truth from Allah, Allah will remove from them their misdeeds and improve their condition. "],
+		                ["However, those who do good and believe in what was revealed to Muhammad, the truth from Allah, Allah will remove from them their misdeeds and improve their condition."],
 		                ["Those who disbelieve follow falsehood whilst those who believe follow the truth.  In this way Allah shows others what they really are."],
-		                ["When the Believers meet Disbelievers in the battlefield they must make sure to strike their necks and securely bind those who are left. "],
+		                ["When the Believers meet Disbelievers in the battlefield they must make sure to strike their necks and securely bind those who are left."],
 		                ["After the battle you may release them, either by grace or by ransom."],
 		                ["Allah could have taken vengeance Himself, but He ordered an armed struggle to test some of you against others. Allah supports the Believers but the Disbelievers have no support."],
 		                ["The real success: do not be intimidated, stand firm and struggle for the cause of Allah."]
@@ -4102,7 +4102,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "A surah that takes its title from verse 1 and makes reference to the victory of the Prophet (ﷺ) and the Muslims from the Truce of Hudaybiyyah.",
 		    "period": "Medinan",
-		    "context": "This was revealed in Dhil-Qadah, A. H. 6, at a time when the Prophet (ﷺ) was on his return journey to Medina after concluding the Truce of Hudaybiyyah with the Disbelievers of Makkah. Upon the Prophet (ﷺ) seeing a divine dream of umrah, he set out with his companions to Makkah despite its dangers. By going in a forbidden month, the Quraysh were hesitant to attack any tribe to provoke the defenceless Muslims and gain allies among the Arab tribes but failed as they were indeed only pilgrims. However, when Uthman (رضي الله عنه‎) was sent as a messenger to the Quraysh he was captured in the city, and then rumours of him being killed made the Muslims make the Pledge of Ridwan to fight to death. However, he came back and peace was negotiated at Hudaybiyyah, a great success (Al Fath) for Muslims in the long term but the Muslims felt humiliated in the short term. This treaty was made as the Muslims had set out to perform pilgrimage, and the Makkans decided to bar them at Hudaybiyyah from reaching the town and sent emissaries to have discussions with the Prophet (ﷺ). In the end the Prophet (ﷺ) signed a treaty that he and the Believers would not enter Makkah that year but would do so the next year. Seeing the long-term significance of this treaty, in the interests of peace he agreed to a truce of ten years during which time, if any Makkan went over to his side, he would return him to the Makkans, but if any of his people went over to the Makkans, they would not return them. The treaty made the Muslims: a recognised state from Arabs, able to perform pilgrimage, focus on other threat such as the Jews and Hypocrites and gave time to spread Islam across Arabia. It was all due to this treaty that two years later when in consequence of the Quraysh's violating the treaty the Prophet (ﷺ) invaded Makkah, he was accompanied by an army 10,000 strong, whereas on the occasion of Hudaybiyyah only 1,400 men had joined him in the march.    ",
+		    "context": "This was revealed in Dhil-Qadah, A. H. 6, at a time when the Prophet (ﷺ) was on his return journey to Medina after concluding the Truce of Hudaybiyyah with the Disbelievers of Makkah. Upon the Prophet (ﷺ) seeing a divine dream of umrah, he set out with his companions to Makkah despite its dangers. By going in a forbidden month, the Quraysh were hesitant to attack any tribe to provoke the defenceless Muslims and gain allies among the Arab tribes but failed as they were indeed only pilgrims. However, when Uthman (رضي الله عنه‎) was sent as a messenger to the Quraysh he was captured in the city, and then rumours of him being killed made the Muslims make the Pledge of Ridwan to fight to death. However, he came back and peace was negotiated at Hudaybiyyah, a great success (Al Fath) for Muslims in the long term but the Muslims felt humiliated in the short term. This treaty was made as the Muslims had set out to perform pilgrimage, and the Makkans decided to bar them at Hudaybiyyah from reaching the town and sent emissaries to have discussions with the Prophet (ﷺ). In the end the Prophet (ﷺ) signed a treaty that he and the Believers would not enter Makkah that year but would do so the next year. Seeing the long-term significance of this treaty, in the interests of peace he agreed to a truce of ten years during which time, if any Makkan went over to his side, he would return him to the Makkans, but if any of his people went over to the Makkans, they would not return them. The treaty made the Muslims: a recognised state from Arabs, able to perform pilgrimage, focus on other threat such as the Jews and Hypocrites and gave time to spread Islam across Arabia. It was all due to this treaty that two years later when in consequence of the Quraysh's violating the treaty the Prophet (ﷺ) invaded Makkah, he was accompanied by an army 10,000 strong, whereas on the occasion of Hudaybiyyah only 1,400 men had joined him in the march.   ",
 		    "theme": "Throughout the surah the Prophet (ﷺ) is assured that this treaty that Allah has given him is a great breakthrough (cf. verses 1–3, 18–21, 27). The Believers are reassured that their self-restraint and obedience to the Prophet (ﷺ) were inspired by Allah. The surah condemns both the Hypocrites in Medina and the idolaters of Makkah and closes by praising the Believers. The surah talks about the moral and physical victory of Islam over the forces of unbelief.  The Hypocrites and Disbelievers will be disappointed with this victory.",
 		    "breakdown": [
 		        {
@@ -4119,7 +4119,7 @@ var surahsOld = [
 		            "rangeStart": "11",
 		            "rangeEnd": "17",
 		            "details": [
-		                ["Allah now addresses the Bedouin (desert Arabs) who refused to accompany Prophet (ﷺ) because they expected defeat at the hands of the Makkans. "],
+		                ["Allah now addresses the Bedouin (desert Arabs) who refused to accompany Prophet (ﷺ) because they expected defeat at the hands of the Makkans."],
 		                ["The Prophet (ﷺ) is told of the rich war booty the believers would soon acquire, and Allah warns him not to allow the Bedouin, who previously refused to accompany him, to join him on the next expeditions."],
 		                ["However, soon they will have another chance to fight, by facing a mighty enemy, and if they fight they will be rewarded but if they don’t they’ll be punished."]
 		            ]
@@ -4132,7 +4132,7 @@ var surahsOld = [
 		                ["When the Believers made the pledge before Hudaybiyyah under the tree, Allah was very pleased and so gave tranquillity in their hearts and assurance of victory while the Disbelievers only had misguided fury bound to fail."],
 		                ["Allah promises the believers more victory in the future and protection from the enemy’s hands, and had the Disbelievers fought rather than sign the treaty the believers would have been victorious anyway."],
 		                ["Those who turned the Believers away from Makkah were guilty of gross misconduct, but there were believing men and women among the Makkans and had the fighting taken place they may have been killed."],
-		                ["Allah has fulfilled the Prophet’s (ﷺ) vision of entering Makkah; the Believers will perform Umrah.  "]
+		                ["Allah has fulfilled the Prophet’s (ﷺ) vision of entering Makkah; the Believers will perform Umrah. "]
 		            ]
 		        },
 		        {
@@ -4140,8 +4140,8 @@ var surahsOld = [
 		            "rangeStart": "29",
 		            "rangeEnd": "29",
 		            "details": [
-		                ["Muhammad (ﷺ) is the Messenger of Allah. "],
-		                ["The Believers with him are harsh with the Disbelievers and compassionate with one another, dedicated to prayer, in the Tawrat and Injeel they are described as a seed that sprouts, strengthens and stands firmly on its stem, delighting the sower.  "]
+		                ["Muhammad (ﷺ) is the Messenger of Allah."],
+		                ["The Believers with him are harsh with the Disbelievers and compassionate with one another, dedicated to prayer, in the Tawrat and Injeel they are described as a seed that sprouts, strengthens and stands firmly on its stem, delighting the sower. "]
 		            ]
 		        }
 		    ]
@@ -4179,7 +4179,7 @@ var surahsOld = [
 		            "rangeStart": "9",
 		            "rangeEnd": "10",
 		            "details": [
-		                ["If two groups of Believers fight or take up arms against one another, the Muslim community should work to make peace between them, but if one party oppresses the other then fight against the oppressor until they come a just settlement as Allah loves those who are just and fair. "],
+		                ["If two groups of Believers fight or take up arms against one another, the Muslim community should work to make peace between them, but if one party oppresses the other then fight against the oppressor until they come a just settlement as Allah loves those who are just and fair."],
 		                ["All Believers are a family for one another, therefore make peace in your family."]
 		            ]
 		        },
@@ -4276,7 +4276,7 @@ var surahsOld = [
 	{
 		"name": "adh-Dhāriyāt",
 		"summary": {
-		    "name": "It is derived from the very first word wadh-dhariyat, the name comes from the winds that scatter dust. ",
+		    "name": "It is derived from the very first word wadh-dhariyat, the name comes from the winds that scatter dust.",
 		    "period": "Makkan",
 		    "context": "The subject matter and the style clearly show that it was sent down in the period when although the Prophet's (ﷺ) invitation was being resisted and opposed with denial and ridicule and false accusations stubbornly, persecution had not yet started. Therefore, this surah also seems to have been revealed in the same period in which Surah Qaf was revealed. ",
 		    "theme": "A surah that gives several of the signs of nature as proof of the Resurrection, among them the scattering winds that give the surah its title. It reminds how religiosity is linked closely together with rituals as well as other social behaviors. The Disbelievers are reminded of the fate that befell previous rebellious generations and the Prophet (ﷺ) is urged to carry on reminding.",
@@ -4288,7 +4288,7 @@ var surahsOld = [
 		            "details": [
 		                ["Allah swears an oath by: the winds that scatter dust far and wide, by the clouds that bring rain, the ships that sail, the Angels who distribute Allah’s bounty by His command and the sky and stars that the Day of Judgement will occur."],
 		                ["Those who deny the truth will face torment whereas the righteous who used to sleep little, pray to Allah for forgiveness at dawn and give the needy their due will be in Paradise."],
-		                ["The earth contains Allah’s signs and the heavens provide sustenance; Allah, the Lord of the heavens and the earth, then swears an oath by Himself, all that He says is true; as true as if you were hearing yourself speak. "]
+		                ["The earth contains Allah’s signs and the heavens provide sustenance; Allah, the Lord of the heavens and the earth, then swears an oath by Himself, all that He says is true; as true as if you were hearing yourself speak."]
 		            ]
 		        },
 		        {
@@ -4310,7 +4310,7 @@ var surahsOld = [
 		            "details": [
 		                ["With His Power, Allah constructed the skies, the universe and spread out the earth to sustain life and created everything in pairs."],
 		                ["The Prophet (ﷺ) was sent by Allah to warn people to worship Him alone and take note that all messengers and prophets have been called either a sorcerer or a mad person."],
-		                ["And to the Believers he has come to remind. "]
+		                ["And to the Believers he has come to remind."]
 		            ]
 		        },
 		        {
@@ -4318,9 +4318,9 @@ var surahsOld = [
 		            "rangeStart": "56",
 		            "rangeEnd": "60",
 		            "details": [
-		                ["Allah created the Jinn and humankind in order that they should worship Him. He requires nothing else from them as He is the Provider. "],
+		                ["Allah created the Jinn and humankind in order that they should worship Him. He requires nothing else from them as He is the Provider."],
 		                ["The wrongdoers will receive their share of the punishment that afflicted their predecessors; there is no need for them to be impatient and try to hasten that day."],
-		                ["On the Day of Judgment, they will surely be punished and there will be no escape. "]
+		                ["On the Day of Judgment, they will surely be punished and there will be no escape."]
 		            ]
 		        }
 		    ]
@@ -4382,7 +4382,7 @@ var surahsOld = [
 		            "rangeEnd": "31",
 		            "details": [
 		                ["Lat, Uzza, and Manat were the deities of ancient Arabia and were worshipped as daughters of Allah. They were invented names based on the whims of people."],
-		                ["The same people also claimed Angels were female to which Allah says that no Angel has the power of intercession for them as they deny the resurrection in the first place and are just making assumptions. "]
+		                ["The same people also claimed Angels were female to which Allah says that no Angel has the power of intercession for them as they deny the resurrection in the first place and are just making assumptions."]
 		            ]
 		        },
 		        {
@@ -4390,9 +4390,9 @@ var surahsOld = [
 		            "rangeStart": "32",
 		            "rangeEnd": "41",
 		            "details": [
-		                ["We must always stay away from major sins, except small and momentary ones for which Allah has vast forgiveness for and should we become successful in this struggle, we should never think of ourselves as pure. "],
-		                ["The polytheists of Makkah and the Jews in Medina stubbornly resisted the teachings of the Prophet (ﷺ) rather calling themselves followers of Ibrahim and Moosa (عليهم السلام) respectively. "],
-		                ["However, if they really knew what their prophets had taught them, then it should not have been difficult for them to recognize that Prophet Muhammad (ﷺ) was also calling them to the same religion. "]
+		                ["We must always stay away from major sins, except small and momentary ones for which Allah has vast forgiveness for and should we become successful in this struggle, we should never think of ourselves as pure."],
+		                ["The polytheists of Makkah and the Jews in Medina stubbornly resisted the teachings of the Prophet (ﷺ) rather calling themselves followers of Ibrahim and Moosa (عليهم السلام) respectively."],
+		                ["However, if they really knew what their prophets had taught them, then it should not have been difficult for them to recognize that Prophet Muhammad (ﷺ) was also calling them to the same religion."]
 		            ]
 		        },
 		        {
@@ -4432,7 +4432,7 @@ var surahsOld = [
 		                ["The following narrations of Allah’s warnings to evil nations and his subsequent punishments is filtered with the theme and repetition that it is easy to remember and take lessons from the Qur’an so one must haste in taking heed."],
 		                ["The warning and end of the people of Nuh (عليه السلام) is shown with the flood and saving the believers in the ark, the people of Ad were destroyed by a severely cold wind and the people of Thamud also made the same error by disregarding the message of Prophet Salih (عليه السلام) and killing the sign of the she-camel that was given to them."],
 		                ["The people of Lut (عليه السلام) were also destroyed by a stone bearing wind for rejecting the message such that when the Angels came to Luts (عليه السلام) house in the guise of young men, these people rushed to have them; nothing mattered to them except the fulfilment of their lust."],
-		                ["The same thing happened to people of Pharaoh who rejected all of the signs of Allah. "]
+		                ["The same thing happened to people of Pharaoh who rejected all of the signs of Allah."]
 		            ]
 		        },
 		        {
@@ -4462,7 +4462,7 @@ var surahsOld = [
 		            "details": [
 		                ["Allah, The Merciful, has created human beings and granted them the unique power of speech – a power not bestowed upon any other creature in this world."],
 		                ["Allah has created justice which works throughout the universe and the Qur’an is the verbal expression of this Divine justice."],
-		                ["Everything has surrendered to the Will of Allah and prostrates to Him.  "]
+		                ["Everything has surrendered to the Will of Allah and prostrates to Him. "]
 		            ]
 		        },
 		        {
@@ -4528,7 +4528,7 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "10",
 		            "details": [
-		                ["When the inevitable Day of Judgment arrives, no one will be able to deny what is happening and they will be sorted into three distinct groups: those on the right, those on the left and those in front. "]
+		                ["When the inevitable Day of Judgment arrives, no one will be able to deny what is happening and they will be sorted into three distinct groups: those on the right, those on the left and those in front."]
 		            ]
 		        },
 		        {
@@ -4539,7 +4539,7 @@ var surahsOld = [
 		                ["The group that is closest to Allah in Paradise will include many from earlier generations and some from later generations."],
 		                ["They will recline, facing each other on beautiful ornamental couches while they are waited on by youth that are eternally young."],
 		                ["The youth will offer them goblets, glasses and cups of a pure drink that will not cause headaches or intoxication."],
-		                ["They will be able to choose any sort of fruit they desire and the meat from any birds they choose. "],
+		                ["They will be able to choose any sort of fruit they desire and the meat from any birds they choose."],
 		                ["As a reward for their good deeds there will be beautiful companions described as hidden pearls."],
 		                ["There will be no evil, vain or sinful talk among them; only the greetings of peace."]
 		            ]
@@ -4551,7 +4551,7 @@ var surahsOld = [
 		            "details": [
 		                ["On the right are the believers, those who have been handed their book in the right hand, and are from both the later and former generations."],
 		                ["They will also be reclining on raised couches among thornless lote trees and acacias, with abundant fruit, shade trees, and flowing water."],
-		                ["Their companions will be a special creation, virginal, devoted and the same age as their partners. "]
+		                ["Their companions will be a special creation, virginal, devoted and the same age as their partners."]
 		            ]
 		        },
 		        {
@@ -4561,9 +4561,9 @@ var surahsOld = [
 		            "details": [
 		                ["On the left are those who have been handed their book in the left hand – they are very unfortunate."],
 		                ["They will dwell in the middle of black smoke with scorching winds and scalding water."],
-		                ["They overindulged in luxury, committed great sins and denied their own resurrection and of their ancestors. "],
+		                ["They overindulged in luxury, committed great sins and denied their own resurrection and of their ancestors."],
 		                ["The Prophet (ﷺ) is told to tell the deniers that they will indeed be resurrected at an appointed time and then they will eat an evil fruit from the Tree of Zaqqum and drink scalding water."],
-		                ["They will try to quench their thirst as if they were thirsty camels. "]
+		                ["They will try to quench their thirst as if they were thirsty camels."]
 		            ]
 		        },
 		        {
@@ -4581,7 +4581,7 @@ var surahsOld = [
 		            "rangeStart": "75",
 		            "rangeEnd": "87",
 		            "details": [
-		                ["Allah swears a mighty oath by the position of the stars, that the Qur’an is truly noble and well protected in al-Lawh al-Mahfooz. "],
+		                ["Allah swears a mighty oath by the position of the stars, that the Qur’an is truly noble and well protected in al-Lawh al-Mahfooz."],
 		                ["The Qur’an here is only touched the Angels."],
 		                ["Allah asks, would you scorn and deny a scripture in return for all that Allah provides for you!?"],
 		                ["When a person is dying and his soul rises into his throat, Allah’s Angels are closer to him but man does not see them."],
@@ -4594,7 +4594,7 @@ var surahsOld = [
 		            "rangeEnd": "96",
 		            "details": [
 		                ["If the dying person is one of those in front who will be close to Allah he will find comfort, ease, bounty and bliss."],
-		                ["If he is one who will receive his book in the right hand he will be greeted with peace by the others of the right hand. "],
+		                ["If he is one who will receive his book in the right hand he will be greeted with peace by the others of the right hand."],
 		                ["But if he is one of those who denied the truth, he will be welcomed with nothing but scalding water and the Fires of Hell."],
 		                ["This is the absolute truth, a certainty, so glorify and exalt the name of Allah who is the Greatest."]
 		            ]
@@ -4624,7 +4624,7 @@ var surahsOld = [
 		            "rangeStart": "7",
 		            "rangeEnd": "11",
 		            "details": [
-		                ["Believe in Allah and His Messenger Muhammad (ﷺ) and spend out of what Allah has given to be rewarded. "],
+		                ["Believe in Allah and His Messenger Muhammad (ﷺ) and spend out of what Allah has given to be rewarded."],
 		                ["Allah addresses the Muslims who had affirmed the Faith but were not fulfilling the demands of the Faith saying what is wrong that they don’t truly believe in Allah and his Messenger when invited."],
 		                ["There is a covenant between Allah and the Believers who have revelation that had brought them out of darkness."],
 		                ["Those who believed prior to the victory of Makkah were more charitable than those after, yet Allah will reward both."],
@@ -5396,7 +5396,7 @@ var surahsOld = [
 		            "rangeStart": "9",
 		            "rangeEnd": "14",
 		            "details": [
-		                ["The Prophet (ﷺ) is advised to trust in Him and patiently bear and be polite to those who deny truth and live in luxury as Allah will punish them. "],
+		                ["The Prophet (ﷺ) is advised to trust in Him and patiently bear and be polite to those who deny truth and live in luxury as Allah will punish them."],
 		                ["On the Day of Judgement, the earth will shake and the mountains will crumble to sand."]
 		            ]
 		        },
@@ -5415,7 +5415,7 @@ var surahsOld = [
 		            "rangeStart": "20",
 		            "rangeEnd": "20",
 		            "details": [
-		                ["Allah addresses the Prophet (ﷺ) saying that He knows that he stands in prayer for long hours of the night; sometimes two thirds of the night, at other times half the night or a third of the night. "],
+		                ["Allah addresses the Prophet (ﷺ) saying that He knows that he stands in prayer for long hours of the night; sometimes two thirds of the night, at other times half the night or a third of the night."],
 		                ["He knows that so do too many among the companions."],
 		                ["He knows that humans cannot keep such a difficult schedule so advises to read from the Qur’an as much as one can. "],
 		                ["He knows there are some who are sick, travelling and fighting in His cause."],
@@ -5504,7 +5504,7 @@ var surahsOld = [
 		            "details": [
 		                ["Allah swears by the Day of Resurrection and by the self-reproaching soul."],
 		                ["He shall assemble man back together but they still continue in sin and deny the resurrection until the actual time of resurrection comes."],
-		                ["The time when the eyes are dazzled, the moon darkens, the sun and moon join, and there will be no escape except to Allah and man will be judged and act as a witness against himself. "]
+		                ["The time when the eyes are dazzled, the moon darkens, the sun and moon join, and there will be no escape except to Allah and man will be judged and act as a witness against himself."]
 		            ]
 		        },
 		        {
@@ -5533,7 +5533,7 @@ var surahsOld = [
 		            "rangeStart": "31",
 		            "rangeEnd": "40",
 		            "details": [
-		                ["In this life the Disbeliever denies the truth, fails to pray, and then turns away, walking back to his people with arrogance and conceit. "]
+		                ["In this life the Disbeliever denies the truth, fails to pray, and then turns away, walking back to his people with arrogance and conceit."]
 		            ]
 		        },
 		        {
@@ -5666,7 +5666,7 @@ var surahsOld = [
 		            "rangeStart": "31",
 		            "rangeEnd": "36",
 		            "details": [
-		                ["Whereas the righteous who were aware of Allah and their commitment to Him, will find success, reward and safety from the Fires of Hell and will have everything they desire in Paradise and reap the rewards of their account and record. "]
+		                ["Whereas the righteous who were aware of Allah and their commitment to Him, will find success, reward and safety from the Fires of Hell and will have everything they desire in Paradise and reap the rewards of their account and record."]
 		            ]
 		        },
 		        {
@@ -5674,9 +5674,9 @@ var surahsOld = [
 		            "rangeStart": "37",
 		            "rangeEnd": "40",
 		            "details": [
-		                ["The Day of Resurrection is the day where the Spirit and the Angels will stand together in ranks, row after row. "],
-		                ["Nobody will speak except those to whom Allah grants permission.  Even then they will only be capable of speaking the truth because this is the Day of Truth. "],
-		                ["This day will become a reality so whoever desires to be successful should seek a way to Allah through correct beliefs and righteous deeds. "],
+		                ["The Day of Resurrection is the day where the Spirit and the Angels will stand together in ranks, row after row."],
+		                ["Nobody will speak except those to whom Allah grants permission.  Even then they will only be capable of speaking the truth because this is the Day of Truth."],
+		                ["This day will become a reality so whoever desires to be successful should seek a way to Allah through correct beliefs and righteous deeds."],
 		                ["Allah has warned man of the imminent torment when everyone shall see exactly what their own hands have put forth, and the Disbeliever will wish that they were turned to dust!"]
 		            ]
 		        }
@@ -5686,7 +5686,7 @@ var surahsOld = [
 	{
 		"name": "an-Nāziʿāt",
 		"summary": {
-		    "name": "It is derived from the word wan-naazi`aat (the Extractors) with which the surah opens. This word is most often translated as Angels, particularly the Angels charged with extracting the souls from the dead. ",
+		    "name": "It is derived from the word wan-naazi`aat (the Extractors) with which the surah opens. This word is most often translated as Angels, particularly the Angels charged with extracting the souls from the dead.",
 		    "period": "Makkan",
 		    "context": "This surah was sent down after Surah An-Naba.",
 		    "theme": "A surah where the main theme is the possibility and inevitability of the Resurrection, its results, and its timing. The story of Moosa (عليه السلام) and Pharaoh acts as encouragement to the Prophet (ﷺ) and a warning to the Disbelievers.",
@@ -5697,8 +5697,8 @@ var surahsOld = [
 		            "rangeEnd": "5",
 		            "details": [
 		                ["An oath, by Allah, on those Angels who tear out the souls destined for Hell and those Angels that gently remove the souls destined for Paradise."],
-		                ["Also by those Angels who glide about as if swimming and those who charge swiftly, eagerly competing with each other to carry out Allah’s commands. "],
-		                ["And the Angels that organise each matter according to Allah’s decree. "]
+		                ["Also by those Angels who glide about as if swimming and those who charge swiftly, eagerly competing with each other to carry out Allah’s commands."],
+		                ["And the Angels that organise each matter according to Allah’s decree."]
 		            ]
 		        },
 		        {
@@ -5707,7 +5707,7 @@ var surahsOld = [
 		            "rangeEnd": "14",
 		            "details": [
 		                ["On the Day of Resurrection there will be a loud blast of a trumpet or horn that will be followed by a second blast."],
-		                ["The first blast from the trumpet will destroy the earth and everything on it while the second will herald mankind rising up from their graves. "],
+		                ["The first blast from the trumpet will destroy the earth and everything on it while the second will herald mankind rising up from their graves."],
 		                ["The hearts of those who denied the Resurrection will tremble and pound with terror and their eyes will be downcast, whereas before they used to mockingly question the Resurrection."]
 		            ]
 		        },
@@ -5745,7 +5745,7 @@ var surahsOld = [
 		            "rangeStart": "42",
 		            "rangeEnd": "46",
 		            "details": [
-		                ["The Disbelievers mockingly ask when the Hour will happen but only Allah knows the answer. To Him belongs the ultimate knowledge. "],
+		                ["The Disbelievers mockingly ask when the Hour will happen but only Allah knows the answer. To Him belongs the ultimate knowledge."],
 		                ["Prophet Muhammad’s (ﷺ) message and warning will only benefit those who fear the coming of the Day."],
 		                ["And when the day commences, mankind will feel as if they had only been in this life for the evening of a day or a part of the morning."],
 		                ["Those who have ruined their Hereafter will wonder how they could have done so in such a short time."]
@@ -5843,7 +5843,7 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "3",
 		            "details": [
-		                ["On the Day of Judgment, the skies will be split apart, the stars will be flung across the universe, and the seas and oceans will burst forth as if the wall of a dam has broken. "]
+		                ["On the Day of Judgment, the skies will be split apart, the stars will be flung across the universe, and the seas and oceans will burst forth as if the wall of a dam has broken."]
 		            ]
 		        },
 		        {
@@ -5851,7 +5851,7 @@ var surahsOld = [
 		            "rangeStart": "4",
 		            "rangeEnd": "5",
 		            "details": [
-		                ["The graves will be turned inside out and each soul will know what it has done and what it has left undone. "]
+		                ["The graves will be turned inside out and each soul will know what it has done and what it has left undone."]
 		            ]
 		        },
 		        {
@@ -5859,7 +5859,7 @@ var surahsOld = [
 		            "rangeStart": "6",
 		            "rangeEnd": "8",
 		            "details": [
-		                ["Allah asks what has caused mankind to lure them away from Him after He created and assembled them in perfect proportion and balance. "]
+		                ["Allah asks what has caused mankind to lure them away from Him after He created and assembled them in perfect proportion and balance."]
 		            ]
 		        },
 		        {
@@ -5954,7 +5954,7 @@ var surahsOld = [
 		            "rangeEnd": "5",
 		            "details": [
 		                ["When the sky is split apart; having heard Allah’s commands it immediately and willingly obeys."],
-		                ["And when the earth has been stretched flat and levelled out it casts out everything and is empty, following the example of the sky. "]
+		                ["And when the earth has been stretched flat and levelled out it casts out everything and is empty, following the example of the sky."]
 		            ]
 		        },
 		        {
@@ -5963,8 +5963,8 @@ var surahsOld = [
 		            "rangeEnd": "15",
 		            "details": [
 		                ["Allah acknowledges man's efforts to strive and labour to reach Him and confirms that we will indeed meet Him."],
-		                ["On the Day of Resurrection mankind will be divided into two distinct groups, those who receive their book of records on their right and enjoy a blessed Hereafter and those who receive it from behind who will be wretched in the Hereafter. "],
-		                ["Indeed, some people led their lives without care, thinking they would never return to Allah for accountability but Allah was watching and seeing all their misdeeds. "]
+		                ["On the Day of Resurrection mankind will be divided into two distinct groups, those who receive their book of records on their right and enjoy a blessed Hereafter and those who receive it from behind who will be wretched in the Hereafter."],
+		                ["Indeed, some people led their lives without care, thinking they would never return to Allah for accountability but Allah was watching and seeing all their misdeeds."]
 		            ]
 		        },
 		        {
@@ -6011,9 +6011,9 @@ var surahsOld = [
 		            "rangeStart": "5",
 		            "rangeEnd": "11",
 		            "details": [
-		                ["The King ordered his men to make a fuel filled Fire in a great pit and drove the believers into the burning hole while the perpetrators then sat around the pit watching the people burn, delighting in their torture. "],
-		                ["Vengeance was exacted for no other reason except that they were Believers in the One Allah. "],
-		                ["Allah says very eloquently that those who torture or persecute the believing men or women, and do not repent from their actions, will find themselves in the Fires of Hell, but those who do good will be in Paradise. "]
+		                ["The King ordered his men to make a fuel filled Fire in a great pit and drove the believers into the burning hole while the perpetrators then sat around the pit watching the people burn, delighting in their torture."],
+		                ["Vengeance was exacted for no other reason except that they were Believers in the One Allah."],
+		                ["Allah says very eloquently that those who torture or persecute the believing men or women, and do not repent from their actions, will find themselves in the Fires of Hell, but those who do good will be in Paradise."]
 		            ]
 		        },
 		        {
@@ -6021,7 +6021,7 @@ var surahsOld = [
 		            "rangeStart": "12",
 		            "rangeEnd": "16",
 		            "details": [
-		                ["Allah’s vengeance is indeed stern in contrast to the actions of the tyrannical king’s men. "],
+		                ["Allah’s vengeance is indeed stern in contrast to the actions of the tyrannical king’s men."],
 		                ["Their vengeance was trifling compared to Allah’s; Allah will bring people back to life and can punish as He wills and for as long as He wills."],
 		                ["Allah further reminds us that creation, death and decay, and then re-creation is a continuous process and is happening throughout the universe."]
 		            ]
@@ -6149,7 +6149,7 @@ var surahsOld = [
 		            "rangeEnd": "17",
 		            "details": [
 		                ["The one who purifies himself, mentions his Lord and prays will be successful."],
-		                ["Yet the people prefer the life of this world when the Hereafter is longer lasting. "]
+		                ["Yet the people prefer the life of this world when the Hereafter is longer lasting."]
 		            ]
 		        },
 		        {
@@ -6167,7 +6167,7 @@ var surahsOld = [
 	{
 		"name": "al-Ghāshiyah",
 		"summary": {
-		    "name": "The surah takes its name from the word al-ghishiyah in the first verse, The Overwhelming Event. The Arabic word ghashiyah means something that covers everything. Thus, this overwhelming event will both overwhelm and cover the entire earth. ",
+		    "name": "The surah takes its name from the word al-ghishiyah in the first verse, The Overwhelming Event. The Arabic word ghashiyah means something that covers everything. Thus, this overwhelming event will both overwhelm and cover the entire earth.",
 		    "period": "Makkan",
 		    "context": "This is one of the earliest surahs to be revealed; but this was the period when the Prophet (ﷺ) had started preaching his message publicly, and the people of Makkah were hearing it and ignoring it carelessly and thoughtlessly.",
 		    "theme": "This surah serves to warn the Disbelievers, encourage the Prophet (ﷺ) and the Believers, and absolve him of responsibility for the Disbelievers. The title comes from the description of events on the Day of Judgement in the first verse, and the downcast faces of the Disbelievers on that Day are contrasted with the radiant faces of the Believers.",
@@ -6177,7 +6177,7 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "7",
 		            "details": [
-		                ["Allah asks rhetorically if the news of the Overwhelming Event has reached you? "],
+		                ["Allah asks rhetorically if the news of the Overwhelming Event has reached you?"],
 		                ["The Day when there will be those with downcast faces who toiled hard in this world but now see no good result for their actions."],
 		                ["As a result they will enter Hell forced to drink boiling water and eat from poisonous thorny plants that will not nourish nor satisfy."]
 		            ]
@@ -6196,7 +6196,7 @@ var surahsOld = [
 		            "rangeStart": "17",
 		            "rangeEnd": "20",
 		            "details": [
-		                ["Allah then addresses the Disbelievers asking rhetorically, do they not see how the rain clouds are formed, the heavens lifted, the mountains erected and the earth spread out? "]
+		                ["Allah then addresses the Disbelievers asking rhetorically, do they not see how the rain clouds are formed, the heavens lifted, the mountains erected and the earth spread out?"]
 		            ]
 		        },
 		        {
@@ -6275,7 +6275,7 @@ var surahsOld = [
 		            "rangeEnd": "3",
 		            "details": [
 		                ["Allah swears by the sacred city of Makkah and Prophet Muhammad (ﷺ) is indeed an inhabitant of this city."],
-		                ["Allah concludes his oath by swearing by parents and their children or as some scholars say, by Prophet Adam (عليه السلام) and his children - mankind. "]
+		                ["Allah concludes his oath by swearing by parents and their children or as some scholars say, by Prophet Adam (عليه السلام) and his children - mankind."]
 		            ]
 		        },
 		        {
@@ -6320,8 +6320,8 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "10",
 		            "details": [
-		                ["Allah swears by a number of celestial phenomena including the sun, the moon that follows it, the day when the sun’s splendour is revealed, and the night that descends to shroud the earth and by the sky and how He constructed it and by the earth and how He spread it out. "],
-		                ["Allah then swears by the soul and how He balanced and refined it, giving it the knowledge of what is right for it and what is wrong for it. "],
+		                ["Allah swears by a number of celestial phenomena including the sun, the moon that follows it, the day when the sun’s splendour is revealed, and the night that descends to shroud the earth and by the sky and how He constructed it and by the earth and how He spread it out."],
+		                ["Allah then swears by the soul and how He balanced and refined it, giving it the knowledge of what is right for it and what is wrong for it."],
 		                ["The one who purifies it will succeed and the one who corrupts it will fail."]
 		            ]
 		        },
@@ -6330,7 +6330,7 @@ var surahsOld = [
 		            "rangeStart": "11",
 		            "rangeEnd": "15",
 		            "details": [
-		                ["The people of Thamud sent their most wretched person among them to hamstring the she-camel, even after Prophet Salih (عليه السلام) told them not to harm her and drink in peace (the she-camel). "],
+		                ["The people of Thamud sent their most wretched person among them to hamstring the she-camel, even after Prophet Salih (عليه السلام) told them not to harm her and drink in peace (the she-camel)."],
 		                ["The prophet was called a liar and the people killed the she camel and for that they were destroyed by Allah levelling them to the ground."],
 		                ["And Allah does not hesitate when punishing them."]
 		            ]
@@ -6351,7 +6351,7 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "3",
 		            "details": [
-		                ["By the night when it descends and covers everything with darkness, and by the appearance of the bright and radiant day, and by He who created both the male and the female. "]
+		                ["By the night when it descends and covers everything with darkness, and by the appearance of the bright and radiant day, and by He who created both the male and the female."]
 		            ]
 		        },
 		        {
@@ -6360,7 +6360,7 @@ var surahsOld = [
 		            "rangeEnd": "11",
 		            "details": [
 		                ["Your efforts are diverse; they differ greatly and come to very different conclusions."],
-		                ["The one who is charitable, mindful of Allah, and Believes in goodness will have Allah ease their path. "],
+		                ["The one who is charitable, mindful of Allah, and Believes in goodness will have Allah ease their path."],
 		                ["Whereas the person who is stingy and considers himself self-sufficient and not in need of Allah or believe in goodness will have Allah make their path difficult."],
 		                ["And their wealth will not help them."]
 		            ]
@@ -6370,8 +6370,8 @@ var surahsOld = [
 		            "rangeStart": "12",
 		            "rangeEnd": "13",
 		            "details": [
-		                ["Allah decrees that it is incumbent upon Him to give guidance to mankind. "],
-		                ["This world and the next belong to Allah; he is the beginning and the end.  "]
+		                ["Allah decrees that it is incumbent upon Him to give guidance to mankind."],
+		                ["This world and the next belong to Allah; he is the beginning and the end. "]
 		            ]
 		        },
 		        {
@@ -6400,8 +6400,8 @@ var surahsOld = [
 		            "rangeStart": "1",
 		            "rangeEnd": "4",
 		            "details": [
-		                ["Allah swears by the morning brightness and by the night when the earth grows still and dark. "],
-		                ["Allah has not forsaken you (the Prophet ﷺ), nor is He displeased with you. "],
+		                ["Allah swears by the morning brightness and by the night when the earth grows still and dark."],
+		                ["Allah has not forsaken you (the Prophet ﷺ), nor is He displeased with you."],
 		                ["He (Allah) goes on to say that the life to come will be better than this present life."]
 		            ]
 		        },
@@ -6410,7 +6410,7 @@ var surahsOld = [
 		            "rangeStart": "5",
 		            "rangeEnd": "8",
 		            "details": [
-		                ["Allah tells Prophet Muhammad (ﷺ) that He will be bounteous to him and he will be well satisfied and content. "],
+		                ["Allah tells Prophet Muhammad (ﷺ) that He will be bounteous to him and he will be well satisfied and content."],
 		                ["It was Allah who found the Prophet Muhammad (ﷺ) an orphan and gave him shelter and refuge, when he was lost it was Allah who found him and guided him and when the Prophet (ﷺ) was poor it was Allah who enriched him and made him self-sufficient."]
 		            ]
 		        },
@@ -6601,7 +6601,7 @@ var surahsOld = [
 		            "rangeEnd": "7",
 		            "details": [
 		                ["And those among the People of the Book who have disbelieved – be they the People of the Book (Jews and Christians) or the idolaters and polytheists - will dwell for all time in the Fires of Hell as they are the worst of all creation."],
-		                ["Whereas those who believe and do good deeds are the best of all creation.  "]
+		                ["Whereas those who believe and do good deeds are the best of all creation. "]
 		            ]
 		        },
 		        {
@@ -6708,7 +6708,7 @@ var surahsOld = [
 		            "rangeStart": "4",
 		            "rangeEnd": "5",
 		            "details": [
-		                ["This is the Day when people will be like scattered moths and the mountains will be like tufts of wool. "]
+		                ["This is the Day when people will be like scattered moths and the mountains will be like tufts of wool."]
 		            ]
 		        },
 		        {
@@ -6820,7 +6820,7 @@ var surahsOld = [
 		"summary": {
 		    "name": "The surah has been so entitled after the word Quraysh in the very first verse.",
 		    "period": "Makkan",
-		    "context": "To understand the surah well it is essential that one should keep the historical background relevant to the contents of this surah and of Surah Al-Fil in view. The Quraysh were a tribe of merchants who were made up of ten main clans including Hashim, the clan to which the Prophet (ﷺ) belonged. They were the custodians of the Ka’bah and as a result of their generous welfare to any pilgrims they were held in high esteem which is why the Quraysh felt no fear that their caravans would be robbed or harmed anywhere on the way. Because of their business relations with Syria, Egypt, Iraq, Iran, Yaman and Abyssinia, the Quraysh became the most affluent tribe, and Makkah became the most important commercial center of the Arabian Peninsula. They were thus prospering and flourishing when the event of Abrahah's invasion of Makkah took place and had he succeeded in taking the Holy City and destroying the Ka’bah, the glory and renown of not only the Quraysh but of the Ka’bah itself, would have faded away, the belief of the pre-Islamic Arabia that the House indeed was Allah's House would have been shattered, and the high esteem in which Quraysh were held for being keepers of the House throughout the country would have been tarnished. Some of the early Muslims regarded these two chapters as one chapter but they have been separated. ",
+		    "context": "To understand the surah well it is essential that one should keep the historical background relevant to the contents of this surah and of Surah Al-Fil in view. The Quraysh were a tribe of merchants who were made up of ten main clans including Hashim, the clan to which the Prophet (ﷺ) belonged. They were the custodians of the Ka’bah and as a result of their generous welfare to any pilgrims they were held in high esteem which is why the Quraysh felt no fear that their caravans would be robbed or harmed anywhere on the way. Because of their business relations with Syria, Egypt, Iraq, Iran, Yaman and Abyssinia, the Quraysh became the most affluent tribe, and Makkah became the most important commercial center of the Arabian Peninsula. They were thus prospering and flourishing when the event of Abrahah's invasion of Makkah took place and had he succeeded in taking the Holy City and destroying the Ka’bah, the glory and renown of not only the Quraysh but of the Ka’bah itself, would have faded away, the belief of the pre-Islamic Arabia that the House indeed was Allah's House would have been shattered, and the high esteem in which Quraysh were held for being keepers of the House throughout the country would have been tarnished. Some of the early Muslims regarded these two chapters as one chapter but they have been separated.",
 		    "theme": "This surah connects grammatically with the previous one’s account of how Allah defeated the threat to Makkah posed by Abraha, making it safe for the tribe of Quraysh to continue their trading journeys. It highlights the honor and reputation Allah had given them as guardians of the Holy Ka’bah, which allowed them to travel without fear of being harmed and which traveled south in the winter and north in summer. ",
 		    "breakdown": [
 		        {
@@ -6836,7 +6836,7 @@ var surahsOld = [
 		            "rangeStart": "3",
 		            "rangeEnd": "4",
 		            "details": [
-		                ["So let them worship the Lord of this house who provides food to ward off hunger and safety to ward off fear. "]
+		                ["So let them worship the Lord of this house who provides food to ward off hunger and safety to ward off fear."]
 		            ]
 		        }
 		    ]
@@ -6995,7 +6995,7 @@ var surahsOld = [
 	{
 		"name": "an-Nās",
 		"summary": {
-		    "name": "Although these two surahs of the Qur'an are separate entities and are written in the mushaf also under separate names, yet they are so deeply related mutually and their contents so closely resemble each other's that they have been designated by a common name Mu'awwidhatayn (the two surahs in which refuge with Allah has been sought). The title of this chapter is ‘The People’. It is named for the last word in the first verse where Allah refers to Himself as the Lord of all the people. ",
+		    "name": "Although these two surahs of the Qur'an are separate entities and are written in the mushaf also under separate names, yet they are so deeply related mutually and their contents so closely resemble each other's that they have been designated by a common name Mu'awwidhatayn (the two surahs in which refuge with Allah has been sought). The title of this chapter is ‘The People’. It is named for the last word in the first verse where Allah refers to Himself as the Lord of all the people.",
 		    "period": "Makkan",
 		    "context": "The surah was revealed when opposition to the Prophet (ﷺ) there had grown very intense. Later, when at Medina storms of opposition were raised by the Hypocrites, Jews and polytheists, the Prophet (ﷺ) was instructed to recite these very surahs, for example when magic was worked on him by some Jews in Medina and Arab magicians. When his illness grew intense, Jibreel (عليه السلام) came and instructed him by Allah's command to recite these very surahs. The magic spell had affected only the person of Muhammad (ﷺ) and not the Prophethood of Muhammad (ﷺ), which remained wholly unaffected by it. Many during the time were also angry and jealous of the Prophet (ﷺ) which this surah serves as a protection against and all other kinds of evil, hidden or visible, known or unknown.",
 		    "theme": "This surah is commonly used as an invocation against evil. The evils mentioned in the previous chapter are those that are out of our control. However, in this chapter, the evils are such that we are liable for them ourselves thus to a certain extent these are the greater evils. The surah tells us that Shaytan is always against human beings and he puts wrong suggestions in their minds. We should seek Allah’s protection from Shaytan and his whisperings. This is a very appropriate ending for the Book of Allah.",
