@@ -1,6 +1,12 @@
-# quran-summary
+# Mubeen
+Quran Summaries in English
 
 # Development
+
+1. `npx expo start`
+2. Use the Expo Go app on mobile to test live
+
+
 ## Release
 1. Bump versions in `app.json`: `version` and `android.versionCode` (and later something iOS)
 2. Build android .appbuild `npx expo build:android`
