@@ -29,7 +29,7 @@ function SummaryScreen({navigation: {dangerouslyGetParent} }) {
                   else {
                     return (
                       <Text key={index} style={styles.bodyText}>
-                        {detail[0]+'\n'}
+                        {detail[0]}
                       </Text>
                     )
                   }
@@ -70,8 +70,8 @@ const styles = StyleSheet.create({
   },
   bodyText: {
     fontSize: 17,
-    paddingBottom: 20,
     textAlign: 'left',
+    paddingBottom: 15,
     zIndex: 1,
     lineHeight: 22
   },
