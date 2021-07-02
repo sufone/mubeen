@@ -135,7 +135,9 @@ const styles = StyleSheet.create({
     fontSize: 22,    marginBottom: -15,
     fontWeight: 'bold',
     textAlign: 'left',
-    maxWidth: "85%"
+    maxWidth: "90%",
+    minWidth: "80%"
+
   },
   bodyTitleButton: {
     textAlign: 'right',
