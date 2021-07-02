@@ -2605,7 +2605,7 @@ var surahsOld = [
 					]
 				},
 				{
-					"name": " DEITIES DENY DIVINITY",
+					"name": "DEITIES DENY DIVINITY",
 					"rangeStart": "17",
 					"rangeEnd": "24",
 					"details": [
@@ -4911,7 +4911,7 @@ var surahsOld = [
 		    "theme": "A surah which warns the Believers about the treachery of the Hypocrites and describes their behaviour in some detail. A specific occasion on which the Hypocrites tried to stop anyone donating money to believers is described and Allah calls on the Muslims to compensate for this by giving more of their own funds to the needy. It criticizes hypocrisy and condemns the Hypocrites.",
 		    "breakdown": [
 		        {
-		            "name": "",
+		            "name": "The Hypocrites",
 		            "rangeStart": "1",
 		            "rangeEnd": "8",
 		            "details": [
@@ -4996,7 +4996,7 @@ var surahsOld = [
 		    "theme": "A surah that outlines regulations concerning divorce. It strongly urges people to observe Allah’s regulations and guidance. To reinforce this, they are reminded of the fate of earlier disobedient peoples and the rewards of the obedient. Allah’s Power and Knowledge are then emphasized at the end.",
 		    "breakdown": [
 		        {
-		            "name": "",
+		            "name": "Rules of Divorce",
 		            "rangeStart": "1",
 		            "rangeEnd": "6",
 		            "details": [
