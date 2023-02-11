@@ -1,3 +1,7 @@
+# This is archived, project has moved to new codebase: https://github.com/sufone/mubeen-v2
+
+------
+
 # Mubeen
 Quran Summaries in English
 
